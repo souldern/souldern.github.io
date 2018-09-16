@@ -1,0 +1,11 @@
+exclude: ['README.md']
+
+plugins:
+  - jekyll-redirect-from
+
+theme: jekyll-theme-cayman
+
+title: Soulern Village
+description: Experimental port of souldern.org to gh-pages
+
+

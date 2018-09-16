@@ -1,0 +1,209 @@
+
+<div>
+ <div class="sites-embed-content sites-sidebar-nav">
+  <ul role="navigation"  class="has-expander">
+   <li class="topLevel nav-first parent " wuid="gx:775fd1d9f52ee6a1">
+    <div class="current-bg"  style="padding-left: 0px;">
+     <div class="expander">
+    </div>Home</div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/calendar"  class="sites-navigation-link">Calendar</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/announcements"  class="sites-navigation-link">Announcements</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/local-services"  class="sites-navigation-link">Local Services</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/three-parishes"  class="sites-navigation-link">The Three Parishes</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/map"  class="sites-navigation-link">Map</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/contact-website"  class="sites-navigation-link">Contact Website</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/home/about"  class="sites-navigation-link">About</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+   <li class="topLevel parent " wuid="gx:c4295e55d420e1c">
+    <div style="padding-left: 0px;">
+     <div class="expander">
+     </div>
+     <a href="/parish-council"  class="sites-navigation-link topLevel">Parish Council</a>
+    </div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/spc-agenda"  class="sites-navigation-link">SPC Agenda</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/spc-minutes"  class="sites-navigation-link">SPC Minutes</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/spc-newsletter"  class="sites-navigation-link">SPC Newsletter</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/planning"  class="sites-navigation-link">Planning</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/spc-members"  class="sites-navigation-link">SPC Members</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/parish-council/cherwell-dc-and-mps"  class="sites-navigation-link">CDC and MPs</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+   <li class="topLevel ">
+    <div style="padding-left: 19px;">
+     <a href="/parish-church"  class="sites-navigation-link topLevel">Parish Church</a>
+    </div>
+   </li>
+   <li class="topLevel parent " wuid="gx:18c4eda1375d3972">
+    <div style="padding-left: 0px;">
+     <div class="expander">
+     </div>
+     <a href="/chapel"  class="sites-navigation-link topLevel">Wesleyan Chapel</a>
+    </div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/chapel/sunday-school"  class="sites-navigation-link">Sunday School 1869 – 2016</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+   <li class="topLevel ">
+    <div style="padding-left: 19px;">
+     <a href="/united-charity"  class="sites-navigation-link topLevel">United Charity</a>
+    </div>
+   </li>
+   <li class="topLevel parent " wuid="gx:397e21cbb99124aa">
+    <div style="padding-left: 0px;">
+     <div class="expander">
+     </div>
+     <a href="/village-hall"  class="sites-navigation-link topLevel">Village Hall</a>
+    </div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/village-hall/community-market"  class="sites-navigation-link">Community Market</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+   <li class="topLevel ">
+    <div style="padding-left: 19px;">
+     <a href="/horticultural-society"  class="sites-navigation-link topLevel">Horticultural Society</a>
+    </div>
+   </li>
+   <li class="topLevel ">
+    <div style="padding-left: 19px;">
+     <a href="/football-club"  class="sites-navigation-link topLevel">Football</a>
+    </div>
+   </li>
+   <li class="topLevel ">
+    <div style="padding-left: 19px;">
+     <a href="/the-fox"  class="sites-navigation-link topLevel">The Fox Inn</a>
+    </div>
+   </li>
+   <li class="topLevel parent " wuid="gx:1b57f62c79cd0978">
+    <div style="padding-left: 0px;">
+     <div class="expander">
+     </div>
+     <a href="/recreational-areas"  class="sites-navigation-link topLevel">Recreation</a>
+    </div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/nancy-bowles-wood"  class="sites-navigation-link">Nancy Bowles Wood</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/the-pond"  class="sites-navigation-link">The Pond</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/sports-field"  class="sites-navigation-link">Sports Field</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/playground"  class="sites-navigation-link">Playground</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/the-pound"  class="sites-navigation-link">The Pound</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/the-green"  class="sites-navigation-link">The Green</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/recreational-areas/footpaths"  class="sites-navigation-link">Footpaths</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+   <li class="topLevel parent " wuid="gx:2a39bb1d3aa72ae7">
+    <div style="padding-left: 0px;">
+     <div class="expander">
+     </div>
+     <a href="/history"  class="sites-navigation-link topLevel">History</a>
+    </div>
+    <ul role="navigation" class="has-expander">
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/history/transport"  class="sites-navigation-link">Transport</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/history/historic-houses"  class="sites-navigation-link">Historic Houses</a>
+      </div>
+     </li>
+     <li class="">
+      <div style="padding-left: 38px;">
+       <a href="/history/societies"  class="sites-navigation-link">Societies</a>
+      </div>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </div>
+</div>
