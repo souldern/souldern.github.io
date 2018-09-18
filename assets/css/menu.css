@@ -63,13 +63,13 @@ https://codepen.io/philhoyt/pen/ujHzd
 #primary_nav_wrap ul ul li
 {
 	float:none;
-	width:200px
+	lwidth:200px
 }
 
 #primary_nav_wrap ul ul a
 {
-	line-height:90%;
-	padding:2px 15px
+	line-height:100%;
+	padding:3px 15px
 }
 
 #primary_nav_wrap ul ul ul
