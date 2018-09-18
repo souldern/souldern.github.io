@@ -10,7 +10,7 @@ layout: default
 
 <ul class="category-list">
   <li> first</li>
-  {%- assign sorted = site.pages | sort: 'title' -%}
+  {%- assign sorted = site.pages  -%}
   {%- for page in sorted -%}
   {%- if page.category contains "ssannounce" %}
   <li>x</li>
