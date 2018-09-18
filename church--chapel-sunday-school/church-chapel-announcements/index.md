@@ -12,17 +12,16 @@ layout: default
   {%- assign sorted = site.pages  -%}
   {%- for page in sorted -%}
   {%- if page.category contains "ssannounce" %}
-  <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a>
-    <p>qqq</p>
-    <p class="post-excerpt">
+  <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
+    <blockquote style="background-color:yellow">
 
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
-	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 20 }}
+	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 40 }}
 {% else %}
-	{{ page.content | strip_html | truncatewords: 20 }}
+	{{ page.content | strip_html | truncatewords: 40 }}
 {% endif %}
 
-</p>
+</blockquote>
 
   </li>
   {%- endif -%}
