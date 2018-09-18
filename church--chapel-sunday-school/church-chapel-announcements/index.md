@@ -13,7 +13,7 @@ layout: default
   {%- assign sorted = site.pages  -%}
   {%- for page in sorted -%}
   {%- if page.category contains "ssannounce" %}
-  <li>x</li>
+  <li><a href="{{page.path | replace: '.html', ''}}">x</a> {{page.title}}</li>
   {%- endif -%}
   {%- endfor %}
 </ul>
