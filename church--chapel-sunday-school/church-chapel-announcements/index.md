@@ -9,11 +9,12 @@ layout: default
 
 
 <ul class="category-list">
-  <li> first</li>
   {%- assign sorted = site.pages  -%}
   {%- for page in sorted -%}
   {%- if page.category contains "ssannounce" %}
-  <li><a href="{{page.path | replace: '.html', ''}}">{{page.title}}</a></li>
+  <li><a href="{{page.path | replace: '.html', ''}}">{{page.title}}</a>
+    {{ page.excerpt }}
+  </li>
   {%- endif -%}
   {%- endfor %}
 </ul>
