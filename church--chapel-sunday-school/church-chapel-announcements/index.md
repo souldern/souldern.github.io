@@ -9,7 +9,7 @@ layout: default
 
 
 <ul class="category-list">
-  {%- assign sorted = site.pages | sort: 'date' -%}
+  {%- assign sorted = site.pages | sort: 'date'  | reverse -%}
   {%- for page in sorted -%}
   {%- if page.category contains "ssannounce" %}
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
