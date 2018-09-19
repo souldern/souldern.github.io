@@ -18,3 +18,13 @@ aaa
 </ul>
 
 bbb
+
+<ul>
+{% for col in site.collections %}
+  <li>
+   label = {{ col.label }}
+  </li>
+{% endfor %}
+</ul>
+
+ccc
