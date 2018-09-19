@@ -1,4 +1,5 @@
 ---
+title: SPC minutes
 layout:default
 ---
 
