@@ -3,6 +3,9 @@ exclude: ['README.md']
 plugins:
   - jekyll-redirect-from
 
+collections:
+  - spc-minutes
+
 theme: jekyll-theme-cayman
 
 title: [Souldern Village]
