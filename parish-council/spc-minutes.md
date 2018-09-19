@@ -6,7 +6,7 @@ layout:default
 # SPC minutes
 
 <ul>
-{% for  sf in site.static_files %}
+{% for  sf in site.static_files |reverse %}
  {% if sf.path contains "spc-minutes-files/" %}
   <li>
    <a href="{{sf.path}}">{{ sf.basename }}</a>
