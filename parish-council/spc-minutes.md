@@ -28,3 +28,12 @@ bbb
 </ul>
 
 ccc
+<ul>
+{% for  sf in site.static_files %}
+  <li>
+   label = {{ sf.name }}
+  </li>
+{% endfor %}
+</ul>
+
+ddd
