@@ -3,6 +3,7 @@ title: SPC Newsletter
 layout:default
 ---
 
+
 # SPC Newsletter
 
 <ul>
