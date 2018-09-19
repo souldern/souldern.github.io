@@ -4,7 +4,8 @@ plugins:
   - jekyll-redirect-from
 
 collections:
-  - spc-minutes
+   spc-minutes:
+      output: true
 
 theme: jekyll-theme-cayman
 
