@@ -5,6 +5,7 @@ layout:default
 
 # SPC minutes
 
+{%- comment -%}
 aaa
 
 <ul>
@@ -27,11 +28,12 @@ bbb
 {% endfor %}
 </ul>
 
-ccc
+{%- endcomment -%}
+
 <ul>
 {% for  sf in site.static_files %}
   <li>
-   label = {{ sf.name }}
+   <a href="{{sf.path}}">{{ sf.basename }}</a>
   </li>
 {% endfor %}
 </ul>
