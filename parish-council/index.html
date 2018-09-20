@@ -40,8 +40,8 @@ following meeting.</p>
 
 	  <p>
 
-  {% for  sf in site.static_files |reverse | where_expr"item","item.path contains '/spc-agenda/'" %}
-   <a href="{{sf.path}}">{{ sf.basename }}</a>
+  {% for  sf in site.static_files |reverse | where_exp:"item","item.path contains '/spc-agenda/'" %}
+   <a href="{{sf.path}}">{{ sf.basename }}</a>j
 {% endfor %}
 	  </p>
 	  
