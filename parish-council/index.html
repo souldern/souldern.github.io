@@ -42,7 +42,7 @@ following meeting.</p>
 	    {% assign ct = 0 %}
   {% for  sf in site.static_files |reverse  %}
 	    {% if sf.path contains "/spc-agenda/" %}
-	    	    {% assign ct = ct + 1 %}
+	    	    {% assign ct = ct  | plus 1 %}
 
    <a href="{{sf.path}}">( {{ ct }}) {{ sf.basename }}</a>
   {% endif %}
