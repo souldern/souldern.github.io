@@ -8,7 +8,7 @@ layout:default
 
 <ul>
 {% for  sf in site.static_files |reverse %}
- {% if sf.path contains "spc-newsletter-files/" %}
+ {% if sf.path contains "/spc-newsletter/" %}
   <li>
    <a href="{{sf.path}}">{{ sf.basename }}</a>
   </li>
