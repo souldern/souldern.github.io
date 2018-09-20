@@ -41,8 +41,8 @@ following meeting.</p>
 	  <p>
 
 	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-agenda/'" %}
-  {% for  sf in  thesefiles |reverse  %}
-   <a href="{{sf.path}}">{{ sf.basename }}</a>k
+  {% for  sf in  thesefiles |reverse  limit: 2%}
+   <a href="{{sf.path}}">{{ sf.basename }}</a>,
 {% endfor %}
 	  </p>
 	  
