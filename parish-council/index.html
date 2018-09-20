@@ -39,13 +39,9 @@ following meeting.</p>
 <h2><a name="TOC-Meeting-Agenda"></a>Meeting Agenda</h2>
 
 	  <p>
-	    {% assign ct = 0 %}
-  {% for  sf in site.static_files |reverse  %}
-	    {% if sf.path contains "/spc-agenda/" %}
-	    	    {% assign ct = ct  | plus 1 %}
 
+  {% for  sf in site.static_files |reverse | where_expr"item",item.path contains "/spc-agenda/" %}
    <a href="{{sf.path}}">( {{ ct }}) {{ sf.basename }}</a>
-  {% endif %}
 {% endfor %}
 	  </p>
 	  
