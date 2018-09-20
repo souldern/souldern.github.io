@@ -11,7 +11,7 @@ layout: default
 <ul class="category-list">
   {%- assign sorted = site.pages | sort: 'date'  | reverse -%}
   {%- for page in sorted -%}
-  {%- if page.path contains "/home/announcements/" %}
+  {%- if page.path contains "home/announcements/" %}
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:yellow">
 
