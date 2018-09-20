@@ -40,12 +40,12 @@ following meeting.</p>
 
 	  <p>
 
-	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-agenda/'" %}
+	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-agenda/'| reverse" %}
   {% for  sf in  thesefiles  limit: 2%}
-   <a href="{{sf.path}}">{{ sf.basename }}</a>,
+   <a href="{{sf.path}}">{{ sf.basename }}</a>
 {% endfor %}
 	  </p>
-	  <p><a href="/spc-agenda/">Full archive of meeting agenda</a></p>
+	  <p><a href="spc-agenda/">Full archive of meeting agenda</a></p>
 	  
 <h2><a name="TOC-Recent-Minutes"></a>Recent Minutes</h2>
 
