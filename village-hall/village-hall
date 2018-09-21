@@ -1,0 +1,255 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/2683b7/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/site/souldernuk/village-hall","deleted":false,"title":"Village Hall","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/2683b7/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://1208080675-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":true,"sharingPolicy":"OPENED","siteTitle":"Souldern Village","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"pageDrafts":false,"enableJot2Atari":true,"plusBadge":false,"pdfEmbedSupport":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":true,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/site/souldernuk/village-hall\u0026service\u003djotspot","analyticsAccountId":"UA-68442524-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/2683b7/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/2683b7/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/2683b7/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/2683b7/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/2683b7/system/app/css/trogedit.css","/site/souldernuk/_/rsrc/1536824586000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/2683b7/system/app/css/codeeditor.css","/site/souldernuk/_/rsrc/1536824586000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"defaultdomain","baseUri":"/site/souldernuk","name":"souldernuk","siteTemplateId":false,"siteNoticeRevision":0,"siteNoticeUrlAddress":null,"siteNoticeMessage":"This website is powered by Google sites which uses cookies. You may disable cookies in your browser, but then some site features will not work.","page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":null,"parentWuid":null,"siteLocale":"en_GB","timeZone":"America/Los_Angeles","type":"text","title":"Village Hall","locale":"en","wuid":"wuid:gx:397e21cbb99124aa","revision":28,"path":"/village-hall","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"village-hall","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/system/app/pagetemplates/text","title":"Web Page"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/site/souldernuk/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<link rel="canonical" href="http://www.souldern.org/village-hall" />
+<meta name="google-site-verification" content="eJERNTZ4onofDnxZrhM-cYht9Jdc_sl50VS5hpy-TEM" />
+<meta name="title" content="Village Hall - Souldern Village" />
+<meta itemprop="name" content="Village Hall - Souldern Village" />
+<meta property="og:title" content="Village Hall - Souldern Village" />
+<meta name="description" content="Souldern Village Website" />
+<meta itemprop="description" content="Souldern Village Website" />
+<meta id="meta-tag-description" property="og:description" content="Souldern Village Website" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/2683b7/system/app/themes/rounders/standard-css-rounders-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/site/souldernuk/_/rsrc/1536824586000/system/app/css/overlay.css?cb=rounders31a150150goog-ws-nav-nosidenone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/site/souldernuk/_/rsrc/1536824586000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/site/souldernuk/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>Village Hall - Souldern Village</title>
+<meta itemprop="image" content="https://lh3.googleusercontent.com/-4js3sqRyBTU/Vgm2eDCOpoI/AAAAAAAABjc/xiodQrsyZwI/s400/1114.JPG" />
+<meta property="og:image" content="https://lh3.googleusercontent.com/-4js3sqRyBTU/Vgm2eDCOpoI/AAAAAAAABjc/xiodQrsyZwI/s400/1114.JPG" />
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en_GB            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner" style="height: 150px"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/site/souldernuk/" dir="ltr" id="sites-chrome-userheader-title">Souldern Village</a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/site/souldernuk/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-tabs"><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/home">Home</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home">Home</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/souldern-stomp">Souldern Stomp</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/event-2018">Summer Event 2018: Wacky Races</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/summer-event-2017">Summer Event 2017: It's A Knockout</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/event-2016">Summer Event 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/soulderncarbootsales">Souldern Car Boot Sales</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/local-services">Local Services</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/calendar">Calendar</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements">Announcements</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/three-parishes">The Three Parishes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/map">Map</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/street-view">Street View</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/gallery">Gallery</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/postcodes">Postcodes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/neighbouring-villages">Neighbouring Villages</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/contact-website">Contact Website</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/privacy-policy">Privacy Policy</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/about">About</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council">Parish Council</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council">Parish Council</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-agenda">SPC Agenda</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-minutes">SPC Minutes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-documents">SPC Documents</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-newsletter">SPC Newsletter</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/planning">Planning</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-members">SPC Members</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/transparency">Transparency</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/privacy-policy">Privacy Policy</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/welcome-packs">Welcome Packs</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/gdprsouldernmailinglist">GDPR: Souldern Mailing List</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/vision-for-souldern">A Vision for Souldern</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/cherwell-dc-and-mps">CDC and MPs</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/fix-my-street">Fix My Street</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-church">Parish Church</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-church">Parish Church</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/church--chapel-sunday-school">Church &amp; Chapel Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://www.facebook.com/Souldern-Village-Church-Choir-305535326293896/">Church Choir (Facebook)</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel">Wesleyan Chapel</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel">Wesleyan Chapel</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/church--chapel-sunday-school">Church &amp; Chapel Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/sunday-school">Sunday School 1869 – 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/history-of-souldern-chapel">History of Souldern Chapel</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/sunday-school/memories-of-sunday-school">Memories of Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/audreywestbury">Audrey Westbury</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/united-charity">United Charity</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/united-charity">United Charity</a></div></div></li><li class="current sites-header-nav-dropdown"><a class="sites-navigation-link current" href="/site/souldernuk/village-hall">Village Hall</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem current"><a class="sites-navigation-link current" href="/site/souldernuk/village-hall">Village Hall</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall/changing-room-plans">Changing Room Plans</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall/100-club">100 Club</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/football-club">Football</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/horticultural-society">Horticultural Society</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/horticultural-society">Horticultural Society</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox">The Fox Inn</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox">The Fox Inn</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://www.facebook.com/thefoxinnsouldern/">(Facebook)</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox/aunt-sally">Aunt Sally</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas">Recreation</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas">Recreation</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/footpaths">Footpaths</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/nancy-bowles-wood">Nancy Bowles Wood</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-pond">The Pond</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/sports-field">Sports Field</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/playground">Playground</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-pound">The Pound</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-green">The Green</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/history">History</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history">History</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/memorial-1914-1918">1914–1918</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/memorial-1939-1945">1939–1945</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/transport">Transport</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/historic-houses">Historic Houses</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/places-of-worship">Places of Worship</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/societies">Societies</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/souldern-in-literature">Souldern in Literature</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/oxfordshire-directories">Oxfordshire Directories</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/notes-on-souldern-1882">Notes on Souldern 1882</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/hist-and-desc-notices-1887">Hist. and Desc. Notices 1887</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/rev-robert-jones-1787-1835">Rev. Robert Jones 1787-1835</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/rev-lawrence-stephenson-1889">Rev. Lawrence Stephenson 1889</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/catholic-missions-1906">Catholic Missions 1906</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/sherwood-pevsner">Sherwood-Pevsner 1974</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-anglo-saxon-burials">Souldern Anglo-Saxon Burials</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/linger-a-while-1989">Linger A-While 1989</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://issuu.com/tonytingle/docs/9780956510235_content">Coming In To Land 2010</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/self-portrait-1989">Self Portrait 1989</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-vision-2016">Souldern Vision 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-online-history">Souldern Online History</a></div></div></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_5119576823660671" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:775fd1d9f52ee6a1"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/home" jotId="wuid:gx:775fd1d9f52ee6a1" class="sites-navigation-link topLevel">Home</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/calendar" jotId="wuid:gx:1c42926318930cfb" class="sites-navigation-link">Calendar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/announcements" jotId="wuid:gx:6daef5ff310af90c" class="sites-navigation-link">Announcements</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/local-services" jotId="wuid:gx:58eb055a66d4df0a" class="sites-navigation-link">Local Services</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/three-parishes" jotId="wuid:gx:2c0a7146a62c01d2" class="sites-navigation-link">The Three Parishes</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/map" jotId="wuid:gx:4d9b55f6e8a5a19b" class="sites-navigation-link">Map</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/contact-website" jotId="wuid:gx:5156fa3f5d6bdc48" class="sites-navigation-link">Contact Website</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/about" jotId="wuid:gx:2c1ea05810ffec42" class="sites-navigation-link">About</a></div></li></ul></li><li class="topLevel parent " wuid="gx:c4295e55d420e1c"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/parish-council" jotId="wuid:gx:c4295e55d420e1c" class="sites-navigation-link topLevel">Parish Council</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-agenda" jotId="wuid:gx:872b77674e59b49" class="sites-navigation-link">SPC Agenda</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-minutes" jotId="wuid:gx:6ebf4ac719103bb2" class="sites-navigation-link">SPC Minutes</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-newsletter" jotId="wuid:gx:cafec3ce5cb315a" class="sites-navigation-link">SPC Newsletter</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/planning" jotId="wuid:gx:79342342a9ff956d" class="sites-navigation-link">Planning</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-members" jotId="wuid:gx:7170b5173a51bdd0" class="sites-navigation-link">SPC Members</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/cherwell-dc-and-mps" jotId="wuid:gx:501c972476ba73da" class="sites-navigation-link">CDC and MPs</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/parish-church" jotId="wuid:gx:2694b6c2c5d79026" class="sites-navigation-link topLevel">Parish Church</a></div></li><li class="topLevel parent " wuid="gx:18c4eda1375d3972"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/chapel" jotId="wuid:gx:18c4eda1375d3972" class="sites-navigation-link topLevel">Wesleyan Chapel</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/chapel/sunday-school" jotId="wuid:gx:62e82e04d8332550" class="sites-navigation-link">Sunday School 1869 – 2016</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/united-charity" jotId="wuid:gx:70b2cebf0a3ddcf9" class="sites-navigation-link topLevel">United Charity</a></div></li><li class="topLevel parent " wuid="gx:397e21cbb99124aa"><div class="current-bg" jotId="wuid:gx:397e21cbb99124aa" dir="ltr" style="padding-left: 0px;"><div class="expander"></div>Village Hall</div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/village-hall/community-market" jotId="wuid:gx:2088fc7c0357426c" class="sites-navigation-link">Community Market</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/horticultural-society" jotId="wuid:gx:4a1f5d6b265f4c36" class="sites-navigation-link topLevel">Horticultural Society</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/football-club" jotId="wuid:gx:772be24ed1adfae7" class="sites-navigation-link topLevel">Football</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/the-fox" jotId="wuid:gx:7a3dacbbdceb7d51" class="sites-navigation-link topLevel">The Fox Inn</a></div></li><li class="topLevel parent " wuid="gx:1b57f62c79cd0978"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/recreational-areas" jotId="wuid:gx:1b57f62c79cd0978" class="sites-navigation-link topLevel">Recreation</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/nancy-bowles-wood" jotId="wuid:gx:46e684c8fe561423" class="sites-navigation-link">Nancy Bowles Wood</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-pond" jotId="wuid:gx:2d07fdb6072c162d" class="sites-navigation-link">The Pond</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/sports-field" jotId="wuid:gx:5e990178f2d38b53" class="sites-navigation-link">Sports Field</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/playground" jotId="wuid:gx:21116848fe461adf" class="sites-navigation-link">Playground</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-pound" jotId="wuid:gx:15ca5c853d31c5ab" class="sites-navigation-link">The Pound</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-green" jotId="wuid:gx:dd10047a4d53554" class="sites-navigation-link">The Green</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/footpaths" jotId="wuid:gx:36d66c2035dbc7e0" class="sites-navigation-link">Footpaths</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2a39bb1d3aa72ae7"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/history" jotId="wuid:gx:2a39bb1d3aa72ae7" class="sites-navigation-link topLevel">History</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/transport" jotId="wuid:gx:2b2a3a1c78718235" class="sites-navigation-link">Transport</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/historic-houses" jotId="wuid:gx:6eb821d21119bf72" class="sites-navigation-link">Historic Houses</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/societies" jotId="wuid:gx:453286b5ee28105c" class="sites-navigation-link">Societies</a></div></li></ul></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="">
+</div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">Village Hall</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="float:right;background-color:#eee;padding:0.5em">
+<h2><a name="TOC-TO-BOOK-SOULDERN-VILLAGE-HALL"></a>
+TO BOOK 
+SOULDERN VILLAGE HALL</h2>
+<p>Please contact:</p>
+<p>Kate Green (<a href="mailto:souldern.villagehall@gmail.com">souldern.villagehall@gmail.com</a>)</p>
+<h2><a name="TOC-HIRE-CHARGES"></a>HIRE CHARGES</h2>
+<h3><a name="TOC-Souldern-Groups"></a>Souldern Groups</h3>
+<ul>
+<li>£7 per hour (up to 5 hrs.)</li>
+<li>£40 per day (more than 5 Hours)
+</li>
+<li>Deposit £50
+</li></ul>
+<h3><a name="TOC-Souldern-Residents"></a>Souldern Residents</h3>
+<ul>
+<li>£8 per hour (up to 5 hrs.) Deposit £50
+</li>
+<li>£70 per day (more than 5 Hours)
+</li></ul>
+<h3><a name="TOC-Non-Residents"></a>Non-Residents</h3>
+<ul>
+<li>£15 per hour (up to 5 hrs.)
+</li>
+<li>£130 per day (more than 5 Hours) 
+</li>
+<li>includes cleaning charge
+</li>
+<li>Deposit £100</li>
+<li>Block bookings 6+ sessions £14 per hour</li></ul>
+</div>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="https://picasaweb.google.com/111338960776702858271/SouldernWebsite#6199686989379184258" imageanchor="1"><img border="0" src="https://lh3.googleusercontent.com/-4js3sqRyBTU/Vgm2eDCOpoI/AAAAAAAABjc/xiodQrsyZwI/s400/1114.JPG" /></a></div>
+<p>Built in 1974 the Village hall replaced the Parish Reading room which was destroyed by fire in 1971.</p>
+<p>It was extended in 1977 by the erection of a store room and later in 1982 by another extension
+providing changing room facilities for footballers. Later modernisations have taken place
+with a new kitchen, solar panels for heating and provision of disabled amenities.
+One boundary of the recreation field was enhanced by beech trees being planted by 
+all Souldern children for the Silver Jubilee.</p>
+<p>Refurbished in 2011, and more recently in 2015, the Village hall provides a warm, clean, light and versatile venue for a range of community events.</p>
+<p>The village hall is fully accessible and offers off street parking. The main hall has an 80 person capacity, and there is a smaller room which can be used independently as a meeting or committee room, or in conjunction with the main hall.</p>
+<p>The hall is managed by a committee representing all the village associations, which is elected annually.</p>
+<p>The hall is by the playing field at the entrance to the village at the top of “The Hill”, <a href="https://www.google.co.uk/maps/place/51%C2%B058'40.1%22N+1%C2%B014'12.9%22W/@51.977817,-1.2381292,18z/data=!4m5!3m4!1s0x0:0x0!8m2!3d51.97782!4d-1.236905">as shown on the linked map</a>.</p></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/site/souldernuk/village-hall&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/site/souldernuk/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/2683b7/system/js/jot_min_view__en_gb.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/site/souldernuk/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("5119576823660671", "Navigation", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_5119576823660671');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/site/souldernuk/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            true);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en_GB");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
