@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+
+header.page-header {
+    padding-top: 0pt;
+    padding-bottom: 0pt;
+}
+
+/* google sites remnants */
+
 #sites-page-title-header {font-size: 200%}
 
 td.sites-layout-tile  { border-width: 0pt ! important;}
