@@ -26,9 +26,8 @@ Beginning Sunday 24th April 2016<br />
                  
 
 <ul class="category-list">
-  {%- assign sorted = site.pages | sort: 'date'  | reverse -%}
+  {%- assign sorted = site.pages | sort: 'date'  | where_exp:"item","item.category contains 'ssannounce'" | reverse -%}
   {%- for page in sorted limit:3 -%}
-  {%- if page.category contains "ssannounce" %}
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:yellow">
 
@@ -41,7 +40,6 @@ Beginning Sunday 24th April 2016<br />
 </blockquote>
 
   </li>
-  {%- endif -%}
   {%- endfor %}
 </ul>
                     Showing posts <strong>1 - 3</strong>
