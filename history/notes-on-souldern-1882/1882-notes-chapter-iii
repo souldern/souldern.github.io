@@ -1,0 +1,1120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" itemscope="" itemtype="http://schema.org/WebPage">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { (function(){function e(a){this.t={};this.tick=function(a,c,b){this.t[a]=[void 0!=b?b:(new Date).getTime(),c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(h){}};this.tick("start",null,a)}var a;if(window.performance)var d=(a=window.performance.timing)&&a.responseStart;var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})(); })()
+</script>
+<link rel="shortcut icon" type="image/x-icon" href="//www.google.com/images/icons/product/sites-16.ico" />
+<link rel="apple-touch-icon" href="https://ssl.gstatic.com/sites/p/d3dcac/system/app/images/apple-touch-icon.png" type="image/png" />
+<script type="text/javascript">/* Copyright 2008 Google. */ (function() { function d(a){return document.getElementById(a)}window.byId=d;function g(a){return a.replace(/^\s+|\s+$/g,"")}window.trim=g;var h=[],k=0;window.JOT_addListener=function(a,b,c){var f=new String(k++);a={eventName:a,handler:b,compId:c,key:f};h.push(a);return f};window.JOT_removeListenerByKey=function(a){for(var b=0;b<h.length;b++)if(h[b].key==a){h.splice(b,1);break}};window.JOT_removeAllListenersForName=function(a){for(var b=0;b<h.length;b++)h[b].eventName==a&&h.splice(b,1)};
+window.JOT_postEvent=function(a,b,c){var f={eventName:a,eventSrc:b||{},payload:c||{}};if(window.JOT_fullyLoaded)for(b=h.length,c=0;c<b&&c<h.length;c++){var e=h[c];e&&e.eventName==a&&(f.listenerCompId=e.compId||"",(e="function"==typeof e.handler?e.handler:window[e.handler])&&e(f))}else window.JOT_delayedEvents.push({eventName:a,eventSrc:b,payload:c})};window.JOT_delayedEvents=[];window.JOT_fullyLoaded=!1;
+window.JOT_formatRelativeToNow=function(a,b){a=((new Date).getTime()-a)/6E4;if(1440<=a||0>a)return null;var c=0;60<=a&&(a/=60,c=2);2<=a&&c++;return b?window.JOT_siteRelTimeStrs[c].replace("__duration__",Math.floor(a)):window.JOT_userRelTimeStrs[c].replace("__duration__",Math.floor(a))}; })()
+</script>
+<script>
+
+  
+
+  var breadcrumbs = [{"path":"/site/souldernuk/history","deleted":false,"title":"History","dir":"ltr"},{"path":"/site/souldernuk/history/notes-on-souldern-1882","deleted":false,"title":"Notes on Souldern 1882","dir":"ltr"},{"path":"/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-iii","deleted":false,"title":"1882 Notes Chapter III","dir":"ltr"}];
+  var JOT_clearDotPath = 'https://ssl.gstatic.com/sites/p/d3dcac/system/app/images/cleardot.gif';
+
+  
+  var JOT_userRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+  
+  
+
+  
+
+  var webspace = {"gvizGstaticVersion":"current","enableAnalytics":false,"pageSharingId":"jotspot_page","codeembeds":{"outerIframeSrc":"https://www.gstatic.com/jotspot/embeds/code/0f08d42392f2000e7e3f3daf5b427a43/outer_iframe.html","innerIframeSrc":"https://375256179-jotspot-embeds.googleusercontent.com/code/8d87fa64604b2a11fae2ed06104c58d3/inner_iframe.html"},"enableUniversalAnalytics":true,"sharingPolicy":"OPENED","siteTitle":"Souldern Village","jot2atari":{"eligibility":"ineligible"},"onepickUrl":"https://docs.google.com/picker","adsensePublisherId":null,"features":{"oAuthForChartsApi":true,"moreMobileStyleImprovements":null,"googleChartsOverGstatic":false,"picasaAlbumInsert":false,"pageDrafts":false,"enableJot2Atari":true,"plusBadge":false,"pdfEmbedSupport":false},"isPublic":true,"newSitesBaseUrl":"https://sites.google.com","isConsumer":true,"serverFlags":{"jot2AtariLearnMoreUrl":"https://support.google.com/sites/answer/7035197"},"domainAnalyticsAccountId":"","plusPageId":"","signInUrl":"https://accounts.google.com/AccountChooser?continue\u003dhttps://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-iii\u0026service\u003djotspot","analyticsAccountId":"UA-68442524-1","scottyUrl":"/_/upload","homePath":"/","siteNoticeUrlEnabled":null,"plusPageUrl":"","adsensePromoClickedOrSiteIneligible":true,"csiReportUri":"https://gg.google.com/csi","sharingId":"jotspot","termsUrl":"//www.google.com/intl/en/policies/terms/","gvizVersion":1,"editorResources":{"sitelayout":["https://ssl.gstatic.com/sites/p/d3dcac/system/app/css/sitelayouteditor.css"],"text":["https://ssl.gstatic.com/sites/p/d3dcac/system/js/codemirror.js","https://ssl.gstatic.com/sites/p/d3dcac/system/app/css/codemirror_css.css","https://ssl.gstatic.com/sites/p/d3dcac/system/js/trog_edit__en.js","https://ssl.gstatic.com/sites/p/d3dcac/system/app/css/trogedit.css","/site/souldernuk/_/rsrc/1535614742000/system/app/css/editor.css","https://ssl.gstatic.com/sites/p/d3dcac/system/app/css/codeeditor.css","/site/souldernuk/_/rsrc/1535614742000/system/app/css/camelot/editor-jfk.css"]},"sharingUrlPrefix":"/_/sharing","isAdsenseEnabled":true,"domain":"defaultdomain","baseUri":"/site/souldernuk","name":"souldernuk","siteTemplateId":false,"siteNoticeRevision":0,"siteNoticeUrlAddress":null,"siteNoticeMessage":"This website is powered by Google sites which uses cookies. You may disable cookies in your browser, but then some site features will not work.","page":{"isRtlLocale":false,"canDeleteWebspace":null,"isPageDraft":null,"parentPath":"/history/notes-on-souldern-1882","parentWuid":"wuid:gx:114cd65ffaf5d043","siteLocale":"en_GB","timeZone":"America/Los_Angeles","type":"text","title":"1882 Notes Chapter III","locale":"en","wuid":"wuid:gx:6cd5254303489cf6","revision":10,"path":"/history/notes-on-souldern-1882/1882-notes-chapter-iii","isSiteRtlLocale":false,"pageInheritsPermissions":null,"name":"1882-notes-chapter-iii","canChangePath":true,"state":"","properties":{},"bidiEnabled":false,"currentTemplate":{"path":"/config/pagetemplates/web-page-no-comments-","title":"Web Page (no comments)"}},"canPublishScriptToAnyone":true,"user":{"keyboardShortcuts":true,"sessionIndex":"","onePickToken":"","guest_":true,"displayNameOrEmail":"guest","userName":"guest","uid":"","renderMobile":false,"domain":"","namespace":"","hasWriteAccess":false,"namespaceUser":false,"primaryEmail":"guest","hasAdminAccess":false},"gadgets":{"baseUri":"/site/souldernuk/system/app/pages/gadgets"}};
+  webspace.page.breadcrumbs = breadcrumbs;
+
+  
+  var JOT_siteRelTimeStrs = ["a minute ago","__duration__ minutes ago","an hour ago","__duration__ hours ago"];
+
+</script>
+<script type="text/javascript">
+                window.jstiming.load.tick('scl');
+              </script>
+<link rel="canonical" href="http://www.souldern.org/history/notes-on-souldern-1882/1882-notes-chapter-iii" />
+<meta name="google-site-verification" content="eJERNTZ4onofDnxZrhM-cYht9Jdc_sl50VS5hpy-TEM" />
+<meta name="title" content="1882 Notes Chapter III - Souldern Village" />
+<meta itemprop="name" content="1882 Notes Chapter III - Souldern Village" />
+<meta property="og:title" content="1882 Notes Chapter III - Souldern Village" />
+<meta name="description" content="Souldern Village Website" />
+<meta itemprop="description" content="Souldern Village Website" />
+<meta id="meta-tag-description" property="og:description" content="Souldern Village Website" />
+<style type="text/css">
+</style>
+<link rel="stylesheet" type="text/css" href="https://ssl.gstatic.com/sites/p/d3dcac/system/app/themes/rounders/standard-css-rounders-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="/site/souldernuk/_/rsrc/1535614742000/system/app/css/overlay.css?cb=rounders31a150150goog-ws-nav-nosidenone30themedefaultstandard" />
+<link rel="stylesheet" type="text/css" href="/site/souldernuk/_/rsrc/1535614742000/system/app/css/camelot/allthemes-view.css" />
+<!--[if IE]>
+          <link rel="stylesheet" type="text/css" href="/site/souldernuk/system/app/css/camelot/allthemes%2die.css" />
+        <![endif]-->
+<title>1882 Notes Chapter III - Souldern Village</title>
+<script type="text/javascript">
+                window.jstiming.load.tick('cl');
+              </script>
+</head>
+<body xmlns="http://www.google.com/ns/jotspot" id="body" class=" en_GB            ">
+<div id="sites-page-toolbar" class="sites-header-divider">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-status" class="sites-status" style="display:none;"><div id="sites-notice" class="sites-notice" role="status" aria-live="assertive"> </div></div>
+</div>
+<div id="sites-chrome-everything-scrollbar">
+<div id="sites-chrome-everything" class="">
+<div id="sites-chrome-page-wrapper" style="direction: ltr">
+<div id="sites-chrome-page-wrapper-inside">
+<div xmlns="http://www.w3.org/1999/xhtml" id="sites-chrome-header-wrapper" style="">
+<table id="sites-chrome-header" class="sites-layout-hbox" cellspacing="0" style="">
+<tr class="sites-header-primary-row" id="sites-chrome-userheader">
+<td id="sites-header-title" class="" role="banner" style="height: 150px"><div class="sites-header-cell-buffer-wrapper"><h2><a href="https://sites.google.com/site/souldernuk/" dir="ltr" id="sites-chrome-userheader-title">Souldern Village</a></h2></div></td><td class="sites-layout-searchbox  "><div class="sites-header-cell-buffer-wrapper"><form id="sites-searchbox-form" action="/site/souldernuk/system/app/pages/search" role="search"><input type="hidden" id="sites-searchbox-scope" name="scope" value="search-site" /><input type="text" id="jot-ui-searchInput" name="q" size="20" value="" aria-label="Search this site" /><div id="sites-searchbox-button-set" class="goog-inline-block"><div role="button" id="sites-searchbox-search-button" class="goog-inline-block jfk-button jfk-button-standard" tabindex="0">Search this site</div></div></form></div></td>
+</tr>
+<tr class="sites-header-secondary-row" id="sites-chrome-horizontal-nav">
+<td colspan="2" id="sites-chrome-header-horizontal-nav-container" role="navigation">
+<div class="sites-header-nav"><ul class="sites-header-nav-container-tabs"><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/home">Home</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home">Home</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/souldern-stomp">Souldern Stomp</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/event-2018">Summer Event 2018: Wacky Races</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/summer-event-2017">Summer Event 2017: It's A Knockout</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/event-2016">Summer Event 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/soulderncarbootsales">Souldern Car Boot Sales</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/local-services">Local Services</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/calendar">Calendar</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements">Announcements</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/three-parishes">The Three Parishes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/map">Map</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/street-view">Street View</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/gallery">Gallery</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/postcodes">Postcodes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/neighbouring-villages">Neighbouring Villages</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/contact-website">Contact Website</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/privacy-policy">Privacy Policy</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/about">About</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council">Parish Council</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council">Parish Council</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-agenda">SPC Agenda</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-minutes">SPC Minutes</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-documents">SPC Documents</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-newsletter">SPC Newsletter</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/planning">Planning</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/spc-members">SPC Members</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/transparency">Transparency</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/privacy-policy">Privacy Policy</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/welcome-packs">Welcome Packs</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/gdprsouldernmailinglist">GDPR: Souldern Mailing List</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/vision-for-souldern">A Vision for Souldern</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/cherwell-dc-and-mps">CDC and MPs</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-council/fix-my-street">Fix My Street</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-church">Parish Church</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/parish-church">Parish Church</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/church--chapel-sunday-school">Church &amp; Chapel Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://www.facebook.com/Souldern-Village-Church-Choir-305535326293896/">Church Choir (Facebook)</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel">Wesleyan Chapel</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel">Wesleyan Chapel</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/church--chapel-sunday-school">Church &amp; Chapel Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/sunday-school">Sunday School 1869 – 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/history-of-souldern-chapel">History of Souldern Chapel</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/chapel/sunday-school/memories-of-sunday-school">Memories of Sunday School</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/home/announcements/audreywestbury">Audrey Westbury</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/united-charity">United Charity</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/united-charity">United Charity</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall">Village Hall</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall">Village Hall</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall/changing-room-plans">Changing Room Plans</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/village-hall/100-club">100 Club</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/football-club">Football</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/horticultural-society">Horticultural Society</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/horticultural-society">Horticultural Society</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox">The Fox Inn</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox">The Fox Inn</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://www.facebook.com/thefoxinnsouldern/">(Facebook)</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/the-fox/aunt-sally">Aunt Sally</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas">Recreation</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas">Recreation</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/footpaths">Footpaths</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/nancy-bowles-wood">Nancy Bowles Wood</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-pond">The Pond</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/sports-field">Sports Field</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/playground">Playground</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-pound">The Pound</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/recreational-areas/the-green">The Green</a></div></div></li><li class="unselected sites-header-nav-dropdown"><a class="sites-navigation-link unselected" href="/site/souldernuk/history">History</a><div class="sites-header-nav-dropdown-menu" style="display:none"><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history">History</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/memorial-1914-1918">1914–1918</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/memorial-1939-1945">1939–1945</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/transport">Transport</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/historic-houses">Historic Houses</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/places-of-worship">Places of Worship</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/societies">Societies</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/souldern-in-literature">Souldern in Literature</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/oxfordshire-directories">Oxfordshire Directories</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/notes-on-souldern-1882">Notes on Souldern 1882</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/hist-and-desc-notices-1887">Hist. and Desc. Notices 1887</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/rev-robert-jones-1787-1835">Rev. Robert Jones 1787-1835</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/rev-lawrence-stephenson-1889">Rev. Lawrence Stephenson 1889</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/catholic-missions-1906">Catholic Missions 1906</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/sherwood-pevsner">Sherwood-Pevsner 1974</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-anglo-saxon-burials">Souldern Anglo-Saxon Burials</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/linger-a-while-1989">Linger A-While 1989</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="https://issuu.com/tonytingle/docs/9780956510235_content">Coming In To Land 2010</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/self-portrait-1989">Self Portrait 1989</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-vision-2016">Souldern Vision 2016</a></div><div class="sites-header-nav-dropdown-menuitem unselected"><a class="sites-navigation-link unselected" href="/site/souldernuk/history/souldern-online-history">Souldern Online History</a></div></div></li></ul><div style="clear: both;"></div></div>
+</td>
+</tr>
+</table>
+</div>
+<div id="sites-chrome-main-wrapper">
+<div id="sites-chrome-main-wrapper-inside">
+<table id="sites-chrome-main" class="sites-layout-hbox" cellspacing="0" cellpadding="{scmCellpadding}" border="0">
+<tr>
+<td id="sites-chrome-sidebar-left" class="sites-layout-sidebar-left" style="display: none; width: 150px">
+<div xmlns="http://www.w3.org/1999/xhtml" id="COMP_5119576823660671" class="sites-embed" role="navigation"><div class="sites-embed-content sites-sidebar-nav"><ul role="navigation" jotId="navList" class="has-expander"><li class="topLevel nav-first parent " wuid="gx:775fd1d9f52ee6a1"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/home" jotId="wuid:gx:775fd1d9f52ee6a1" class="sites-navigation-link topLevel">Home</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/calendar" jotId="wuid:gx:1c42926318930cfb" class="sites-navigation-link">Calendar</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/announcements" jotId="wuid:gx:6daef5ff310af90c" class="sites-navigation-link">Announcements</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/local-services" jotId="wuid:gx:58eb055a66d4df0a" class="sites-navigation-link">Local Services</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/three-parishes" jotId="wuid:gx:2c0a7146a62c01d2" class="sites-navigation-link">The Three Parishes</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/map" jotId="wuid:gx:4d9b55f6e8a5a19b" class="sites-navigation-link">Map</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/contact-website" jotId="wuid:gx:5156fa3f5d6bdc48" class="sites-navigation-link">Contact Website</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/home/about" jotId="wuid:gx:2c1ea05810ffec42" class="sites-navigation-link">About</a></div></li></ul></li><li class="topLevel parent " wuid="gx:c4295e55d420e1c"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/parish-council" jotId="wuid:gx:c4295e55d420e1c" class="sites-navigation-link topLevel">Parish Council</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-agenda" jotId="wuid:gx:872b77674e59b49" class="sites-navigation-link">SPC Agenda</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-minutes" jotId="wuid:gx:6ebf4ac719103bb2" class="sites-navigation-link">SPC Minutes</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-newsletter" jotId="wuid:gx:cafec3ce5cb315a" class="sites-navigation-link">SPC Newsletter</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/planning" jotId="wuid:gx:79342342a9ff956d" class="sites-navigation-link">Planning</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/spc-members" jotId="wuid:gx:7170b5173a51bdd0" class="sites-navigation-link">SPC Members</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/parish-council/cherwell-dc-and-mps" jotId="wuid:gx:501c972476ba73da" class="sites-navigation-link">CDC and MPs</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/parish-church" jotId="wuid:gx:2694b6c2c5d79026" class="sites-navigation-link topLevel">Parish Church</a></div></li><li class="topLevel parent " wuid="gx:18c4eda1375d3972"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/chapel" jotId="wuid:gx:18c4eda1375d3972" class="sites-navigation-link topLevel">Wesleyan Chapel</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/chapel/sunday-school" jotId="wuid:gx:62e82e04d8332550" class="sites-navigation-link">Sunday School 1869 – 2016</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/united-charity" jotId="wuid:gx:70b2cebf0a3ddcf9" class="sites-navigation-link topLevel">United Charity</a></div></li><li class="topLevel parent " wuid="gx:397e21cbb99124aa"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/village-hall" jotId="wuid:gx:397e21cbb99124aa" class="sites-navigation-link topLevel">Village Hall</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/village-hall/community-market" jotId="wuid:gx:2088fc7c0357426c" class="sites-navigation-link">Community Market</a></div></li></ul></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/horticultural-society" jotId="wuid:gx:4a1f5d6b265f4c36" class="sites-navigation-link topLevel">Horticultural Society</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/football-club" jotId="wuid:gx:772be24ed1adfae7" class="sites-navigation-link topLevel">Football</a></div></li><li class="topLevel "><div dir="ltr" style="padding-left: 19px;"><a href="/site/souldernuk/the-fox" jotId="wuid:gx:7a3dacbbdceb7d51" class="sites-navigation-link topLevel">The Fox Inn</a></div></li><li class="topLevel parent " wuid="gx:1b57f62c79cd0978"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/recreational-areas" jotId="wuid:gx:1b57f62c79cd0978" class="sites-navigation-link topLevel">Recreation</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/nancy-bowles-wood" jotId="wuid:gx:46e684c8fe561423" class="sites-navigation-link">Nancy Bowles Wood</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-pond" jotId="wuid:gx:2d07fdb6072c162d" class="sites-navigation-link">The Pond</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/sports-field" jotId="wuid:gx:5e990178f2d38b53" class="sites-navigation-link">Sports Field</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/playground" jotId="wuid:gx:21116848fe461adf" class="sites-navigation-link">Playground</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-pound" jotId="wuid:gx:15ca5c853d31c5ab" class="sites-navigation-link">The Pound</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/the-green" jotId="wuid:gx:dd10047a4d53554" class="sites-navigation-link">The Green</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/recreational-areas/footpaths" jotId="wuid:gx:36d66c2035dbc7e0" class="sites-navigation-link">Footpaths</a></div></li></ul></li><li class="topLevel parent " wuid="gx:2a39bb1d3aa72ae7"><div dir="ltr" style="padding-left: 0px;"><div class="expander"></div><a href="/site/souldernuk/history" jotId="wuid:gx:2a39bb1d3aa72ae7" class="sites-navigation-link topLevel">History</a></div><ul role="navigation" class="has-expander"><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/transport" jotId="wuid:gx:2b2a3a1c78718235" class="sites-navigation-link">Transport</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/historic-houses" jotId="wuid:gx:6eb821d21119bf72" class="sites-navigation-link">Historic Houses</a></div></li><li class=""><div dir="ltr" style="padding-left: 38px;"><a href="/site/souldernuk/history/societies" jotId="wuid:gx:453286b5ee28105c" class="sites-navigation-link">Societies</a></div></li></ul></li></ul></div></div>
+</td>
+<td id="sites-canvas-wrapper">
+<div id="sites-canvas" role="main">
+<div id="goog-ws-editor-toolbar-container"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml" id="title-crumbs" style="display: none;">
+<A href="/site/souldernuk/history" dir="ltr">History</A>‎ &gt; ‎<A href="/site/souldernuk/history/notes-on-souldern-1882" dir="ltr">Notes on Souldern 1882</A>‎ &gt; ‎
+  </div>
+<h3 xmlns="http://www.w3.org/1999/xhtml" id="sites-page-title-header" style="display: none;" align="left">
+<span id="sites-page-title" dir="ltr" tabindex="-1" style="outline: none">1882 Notes Chapter III</span>
+</h3>
+<div id="sites-canvas-main" class="sites-canvas-main">
+<div id="sites-canvas-main-content">
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><div style="background-color:rgb(222,237,237)">
+<a href="https://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-ii" style="float:left">Chapter II</a>
+<a href="https://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-iv" style="float:right">Chapter IV</a>
+<p style="text-align:center">NOTES on SOULDERN</p>
+</div>
+<div style="max-width:30em;text-align:justify;font-family:serif;text-indent:1em;margin-left:auto;margin-right:auto">
+<h2 style="text-indent:0em;text-align:center"><a name="TOC-Chapter-III."></a>Chapter III.</h2>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-Church-History."></a>Church History.</h3>
+<p>Some time after the conquest Jordan de Sal gave the church of
+Sulethorne to the Abbey of Egnesham or Ensham, in the following terms:
+“I, Jordan de Sai (or Say), for the soul of my son William, on the day
+on which I have committed him to the tomb at Egnesham, have given up
+to the said monastery the Churen of Sulethorn. The witnesses are
+‘Ranulph my son’, and others.” (From a char­tulary of Ensham, numbered
+Claudius, A, 8, fol. 135, in the Cotton Library, now in the British
+Museum.) This gift was confirmed by Hugh, Bishop of Lincoln, who also
+confirms a pension of two marks of silver† yearly from the church of
+Sulethorn. In 1218, Willian de Warres, nephew of Robert, Abbot of
+Egnsham, was admitted to the Vicarage, when the monks had get their
+pension up to 100 shillings. A little later Robert de Haye, the rector
+(<i>sic</i>) and the Abbot of Oseney had a con­tention as to land at Mixbury,
+which was adjusted by a compromise. In 1233 there is the following
+notice—“To all sons of our Holy Mother the Church, to whom the present
+writ shall come, the Priors of St. John and St. James send greeting, and
+recite a mandate from Pope Gregory, wherein it is stated that the Prior
+and Convent of St. Frideswide, of Oxford, have, by a plaint, shown
+that Robert of Sulthorn and Nicholas of Beckele, a trusty knight, and
+divers others, do, in the matter of tithes and holdings, wrong the
+said Prior and Convent, and further, that His Holiness has ordered the
+Dean of Northampton and the Priors of St. John and St. James, or any
+two of them, to summon the parties before them, and decide the
+question at issue with­out appeal, and further reciting that upon
+parties being so summoned, Robert, Rector of Sulthorn, confessed in
+court that the tithes of one hide of land, which is called the ‘Hide
+of Sulthorn’ is within the bounds of the parish of Frettewelle, and so
+by common right belonging to the church thereof, and by the same
+right to the Canons of St. Frideswide. Whereupon it was adjudicated
+that the said tithes should belong to the said Prior of
+Frideswide, and he <i>alienated</i> from the said Robert and his
+church of Sulthorn for ever. The priest of Sulthorn renewed this suit
+the following year; the Pope appointed three more commissions, other
+than those before mentioned. These confirmed the former sentence, but
+the priest appealed to Rome again, and ultimately won his cause,
+subject to a yearly payment of 10s. to the Priory.“ (A great
+portion of the glebe, now called “Inlands” farm, is in the
+parish of Fritwell.) “The Rector of the church of Sulthorne
+holds (by the same fee) one hide of land which was formerly given to
+the church of Sulthorne in perpetual alms” (Testa de Nevill). In
+1296, John de Bernewelle, parson of the church of Sulthorn, had
+recovered his seizin against Thomas de Lewknore and Lucie his wife, of
+the possession of his pasture in Sulthorn, which belongs to his
+freeholder in the same parish (Abbreviatio Rotulorum originalium,
+Ed. I.) And in 1297, the satile John de Bernwelle has a letter of
+protection by patent dated 2nd March of that year. [John de Bernewelle
+no doubt in consideration of a contribution to the Royal Exchequer
+obtains a rotection from further taxation.) In the 33rd of Edward
+I. (1305) there are “pleadings before Ralph de Hengham and his fellow
+justices of the bench of our Lord the King, in Trinity term, Thomas,
+Abbot of Egneshain, by his attorney, appeared against Lucie, wife of
+Thomas de Lewk­more and against Peter of Sche­oyn­don, to hear an assize
+of darrien presentment, which the said Thomas did here in the court
+arraign the assize (that is, bring the cause into court) against them,
+about the advowson of the church of Soulthorn, which is vacant.” The
+report goes on to state that. the said Lucie and Peter defended the suit
+against the said abbot, but not appearing, judgment was claimed by
+him upon their default. The jury found that the vacancy occurred upon
+the death of one John de Bernewelle, and those who have been consulted
+upon the rights of the Abbot, affirm that in the 20th Henry
+III. (1236) an agreement was, made between Nicholas, then Abbot of
+Egnesham, and one Lucie de Arderne (grandmother of Lucie. de Lewknore)
+by which she ack­now­ledged that the advowson
+belonged to the aforesaid Abbey of Egnesham, and that when a vacancy
+in the office of Abbot happened, the Bishop of Lincoln as patron of the
+said office did confer the church on Geoffrey de Stokes, one of his
+clergy. And those who have been consulted about collusion between the
+parties as to the value of the church, find there was no collusion,
+that the church is of the value of 20 marks yearly, and that the
+period of six months for present­ment has not elapsed. Therefore, it
+was allowed that the aforesaid abbot Thomas should have a writ to the
+Bishop of Lincoln, and that upon its presentation he (the Bishop)
+should admit a fit person to the aforesaid church, and the abbot was
+allowed ten marks from the defendant in compensation for his
+losses. (See White Kennett, vol. i., p. 500.) In the “Testa de
+Nevill,” temp Henry III., and Ed. I, it is stated—“The Deanery of
+Burncestre (Bicester), church of Sulthorne, pension deducted 10s.” And
+in Roll 28, “In the same manner the rector, Adam de Keresaye, gives
+information that he in the rectorial court at Oxford has recovered his
+seizin against Lucie, wife of Thomas de Lewknore and others, of 40s,
+rent, with (property?) in Sulthorne.” In Roll 15 the same occurs
+again, the only difference being the “e” at the end of
+Sulthorn. (Taxatio Ecclesiastica of Pope Nicholas IV., Diocese of
+Lincoln.) We hear of no further law-suits after this, only of the
+constant change of the clergy in the earlier centuries (as will be
+seen from the following list) and which may probably be accounted for
+by the tithes belonging to Eynsham Abbey.</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>† 26. 8d.</p>
+</div>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-List-of-Clergy."></a>List of Clergy.</h3>
+<p>1218 William de Warres</p>
+<p>About 1233 Robert de Haye</p>
+<p>(Date uncertain) Geoffrey de Saye</p>
+<p>1288 John de Bernewelle</p>
+<p>(Date uncertain) Adam de Keresaye William of Dalderby</p>
+<p>1335 Peter de Dalderby</p>
+<p>1340 John Dalderby (an acolyte)</p>
+<p>1349 Master Richard Selby, priest</p>
+<p>1350 Thomas de Soliers, clerk</p>
+<p>1361 Simon de Lamborne</p>
+<p>(Date uncertain) Sir Wm. Person</p>
+<p>1397 Simon Hoke, priest</p>
+<p>1398 Master Walter Bullok, clerk; and on his resignation the aforesaid Simon Hoke,
+who appears to have again changed livings in 1400, with Thos. Preston,
+rector of Smerdon</p>
+<p>1401 Thomas Bentle</p>
+<p>1404 Exchanged with Sir John Whyteby</p>
+<p>1415 Alan Kyrketon, exchanged with Sir John Whyteby</p>
+<p>1415 Sir William Robyn, on the resignation of Alan Kyrkeson</p>
+<p>1416 Thomas Wyrsop, in place of Robyn resigned</p>
+<p>1417 Sir John Pagrave de Offord</p>
+<p>1422 Win. Carles, in exchange</p>
+<p>(Date uncertain) Thos. Nesshe</p>
+<p>1462 Master Robert Darcy, priest</p>
+<p>1465 Master Walter Bate, M.A.</p>
+<p>Date uncertain) Master Thos. Gage</p>
+<p>1505 Thos. Warner, clerk, presented by
+John Lyhynde, of Fifield, by an alleged concession of the Abbot of
+Eynsham I508 Edward Gledhill, presented by Wm. Holte</p>
+<p>1562 Ed. Yonge,
+admitted by the Archbishop</p>
+<p>1571 Lawrence Giles, on the presentation of
+Sir Hugh Throckmorton, of Souldern, knight</p>
+<p>Except where otherwise
+mentioned, the above were all presented by the Abbey of Fgnsham. The
+living afterwards became Crown Property. From 1571 to 1647 we fail to
+find definite information of the names of rectors. The
+Rev. J. W. Pieters, sometime bursar of St. John's, Cambridge, kindly
+sent us the following extracts from the coll books : “The advowson of
+Soulderne in Oxfordshire, together with three other benefices, was
+iven to St. John's College, Cambridge, by Archishop Williams, under
+letters patent, dated 30th December 1623. The grant was ratified by
+the King, 1625. (See Hatchet's “Life of Archbisho Williams,” and
+Baker's “History of St. John's College,” edited by Mayor.)</p>
+<p>Thomas Hodges, D.D., admitted Fellow on Mr. Ashton's foundation,
+19th June, 1644, by order of the Duke of Manchester, in place of
+Thomas Thornton, who refused the covenant. The said Thomas Hodges was
+presented to the living of Souldern, 18th October, 1647, but was
+shortly afterwards ejected, and again presented in 1662</p>
+<p>The name of
+Thomas Hardinge, B.D., does not appear in Mr. Pieter's list. He was
+rector of Souldern between 1647 and 1662, but how he came there we
+cannot learm. It mav be well here to remark that Charles I. was
+finally defeated in 1645, at Naseby, and Charles II. was restored in
+1660. It is almost impossible to be accurate as to the holders of
+livings between these dates, probably the residence of many clergymen
+was connived at or over-looked. At all events, Mr. Hardinge seems to
+have lived, and worked, and died at Souldern without the knowledge of
+St. John's College. (For further particulars of Rev. T. Hardinge see
+“Monuments”)</p>
+<p>William Twyne, B.A., Fellow on Lady Margaret's
+foundation, presented 3rd March 1663-4, in place of Thomas Hodges,
+resigned</p>
+<p>1667 Bryan Turner, B.D., Fel'ow on Hibblethwaite's
+foundation, 4th April, 1665, presented on the death of William Twyne</p>
+<p>1698 Geoffrey Shaw, B.A., 1679, M.A., 1683, B.D., 1691, admitted
+fellow on Lady Margaret's foumdation, 1698. (For further accounts, see
+note A)</p>
+<p>1706 Matthew Pearson, B.A., 1686, B.D. and D.D., 1688. Fellow
+on Lady Margaret's foundation</p>
+<p>1735 John Russell, B.A. 1716, M.A. 1719,
+B.D. 1729, Fellow of Lady Margaret's, presented Nov. 6,
+1735. (Souldern at this time spelt “Souldren”)</p>
+<p>1772 John Horseman,
+B.A. 1735, M.A. 1758, B.D. 1776, Fellow on Lady Margaret's
+foundadation. He pulled down the original chancel and erected the
+present barn-like substitute.</p>
+<p>1806 Robert Jones, B.A. 1791, M.A. 1794,
+B.D. 1802, Fellow on Dr. Gywne's foundation. (A friend of the poet
+Wordsworth, who often stayed at the Rectory)</p>
+<p>1835 Lawrence Stephenson, B.A. 1823, M.A. 1826, B.D. 1833,
+ T).D. 1844. Fellow on Lady Rokeby's foundation, 1826, presented 11th
+July, 1833</p>
+<p>The curates-in-charge at different times within the
+present century are as follows:—</p>
+<p>The Rev. Francis Clerke, M.A.,
+ Fellow of All Souls, Oxon, from September, 1822, to the end of July,
+ 1826. On leaving Soulderne he became senior proctor at Oxford in
+ 1832. (A relative—we believe brother—of the late
+Archdeacon)</p>
+<p>The Rev. J. A. Walpole, B.A., also of All Souls, Oxford, from September
+ 1826, to the end of 1827</p>
+<p>The Rev. Wm. Cotton Risley, Fellow of New
+ College. Oxon, afterwards Vicar of Deddington. A man universally and
+ deservedly esteeme'. Curate-in-charge from March, 1828, to August,
+ 1836</p>
+<p>The Rev. John Edward Wharton Rotton, D.D., LL.D., of Emmanuel
+ College, Cambridge, late Senior Chaplain Bengal Eccles­iast­ical
+ Estab­lish­ment, and Chaplain of the Army at the Siege of Delhi,
+ 1857. Succeeded to curacy, May 21, 1875, and is now (1882) in
+ charge.</p>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-The-Rev.-Jeffrey-Shaw."></a>The Rev. Jeffrey Shaw.</h3>
+<p>(A) From Nicholl's “Illustrations of
+ the Literary History of the 18th Century” (1822), vol. iv., 119. Part
+ of a letter from Mr. Edward Walker, Fellow of St. John's College,
+ Cambridge, to his friend in the country, dated Dec. 6, 1706. “I
+ should scarce have mentioned anything of the matter you write about,
+ on my own account, but as since you have given yourself the trouble
+ of enquiry, I am, I think, in friendship obliged to relate all that I
+ know about the matter, and I do so the more willingly because I can
+ so soon produce my authority. Mr. Shaw, to whom the apparition
+ appeared, was lector of Soldern, or Souldern, in Oxfordshire, late of
+ St. John's College, Cambridge, aforesaid, on whom Mr. Grove, his old
+ fellow collegiate called, in July last, in his journey to the West,
+ when he staid a day or two, and promised to see him again on his
+ return, which he did, and staid three days with him. In that time,
+ one night after supper, Mr. Shaw told him there happened a
+ pass­age which he could not conceal from
+ him, being an intimate friend, and one to whom the transaction might
+ have something more relative than another man. He proceeded
+ therefore, and told him that about a week before that time, viz.,
+ July 28, 1706, as he was singking and reading in his study, about
+ eleven o'clock at night, there came to him the apparition of
+ Mr. Naylor, formerly fellow of his college, and dead some years ago,
+ a friend of Mr. Shaw's, in the same garb he used to be in, and with
+ his hands clasped before him. Mr. Shaw, not being much surprised,
+ asked him how he did, and desired him to sit down, which Mr. Naylor
+ did. They both sat there a considerable time and entertained one
+ another with various discourses. Mr. Shaw then asked after what
+ manner they lived in a separate state. He answered, ‘Far different
+ from what they do here,’ but that he was very well. Mr. Shaw enquired
+ further whether there were any of their old acquaintances in that ple
+ where he was. He answered, “No, not one,” and then proceeded and told
+ him that one of their old friends, named Orchard, should die quickly,
+ and that he himself (Mr. Shaw) should not be long after. There was
+ mention of several other people's names, but who they were, or upon
+ what occasion, Mr. Grove cannot, or will not, tell. Mr. Shaw then
+ asked whether he would not visit him again before that time came, but
+ he answered he could not; he had but three days allowed him, and
+ further he could not go. Mr. Shaw then said, ‘<i>Fiat Voluntas
+ Domini</i>,’ and the apparition left him. This is word for word
+ as Mr. Shaw told Mr. Grove, and Mr. Grove told me.</p>
+<p>“What
+ surprised Mr. Grove was that as he had in his journey homewards
+ occasion to ride through Clepton, or Claxton, he called upon
+ Mr. Clarke, fellow of our college aforesaid, and curate there. When
+ enquiring after college news Mr. Clarke told him that Arthur Orchard†
+ died that week, August 6, 1706, which very much shocked Mr. Grove,
+ and brought to his mind the story of Mr. Shaw afresh. About three
+ weeks ago Mr. Shaw 
+  died of an apoplexy (in the desk), the same distemper poor Arthur
+Orchard died of. Since this strange completion of matters, Mr Grove
+has told this relation, and stands to the truth of it, and that which
+confirms the narrative is that he told the same to Dr Baldiston, the
+present vice-Chancellor, and Master of Emanuel College, above a week
+before Mr. Shaw's death, and when he came to the college he was no way
+surprised as others were, What furthers my belief in its being a true
+ver­sion, and not a dream, is Mr. Grove's incredibility of stories of
+this nature, and considering them both as men of learning and
+integrity, the one would not first have dec­lared, nor the other have
+spread the same, were not the matter itself serious and
+real. — Yours, etc., Edward Walker,”</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>† Of St. John's, Cambridge, B.A. 1662, M.A. Hogg, E D., 1678.</p>
+</div>
+<p>For the possession of the scarce
+tract, mentioned in Smith's catalogue, and entitled Offley (Williau),
+“Sermon on the Death of the Rev. Geoffrey Shaw, Rector of Soulderne,
+Oxfordshire, who died whilst he was in the church at evening prayer”
+(4to, 1707), the compilers are indebted to the kindness of Mr. Madan
+The Mr. Naylor spoken of in this narra. tive is mentioned in “Jordan's
+History of Enstone,” p. 191. “Mr. Naylor died in 1704, and was buried
+July 1st, of the same year. Affidavit was made before Mr. Bridesake,
+Rector of Swarford. On a corner buttress of the church porch there is
+a small diamond-shaped white marble slab to his memory, bearing an
+inscription of which the following is a trans­lation―“Near this spot is
+deposited John Naylor, Master of Arts, Fellow of University College,
+and Vicar of this church. He died June 29th, A.D., 1704, in the 49th
+year of his age. Grievously dispirited in the house of the
+LORD.’”</p>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-Description-of-the-Church."></a>Description of the Church.</h3>
+<p>In the Ecclesiastical and Architectural
+Topo­graphy of England, part iv., 0xfordshire, published by John Henry
+Parker, 1850, is the following notice — “Souldern, St. Mary, chancel,
+nave, with S. aisle and tower. The Chancel is modern, the aisle
+windows are good, early decorated.
+The nave has a clerestory, and retains some
+ancient carved seats.&amp;dagger; The tower is Early
+Norman having walls of great thickness.”</p>
+<p>—A cornice of this church is engraved in Rickman, p. 163. In
+September, 1877, the church was inspected by Arthur Hodgson, Esq., of
+Bloxham (architect), who made the following report –“The Church of
+St. Mary, Souldern, is a very picturesque and most interesting
+structure. It is at the present time sadly in want of a thorough
+restoration, and the chancel such a bad piece of modern work that it
+would be quite impossible to do anything but pull it down, and build a
+new one of the same size as the original, and if possible mpon the old
+foundations, at the same time turning the fine old arch again to its
+proper use. The mave is parted from the south aisle by three pointed
+arches, resting on round columns, the capitals and bases of which are
+early Norman, and appear to have been turned upside down.” The north
+and south clerestory windows are very poor, merely square
+openings. Some of the windows of the aisle are elaborate and curious
+specimens of late decorated work. The porch is also about the swine
+date, and there is a well-moulded doorway, without capitals to the
+jambs (the labels terminate in heads) leading from it into the aisle.”
+In an appeal to the public for funds towards the restoration of the
+church, Dr. Rotton quotes the following lines from the “Miscellaneous
+Sonnets” of Wordsworth, which were written during one of the poet's
+visits to the rectory as the guest of his college friend, the
+Rev. Robert Jones, then rector of the parish:</p>
+<p>A PARSONAGE IN OXFORDSHIRE.</p>
+<p>“Where holy ground begins, unhallowed ends,”**<br />
+Is marked by no distinguishable line;<br />
+The turf unites, the pathways intertwine,<br />
+And wheresoe'er the stealing footstep tends,<br />
+Garden, and that domain where kindred friends<br />
+And neighbours rest together, here confound<br />
+Their several features, mingled like the sound<br />
+of many waters, or as evening blends<span><br />
+With shady night. Soft airs from shrub and flower<br />
+Waft fragrant greetings to each silent grave,<br />
+And while those lofty poplars* gently wave<br />
+Their tops, between them comes and goes a sky<br />
+Bright as the glimpses of eternity.
+To saints accorded in their mortal hour.”</span></p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>†    These seats were removed in 1855 when the Church was
+re-pewed.</p>
+<p>** The churchyard has lately been planted and levelled.</p>
+</div>
+<p>When the above lines were written the Rectory garden came up to the
+north side of the Church, and was only parted from the churchyard by a
+sunk fence. The Rectory itself is a well built and picturesque-looking
+gabled house, said to be a good specimen of the parsonages of days
+gone by, From the appearance of the ground upon the north and west
+side, there must at one time have been good fish­ponds on the
+premises. Since Mr. Hodgson's report in 1877 there has been a most
+strenuous effort headed by the venerable Rector (Dr. Stephenson) and
+his family, to carry out all the improvements it was possible to
+make. For the organ, which is a very good one, the parish is also
+mainly indebted to the liberality of the Rev. Dr. Stephenson, The
+hideous gallery (partly erected in 1815), which blocked out the
+massive Norman arch leading into the tower and two of the best windows
+in the aisle, has been completely swept away. The pillars and arches
+in the nave have been scraped, and the whole building has undergone a
+thorough cleansing and colouring, and the following gifts and
+additions, as may be seen from entries added to the Register of 1688,
+by Dr. Rotton, have been made to the church.‡</p>
+<p>I. A new altar of pitch
+pine, with oak top (made at Oxford).</p>
+<p>II. Crimson cloth for the same. III.</p>
+<p>Covering of crimson cloth, silk fringed.</p>
+<p>IV. Polished brass cross (given by Mr. J. Cobbin)</p>
+<p>V. Four flower vases of polished brass.</p>
+<p>VI. Two polished brass candlesticks, each hold­ing five
+lights.</p>
+<p>VII. Large eastern window curtain, serving at present as
+reredos.</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>* These poplars, which stood in a field, now occupied by
+ Mr. Hurlstone, were cut down some years ago.</p>
+<p>‡ A list of these was
+shown to, and approved of, by the Rural Dean, on his official
+visitation Oct. 1880.</p>
+</div>
+<p>VIII. A pair of crimson dorsal curtains, suspended from polished
+brass rods.</p>
+<p>IX. Polished brass service, Desk for the altar, and
+Service book bound in morocco.</p>
+<p>X. Two sets of altar linen, one plain,
+the other  of finest double damask (figured).</p>
+<p>XI. Book of Common
+Prayer, half-calf Red Rubric and Lection­ary, (Dr. Rotton).</p>
+<p>XII. A
+Bible Morocco-bound, Whit Sunday, 1881. (J. H. &amp; A. P. G.)</p>
+<p>XIII. Curtains of Crimson Felt, fixed behind the great Western arch,
+as well for ornament as for use.</p>
+<p>XIV. September 14, 1880, three
+Vitre­maine glass lights, “The Virgin and Child,” “The Cruci­fixion,” and
+“CHRIST, the King of Glory,” were placed in the Chancel window (by
+Dr. Rotton), also a small single light, “St. Peter,” in the
+Tower. (J. H. G.)</p>
+<p>XV. An Oak Lectern, presented by Dr. Rotton. And in
+the autumn of 1881 a handsome oak door was put up, at considerable
+expense, by subscription, in the Porch.</p>
+<p>The list of vessels for the
+Holy Communion, belonging to St. Mary's, Souldern (Aug., 1880), is as
+follows:―</p>
+<p>I. Pure Silver Flagon, given Christmas Day, 1879, by
+J. H. Gough, Frederick Stanton, and George Stratton, Esqrs.</p>
+<p>II. Pure
+Silver Paton (a thank-offering, August, 1880).</p>
+<p>III. Silver electro water cruet (Dr. Rotton).</p>
+<p>The original holy vessels, made of the white
+silver of former days, are—</p>
+<p>I. A pure Silver Paton of 1634.</p>
+<p>II. A pure
+Silver Chalice, old and roughly made but of the very best silver.</p>
+<p>The
+following is an inventory of church goods, etc., removed from the
+church of Souldern in the 6th Edward WI. : – “Exchequer, 2 R, Church
+Goods, 4 (A 5), Oxford, Parish of Souldern, file 7-155, No. 21. This
+inventory, indented, made the 2nd day of May, in the sixth year of the
+reign of our Soverign Lord King Edward the 6th, of all the goods, plate,
+jewels, and other ornaments, pertaining to
+the Parish Church of Souldern, in the county of Oxford. between Sir
+William Reynolds, knight, Thomas Breedy and Thomas Cowsford, amongst
+others, commissioners appointed in the said county, for the survey of
+the said goods with the premises of the one part, and Thomas Bond and
+Thomas Symes of Souldern aforesaid of the other part: Witnesseth that
+all the goods and other premises hereafter written belonging to the
+said church were committed by the said commissioners to the custody of
+Thomas Bond and Thomas Symes, with the sure undertaking that they will
+at all times be forth remaining and to be answered:&amp;mdashl In primus, three
+pair of vestmemts of satin of Bridges (Bruges); item, six pair of
+white vestments or satin of Bridges, and the other white fustian;
+item, one chalice of silver parcel gilt; item, six copes of satin of
+bridges; item, six candle­sticks of brass; item, one censor; item, six
+bells and a sanctus bell.”</p>
+<p>“True copy of au extract found in ‘the
+Public Record Office,” received by me at Banbury, 12th April,
+1879.</p>
+<p>John Edward Wharton Rotton, D.D. LL.D., Curate-in-charge of
+Souldern.<br />
+Souldern Rectory, April 16, 1879.’</p>
+<p>We cannot conclude this
+short description of the church and its belongings without expressing
+a fer­vent hope that at no distant period the Master and Fellows of
+St. John's, Cambridge, patrons of this valuable living since the reign
+of James I., will liberally contribute towards the rebuilding of the
+fine and well proportioned old chancel, destroyed at the beginning of
+the century by one of their own body, who was allowed by them to erect
+the present mean and paltry substitute without let or
+hindrance.</p>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-Monumental-Inscriptions-in-The-Church."></a>Monumental Inscriptions in The Church.</h3>
+<p>The following
+notices are all that remain of the Bignells, who for many years were
+landowners in Souldern–</p>
+<p>Elizabeth died, March 10th, 1700</p>
+<p>Mary died April 30th, 1708</p>
+<p>Jane died August 13th, 1713</p>
+<p>(See Rawlinson, B 400.)</p>
+<p>There is still a slab over the south door of the church with this
+inscription:—“Underneath this aisle lie interred the remains of the
+Bignell family for many generations past. This stone is erected to
+record also the interment of Thomas, son of Thomas and Mary Bigmell,
+who died April 7, 1796, aged 71 years; and of Sarah, his wife, who died
+March 5th, aged 72 years.”</p>
+<p>Bowers, John, died 5th October, A.D., 1611
+William and Sarah, September 3rd, 1620 Anne, daughter of the above
+Wm. and Sarah, died March 5th, 16— (date erased)</p>
+<p>Buchanan, Lydia, the
+elder daughter of John Hill, of Manchester, and Mary, his wife, died
+19th May, 1879, aged 80 years. This monument is erected by her nephew,
+John Hill Gough</p>
+<p>Colgrave, Elizabeth, died February 26th, 1712
+(Rawlinson, B, 400.)</p>
+<p>Dodwell, Thomas, fourth son of Richard Dodwell,
+of Oxford, and Anne, his wife, died 3rd January, 1624</p>
+<p>Winifred, 1669
+(copied from the Souldern Register)</p>
+<p>John died, February 3rd, 1669</p>
+<p>Isabella, died May 21st, 1680</p>
+<p>Philip (Senex de Litt Oxoniensis), died
+Feb. 4th, 1683 Joannes (senex), Oct. 11th, 1683</p>
+<p>Thomas, infant son of
+Richard and Anne, died January 4, 1695</p>
+<p>Thomas, senex olim ministarius
+negociatus, sepultons September 16, 1704, and</p>
+<p>“Here lyeth the body of
+Mary, wife of John Dodwell, gent, died March 14, 1702, aged 67. Also,
+the said John Dodwell, April 4th, 1723, aged 82 years; and Mary, his
+second wife, June, 1720, aged 70.”</p>
+<p>§Gough on a stone slab now (1880)
+placed in the Tower, are the following lines to the
+memory of Ferdinando Gough, “F. F. and G.”</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>§ in the “Beauties of England and Wales” by Brewer, published
+ 1810,there is the following notice: “In this church are buried
+ several of the family of Gough among whom are Ferdinando, who died 1664,
+ and father, who died 1648. Several of this family are likewise
+ interred in the church of Upper Heyford, or Heyford Warr
+ n. Richard Gough died March 20th, 1638. (Rawlinson, B 400, c.)</p>
+</div>
+<p style="text-indent:0em">“Friend, here thou seest my body in earth,<br />
+And how my life is now cut off by death;<br />
+ But know my roule is now at rest with Him,<br />
+Who from everlasting death did it redeem.<br />
+'Twill not be long before that thou must dye,<br />
+ And then in grave thyself must also lye:<br />
+ Be wise now, therefore, while that thou hast tyme,.<br />
+ That grave, and CHRIST, and glory may be thine.<br />
+ Thyself deceive not with a Christian name,<br />
+Unless thou also be in heart the same.<br />
+ Love GOD in truth, believe in CHIRIST His Sonne,<br />
+Bid farewell sin, let vayne delight be gone,<br />
+ To be for heaven now while thou can,†<br />
+ Set on the work, and then, O happy man !<br />
+ 1664</p>
+<p>Ferdinando Gough, buried January 23rd, 1671,</p>
+<p>Elizabetha (infans), March 13th, 1671</p>
+<p>Sarah (virgo), sepult May 29th, 1684</p>
+<p>Richard Gough, gent, died May 13, 1717</p>
+<p>‡Sarah, his wife, March 12th, 1755, aged 68.</p>
+<p>Drope Gough, Esq., who departed this life, 3rd February, 1761 Ann, his
+wife, who died 5th July, 1793, aged 76. Also to the memory of Mary,
+daughter of the said Drope Gough and Ann, his wife, widow of the
+Rev. Henry Gabell, formerly rector of Standlake in this county; she
+died Nov. 1810, aged 71</p>
+<p>(These inscriptions appear upon two united
+diamond-shaped marble tablets now placed over the pulpit.)</p>
+<p>“In
+memory of Elizabeth, daughter of Richd. Gough, by Sarah, his wife, who
+died 1772, aged 61 (A portrait of this, lady, and a prayer book belonging
+to her are still in possession of the family.)</p>
+<p>There are also
+inscriptions, on stones in the south aisle, to Richard, Francis, and
+William Gough (dates illegible).</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>† This line is somewhat difficult to decipher.</p>
+<p>‡ Sarah Eeles, see pedigrees.</p>
+</div>
+<p>On a slab above the present family
+pew, “erected by Mrs. Mary Louge as a memorial
+of her affection,” are the following names:—</p>
+<p>Richard Drope Gough, Esq., died May 18, 1818, aged 63</p>
+<p>Ann, his widow, obt. December 7th, 1825, aged 69</p>
+<p>Mary, their daughter, obt. March 14th, 1792, aged 10</p>
+<p>Harriet, their daughter, obt. July 10th, 1803, aged 16</p>
+<p>And three of their children, who died in infancy</p>
+<p>Francis Penrose, obt. Nov. 11th, 1796, aged 52</p>
+<p>Sarah, his widow, sister to the above R. D. Gough, died March 7, 1814, aged 72</p>
+<p>Immediately under this is a carved marble and stone monument, to the
+memory of John Moxon Hill, the only child of John Hill Gough, and Anne
+Penrose, his wife, born June 4th, 1871, died October 8th, 1875</p>
+<p>And
+nearer the porch a tablet to the memory of Sarah Drake (daughter of
+Francis and Sarah Penrose) who departed this life January 22nd, 1852,
+aged 74 years, relict of the late Mr. John Drake, of Woburn, Beds</p>
+<p>Other members of the Gough family lie buried on the north side of the
+church, where there are memorial slabs to the memory of Richd. Drope
+Gough, Esq. (eldest son of the above R. D. Gough and Ann, his wife),
+who died July 12th, 1838, aged 58 years</p>
+<p>Caroline, his sister,
+obt. July, 1836, aged 38, and Emma, his sister, died July 12, 1855,
+aged 67</p>
+<p>Charles Gough (brother of the above), who died November 3rd,
+1863, aged 70, and Sarah (younger daughter of John Hill, of
+Manchester), his wife, December 30th, 1807, aged 67</p>
+<p>A monument has
+recently been erected to the memory of Sarah and Louisa, the last
+surviving daughters of R. D. Gough (the elder). Louisa died January
+30th, 1880, aged 82; and Sarah, January 26th, 1882, in the 88th year
+of her age</p>
+<p>Hill—The Hill family are buried on the south side
+of the churchyard</p>
+<p>Hurlstone—“In memory of Caroline Ada, daughter of
+Michael and Ann Hurlstone, 5th January, 1846, aged 7 years and nine
+months;” also, “In memory of Thomas Herbert, son of Thos. Page and
+Elizabeth Hurlstone, who was drowned on his return from the west coast
+of Africa, aged 28.”</p>
+<p>Kilbye and Cox―“Francis Kilbye died Dec. 1672;
+Richard, September 11, 1693, ætatis suæ, 84. Requiescat in
+pace. Amen”</p>
+<p>Alice, or Alicia, wife of Richard Kilbye, gent, died December 1st,
+1714, aged 66</p>
+<p>Also of Annette, wife of Robt. Kilbye, gent, who died
+September 3, 1714, aged 34 </p>
+<p>Here lyeth the body of Robert Kilbye, gent,
+who died March 12th, 1757, aged — years</p>
+<p>Here lyes the body of William
+Reynolds (gent) son of Alice Raynolds, who departed this life February
+ye 23rd, 1718, aged 71</p>
+<p>(This William Reynolds was the brother of Alice
+Kilbye, wife of Richard Kilbye, who died in 1714, aged 66. The
+family of Reynolds resided at Cassington, which property they received
+from Queen Mary (Tudor). They originally came from Pinhoe in
+Devonshire). Another of the Reynolds family married a Penrose.</p>
+<p>Here
+lyeth the body of A. Cox, daughter of Richard Kilbye, who departed
+this life on the 7th April, 1729.  ætatis suæ, 53</p>
+<p>And here lyeth the
+body of Helen Bleven, who departed this life on the 3rd day of Oct.,
+in the year of our Lord, 1765, aged 60 years</p>
+<p>Mitchell—Here lyeth the
+body of Edward Mitchell, who departed this life the – day of Jan.,
+Anno Domini, 1753, aged 74</p>
+<p>(The above Kilbye and Mitchell inscriptions
+were copied when the church was re-pewed in 1852-3, by Mr. Hoare, then
+schoolmaster, and kindly sent to us in 1880, by George Dolman,
+Esq.</p>
+<p>Minn—William and James Minn, elsewhere mentioned in these notes
+as benefactors to the school, are buried in the churchyard, but
+there are two monuments in the church to members of their family,
+which read as: follows:–</p>
+<p>“Sacred to the memory of William James Minn,
+son of Robert and Hannah Mimn, of Shrewsbury, who perished at sea in
+the night of the 19th June, 1849, in 30, south latitude, and 10° 30",
+west longitude, aged 18 years and 10 months, to the great grief of all
+who knew him.” Also,</p>
+<p>To the memory of James Minn, soldier, brother of
+the above-named Robert Minn. He likewise died at sea on his voyage to
+Canada, in the year 1831, aged 44 years. He served 14 years in the
+Hussars, under the Marquis of Anglesey, and two years in the
+Peninsula, in the 3rd Regiment of Lancers, and had an honourable
+discharge from both Regiments. His first action was “Corunna,” his
+last “Waterloo.” “The sea shall give up her
+dead.”</p>
+<p>Rousby—James Henry, son of James Edwards Rousby, Esq., and Caroline his wife. He
+died 18th October, aged 5 years</p>
+<p>Tabram— “To the memory of James
+Frederick Tabram, born 21st March, 1834, died 23rd Nov., 1838 (nephew
+of the Rev. Dr. Stephenson).</p>
+<p>Weedon—As will be seen hereafter the
+Weedons purchased the Manor of Souldern from the descendents of the
+Throckmortons, and bequeathed the same to Samuel Cox, in 1710</p>
+<p>The
+following members of the Weedon family appear to have been buried in
+the church:―</p>
+<p>Bernard Weedon, 1679</p>
+<p>Ignatius Weedon, 1683</p>
+<p>Mary Weedon, widow, 1689</p>
+<p>Frances Weedon, widow of John Weedon, Esq., 1701</p>
+<p>The said John Weedon, 1702</p>
+<p>Elizabeth, wife of Bernard Weedon, jun., 1708</p>
+<p>John Weedon, Esq., 1710</p>
+<p>Bernard Weedon, 1713</p>
+<p>Mary Weedon, 1728</p>
+<p>William Weedon, 1741</p>
+<p>And Widow Weedon, 1744</p>
+<p>Nearly all the Weedons seem to have been
+Roman Catholics. Their monuments may still be seen near the north
+door. One of them has the Weedon arms carved as an escutcheon empaled
+with the arms of the wife</p>
+<p>There is another stone on the other side of
+the church, with the names of Weedon and Gough upon it</p>
+<p>Westcar—The
+Westcars are also mentioned further on in these notes, as being
+benefactors to the parish. Of this family the following are uried in the
+church :―</p>
+<p>Samuel died May 11, 1793, aged 33</p>
+<p>Thomas died March 1, 1809, aged 53</p>
+<p>Mary died June 20, 1793, aged 35</p>
+<p>Elizabeth died March 31, 1820, aged 65</p>
+<p>Children of Thomas Westcar (gent) and Elizabeth his wife</p>
+<p>Thomas Westcar (gent) died Sept. 27, 1788,</p>
+<p>Elizabeth, his wife,
+Aug. 10, 1805, aged 88</p>
+<p>Mr. John Rowland Crook is the only descendant
+of the Westcar family now living in the parish, though we believe Hill
+House Farm is still possessed by another branch</p>
+<p>Nearly all the rectors
+are buried in the chancel. The first in date is on a brass recently
+restored by Dr. Rotton :—</p>
+<p>“Of your charitie py for the soul of Maister
+Thoms Warn, late pson. of this Church, which decesed XI. die Apl,
+anno, —.”*</p>
+<p>There is a full length effigy of the priest in his vestments</p>
+<p>Hardinge—“Here lies interred the body of the learned and Reverend
+Thomas Hardinge, Batchelor of Divinity. Sometime one of the Masters of
+Westminster School, commonly called the Grecian, from his excellency
+in that tongue. Rector of Soulderne 26 years, and author of the great
+Ecclesiastical Historie. His better monument he erected himself
+where his memorie and his successors live together in the faire
+parsonage house, where he was not only emiuent for his holy and pious
+conversation, but by his hospitality and charitie. His epitaph is
+legible in the last volume of his works. He suffered his mortal change
+October 10th, 1648, in the time of the Great Revolution, and change in
+Church and State, living and dying himself in the same constancy of
+obedience, a true son of the church and professor of the aneient
+catholique faith. Anima mea cum patribus.” Mr. Hardinge's armorial
+bearings are engraved on the monument.</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>* This date is somewhat difficult to make out, but seems to be 1514.</p>
+</div>
+<p>Twyne―“Here lieth the body of Mr. William Twyne, for divers years
+fellow of St. John's College, in Cambridge, Batchelor in Divinity, and
+Rector of this church, whose exemplary convers­ation in both places,
+for solid lear­ning and true piety, deservedly recom­mended him to the
+imitation of others. He de­parted this life the last day of January,
+1665, and in the 41st yeare of his age.”</p>
+<p>Turner—Bryanus Turner, died
+Feb. 20th, 1697, and was buried, Feb. 22nd, 1697 Also two of his
+sons, 1696―1697</p>
+<p>Shaw—“Here lies the body of Jeffery Shaw, B.D., Rector of
+this Clurch, who fell down dead while he was reading divine service
+therein ou Sunday, Nov, 17th, 1706. ‘Blessed_is that servant whom the
+LORD when He cometh shall find so doing.’”</p>
+<p>Russel1—“M. T. Reverendi viri Joannis Russell, S. T. B. Divi Joan. Evangel
+apud Cantab Socii Deui Nujas Parochiæ Amiros, ultra 36 rectoris, qui
+obiit 5 die memsis Martii, ano., salutis,1791 ; ætatis, 84”<br />
+“Juxta
+jacet, Elizabetha, J. R. uxor, quœ obiit, die 26, m Martii, anno,
+salutis, 1791 ; ætatis, 84”</p>
+<p>Horseman―“Rev. John Horseman, B.1)., June
+25, 1800, aged 73, and, Ursula, wife of the Revd. John Horseman,
+Rector of Souldern, died April 19, 1803, aged 65 years”</p>
+<p>†Throckmorton—In the chancel is another brass
+ consisting of a heart supported by two hands, with three scrolls
+ issuing from the heart. The following words are written on the
+ scrolls :―“Credo quod Redemter meus vivit et in novissimo die de tra
+ surrectur su et in carne mea videbo Deu Salvatore meu.” In­scribed
+ upon the heart are the words, “Jhu mcy.”; and below the brass, “Here
+ lyeth buryed John Throckmorton the son of Hugh Throckmorton (gent)
+ by Elizabeth his wife, who died 6th October, in the year of our Lord,
+ 1537.” With re­ference to this interesting brass, we have been
+ favoured with the copy of a letter from the Rev. Henry Burgess to
+ Dr. Rotton, in which it is said that “hearts are usual on brasses
+ before the Reformation, and held in hands. They are sometimes
+ inscribed with ‘Mercy,’ or ‘Jesu mercy' (as at Souldern). The passage
+ from Job xix., 25, 26, is frequently found in connection with the
+ heart, the latter being inscribed  “Crelo,” and the scrolls, three in
+ number, continuing the text. Sometimes the heart is held by two hands
+ issuing from clouds (as at Souldern also). It is said that such
+ memorials indicated that the deceased was enabled to perform a vow
+ which he had made, but better still, I think they are intended to
+ embody the ancient invitatory ‘sursuin corda,’ and to express a firm
+ trust in the promises of GOD. I am also told that the heart was often
+ interred in a different church from that in which the body was
+ buried.”</p>
+<p>The attention of the present baronet, Sir Nicholas William
+ Throckmorton, having been called in 1881 to the dilapidated state of
+ this interesting family memorial, he at once caused it to be
+ perfectly restored, The only remaining monument to be noticed is another brass (also in the chancel) being the
+ effigy of a girl of apparently 16 or 17 years. This has been recently
+ polished and re-placed by the direction, and at the ex­pense of,
+ Dr. Rotton. (1882.)</p>
+<div style="border:solid black thin;text-indent:0em;font-size:90%">
+<p>† For the first part of this notice we are indebted to
+  George Dolman, Esq.</p>
+</div>
+<h3 style="text-indent:0em;text-align:center"><a name="TOC-Church-Register."></a>Church Register.</h3>
+<p>For the present condition of the earliest existing Register, the
+Parish is much indebted to Dr. Rotton. It contains—</p>
+<p>“Briefs” from A.D. 1668 to Michaelmas, 1771</p>
+<p>Baptisms from June 1668 to March 1741</p>
+<p>Marriages from Feb. 21, 1668 to April 14, 1741</p>
+<p>Burials from September 14, 1669 to June 17, 1742</p>
+<p>The Briefs appear principally to have been
+directed to the relief of the following—</p>
+<p>French and Irish Protestants</p>
+<p>The Slaves of Algiers</p>
+<p>The Restoration of Cathedrals and Churches</p>
+<p>Losses by Fire</p>
+<p>Sufferers from Shipwreck</p>
+<p>But the French Protestants
+seem to have been the favourite objects of charity, for in a brief of
+the 2nd May, 1686, we find the sum of £3 3s. 11½d. collected for
+them. Whilst on the 27th May, 1706, the brief for the reformed
+Episcopal Church in Polish Russia only amounted to 4s. 6d.</p>
+<p>The
+following is a copy of one of these collections about the year
+1732. For Llandaff Cathedral, charge £63,666 and upwards—</p>
+<table>
+<tbody>
+<tr>
+<td> <br />
+</td>
+<td>s. d.</td>
+<td> <br />
+</td>
+<td>s. d.</td>
+</tr>
+<tr>
+<td>Mr. Killby ......... </td>
+<td>0 6</td>
+<td>Will. Bower ...... </td>
+<td>0 2</td>
+</tr>
+<tr>
+<td>Mr. King.... </td>
+<td>1 0</td>
+<td>Ed. Hyatt. </td>
+<td>0 2</td>
+</tr>
+<tr>
+<td>Mr. Mitchell . </td>
+<td>0 6</td>
+<td>Will. C. </td>
+<td>0 2</td>
+<td><br />
+</td>
+</tr>
+<tr>
+<td>Mr. Gough ...... ... </td>
+<td>0 6</td>
+<td>Giles ... ... </td>
+<td>0 1</td>
+</tr>
+<tr>
+<td>Robt. Bignold...... </td>
+<td>0 2</td>
+<td>Jno. Marshall ...... </td>
+<td>0 1</td>
+</tr>
+<tr>
+<td>Thomas Young ... </td>
+<td>0 2</td>
+<td>Will Hill .... ... </td>
+<td>O 2</td>
+</tr>
+<tr>
+<td>Will. Philips ...... </td>
+<td>0 2</td>
+<td>James Aris ......... </td>
+<td>0 2</td>
+</tr>
+<tr>
+<td>Dod. Colegrave... </td>
+<td>0 1</td>
+<td>E. Walker (curate) </td>
+<td>0 2</td>
+</tr>
+<tr>
+<td>James French ...... </td>
+<td>0 1</td>
+</tr>
+</tbody>
+</table>
+<p>Baptisms –In
+the list of Baptisms the names of Heritage, Bignoll, Barrett, Rogers,
+Hyett, Freeman, East, Bates, Colegrave, Bennett, Gough, Paynton,
+Weedon, and Bower, frequently appear, There are two entries, one of
+August 9, 1709.
+“baptised Montague, son of William Drake, Esq.,” and the other of
+April 18th, 1713, “Adria, daughter of William Drake, Esq.” How the
+said William Drake was connected with Souldern we do not know.</p>
+<p>The
+order for burying in woollen appears as follows—“Act for burying in
+Woollen, only to be read ye first Sunday after St. Bartholomew every
+year for seven years, commencing 1678. Contents of it ar. —</p>
+<p>I. That ye minister register all burialls.</p>
+<p>II. That some relaion or credible
+person make affidavit in eight days before some Justice yt. no manner
+of stuff wheoever but of sheep's wool only be about in the coffin
+(or about ye body of ye in­terred) and bring ye affidavit to ye minister
+who shall register ye same.</p>
+<p>III. If no sure affidavit wf. in eight
+days be brought to ye minister, hee forthwith to give notice or cause
+notice thereof to be given, under his hand to ye church­wardens or
+over­seers of ye poor, who shall in 8 daies after repayr to ye Justices
+who shall forthwith grant warrant for ye forfeiture, whereof one
+moiety to ye poor, ye other to ye in­former (and that surely is ye
+minister).</p>
+<p>IV. If ye Minister, Churchwardens, Overseers, Justices,
+neglect their forsd. respective duties, are to forfeit Five Pounds,”
+and so on.</p>
+<p>Elizabeth Horn, the first buried under these regulations,
+September 15, 1678.</p>
+<p>There seems to have been a breach of this Act in
+the following case—Sarah Gough, virgo, sepult May 29, 1684. “No
+affidavit brought on the 6th June to John Dodwell, church­warden,
+Soldern, or any shown (?) to Mr. King.”</p>
+<p>“This certificate is to inform
+yt, no affidavit has been brought to mee within ye titne linnited by
+ye Act of Parliament for burying in woollen, concerning Mrs. Sarah
+Grough being interred according to ye direction thereof. Witness my
+hand this 7th of June, 1684. B. T. (Bryan Turner, rector.)”</p>
+<p>In 1685,
+we find the entry—“Johannis Horne, adolescens buried according to the
+rites of the Anglican Church,“ and this notice occurs again in the
+following—</p>
+<p>Thomas Lepington, Oct., 1687</p>
+<p>Maria Weedon, Nov., 1689</p>
+<p>Ricardus Kilby (armiger), 1693</p>
+<p>Mortuaries.—A mortuary is defined as a sort of Ecclesiastical
+heriot, a customary gift claimed by, and due to the minister of a
+parish on the death of a parishiomer. Such claims are allowed and
+prov­ided for under the 21st, Henry VIII., c. 6, and have not been
+interfered with by the 43rd and 44th Vic., c. 41; but were formerly
+claimed and paid at Souldern. See p. 55 of the old Register, where,
+under the head “Mortuuries” is written—</p>
+<p>Hee or shee yt, deceaseth worth
+ten s. d.</p>
+<p>marks paies ........................ 3 4</p>
+<p>If worth 30 pounds in mouvable goods paies 6 8</p>
+<p>If worth 40 pounds in mouvable goods paies 10 0</p>
+<p>21st Henry VIII., 6.)</p>
+<p>No woman being covert Baron paies
+any mortuary; nor child, nor person not keeping house, nor way­faring
+person, nor non-resident.</p>
+<p>Accordingly, s. d.</p>
+<p>Thos. Dodwell for his
+sister Isabel paid 3 4</p>
+<p>Mrs. Kilby for her husband ... 10 0</p>
+<p>John Weedon, for his father ... 10 0</p>
+<p>Ferdinando Gough, for his sister, Sarah ... .. 3 4</p>
+<p>Mr. Drope, for his father ................... ... ... 10 0</p>
+<p>Shreeve Paynton, Esq., for his father, Dodwell 10 0</p>
+<p>This Shreeve Paynton's son
+Richard seems to have married one of the Dollys, of Souldern, and
+their daughter, christened “Dolly,” espoused “Francis Pigott,
+impropriator of the church of Banbury, third son of John Pigott, of
+Windsor, by Isabella, heiress of Thomas Gillery, a Colonel in the army
+of King William” (see monuments in Banbury Church). The only son and
+child of the aforesaid Francis and Dolly, “Paynton Pigott," who
+afterwards took the names of “Stainsby Conant,” married Lucy, fourth
+daughter of Richard Drope Gough, and left a numerous family. His
+eldest son, “Francis Pigott Stainsby Conaut was member for Read­ing,
+and governor of the Isle of Man.” Another son, “Sir Gillery,” also
+member for Read­ing, was Recorder of Hereford and one of the Barons of
+Her Majesty's Court of Exchequer.</p>
+</div>
+<div style="background-color:rgb(222,237,237)">
+<a href="https://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-ii" style="float:left">Chapter II</a>
+<a href="https://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-iv" style="float:right">Chapter IV</a>
+<p style="text-align:center">NOTES on SOULDERN</p>
+</div></div></td></tr></tbody></table>
+</div> 
+</div> 
+<div id="sites-canvas-bottom-panel">
+<div id="sites-attachments-container">
+</div>
+</div>
+</div> 
+</td> 
+</tr>
+</table> 
+</div> 
+</div> 
+<div id="sites-chrome-footer-wrapper">
+<div id="sites-chrome-footer-wrapper-inside">
+<div id="sites-chrome-footer">
+</div>
+</div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-adminfooter-container">
+<div xmlns="http://www.w3.org/1999/xhtml" class="sites-adminfooter" role="navigation"><p><a class="sites-system-link" href="https://accounts.google.com/ServiceLogin?continue=https://sites.google.com/site/souldernuk/history/notes-on-souldern-1882/1882-notes-chapter-iii&amp;service=jotspot">Sign in</a><span aria-hidden="true">|</span><a class="sites-system-link" href="https://sites.google.com/site/souldernuk/system/app/pages/reportAbuse" target="_blank">Report Abuse</a><span aria-hidden="true">|</span><a class="sites-system-link" href="javascript:;" onclick="window.open(webspace.printUrl)">Print Page</a><span aria-hidden="true">|</span><span class="sites-system-link">Powered By</span> <b class="powered-by"><a href="http://sites.google.com/site">Google Sites</a></b></p></div>
+</div>
+</div> 
+</div> 
+<div id="sites-chrome-onebar-footer">
+</div>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('sjl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://ssl.gstatic.com/sites/p/d3dcac/system/js/jot_min_view__en_gb.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    window.jstiming.load.tick('jl');
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+                    sites.Searchbox.initialize(
+                        'sites-searchbox-search-button',
+                        {"object":[]}['object'],
+                        'search-site',
+                        {"label":"Configure search options...","url":"/site/souldernuk/system/app/pages/admin/settings"});
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+      gsites.HoverPopupMenu.createSiteDropdownMenus('sites-header-nav-dropdown', false);
+    </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+            JOT_setupNav("5119576823660671", "Navigation", false);
+            JOT_addListener('titleChange', 'JOT_NAVIGATION_titleChange', 'COMP_5119576823660671');
+          </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+  setTimeout(function() {
+    var fingerprint = gsites.date.TimeZone.getFingerprint([1109635200000, 1128902400000, 1130657000000, 1143333000000, 1143806400000, 1145000000000, 1146380000000, 1152489600000, 1159800000000, 1159500000000, 1162095000000, 1162075000000, 1162105500000]);
+    gsites.Xhr.send('https://sites.google.com/site/souldernuk/_/tz', null, null, 'GET', null, null, { afjstz: fingerprint });
+  }, 500);
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml">
+                    window.onload = function() {
+                      if (false) {
+                        JOT_setMobilePreview();
+                      }
+                      var loadTimer = window.jstiming.load;
+                      loadTimer.tick("ol");
+                      loadTimer["name"] = "load," + webspace.page.type + ",user_page";
+                      window.jstiming.report(loadTimer, {}, 'https://gg.google.com/csi');
+                    }
+                  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+        JOT_insertAnalyticsCode(false,
+            true);
+      </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    var maestroRunner = new gsites.pages.view.SitesMaestroRunner(
+        webspace, "en_GB");
+    maestroRunner.initListeners();
+    maestroRunner.installEditRender();
+  </script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript" defer="true">
+  //<![CDATA[
+    // Decorate any fastUI buttons on the page with a class of 'goog-button'.
+    if (webspace.user.hasWriteAccess) {
+      JOT_decorateButtons();
+    }
+
+    // Fires delayed events.
+    (function() {
+      JOT_fullyLoaded = true;
+      var delayedEvents = JOT_delayedEvents;
+      for (var x = 0; x < delayedEvents.length; x++) {
+        var event = delayedEvents[x];
+        JOT_postEvent(event.eventName, event.eventSrc, event.payload);
+      }
+      JOT_delayedEvents = null;
+      JOT_postEvent('pageLoaded');
+    })();
+  //]]>
+</script>
+<script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
+    JOT_postEvent('decorateGvizCharts');
+  </script>
+<script type="text/javascript">
+          JOT_setupPostRenderingManager();
+        </script>
+<script type="text/javascript">
+          JOT_postEvent('renderPlus', null, 'sites-chrome-main');
+        </script>
+<script type="text/javascript">
+          sites.codeembed.init();
+        </script>
+<div id="server-timer-div" style="display:none"> </div>
+<script type="text/javascript">
+          window.jstiming.load.tick('render');
+          JOT_postEvent('usercontentrendered', this);
+        </script>
+</body>
+</html>
