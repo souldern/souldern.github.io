@@ -10,20 +10,7 @@
         gtag('js', new Date());
         gtag('config', '{{ site.google_analytics }}');
       </script>
-      {% endif %}
-
-            <script>
-  (function() {
-    var cx = '012439869432470945129:cu9cowbnwgi';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-
+    {% endif %}
     <meta charset="UTF-8">
 
 {% seo %}
@@ -39,6 +26,19 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <div>
+	<script>
+  (function() {
+    var cx = '012439869432470945129:cu9cowbnwgi';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+	</script>
+	<div>
       <gcse:search></gcse:search>
       
       {% if site.github.is_project_page %}
