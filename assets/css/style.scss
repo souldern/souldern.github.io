@@ -19,5 +19,5 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 
 
 @media screen and (min-width: 40em) {
-    div.threecol > div {width: 30%;  display: inline-block;}
+    div.threecol > div {width: 30%;  display: inline-block; vertical-align:top;}
 }
