@@ -60,14 +60,6 @@
     {% assign next-title = "" %}
     {% assign next-page = "" %}
     
-    {% for thispage in m-titles %}
-    {% unless forloop.last %}
-    {% if page.title == thispage %}
-    {% assign next-title = m-titles[forloop.index | plus: 1 ] %}
-    {% assign next-page = m-pages[forloop.index | plus: 1 ] %}
-    {% endif %}
-    {% endunless %}
-    {% endfor}
 
     <p>next: {{ next-page }} - {{ next-title }}</p>
     
