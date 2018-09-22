@@ -29,7 +29,7 @@ Beginning Sunday 24th April 2016<br />
   {%- assign sorted = site.pages | sort: 'date'  | where_exp:"item","item.category contains 'ssannounce'" | reverse -%}
   {%- for page in sorted limit:3 -%}
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
-    <blockquote style="background-color:yellow">
+    <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
 	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 40 }}
