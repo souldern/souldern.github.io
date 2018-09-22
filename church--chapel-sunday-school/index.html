@@ -32,7 +32,9 @@ Beginning Sunday 24th April 2016<br />
     <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 
 {% if page.content contains '<img ' and page.content contains '/>' %}
-	<img {{ ((page.content | split:'<img ' | last) | split: '/>' | first) }}/>
+<div style="float: left">
+  <img {{ ((page.content | split:'<img ' | last) | split: '/>' | first) }} style="height: 3em;"/>
+  </div>
 {% endif %}
 
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
