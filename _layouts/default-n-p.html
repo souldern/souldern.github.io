@@ -71,8 +71,9 @@
     {% endunless %}
     {% unless forloop.first %}
     {% if page.title == thispage %}
-    {% assign prev-title = m-titles[forloop.index | minus: 2 ] %}
-    {% assign prev-page = m-pages[1] %}
+    {% assign prev-index = forloop.index | minus: 2 %}
+    {% assign prev-title = m-titles[ prev-index ] %}
+    {% assign prev-page = m-pages[1 prev-index] %}
     {% endif %}
     {% endunless %}
     {% endfor %}
