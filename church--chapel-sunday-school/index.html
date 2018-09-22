@@ -31,6 +31,10 @@ Beginning Sunday 24th April 2016<br />
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 
+{% if page.content contains '<img ' and page.content contains '/>' %}
+	<img {{ ((page.content | split:'<img ' | last) | split: '/>' | first) }}/>
+{% endif %}
+
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
 	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 40 }}
 {% else %}
