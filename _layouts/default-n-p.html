@@ -63,8 +63,9 @@
     {% for thipage in m-titles %}
     {% unless forloop.last %}
     {% if page.title == thispage %}
-    {assign next-title = m-titles[forloop.index | plus: 1 ]
-    {assign next-page = m-pages[forloop.index | plus: 1 ]
+    {% assign next-title = m-titles[forloop.index | plus: 1 ] %}
+    {% assign next-page = m-pages[forloop.index | plus: 1 ] %}
+    {% endif %}
     {% endunless %}
     {% endfor}
 
