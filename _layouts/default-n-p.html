@@ -60,7 +60,7 @@
     {% assign next-title = "" %}
     {% assign next-page = "" %}
     
-    {% for thipage in m-titles %}
+    {% for thispage in m-titles %}
     {% unless forloop.last %}
     {% if page.title == thispage %}
     {% assign next-title = m-titles[forloop.index | plus: 1 ] %}
