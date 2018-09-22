@@ -18,6 +18,6 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 /* divs replacing tables */
 
 
-@media screen and (min-width: 85em) {
-    div.threecol > div {width: 33%;  display: inline-block}
+@media screen and (min-width: 40em) {
+    div.threecol > div {width: 30%;  display: inline-block;}
 }
