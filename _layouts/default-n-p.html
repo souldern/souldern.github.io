@@ -60,10 +60,18 @@
     {% assign next-title = "" %}
     {% assign next-page = "" %}
     
+    {% for thispage in m-titles %}
+    {% unless forloop.last %}
+    {% if page.title == thispage %}
+    {% assign next-title = m-titles[forloop.index ] %}
+    {% assign next-page = m-pages[forloop.index ] %}
+    {% endif %}
+    {% endunless %}
+    {% endfor}
 
     
 <div style="clear:both"><br/></div>
-    <p>next: {{ m-titles[2] }} - {{ m-pages[2] }}</p>
+    <p>next: {{ next-page }} - {{ next-title }}</p>
 <div style="text-indent:0em;text-align:center;background-color:rgb(222,237,237)">
 <a href="/history/memorial-1914-1918/harry-binding" style="width:25%;text-align:center;float:left">Harry BINDING</a>
 <a href="/history/memorial-1914-1918/william-james-callow" style="width:25%;text-align:center;float:right">William James CALLOW</a>
