@@ -73,18 +73,16 @@
     {% if page.title == thispage %}
     {% assign prev-index = forloop.index | minus: 2 %}
     {% assign prev-title = m-titles[ prev-index ] %}
-    {% assign prev-page = m-pages[1 prev-index] %}
+    {% assign prev-page = m-pages[ prev-index] %}
     {% endif %}
     {% endunless %}
     {% endfor %}
 
     
 <div style="clear:both"><br/></div>
-    <p>prev: {{ prev-page }} - {{ prev-title }}</p>
-    <p>next: {{ next-page }} - {{ next-title }}</p>
 <div style="text-indent:0em;text-align:center;background-color:rgb(222,237,237)">
-<a href="/history/memorial-1914-1918/harry-binding" style="width:25%;text-align:center;float:left">Harry BINDING</a>
-<a href="/history/memorial-1914-1918/william-james-callow" style="width:25%;text-align:center;float:right">William James CALLOW</a>
+<a href="/history/memorial-1914-1918/{{prev-link}}" style="width:25%;text-align:center;float:left">{{prev-title}}</a>
+<a href="/history/memorial-1914-1918/{{next-link}}" style="width:25%;text-align:center;float:right">{{next-title}}</a>
 <a href="/history/memorial-1914-1918">Memorial 1914–18</a>
 </div>
 
@@ -95,10 +93,11 @@
     </main>
 <div style="clear:both"></div>
 <div style="text-indent:0em;text-align:center;background-color:rgb(222,237,237)">
-<a href="/history/memorial-1914-1918/harry-binding" style="width:25%;text-align:center;float:left">Harry BINDING</a>
-<a href="/history/memorial-1914-1918/william-james-callow" style="width:25%;text-align:center;float:right">William James CALLOW</a>
+<a href="/history/memorial-1914-1918/{{prev-link}}" style="width:25%;text-align:center;float:left">{{prev-title}}</a>
+<a href="/history/memorial-1914-1918/{{next-link}}" style="width:25%;text-align:center;float:right">{{next-title}}</a>
 <a href="/history/memorial-1914-1918">Memorial 1914–18</a>
 </div>
 <div style="clear:both"><br/></div>
-  </body>
+
+</body>
 </html>
