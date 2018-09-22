@@ -62,7 +62,7 @@
     
     {% for thispage in m-titles %}
     {% unless forloop.last %}
-    {% if "Sidney BLENCOWE" == thispage %}
+    {% if page.title == thispage %}
     {% assign next-title = m-titles[forloop.index ] %}
     {% assign next-page = m-pages[forloop.index ] %}
     {% endif %}
