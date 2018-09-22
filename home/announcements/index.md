@@ -13,7 +13,7 @@ layout: default
   {%- for page in sorted -%}
   {%- if page.path contains "home/announcements/" %}
   <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
-    <blockquote style="background-coor:lightgoldenrodyellow; border;border-radius:1em;">
+    <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
 	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 40 }}
