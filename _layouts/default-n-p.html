@@ -71,15 +71,15 @@
     {% endunless %}
     {% unless forloop.first %}
     {% if page.title == thispage %}
-    {% assign prev-title = m-titles[forloop.index | minus: 2] %}
-    {% assign prev-page = m-pages[forloop.index | minus: 2] %}
+    {% assign prev-title = m-titles[forloop.index | minus: 2 ] %}
+    {% assign prev-page = m-pages[forloop.index | minus: 2 ] %}
     {% endif %}
     {% endunless %}
     {% endfor %}
 
     
 <div style="clear:both"><br/></div>
-    <p>next: {{ prev-page }} - {{ prev-title }}</p>
+    <p>prev: {{ prev-page }} - {{ prev-title }}</p>
     <p>next: {{ next-page }} - {{ next-title }}</p>
 <div style="text-indent:0em;text-align:center;background-color:rgb(222,237,237)">
 <a href="/history/memorial-1914-1918/harry-binding" style="width:25%;text-align:center;float:left">Harry BINDING</a>
