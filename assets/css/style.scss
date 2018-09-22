@@ -19,6 +19,6 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 
 
 @media screen and (min-width: 50em) {
-    div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; border-left: .5em; border-right: .5em;}
-    div.twocol > div {width: 49%;  display: inline-block; vertical-align:top; border-left: .5em; border-right: .5em;}
+    div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; margin-left: .5em; margin-right: .5em;}
+    div.twocol > div {width: 49%;  display: inline-block; vertical-align:top; margin-left: .5em; margin-right: .5em;}
 }
