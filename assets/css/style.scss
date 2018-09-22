@@ -15,3 +15,9 @@ header.page-header {
 
 td.sites-layout-tile  { border-width: 0pt ! important;}
 
+/* divs replacing tables */
+
+
+media screen and (min-width: 85em) {
+    div.threecol > div {width: 33%;  display: inline-block}
+}
