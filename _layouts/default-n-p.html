@@ -53,14 +53,12 @@
     {% include topmenu.html %}
 
 
- {% assign m-titles =
-"William Henry BATES, Harry BINDING, Sidney BLENCOWE, William James CALLOW, George Moore DAY, Arthur John LAKE, John Henry PAYNE, William Frederick ROBBINS, William Robert ROBBINS, Kenneth Sutherland RUDD, Frederick Henry SWEETMAN, William John SWEETMAN, Aubrey Ernest WESTBURY, Walter Thomas WESTBURY, William Henry WESTBURY, George CLEAVER, Arthur PARKER"
-| split: ", " %}
+ {% assign m-titles = "William Henry BATES, Harry BINDING, Sidney BLENCOWE, William James CALLOW, George Moore DAY, Arthur John LAKE, John Henry PAYNE, William Frederick ROBBINS, William Robert ROBBINS, Kenneth Sutherland RUDD, Frederick Henry SWEETMAN, William John SWEETMAN, Aubrey Ernest WESTBURY, Walter Thomas WESTBURY, William Henry WESTBURY, George CLEAVER, Arthur PARKER" | split: ", " %}
 
-{% assign m-pages = 
-"william-henry-bates, harry-binding, sidney-blencowe, william-james-callow, george-moore-day, arthur-john-lake, john-henry-payne, william-frederick-robbins, william-robert-robbins, kenneth-sutherland-rudd, frederick-henry-sweetman, william-john-sweetman, aubrey-ernest-westbury, walter-thomas-westbury, william-henry-westbury, george-cleaver, arthur-parker"
-| split: ", " %}
+{% assign m-pages = "william-henry-bates, harry-binding, sidney-blencowe, william-james-callow, george-moore-day, arthur-john-lake, john-henry-payne, william-frederick-robbins, william-robert-robbins, kenneth-sutherland-rudd, frederick-henry-sweetman, william-john-sweetman, aubrey-ernest-westbury, walter-thomas-westbury, william-henry-westbury, george-cleaver, arthur-parker" | split: ", " %}
 
+    {% assign next-title = "" %}
+    {% assign next-page = "" %}
     
     {% for thipage in m-titles %}
     {% unless forloop.last %}
