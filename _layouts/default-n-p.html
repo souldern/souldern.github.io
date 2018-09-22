@@ -51,6 +51,26 @@
     </header>
 
     {% include topmenu.html %}
+
+
+ {% assign m-titles =
+"William Henry BATES, Harry BINDING, Sidney BLENCOWE, William James CALLOW, George Moore DAY, Arthur John LAKE, John Henry PAYNE, William Frederick ROBBINS, William Robert ROBBINS, Kenneth Sutherland RUDD, Frederick Henry SWEETMAN, William John SWEETMAN, Aubrey Ernest WESTBURY, Walter Thomas WESTBURY, William Henry WESTBURY, George CLEAVER, Arthur PARKER"
+| split: ", " %}
+
+{% assign m-pages = 
+"william-henry-bates, harry-binding, sidney-blencowe, william-james-callow, george-moore-day, arthur-john-lake, john-henry-payne, william-frederick-robbins, william-robert-robbins, kenneth-sutherland-rudd, frederick-henry-sweetman, william-john-sweetman, aubrey-ernest-westbury, walter-thomas-westbury, william-henry-westbury, george-cleaver, arthur-parker"
+| split: ", " %}
+
+    
+    {% for thipage in m-titles %}
+    {% unless forloop.last %}
+    {% if page.title == thispage %}
+    {assign next-title = m-titles[forloop.index | plus: 1 ]
+    {assign next-page = m-pages[forloop.index | plus: 1 ]
+    {% endunless %}
+    {% endfor}
+
+    <p>next: {{ next-page }} - {{ next-title }}</p>
     
 <div style="clear:both"><br/></div>
 <div style="text-indent:0em;text-align:center;background-color:rgb(222,237,237)">
