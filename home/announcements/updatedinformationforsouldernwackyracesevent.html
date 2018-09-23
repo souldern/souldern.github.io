@@ -12,7 +12,7 @@ title: "Updated Information for Souldern Wacky Races Event"
         function JOT_insertRelDate(timestamp, absTimeStr, isSiteLocale, dir) {
           var relTimeStr = JOT_formatRelativeToNow(timestamp, isSiteLocale);
           if (relTimeStr) {
-            if (isSiteLocale) {
+             if (isSiteLocale) {
               document.write('<span timestamp="' + timestamp + '" issitelocale="' + isSiteLocale +
                 '" title="' + absTimeStr + '" dir="' + dir + '">' + relTimeStr + '<' + '/span>');
             } else {
