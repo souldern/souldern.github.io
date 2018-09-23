@@ -7,7 +7,8 @@ title: Parish Council
 </h3>
 <div id="sites-canvas-main" class="sites-canvas-main">
 <div id="sites-canvas-main-content">
-<table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr"><h2><a name="TOC-Souldern-Parish-Council"></a>Souldern Parish Council</h2>
+  <table cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox"><tbody><tr><td class="sites-layout-tile sites-tile-name-content-1"><div dir="ltr">
+<h2 id="TOC-Souldern-Parish-Council">Souldern Parish Council</h2>
 <p>Parish Councils represent the first
 tier of local government. They have the
 authority to raise money through taxation, known as the annual precept which is
@@ -36,7 +37,8 @@ our constitution does not permit us to make decisions on matters not
 specifically itemised on the agenda, we will ensure that where appropriate, any
 concern which needs further discussion is included on the agenda for the
 following meeting.</p>
-<h2><a name="TOC-Meeting-Agenda"></a>Meeting Agenda</h2>
+
+<h2 id="TOC-Meeting-Agenda">Meeting Agenda</h2>
 
 	  <p>
 	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-agenda/'" | reverse %}
@@ -46,7 +48,7 @@ following meeting.</p>
 	  </p>
 	  <p><a href="spc-agenda/">Full archive of Meeting Agenda</a></p>
 	  
-<h2><a name="TOC-Recent-Minutes"></a>Recent Minutes</h2>
+<h2 id="TOC-Recent-Minutes">Recent Minutes</h2>
 	  <p>
 	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-minutes/'" | reverse %}
   {% for  sf in  thesefiles  limit: 2%}
