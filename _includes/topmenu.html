@@ -1,10 +1,9 @@
----
----
+{% assign menu_item = 'parish-council' %}
 <nav id="primary_nav_wrap">
  <ul>
    <li
      {% if menu_item == 'home' %}
-     class="current-menu-item">
+     class="current-menu-item"
      {% endif %}
      >
    <a href="/">Home</a>
@@ -30,8 +29,8 @@
    </ul>
   </li>
   <li
-     {% if menu_item == 'home' %}
-     class="current-menu-item">
+     {% if menu_item == 'parish-council' %}
+     class="current-menu-item"
      {% endif %}
      >
    <a href="/parish-council">Parish Council</a>
