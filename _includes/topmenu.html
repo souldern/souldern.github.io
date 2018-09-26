@@ -1,6 +1,6 @@
-{% assign menu_item = 'parish-council' %}
+{% assign menu_item = page.path | split:'/' | first%}
 <nav id="primary_nav_wrap">
- <ul>
+ <ul data-z="{{menu_item}}">
    <li
      {% if menu_item == 'home' %}
      class="current-menu-item"
