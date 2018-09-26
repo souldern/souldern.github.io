@@ -6,6 +6,14 @@ https://codepen.io/philhoyt/pen/ujHzd
     clear:both;
 }
 
+
+#primary_nav_wrap
+{
+    display:none;
+}
+
+@media screen and (min-width: 50em) {
+    
 #primary_nav_wrap
 {
 	margin-top:15px
@@ -81,5 +89,9 @@ https://codepen.io/philhoyt/pen/ujHzd
 
 #primary_nav_wrap ul li:hover > ul
 {
-	display:block
+    display:block;
+    z-index:1 ;
+		background-color:yellow;
+}
+
 }
