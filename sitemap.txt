@@ -326,6 +326,3 @@ https://souldern.github.io/village-hall/100-club
 https://souldern.github.io/village-hall/changing-room-plans/
 https://souldern.github.io/village-hall/community-market
 https://souldern.github.io/village-hall/
-https://souldern.github.io/_includes/topmenu
-https://souldern.github.io/_layouts/default-n-p
-https://souldern.github.io/_layouts/default
