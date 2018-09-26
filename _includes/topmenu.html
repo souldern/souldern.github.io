@@ -1,6 +1,6 @@
 {% assign menu_item = page.path | split:'/' | first%}
 <nav id="primary_nav_wrap">
- <ul data-z="{{menu_item}}">
+ <ul>
    <li
      {% if menu_item == 'home' %}
      class="current-menu-item"
@@ -51,7 +51,11 @@
     <li><a href="/parish-council/fix-my-street">Fix My Street</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'parish-church' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/parish-church">Parish Church</a>
    <ul>
     <li><a href="/parish-church">Parish Church</a></li>
@@ -59,7 +63,11 @@
     <li><a href="https://www.facebook.com/Souldern-Village-Church-Choir-305535326293896/">Church Choir (Facebook)</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'chapel' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/chapel">Wesleyan Chapel</a>
    <ul>
     <li><a href="/chapel">Wesleyan Chapel</a></li>
@@ -70,13 +78,21 @@
     <li><a href="/home/announcements/audreywestbury">Audrey Westbury</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'united-charity' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/united-charity">United Charity</a>
    <ul>
     <li><a href="/united-charity">United Charity</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'village-hall' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/village-hall">Village Hall</a>
    <ul>
     <li><a href="/village-hall">Village Hall</a></li>
@@ -84,14 +100,27 @@
     <li><a href="/village-hall/100-club">100 Club</a></li>
    </ul>
   </li>
-  <li><a href="/football-club">Football</a></li>
-  <li>
+  <li
+     {% if menu_item == 'football' %}
+     class="current-menu-item"
+     {% endif %}
+     >
+     <a href="/football-club">Football</a></li>
+  <li
+     {% if menu_item == 'horticultural-society' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/horticultural-society">Horticultural Society</a>
    <ul>
     <li><a href="/horticultural-society">Horticultural Society</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'the-fox' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/the-fox">The Fox Inn</a>
    <ul>
     <li><a href="/the-fox">The Fox Inn</a></li>
@@ -99,7 +128,11 @@
     <li><a href="/the-fox/aunt-sally">Aunt Sally</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'recreational-areas' %}
+     class="current-menu-item"
+     {% endif %}
+     >
    <a href="/recreational-areas">Recreation</a>
    <ul>
     <li><a href="/recreational-areas">Recreation</a></li>
@@ -112,7 +145,12 @@
     <li><a href="/recreational-areas/the-green">The Green</a></li>
    </ul>
   </li>
-  <li><a href="/history">History</a>
+  <li
+     {% if menu_item == 'history' %}
+     class="current-menu-item"
+     {% endif %}
+     >
+     <a href="/history">History</a>
   <ul>
    <li><a href="/history">History</a></li>
    <li><a href="/history/memorial-1914-1918">1914–1918</a></li>
