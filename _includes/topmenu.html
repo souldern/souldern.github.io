@@ -1,6 +1,12 @@
+---
+---
 <nav id="primary_nav_wrap">
  <ul>
-  <li  class="current-menu-item">
+   <li
+     {% if menu_item == 'home' %}
+     class="current-menu-item">
+     {% endif %}
+     >
    <a href="/">Home</a>
    <ul>
     <li><a href="/">Home</a></li>
@@ -23,7 +29,11 @@
     <li><a href="/home/about">About</a></li>
    </ul>
   </li>
-  <li>
+  <li
+     {% if menu_item == 'home' %}
+     class="current-menu-item">
+     {% endif %}
+     >
    <a href="/parish-council">Parish Council</a>
    <ul>
     <li><a href="/parish-council">Parish Council</a></li>
