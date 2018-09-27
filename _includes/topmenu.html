@@ -1,6 +1,6 @@
 {% assign menu_item = page.path | split:'/' | first%}
 
-{% if page.path  == 'home/menu' %}
+{% if page.path  == 'home/menu.html' %}
 <nav id="menupage">
   {% else %}
 <span data ="{{page.path}}" id="collapsed-menu"><a href="/home/menu">menu</a></span>
