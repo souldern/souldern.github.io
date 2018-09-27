@@ -17,7 +17,8 @@ https://codepen.io/philhoyt/pen/ujHzd
 
 #primary_nav_wrap
 {
-	margin-top:15px
+    display:block;
+    margin-top:15px
 }
 
 #primary_nav_wrap ul
