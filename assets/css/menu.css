@@ -2,18 +2,19 @@
 https://codepen.io/philhoyt/pen/ujHzd
 */
 
-#navend{
-    clear:both;
+#primary_nav_wrap {
+    display:none
 }
-
-
-#primary_nav_wrap
-{
-    display:none;
+#collapsed-menu {
+    display:inline
 }
 
 @media screen and (min-width: 50em) {
-    
+
+#collapsed-menu{
+    display:none
+}
+
 #primary_nav_wrap
 {
 	margin-top:15px
