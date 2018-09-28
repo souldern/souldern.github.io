@@ -23,6 +23,9 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
     div.twocol > div {width: 49%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
 
     .page-header {
-	background-image: url('/assets/images/souldernvillage3.gif')
+	background-image: url(/assets/images/souldernvillage3.gif);
+	background-repeat:no-repeat;
+	background-size;100%
+			text-align:left;
     }
 }
