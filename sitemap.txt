@@ -7,6 +7,7 @@ https://souldern.github.io/chapel/sunday-school/
 https://souldern.github.io/chapel/sunday-school/memories-of-sunday-school
 https://souldern.github.io/chapel/sunday-school/sunday-school-gallery
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/24aprilfamilyservice
+https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/sunday15thmayyouthonsunday
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/sunday8maykidsonsunday
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/sundayschoolanniversary
@@ -184,6 +185,7 @@ https://souldern.github.io/home/announcements/goldfishlookingforagoodhome
 https://souldern.github.io/home/announcements/harvestsupper
 https://souldern.github.io/home/announcements/hermajestythequeens90thbirthdaycelebrations
 https://souldern.github.io/home/announcements/hillandhighstreetresurfacing
+https://souldern.github.io/home/announcements/
 https://souldern.github.io/home/announcements/itsaknockout
 https://souldern.github.io/home/announcements/katharinehousesale
 https://souldern.github.io/home/announcements/missingsouldernslides
@@ -196,6 +198,7 @@ https://souldern.github.io/home/announcements/newhistorypageaddedrobertjones
 https://souldern.github.io/home/announcements/newhistorypagesouldernburials
 https://souldern.github.io/home/announcements/newpagesinhistorysection
 https://souldern.github.io/home/announcements/newrubbishcollectiondays
+https://souldern.github.io/home/announcements/newthreeparishes
 https://souldern.github.io/home/announcements/oxfordpsalmodyatstmaryssouldern3rdseptember
 https://souldern.github.io/home/announcements/parishclerk
 https://souldern.github.io/home/announcements/parishclerkvacancy
@@ -265,6 +268,7 @@ https://souldern.github.io/home/gallery/queen-s-90th-birthday
 https://souldern.github.io/home/
 https://souldern.github.io/home/local-services
 https://souldern.github.io/home/map
+https://souldern.github.io/home/menu
 https://souldern.github.io/home/neighbouring-villages
 https://souldern.github.io/home/postcodes
 https://souldern.github.io/home/privacy-policy
@@ -278,7 +282,11 @@ https://souldern.github.io/parish-council/cherwell-dc-and-mps
 https://souldern.github.io/parish-council/fix-my-street
 https://souldern.github.io/parish-council/
 https://souldern.github.io/parish-council/planning
+https://souldern.github.io/parish-council/spc-agenda/
+https://souldern.github.io/parish-council/spc-documents/
 https://souldern.github.io/parish-council/spc-members
+https://souldern.github.io/parish-council/spc-minutes/
+https://souldern.github.io/parish-council/spc-newsletter/
 https://souldern.github.io/parish-council/transparency
 https://souldern.github.io/parish-council/vision-for-souldern/
 https://souldern.github.io/parish-council/welcome-packs
