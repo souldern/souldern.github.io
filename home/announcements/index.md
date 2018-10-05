@@ -12,7 +12,7 @@ layout: default
   {%- assign sorted = site.pages | sort: 'date'  | reverse -%}
   {%- for page in sorted -%}
   {%- if page.path contains "home/announcements/" %}
-  <li><a href="/{{page.path | replace: '.html', ''}}">{{page.title}}</a> [{{page.date}}]
+  <li><a href="/{{page.path | replace: '.html', ''| replace: '.md', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 
       {% if page.path contains '.md' %}
