@@ -38,7 +38,7 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
     #gsearch {
 	max-width:75%; color:black; position:relative;top:-5px;left:60%
     }
-
+    .gsc-control-cse { background-color:rgba(0,0,0,0) !important}
 
 @media screen and (min-width: 50em) {
     div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
@@ -53,6 +53,7 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 
     #gsearch {
 	width:40em; color:black; position:absolute;top:-5px;right:5em;
+	
     }
 
 }
