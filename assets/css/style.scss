@@ -35,6 +35,9 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 
 /* divs replacing tables */
 
+    #gsearch {
+	max-width:75%; color:black; position:relative;top:-5px;left:60%
+
 
 @media screen and (min-width: 50em) {
     div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
@@ -46,4 +49,7 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
 	background-size:100%;
 	text-align:left;
     }
-}
+
+    #gsearch {
+	max-width:35%; color:black; position:absolute;top:-5px;left:60%
+    }
