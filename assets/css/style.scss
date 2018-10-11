@@ -44,19 +44,20 @@ h1.project-name a:hover { text-decoration:none;}
     }
     .gsc-control-cse { background-color:rgba(0,0,0,0) !important}
 
+$imgKey: random(2);
+
+$list: p1, souldernvillage3;
+$nth: nth($list, $imgKey);
+
 @media screen and (min-width: 50em) {
     div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
     div.twocol > div {width: 49%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
 
 
-$imgKey: random(2);
-
-$list: p1.gif, souldernvillage3.gif;
-$nth: nth($list, $imgKey);
 
 
     .page-header {
-	background-image: url(/assets/images/#{$nth});
+	background-image: url(/assets/images/#{$nth}.gif);
 	background-repeat:no-repeat;
 	background-size:100%;
 	text-align:left;
