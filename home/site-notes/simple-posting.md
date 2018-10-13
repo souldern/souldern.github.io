@@ -69,20 +69,20 @@ with a blank new announcement.
 
     2. To add a list, simply leave a blank line, then start each item with a number and `.` :
 
-     ```
+       ```
      
-     1. First item
-     2. Second item
-     3. AOB
-     ```
+        1. First item
+        2. Second item
+        3. AOB
+       ```
      
     3. To add an image, use
 
-     ```
-     ![yin and yang](yinyang.png)
-     ```
+       ```
+       ![yin and yang](yinyang.png)
+       ```
 
-    Where the first part in `[]` is the "alt text" and the `()` is the file name.
+       Where the first part in `[]` is the "alt text" and the `()` is the file name.
 
     4. To upload the image file return to  
        [https://github.com/souldern/souldern.github.io/tree/master/home/announcements](https://github.com/souldern/souldern.github.io/tree/master/home/announcements)
