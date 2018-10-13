@@ -26,3 +26,22 @@ which will open
 [https://github.com/souldern/souldern.github.io/new/master/home/announcements](https://github.com/souldern/souldern.github.io/new/master/home/announcements)
 
 with a blank new announcement.
+
+1. Set a filename ending with `.md` in the small text box following `souldern.github.io/home/announcements/`
+  for example `YingYang in Village hall.md`
+
+2. In the main text box for the post add the date (yyy-mm-dd)  and title so that it looks like
+```
+---
+date: 2018-10-13
+title: Ying Yang meeting
+---
+
+# New Meeting
+```
+
+It is important not to forget the two rows of `---` which separate the frint matter.
+
+3. Add the content of your post. Leave blank lines for a new paragraph,  you can have `**bold**` or `_italic_` or many other styles.
+
+4. Post your announcement.  Optionally write message for the log, then press the large green **Commit new file"" button.
