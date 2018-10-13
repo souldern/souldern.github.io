@@ -18,9 +18,9 @@ In order to be able to edit the site you do need a
 ## First Post
 In your web browser go to
 
-[https://github.com/souldern/souldern.github.io/home/announcements](https://github.com/souldern/souldern.github.io/home/announcements)
+[https://github.com/souldern/souldern.github.io/tree/master/home/announcements](https://github.com/souldern/souldern.github.io/tree/master/home/announcements)
 
-Log in to GitHub if you are not already logged in and click on the **New** button
+Log in to GitHub if you are not already logged in and click on the **Create New File** button
 which will open
 
 [https://github.com/souldern/souldern.github.io/new/master/home/announcements](https://github.com/souldern/souldern.github.io/new/master/home/announcements)
