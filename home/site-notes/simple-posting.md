@@ -93,4 +93,4 @@ with a blank new announcement.
 
 ## Final Result on the Web
 
-[https://souldern.github.io/home/announcements/Yin%20and%20Yang](https://souldern.github.io/home/announcements/Yin%20and%20Yang)
+[https://souldern.github.io/home/announcements/Yin and Yang](https://souldern.github.io/home/announcements/Yin%20and%20Yang)
