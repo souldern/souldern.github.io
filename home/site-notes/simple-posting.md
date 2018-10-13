@@ -8,7 +8,7 @@ title: Simple Posting
 ## GitHub Account
 
 In order to be able to edit the site you do need a
-  [GitHub account](https://github.com/join?source=header-home].
+  [GitHub account](https://github.com/join?source=header-home).
   Once you have a GitHub user
   name, [Contact the site  maintainers](/home/contact-website)
   and ask to be added to
@@ -18,13 +18,11 @@ In order to be able to edit the site you do need a
 ## First Post
 In your web browser go to
 
-[https://github.com/souldern/souldern.github.io/home/announcements]
-(https://github.com/souldern/souldern.github.io/home/announcements)
+[https://github.com/souldern/souldern.github.io/home/announcements](https://github.com/souldern/souldern.github.io/home/announcements)
 
 Log in to GitHub if you are not already logged in and click on the **New** button
 which will open
 
-[https://github.com/souldern/souldern.github.io/new/master/home/announcements]
-(https://github.com/souldern/souldern.github.io/new/master/home/announcements)
+[https://github.com/souldern/souldern.github.io/new/master/home/announcements](https://github.com/souldern/souldern.github.io/new/master/home/announcements)
 
 with a blank new announcement.
