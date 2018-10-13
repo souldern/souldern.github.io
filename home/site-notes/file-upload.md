@@ -5,7 +5,7 @@ title: File Upload
 
 # Uploading files
 
-If you have followd the steps in [Posting a Simple Announcement](simple-posting),
+If you have followed the steps in [Posting a Simple Announcement](simple-posting),
 then uploading files is very simple.
 
 Navigate in the web interface to the required folder, for example
