@@ -86,9 +86,9 @@ with a blank new announcement.
 
     4. To upload the image file return to  
        [https://github.com/souldern/souldern.github.io/tree/master/home/announcements](https://github.com/souldern/souldern.github.io/tree/master/home/announcements)
-       Then use the **upload files"" button to select the file, or drag and drop the image file on to the site.
+       Then use the **upload files** button to select the file, or drag and drop the image file on to the site.
 
-       As for file editing you will need to use the green **Commit** button to confirm the upload.
+       As for file editing, you will need to use the green **Commit** button to confirm the upload.
        
 
 ## Final Result on the Web
