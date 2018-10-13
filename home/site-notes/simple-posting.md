@@ -10,7 +10,7 @@ title: Simple Posting
 In order to be able to edit the site you do need a
   [GitHub account](https://github.com/join?source=header-home).
   Once you have a GitHub user
-  name, [Contact the site  maintainers](/home/contact-website)
+  name, [contact the site  maintainers](/home/contact-website)
   and ask to be added to
   the [Souldern GitHub Organisation](https://github.com/orgs/souldern/people)
   which will give you write access to the site.
@@ -46,7 +46,7 @@ with a blank new announcement.
 
 3. Add the content of your post. Leave blank lines for a new paragraph,  you can have `**bold**` (**bold**) or `_italic_` (_italic_) or many other styles.
 
-4. Post your announcement.  Optionally write message for the log, then press the large green **Commit new file** button.
+4. Post your announcement.  Before committing the file you may optionally write a message in the text box for the log, then press the large green **Commit new file** button.
 
 5. **View your post on the web** After a minute or so the post should appear at  
    [https://souldern.github.io/home/announcements/Yin%20and%20Yang](https://souldern.github.io/home/announcements/Yin%20and%20Yang)
