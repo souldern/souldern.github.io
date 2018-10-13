@@ -94,3 +94,7 @@ with a blank new announcement.
 ## Final Result on the Web
 
 [https://souldern.github.io/home/announcements/Yin and Yang](https://souldern.github.io/home/announcements/Yin%20and%20Yang)
+
+## Further Reading
+
+The "kramdown" syntax used in these pages supports all kinds of lists, and font chages etc, see this [Quick Reference Guide](https://kramdown.gettalong.org/quickref.html).
