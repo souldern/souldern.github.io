@@ -32,16 +32,16 @@ with a blank new announcement.
 
 2. In the main text box for the post add the date (yyy-mm-dd)  and title so that it looks like
 
-```
----
-date: 2018-10-13
-title: Ying Yang meeting
----
+   ```
+   ---
+   date: 2018-10-13
+   title: Ying Yang meeting
+   ---
+   
+   # New Meeting
+   ```
 
-# New Meeting
-```
-
-It is important not to forget the two rows of `---` which separate the frint matter.
+   It is important not to forget the two rows of `---` which separate the front matter.
 
 3. Add the content of your post. Leave blank lines for a new paragraph,  you can have `**bold**` (**bold**) or `_italic_` (_italic_) or many other styles.
 
