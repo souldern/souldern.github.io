@@ -39,3 +39,4 @@ menu in the Photos site, then use on this site in the same way:
 
 ![Google Photo image](https://photos.app.goo.gl/AwUfP1sgaYPdcphz7)
 
+![Google Photo image](https://photos.google.com/share/AF1QipNSgxffbD_2SNAlCI3sA8mvgiv7il_aKd3lT9rTmn_FNhxOoBHzpw75FC68OQwtAg/photo/AF1QipOWdgULHP52IbI6wXeIF324UTuvslIRzatSqKAM?key=WjktdXkxMXVnekQwTmd1b21wSXU5czNBemFQeVBR)
