@@ -8,13 +8,12 @@ title: Simple Posting
 ## GitHub Account
 
 In order to be able to edit the site you do need a
-  [https://github.com/join?source=header-home](GitHub account).
+  [GitHub account](https://github.com/join?source=header-home].
   Once you have a GitHub user
-  name, [/home/contact-website]Contact the site  maintainers)
+  name, [Contact the site  maintainers](/home/contact-website)
   and ask to be added to
-  the [https://github.com/orgs/souldern/people](Souldern
-    GitHub Organisation) which will give you write access to the
-  site.
+  the [Souldern GitHub Organisation](https://github.com/orgs/souldern/people)
+  which will give you write access to the site.
   
 ## First Post
 In your web browser go to
