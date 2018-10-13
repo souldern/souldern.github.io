@@ -21,6 +21,11 @@ to be uploaded contact David Carlisle, any file may be uploaded via
 the commandline interface not discussed in these pages.
 
 
+One-off files that are linked from announcements etc may have any
+filename, but regular series of files that are posted are best named
+such that they list in date order automatically. Naming the files this way allows automatic links to the
+latest files to be generated. See for example the [Newsletter](https://github.com/souldern/souldern.github.io/tree/master/parish-council/spc-newsletter) and [Parish Council Minutes](https://github.com/souldern/souldern.github.io/tree/master/parish-council/spc-minutes) directories.
+
 **For high resolution photographs it is better to use the Google Photo
 Server which will handle serving suitable files for the device being
 used, However it is often convenient to upload small "web quality"
