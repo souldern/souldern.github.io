@@ -15,8 +15,6 @@ header.page-header {
 
 td.sites-layout-tile  { border-width: 0pt ! important;}
 
-h1.project-name a { color: white;}
-h1.project-name a:hover { text-decoration:none;}
 
 
 #skip-to-content {
@@ -47,7 +45,15 @@ h1.project-name a:hover { text-decoration:none;}
 $imgKey: random(3);
 
 $list: p1, bw1, souldernvillage3;
+$bglist: transparent, "rgba(.5,.5,.5,.2)", transparent;
 $nth: nth($list, $imgKey);
+$nthbg nth($bglist,$imgKey);
+
+
+
+h1.project-name a { color: white;background-color: $nthbg;}
+h1.project-name a:hover { text-decoration:none;}
+
 
 @media screen and (min-width: 50em) {
     div.threecol > div {width: 32%;  display: inline-block; vertical-align:top; padding-left: .5em; padding-right: .5em;}
