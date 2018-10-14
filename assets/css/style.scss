@@ -51,7 +51,7 @@ $nthbg nth($bglist,$imgKey);
 
 
 
-h1.project-name a { color: white;background-color: $nthbg;}
+h1.project-name a { color: white;background-color: #{$nthbg};}
 h1.project-name a:hover { text-decoration:none;}
 
 
