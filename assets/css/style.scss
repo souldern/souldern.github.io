@@ -44,9 +44,9 @@ h1.project-name a:hover { text-decoration:none;}
     }
     .gsc-control-cse { background-color:rgba(0,0,0,0) !important}
 
-$imgKey: random(2);
+$imgKey: random(3);
 
-$list: p1, souldernvillage3;
+$list: p1, bw1, souldernvillage3;
 $nth: nth($list, $imgKey);
 
 @media screen and (min-width: 50em) {
