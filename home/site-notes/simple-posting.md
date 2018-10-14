@@ -3,9 +3,11 @@ layout: default
 title: Simple Posting
 ---
 
-# Posting a Simple Announcement
+[site notes](/home/site-notes)
 
-## GitHub Account
+## Posting a Simple Announcement
+
+### GitHub Account
 
 In order to be able to edit the site you do need a
   [GitHub account](https://github.com/join?source=header-home).
@@ -15,7 +17,7 @@ In order to be able to edit the site you do need a
   the [Souldern GitHub Organisation](https://github.com/orgs/souldern/people)
   which will give you write access to the site.
   
-## First Post
+### First Post
 In your web browser go to
 
 [https://github.com/souldern/souldern.github.io/tree/master/home/announcements](https://github.com/souldern/souldern.github.io/tree/master/home/announcements)
@@ -53,7 +55,7 @@ with a blank new announcement.
    using whatever name you gave in the original text box. A link should also appear on the home page, and
    the [Announcements page](https://souldern.github.io/home/announcements/).
 
-## Editing or Deleting Your Post.
+### Editing or Deleting Your Post.
 
 1. In the [Announcements list](https://github.com/souldern/souldern.github.io/tree/master/home/announcements) find your file (there is a find file button to enter the filename if you do not see it immediately) and click on the link. This places you back in the edit view used above.
 
@@ -91,10 +93,10 @@ with a blank new announcement.
        As for file editing, you will need to use the green **Commit** button to confirm the upload.
        
 
-## Final Result on the Web
+### Final Result on the Web
 
 [https://souldern.github.io/home/announcements/Yin and Yang](https://souldern.github.io/home/announcements/Yin%20and%20Yang)
 
-## Further Reading
+### Further Reading
 
 The "kramdown" syntax used in these pages supports all kinds of lists, and font chages etc, see this [Quick Reference Guide](https://kramdown.gettalong.org/quickref.html).

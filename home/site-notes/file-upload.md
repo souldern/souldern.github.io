@@ -3,7 +3,9 @@ layout: default
 title: File Upload
 ---
 
-# Uploading files
+[site notes](/home/site-notes)
+
+## Uploading files
 
 If you have followed the steps in [Posting a Simple Announcement](simple-posting),
 then uploading files is very simple.
