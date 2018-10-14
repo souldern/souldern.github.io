@@ -47,7 +47,7 @@ $imgKey: random(3);
 $list: p1, bw1, souldernvillage3;
 $bglist: transparent, "rgba(.5,.5,.5,.2)", transparent;
 $nth: nth($list, $imgKey);
-$nthbg nth($bglist,$imgKey);
+$nthbg: nth($bglist,$imgKey);
 
 
 
