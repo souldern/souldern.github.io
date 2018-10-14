@@ -42,10 +42,10 @@ td.sites-layout-tile  { border-width: 0pt ! important;}
     }
     .gsc-control-cse { background-color:rgba(0,0,0,0) !important}
 
-$imgKey: random(3);
+$imgKey: random(4);
 
-$list: p1, bw1, souldernvillage3;
-$bglist: transparent, "rgba(.5,.5,.5,.2)", transparent;
+$list: p1, bw1, souldernvillage3, sv1;
+$bglist: transparent, "rgba(.5,.5,.5,.2)", transparent, transparent;
 $nth: nth($list, $imgKey);
 $nthbg: nth($bglist,$imgKey);
 
