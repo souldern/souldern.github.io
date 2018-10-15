@@ -64,8 +64,8 @@ h1.project-name a:hover { text-decoration:none;}
 
     .page-header {
 	background-image: url(/assets/images/#{$nth}.gif);
-	background-repeat:no-repeat;
-	background-size:100%;
+	background-repeat:repeat-x;
+	background-size:auto 100%;
 	text-align:left;
     }
 
