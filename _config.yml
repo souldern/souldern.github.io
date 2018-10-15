@@ -1,15 +1,9 @@
 exclude: ['README.md']
 
-plugins:
-  - jekyll-redirect-from
-
-collections:
-   spc-minutes:
-      output: true
 
 theme: jekyll-theme-cayman
 
 title: Souldern Village
-description: Experimental port of souldern.org to gh-pages
+description: Community Website for Souldern Village
 
 
