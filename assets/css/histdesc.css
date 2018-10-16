@@ -11,3 +11,5 @@ div.main {text-indent:1em;text-align:justify;font-family:serif;font-size:110%;fo
 
 div.main > h2 {text-indent:0em;text-align:center;}
 div.main > h3 {text-indent:0em;text-align:center;}
+
+div.main div.footnote {font-size:75%;border:solid thin black;margin-top:2em;margin-bottom:2em;}
