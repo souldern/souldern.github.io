@@ -3,13 +3,13 @@
 
 nav {font-size:80%;text-indent:0em;text-align:center;background-color:rgb(222,237,237); }
 
-nav > a.prev {width:25%;text-align:left;float:left}
+nav > a.prev {width:25%;text-align:left;float:left;white-space:nowrap;}
 
-nav > a.next {width:25%;text-align:right;float:right}
+nav > a.next {width:25%;text-align:right;float:right;white-space:nowrap;}
 
-nav > a.up  {}
+nav > a.up  {white-space:nowrap;}
 
-nav > div {clear:both}
+nav > div {clear:both;}
 
 div.main {max-width:30em;text-align:justify;margin-left:auto;margin-right:auto;font-family:arial,sans-serif}
 
