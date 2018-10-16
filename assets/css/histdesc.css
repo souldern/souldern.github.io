@@ -1,11 +1,11 @@
 
-nav {font-size:80%;text-indent:0em;text-align:center;background-color:rgb(222,237,237); }
+nav.book {font-size:80%;text-indent:0em;text-align:center;background-color:rgb(222,237,237); }
 
-nav > a.prev {width:25%;text-align:left;float:left;white-space:nowrap;}
+nav.book > a.prev {width:25%;text-align:left;float:left;white-space:nowrap;}
 
-nav > a.next {width:25%;text-align:right;float:right;white-space:nowrap;}
+nav.book > a.next {width:25%;text-align:right;float:right;white-space:nowrap;}
 
-nav > a.up  {}
+nav.book > a.up  {}
 
 div.main {text-indent:1em;text-align:justify;font-family:serif;font-size:110%;font-style:normal;margin-right:auto;margin-left:auto;max-width:30em;}
 
