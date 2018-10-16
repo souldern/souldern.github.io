@@ -1,5 +1,5 @@
 
-h2 {text-indent:0em;text-align:center;}
+
 
 nav {font-size:80%;text-indent:0em;text-align:center;background-color:rgb(222,237,237); }
 
@@ -12,3 +12,5 @@ nav > a.up  {}
 nav > div {clear:both}
 
 div.main {max-width:30em;text-align:justify;margin-left:auto;margin-right:auto;font-family:arial,sans-serif}
+
+div.main > h2 {text-indent:0em;text-align:center;}
