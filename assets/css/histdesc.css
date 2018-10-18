@@ -13,5 +13,5 @@ div.main {text-indent:1em;text-align:justify;font-family:serif;font-size:110%;fo
 div.main > h2 {text-indent:0em;text-align:center;color: black}
 div.main > h3 {text-indent:0em;text-align:center;color: black}
 
-div.main div.footnote {font-size:80%;border:solid thin black;margin-top:2em;margin-bottom:2em;padding:.5em;}
-div.main div.ednote {font-size:80%;border:solid thin black;margin-top:2em;margin-bottom:2em;background-color:#eee;padding:.5em;}
+div.main div.footnote {font-size:80%;border:solid thin black;margin-top:2em;margin-bottom:2em;padding:.5em .5em 0 .5em;}
+div.main div.ednote {font-size:80%;border:solid thin black;margin-top:2em;margin-bottom:2em;background-color:#eee;padding:.5em .5em 0 .5em;}
