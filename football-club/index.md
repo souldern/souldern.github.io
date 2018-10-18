@@ -15,6 +15,6 @@ Since 2018 the season, Souldern Village Hall and football pitch has been the hom
 ## Souldern Football club
 
 Souldern Football Club, which used to play regular fixtures on the
-playing field by the village hall closed at the end of 2016. [a page
-with historical information abould the Souldern club](souldern-fc) is
+playing field by the village hall closed at the end of 2016. [A page
+with information abould the Souldern club](souldern-fc) is
 maintained for histoical interest.
