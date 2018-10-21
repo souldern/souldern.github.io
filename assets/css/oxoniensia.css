@@ -15,3 +15,5 @@ div.main > h2 {text-indent:0em;text-align:center;}
 img.center {margin:0 auto;display:block;}
 div.footnote {font-size:80%;border:solid thin black;margin-top:2em;margin-bottom:2em;padding:.5em .5em 0 .5em;}
 div.footnote p {line-height:1.1; margin-top:0;margin-bottom:0}
+figure {text-align:center; font-size: 80%;}
+figure img {width: 100%;}
