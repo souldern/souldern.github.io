@@ -1,12 +1,4 @@
 .main-content {word-wrap: break-word;}
-body{font-size: 1.1rem; line-height: 1.5;color: #606c71;}
-html {background-color:#F7FFF0; overflow-y:scroll;}
-body {max-width:95em;margin-left:auto;margin-right:auto;background-color:white;min-height:100vh;}
-nav.book {font-size:80%;text-indent:0em;text-align:center;background-color:rgb(222,237,237); }
-nav.book > a.prev {width:30%;text-align:left;float:left;white-space:nowrap;}
-nav.book > a.next {width:30%;text-align:right;float:right;white-space:nowrap;}
-nav.book > a.up  {white-space:nowrap;}
-nav.book > div {clear:both;}
 div.main
 {max-width:40em;text-align:justify;margin-left:auto;margin-right:auto;
 font-family:Times Roman,serif}
