@@ -1,4 +1,4 @@
-exclude: ['README.md']
+exclude: ['README.md','tools']
 
 
 theme: jekyll-theme-cayman
