@@ -7,7 +7,7 @@
 <xsl:template match="/">
 
  <!-- use html not text mode for embedded elements in js strins -->
- <xsl:result-document indent="no" href="housesearch.js">
+ <xsl:result-document indent="no" href="../home/houses/housesearch.js">
   //<script>
   <xsl:text>&#10;</xsl:text>
   <xsl:apply-templates mode="js" select="/"/>
@@ -15,7 +15,7 @@
   //</script>
  </xsl:result-document>
 
-<xsl:result-document indent="no" href="housesearch.html">
+<xsl:result-document indent="no" href="../home/houses/index.html">
 ---
 layout: default
 title: Souldern House Search
