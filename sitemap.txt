@@ -13,9 +13,8 @@ https://souldern.github.io/church--chapel-sunday-school/church-chapel-announceme
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-announcements/sundayschoolanniversary
 https://souldern.github.io/church--chapel-sunday-school/church-chapel-programme-2016
 https://souldern.github.io/church--chapel-sunday-school/
-https://souldern.github.io/event-2016/
-https://souldern.github.io/event-2018/
 https://souldern.github.io/football-club/
+https://souldern.github.io/football-club/souldern-fc
 https://souldern.github.io/google5aa4a75eeeb0e30d
 https://souldern.github.io/history/catholic-missions-1906
 https://souldern.github.io/history/high-heels-and-low-lifes/
@@ -107,7 +106,7 @@ https://souldern.github.io/history/oxfordshire-directories/1939-directory
 https://souldern.github.io/history/oxfordshire-directories/
 https://souldern.github.io/history/places-of-worship
 https://souldern.github.io/history/rev-lawrence-stephenson-1889/
-https://souldern.github.io/history/rev-robert-jones-1787-1835
+https://souldern.github.io/history/rev-robert-jones-1787-1835/
 https://souldern.github.io/history/self-portrait-1989/
 https://souldern.github.io/history/self-portrait-1989/self-portrait-0/
 https://souldern.github.io/history/self-portrait-1989/self-portrait-1
@@ -199,6 +198,7 @@ https://souldern.github.io/home/announcements/newhistorypagesouldernburials
 https://souldern.github.io/home/announcements/newpagesinhistorysection
 https://souldern.github.io/home/announcements/newrubbishcollectiondays
 https://souldern.github.io/home/announcements/newthreeparishes
+https://souldern.github.io/home/announcements/newwebsite
 https://souldern.github.io/home/announcements/oxfordpsalmodyatstmaryssouldern3rdseptember
 https://souldern.github.io/home/announcements/parishclerk
 https://souldern.github.io/home/announcements/parishclerkvacancy
@@ -238,6 +238,7 @@ https://souldern.github.io/home/announcements/souldernvision
 https://souldern.github.io/home/announcements/souldernvisionmeeting
 https://souldern.github.io/home/announcements/souldernwebsite
 https://souldern.github.io/home/announcements/souldernwesleyanchapelharvestfestival
+https://souldern.github.io/home/announcements/spc-vacancy
 https://souldern.github.io/home/announcements/spc2016-17annualreturn
 https://souldern.github.io/home/announcements/spcnewsletter
 https://souldern.github.io/home/announcements/spcoctobernewsletter
@@ -261,8 +262,17 @@ https://souldern.github.io/home/announcements/wackyraces2018launchevent
 https://souldern.github.io/home/announcements/wackyracesitinerary23rdjune
 https://souldern.github.io/home/announcements/wackyraceslaunchevent
 https://souldern.github.io/home/announcements/winner
+https://souldern.github.io/home/announcements/Yin and Yang
 https://souldern.github.io/home/calendar
 https://souldern.github.io/home/contact-website
+https://souldern.github.io/home/events/event-2016/
+https://souldern.github.io/home/events/event-2016/launch-event
+https://souldern.github.io/home/events/event-2018/
+https://souldern.github.io/home/events/
+https://souldern.github.io/home/events/oakapple2014/
+https://souldern.github.io/home/events/solstice2015/
+https://souldern.github.io/home/events/souldern-stomp
+https://souldern.github.io/home/events/summer-event-2017/
 https://souldern.github.io/home/gallery/
 https://souldern.github.io/home/gallery/queen-s-90th-birthday
 https://souldern.github.io/home/
@@ -272,7 +282,10 @@ https://souldern.github.io/home/menu
 https://souldern.github.io/home/neighbouring-villages
 https://souldern.github.io/home/postcodes
 https://souldern.github.io/home/privacy-policy
-https://souldern.github.io/home/souldern-stomp
+https://souldern.github.io/home/site-notes/file-upload
+https://souldern.github.io/home/site-notes/html-posting
+https://souldern.github.io/home/site-notes/
+https://souldern.github.io/home/site-notes/simple-posting
 https://souldern.github.io/home/street-view
 https://souldern.github.io/home/three-parishes
 https://souldern.github.io/horticultural-society/
@@ -326,7 +339,6 @@ https://souldern.github.io/recreational-areas/sports-field
 https://souldern.github.io/recreational-areas/the-green
 https://souldern.github.io/recreational-areas/the-pond
 https://souldern.github.io/recreational-areas/the-pound
-https://souldern.github.io/summer-event-2017/
 https://souldern.github.io/the-fox/aunt-sally
 https://souldern.github.io/the-fox/
 https://souldern.github.io/united-charity/
