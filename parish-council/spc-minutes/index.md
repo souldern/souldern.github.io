@@ -5,7 +5,7 @@ layout:default
 
 # SPC minutes
 
-<ul>
+<ul class="flist">
 {% for  sf in site.static_files |reverse %}
  {% if sf.path contains "/spc-minutes/" %}
   <li>
