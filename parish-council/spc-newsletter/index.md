@@ -6,7 +6,7 @@ layout:default
 
 # SPC Newsletter
 
-<ul>
+<ul class="flist">
 {% for  sf in site.static_files |reverse %}
  {% if sf.path contains "/spc-newsletter/" %}
   <li>

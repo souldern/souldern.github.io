@@ -70,7 +70,7 @@ function completely(c,f){f=f||{};f.fontSize=f.fontSize||"16px";f.fontFamily=f.fo
     select="/houses/house">
  <xsl:if test="position()!=1">,&#10;</xsl:if>
  <xsl:text> "</xsl:text>
- <xsl:value-of select="name"/>
+ <xsl:value-of select="translate(lower-case(name),' ''-(),','')"/>
  <xsl:text>": {&#10;kw: [</xsl:text>
  <xsl:for-each-group
      select="*/tokenize(.,'[, '']+')"
