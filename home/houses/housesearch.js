@@ -1808,7 +1808,7 @@ rc=document.getElementById("rtncount");
 
 if(kwic==1) setTimeout(function() { p.input.focus(); p.repaint(); },0);
 
-if(kwic==1 && window.location.search.indexOf('?h=') == 0) {
+if(window.location.search.indexOf('?h=') == 0) {
  initialkwic=1;
  p.setText(window.location.search.substring(window.location.search.lastIndexOf('?h=')+3).replace(/\+/g,' '));
  p.input.focus();
