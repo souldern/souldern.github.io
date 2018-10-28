@@ -80,6 +80,7 @@ var availableTags = [
 "back",
 "bakery",
 "barn",
+"barnhouse",
 "bates",
 "bayley",
 "bear",
@@ -831,8 +832,8 @@ rd: 'High Street',
 }
 ,
  "barnhouse": {
-kw: ['7jl', 'barn', 'high', 'house', 'ox27', 'street'],
-nm: 'Barn House',
+kw: ['7jl', 'barnhouse', 'high', 'ox27', 'street'],
+nm: 'Barnhouse',
 pc: 'OX27 7JL',
 rd: 'High Street',
 }
@@ -942,9 +943,9 @@ pc: 'OX27 7JP',
 rd: 'High Street',
 }
 ,
- "barnhouse": {
-kw: ['7jp', 'barn', 'high', 'house', 'ox27', 'street'],
-nm: 'Barn House',
+ "thebarnhouse": {
+kw: ['7jp', 'barn', 'high', 'house', 'ox27', 'street', 'the'],
+nm: 'The Barn House',
 pc: 'OX27 7JP',
 rd: 'High Street',
 }
