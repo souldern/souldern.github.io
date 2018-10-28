@@ -1761,7 +1761,7 @@ function myresults(terms) {
         
         if(tr==1) {
             rtncount++;
-            t = t + "<div class='res'><div class='rtn'>"  + key + "<br><img src='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
+            t = t + "<div class='res'><div class='rtn'><b>"  + kwj[key].name + "</b><br><img src='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
         }
     }
     rc.innerHTML= "Results found: " +rtncount;
