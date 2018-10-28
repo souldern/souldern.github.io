@@ -37,7 +37,8 @@
   <h3 id="notes">Notes</h3>
   <ul>
    <li>Keywords are restricted to lowercase ASCII letters, digits, <code>'</code>, <code>-</code> and <code>_</code>. (Search results show keywords with richer formatting.)</li>
-   <li>Initial images derived from Google Street view, in accordance with their <a href="https://www.google.com/permissions/geoguidelines/">terms of use</a>, or photographs by David Carlisle for this site, or in some cases from freely available images. Villagers are welcome to submit new (square) images for their houses, or any  other details that they wish to list by the house entry.</li>
+   <li>Initial images derived from Google Street view, in accordance with their <a href="https://www.google.com/permissions/geoguidelines/">terms of use</a>, or photographs by David Carlisle for this site, or in some cases from freely available images.</li>
+   <li>Villagers are welcome to submit new (square) images for their houses, or any  other details that they wish to list by the house entry.</li>
   </ul>
 </xsl:result-document>
 </xsl:template>
