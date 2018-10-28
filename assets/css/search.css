@@ -26,5 +26,6 @@ display:table-cell;
 vertical-align:text-top;
 padding-top:.5em;
 padding-right:.5em;
+padding-left:.5em;
 border-bottom: solid black thin;
 }

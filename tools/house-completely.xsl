@@ -16,13 +16,8 @@
  </xsl:result-document>
 
 <xsl:result-document indent="no" href="../home/houses/index.html">
----
-layout: default
-title: Souldern House Search
-extracss: search
----
-  <xsl:text>&#10;</xsl:text>
-  <script src="housesearch.js"><xsl:text> </xsl:text></script>
+ <xsl:text>---&#10;layout: default&#10;title: Souldern House Search&#10;extracss: search&#10;---&#10;&#10;</xsl:text>
+ <script src="housesearch.js"><xsl:text> </xsl:text></script>
   <xsl:text>&#10;</xsl:text>
   <xsl:text>&#10;</xsl:text>
   <div>
@@ -186,7 +181,7 @@ function myresults(terms) {
         
         if(tr==1) {
             rtncount++;
-            t = t + "<div class='res'><div class='rtn'>"  + key + "br><img href='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
+            t = t + "<div class='res'><div class='rtn'>"  + key + "<br><img src='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
         }
     }
     rc.innerHTML= "Results found: " +rtncount;
