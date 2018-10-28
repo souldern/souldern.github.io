@@ -126,6 +126,7 @@
    </house>
    <house>
       <name>The Old Stables</name>
+      <oldname>The Old Barn</oldname>
       <pc>OX27 7HZ</pc>
       <rd>B4100</rd>
    </house>
@@ -331,6 +332,7 @@
    </house>
    <house>
       <name>Hillside</name>
+      <oldname>Bayley's Cottage</oldname>
       <pc>OX27 7JE</pc>
       <rd>The Hill</rd>
    </house>
@@ -366,6 +368,7 @@
    </house>
    <house>
       <name>Hollies Farm</name>
+      <oldname>Great House Close</oldname>
       <pc>OX27 7JF</pc>
       <rd>Back Lane</rd>
    </house>
@@ -730,7 +733,7 @@
       <rd>Bates Lane</rd>
    </house>
    <house>
-      <name>The Orchard</name>
+      <name>The Orchard</name><!-- 1, The Paddocks?-->
       <pc>OX27 7JU</pc>
       <rd>Bates Lane</rd>
    </house>
@@ -826,6 +829,7 @@
    </house>
    <house>
       <name>Pleasant View</name>
+      <oldname>Bicester Court</oldname>
       <pc>OX27 7JZ</pc>
       <rd>Foxhill Lane</rd>
    </house>
@@ -945,7 +949,7 @@
       <rd/>
    </house>
    <house>
-      <name>The Orchard, 1, The Paddocks</name>
+      <name>1, The Paddocks</name>
       <pc>OX27 7LG</pc>
       <rd>The Paddocks</rd>
    </house>

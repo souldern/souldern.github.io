@@ -81,8 +81,10 @@ var availableTags = [
 "bakery",
 "barn",
 "bates",
+"bayley",
 "bear",
 "beech",
+"bicester",
 "bovewell",
 "bowcombe",
 "bowling",
@@ -98,6 +100,7 @@ var availableTags = [
 "church",
 "cider",
 "circles",
+"close",
 "coach",
 "cotswold",
 "cottage",
@@ -130,6 +133,7 @@ var availableTags = [
 "granary",
 "grandpas",
 "granny",
+"great",
 "greystones",
 "grounds",
 "hackertys",
@@ -421,7 +425,7 @@ rd: 'B4100',
 }
 ,
  "theoldstables": {
-kw: ['7hz', 'b4100', 'old', 'ox27', 'stables', 'the'],
+kw: ['7hz', 'b4100', 'barn', 'old', 'ox27', 'stables', 'the'],
 nm: 'The Old Stables',
 pc: 'OX27 7HZ',
 rd: 'B4100',
@@ -624,10 +628,10 @@ rd: 'Bovewell',
 }
 ,
  "villagehall": {
-kw: ['7jb', 'bovewell', 'hall', 'ox27', 'village'],
+kw: ['7jb', 'hall', 'hill', 'ox27', 'the', 'village'],
 nm: 'Village Hall',
 pc: 'OX27 7JB',
-rd: 'Bovewell',
+rd: 'The Hill',
 }
 ,
  "ardeenhouse": {
@@ -708,7 +712,7 @@ rd: 'The Hill',
 }
 ,
  "hillside": {
-kw: ['7je', 'hill', 'hillside', 'ox27', 'the'],
+kw: ['7je', 'bayley', 'cottage', 'hill', 'hillside', 'ox27', 's', 'the'],
 nm: 'Hillside',
 pc: 'OX27 7JE',
 rd: 'The Hill',
@@ -757,7 +761,7 @@ rd: 'Back Lane',
 }
 ,
  "holliesfarm": {
-kw: ['7jf', 'back', 'farm', 'hollies', 'lane', 'ox27'],
+kw: ['7jf', 'back', 'close', 'farm', 'great', 'hollies', 'house', 'lane', 'ox27'],
 nm: 'Hollies Farm',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
@@ -805,9 +809,9 @@ pc: 'OX27 7JJ',
 rd: 'High Street',
 }
 ,
- "littleslam5highstreet": {
-kw: ['5', '7jj', 'high', 'little', 'ox27', 'slam', 'street'],
-nm: 'Little Slam, 5, High Street',
+ "2highstreet": {
+kw: ['2', '7jj', 'high', 'ox27', 'street'],
+nm: '2, High Street',
 pc: 'OX27 7JJ',
 rd: 'High Street',
 }
@@ -1401,7 +1405,7 @@ rd: 'Foxhill Lane',
 }
 ,
  "pleasantview": {
-kw: ['7jz', 'foxhill', 'lane', 'ox27', 'pleasant', 'view'],
+kw: ['7jz', 'bicester', 'court', 'foxhill', 'lane', 'ox27', 'pleasant', 'view'],
 nm: 'Pleasant View',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
@@ -1568,9 +1572,9 @@ pc: 'OX27 7LF',
 rd: '',
 }
 ,
- "theorchard1thepaddocks": {
-kw: ['1', '7lg', 'orchard', 'ox27', 'paddocks', 'the'],
-nm: 'The Orchard, 1, The Paddocks',
+ "1thepaddocks": {
+kw: ['1', '7lg', 'ox27', 'paddocks', 'the'],
+nm: '1, The Paddocks',
 pc: 'OX27 7LG',
 rd: 'The Paddocks',
 }
@@ -1756,7 +1760,7 @@ function myresults(terms) {
         
         if(tr==1) {
             rtncount++;
-            t = t + "<div class='res'><div class='rtn'>"  + key + "</a></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
+            t = t + "<div class='res'><div class='rtn'>"  + key + "br><img href='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
         }
     }
     rc.innerHTML= "Results found: " +rtncount;

@@ -186,7 +186,7 @@ function myresults(terms) {
         
         if(tr==1) {
             rtncount++;
-            t = t + "<div class='res'><div class='rtn'>"  + key + "</a></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
+            t = t + "<div class='res'><div class='rtn'>"  + key + "br><img href='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
         }
     }
     rc.innerHTML= "Results found: " +rtncount;
