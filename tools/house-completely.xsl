@@ -24,7 +24,7 @@
    <div>
     <input type="button" value="Clear Form" onClick="p.setText('');p.input.focus();rc.innerHTML= '\u00a0';r.innerHTML='';"/>
     <xsl:text> &#160; </xsl:text>
-    <input type="button" value="Update URL" onClick="window.location.href=window.location.href.replace(/\?.*/,'') + '?q=' +p.getText().replace(/ +/g,'+')"/>
+    <input type="button" value="Update URL" onClick="window.location.href=window.location.href.replace(/\?.*/,'') + '?h=' +p.getText().replace(/ +/g,'+')"/>
     </div><br/>
     <div id="rtncount">&#160;</div>
     <div id='kwinput' ></div>
@@ -228,9 +228,9 @@ rc=document.getElementById("rtncount");
 
 if(kwic==1) setTimeout(function() { p.input.focus(); p.repaint(); },0);
 
-if(kwic==1 && window.location.search.indexOf('?q=') == 0) {
+if(kwic==1 && window.location.search.indexOf('?h=') == 0) {
  initialkwic=1;
- p.setText(window.location.search.substring(window.location.search.lastIndexOf('?q=')+3).replace(/\+/g,' '));
+ p.setText(window.location.search.substring(window.location.search.lastIndexOf('?h=')+3).replace(/\+/g,' '));
  p.input.focus();
  p.onEnter();
  }
