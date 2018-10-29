@@ -133,7 +133,7 @@ var availableTags = [
 "gibbs",
 "granary",
 "grandpas",
-"granny",
+"grannys",
 "great",
 "greystones",
 "grounds",
@@ -833,7 +833,7 @@ rd: 'High Street',
 }
 ,
  "barnhouse": {
-kw: ['7jl', 'barnhouse', 'high', 'ox27', 'street'],
+kw: ['7jl', 'barn', 'barnhouse', 'high', 'house', 'ox27', 'street'],
 nm: 'Barnhouse',
 pc: 'OX27 7JL',
 rd: 'High Street',
@@ -1056,9 +1056,9 @@ pc: 'OX27 7JQ',
 rd: 'Church Lane',
 }
 ,
- "grannycottagechurchlane": {
-kw: ['7jq', 'church', 'cottage', 'granny', 'lane', 'ox27'],
-nm: 'Granny Cottage, Church Lane',
+ "grannyscottage": {
+kw: ['7jq', 'church', 'cottage', 'grannys', 'lane', 'ox27'],
+nm: 'Grannys Cottage',
 pc: 'OX27 7JQ',
 rd: 'Church Lane',
 }
