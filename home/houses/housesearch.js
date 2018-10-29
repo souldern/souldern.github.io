@@ -68,7 +68,6 @@ var availableTags = [
 "a",
 "above",
 "acacia",
-"acume",
 "alley",
 "anvil",
 "applegarth",
@@ -94,7 +93,6 @@ var availableTags = [
 "bulls",
 "bungalow",
 "burgess",
-"callows",
 "cedar",
 "chapel",
 "cheviot",
@@ -1135,13 +1133,6 @@ pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }
 ,
- "acumehouse": {
-kw: ['7ju', 'acume', 'bates', 'house', 'lane', 'ox27'],
-nm: 'Acume House',
-pc: 'OX27 7JU',
-rd: 'Bates Lane',
-}
-,
  "applegarth": {
 kw: ['7ju', 'applegarth', 'bates', 'lane', 'ox27'],
 nm: 'Applegarth',
@@ -1152,13 +1143,6 @@ rd: 'Bates Lane',
  "bowcombehouse": {
 kw: ['7ju', 'bates', 'bowcombe', 'house', 'lane', 'ox27'],
 nm: 'Bowcombe House',
-pc: 'OX27 7JU',
-rd: 'Bates Lane',
-}
-,
- "callowscottage": {
-kw: ['7ju', 'bates', 'callows', 'cottage', 'lane', 'ox27'],
-nm: 'Callows Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }
