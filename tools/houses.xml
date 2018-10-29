@@ -1,1022 +1,1023 @@
 <houses>
-   <house>
-      <name>The Lodge, Hill House</name>
-      <pc>OX25 6LR</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Breeze Cottage</name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Hill House</name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Barn Cottage, Hill House</name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>New Cottage, Hill House</name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Lower Souldern Grounds</name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Tack Cottage </name>
-      <pc>OX25 6LS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Inkerman Barn</name>
-      <pc>OX27 7HS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Inkerman Farm</name>
-      <pc>OX27 7HS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Inkerman House</name>
-      <pc>OX27 7HS</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>A E Prentice, Souldern Gate</name>
-      <pc>OX27 7HT</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>Burgess, Souldern Gate</name>
-      <pc>OX27 7HT</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>K Scaffolding, Souldern Gate</name>
-      <pc>OX27 7HT</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>Tollgate Cottage</name>
-      <pc>OX27 7HT</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>St Mary's Church</name>
-      <pc>OX27 7HU</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>Rectory Cottage</name>
-      <pc>OX27 7HU</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>Smiths Cottage</name>
-      <pc>OX27 7HU</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>The Old Rectory</name>
-      <pc>OX27 7HU</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>Crooks Firs</name>
-      <pc>OX27 7HX</pc>
-      <rd>Tusmore Road</rd>
-   </house>
-   <house>
-      <name>Crooks Firs Cottage</name>
-      <pc>OX27 7HX</pc>
-      <rd>Tusmore Road</rd>
-   </house>
-   <house>
-      <name>1, Tower Farm Cottages</name>
-      <pc>OX27 7HY</pc>
-      <rd>Tusmore Road</rd>
-   </house>
-   <house>
-      <name>Tower Fields</name>
-      <pc>OX27 7HY</pc>
-      <rd>Tusmore Road</rd>
-   </house>
-   <house>
-      <name>Tower House</name>
-      <pc>OX27 7HY</pc>
-      <rd>Tusmore Road</rd>
-   </house>
-   <house>
-      <name>Bear Cottage</name>
-      <pc>OX27 7HZ</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>Ploughley Cottage</name>
-      <pc>OX27 7HZ</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>The Old Stables</name>
-      <oldname>The Old Barn</oldname>
-      <pc>OX27 7HZ</pc>
-      <rd>B4100</rd>
-   </house>
-   <house>
-      <name>1, The Turnpike</name>
-      <pc>OX27 7JA</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>2, The Turnpike</name>
-      <pc>OX27 7JA</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>3, The Turnpike</name>
-      <pc>OX27 7JA</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>4, The Turnpike</name>
-      <pc>OX27 7JA</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>1, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>1, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>1, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>2, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>3, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>4, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>5, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>6, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>7, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>8, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>9, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>10, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>11, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>12, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>13, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>14, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>15, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>16, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>17, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>18, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>19, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>20, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>21, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>22, Bovewell</name>
-      <pc>OX27 7JB</pc>
-      <rd>Bovewell</rd>
-   </house>
-   <house>
-      <name>Village Hall</name>
-      <pc>OX27 7JB</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Ardeen House</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Argyll House</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Bowling Leas</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Hill View Cottage</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Holly Cottage</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Magpie Cottage</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Mount Pleasant</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Trelawne</name>
-      <pc>OX27 7JD</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Above the Well Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Highland Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Hill Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Hillside</name>
-      <oldname>Bayley's Cottage</oldname>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Oakley Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Pond Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Rock Cottage</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>The Cottage, The Hill</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>The Rock</name>
-      <pc>OX27 7JE</pc>
-      <rd>The Hill</rd>
-   </house>
-   <house>
-      <name>Alley Cottage</name>
-      <pc>OX27 7JF</pc>
-      <rd>Back Lane</rd>
-   </house>
-   <house>
-      <name>Hollies Farm</name>
-      <oldname>Great House Close</oldname>
-      <pc>OX27 7JF</pc>
-      <rd>Back Lane</rd>
-   </house>
-   <house>
-      <name>Spring Cottage</name>
-      <pc>OX27 7JF</pc>
-      <rd>Back Lane</rd>
-   </house>
-   <house>
-      <name>Spring House</name>
-      <pc>OX27 7JF</pc>
-      <rd>Back Lane</rd>
-   </house>
-   <house>
-      <name>Wesleyan Reform Chapel</name>
-      <pc>OX27 7JF</pc>
-      <rd>Back Lane</rd>
-   </house>
-   <house>
-      <name>Court Cottage</name>
-      <pc>OX27 7JH</pc>
-      <rd>Back lane</rd>
-   </house>
-   <house>
-      <name>Souldern Court</name>
-      <pc>OX27 7JH</pc>
-      <rd>Back lane</rd>
-   </house>
-   <house>
-      <name>The Old Bakery, 1, High Street</name>
-      <pc>OX27 7JJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Barn End</name>
-      <pc>OX27 7JJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Dodgers Cottage</name>
-      <pc>OX27 7JJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Mallards</name>
-      <pc>OX27 7JJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Barnhouse</name>
-      <pc>OX27 7JL</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Beech House</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Dovecote</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Manor Farm</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Manor Farm Barn</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Steeple House</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Stone Haven</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>The Granary</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>The Potting Shed</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Treetops</name>
-      <pc>OX27 7JL</pc>
-      <rd>Manor Farm Road, High Street</rd>
-   </house>
-   <house>
-      <name>Mullions</name>
-      <pc>OX27 7JN</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>The Hermitage</name>
-      <pc>OX27 7JN</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>The Old School</name>
-      <pc>OX27 7JN</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>The Wall House</name>
-      <oldname>The Coach House</oldname>
-      <pc>OX27 7JN</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Anvil Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>The Barn House</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Bulls Head Garage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Bulls Head Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Deep Well Cottage</name>
-      <oldname>Post Office Cottage, Deepwell Cottage</oldname>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Kenchs Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Foxhill House</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Grandpas Barn</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Little Slam</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Nutcracker Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Old Forge</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Portland Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Ryleens</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>The Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Timber Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Tudor Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Pye Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>3, Church Lane</name>
-      <pc>OX27 7JQ</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>Granny Cottage, Church Lane</name>
-      <pc>OX27 7JQ</pc>
-      <rd>Church Lane</rd>
-   </house>
-   <house>
-      <name>1, Chapel Row</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>2, Chapel Row</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>3, Chapel Row</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>4, Chapel Row</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>5, Chapel Row</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>Appleton Lodge</name>
-      <pc>OX27 7JR</pc>
-      <rd>Chapel Row</rd>
-   </house>
-   <house>
-      <name>Garden Cottage</name>
-      <pc>OX27 7JT</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Manor Bungalow</name>
-      <pc>OX27 7JT</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Souldern Manor</name>
-      <pc>OX27 7JT</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>5 Bates Lane</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-<!--
-   <house>
-      <name>Acume House</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
--->
-   <house>
-      <name>Applegarth</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Bowcombe House</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-<!--
-   <house>
-      <name>Callows Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
--->
-   <house>
-      <name>Cider Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Crown Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Dovecote Barn</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Keepers Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Greystones</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Halfpenny Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Home Farm House</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Littlecot</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Olde Saddlers Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-    <name>Tillys Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Rose Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Silver Find Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Stable Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Sunrise Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Sunset Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>The Brambles</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>The Orchard</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Westend House</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Willow Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>Yew Cottage</name>
-      <pc>OX27 7JU</pc>
-      <rd>Bates Lane</rd>
-   </house>
-   <house>
-      <name>1, Fox Lane</name>
-      <pc>OX27 7JW</pc>
-      <rd>Fox Lane</rd>
-   </house>
-   <house>
-      <name>Avondale</name>
-      <pc>OX27 7JW</pc>
-      <rd>Fox Lane</rd>
-   </house>
-   <house>
-      <name>Fairview</name>
-      <pc>OX27 7JW</pc>
-      <rd>Fox Lane</rd>
-   </house>
-   <house>
-      <name>Fox Inn</name>
-      <pc>OX27 7JW</pc>
-      <rd>Fox Lane</rd>
-   </house>
-   <house>
-      <name>The Swan House</name>
-      <pc>OX27 7JW</pc>
-      <rd>Fox Lane</rd>
-   </house>
-   <house>
-      <name>Leycroft Barn</name>
-      <pc>OX27 7JX</pc>
-      <rd>Somerton Road</rd>
-   </house>
-   <house>
-      <name>Souldern Grounds Farm</name>
-      <pc>OX27 7JY</pc>
-      <rd/>
-   </house>
-   <house>
-      <name>Acacia Bungalow</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Cheviot</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Circles</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Daleview</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Dovetail</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Fox Hill</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Fox Hollies</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Gibbs Field House</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Pleasant View</name>
-      <oldname>Bicester Court</oldname>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Rosecroft</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Stone Croft</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Sul-Thorn</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Sunnybank</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Tchure House</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Toosan</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Willow House</name>
-      <pc>OX27 7JZ</pc>
-      <rd>Foxhill Lane</rd>
-   </house>
-   <house>
-      <name>Cedar House</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Park House</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Park Lodge</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Rest Harrow</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Souldern House</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Souldern House Cottage</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>St. Josephs</name>
-      <pc>OX27 7LA</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>Hackertys Way</name>
-      <pc>OX27 7LB</pc>
-      <rd>Mill Lane</rd>
-   </house>
-   <house>
-      <name>Souldern Mill</name>
-      <pc>OX27 7LB</pc>
-      <rd>Mill Lane</rd>
-   </house>
-   <house>
-      <name>1, Wharf Lane</name>
-      <pc>OX27 7LD</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>2, Wharf Lane</name>
-      <pc>OX27 7LD</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>3, Wharf Lane</name>
-      <pc>OX27 7LD</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>4, Wharf Lane</name>
-      <pc>OX27 7LD</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>Wharf Farm</name>
-      <pc>OX27 7LE</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>Wharf Farm Cottage</name>
-      <pc>OX27 7LE</pc>
-      <rd>Wharf Lane</rd>
-   </house>
-   <house>
-      <name>Souldern Manor Estate</name>
-      <pc>OX27 7LF</pc>
-      <rd/>
-   </house>
-   <house>
-      <name>1, The Paddocks</name>
-      <pc>OX27 7LG</pc>
-      <rd>The Paddocks</rd>
-   </house>
-   <house>
-      <name>2 The Paddocks</name>
-      <pc>OX27 7LG</pc>
-      <rd>The Paddocks</rd>
-   </house>
-   <house>
-      <name>3 The Paddocks</name>
-      <pc>OX27 7LG</pc>
-      <rd>The Paddocks</rd>
-   </house>
-   <house>
-      <name>Foxglove House, 4, The Paddocks</name>
-      <pc>OX27 7LG</pc>
-      <rd>The Paddocks</rd>
-   </house>
-   <house>
-      <name>5 The Paddocks</name>
-      <pc>OX27 7LG</pc>
-      <rd>The Paddocks</rd>
-   </house>
-   <house>
-      <name>1, The Old Stores</name>
-      <pc>OX27 7LJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>2, The Old Stores</name>
-      <pc>OX27 7LJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>3, The Old Stores</name>
-      <pc>OX27 7LJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>4, The Old Stores</name>
-      <pc>OX27 7LJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
-      <name>1, Cotswold Court</name>
-      <pc>OX27 7LQ</pc>
-      <rd>Cotswold Court</rd>
-   </house>
-   <house>
-      <name>2, Cotswold Court</name>
-      <pc>OX27 7LQ</pc>
-      <rd>Cotswold Court</rd>
-   </house>
-   <house>
-      <name>3, Cotswold Court</name>
-      <pc>OX27 7LQ</pc>
-      <rd>Cotswold Court</rd>
-   </house>
-   <house>
-      <name>4, Cotswold Court</name>
-      <pc>OX27 7LQ</pc>
-      <rd>Cotswold Court</rd>
-   </house>
+ <house>
+  <name>The Lodge, Hill House</name>
+  <pc>OX25 6LR</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Breeze Cottage</name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Hill House</name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Barn Cottage, Hill House</name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>New Cottage, Hill House</name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Lower Souldern Grounds</name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Tack Cottage </name>
+  <pc>OX25 6LS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Inkerman Barn</name>
+  <pc>OX27 7HS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Inkerman Farm</name>
+  <pc>OX27 7HS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Inkerman House</name>
+  <pc>OX27 7HS</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>A E Prentice, Souldern Gate</name>
+  <pc>OX27 7HT</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>Burgess, Souldern Gate</name>
+  <pc>OX27 7HT</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>K Scaffolding, Souldern Gate</name>
+  <pc>OX27 7HT</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>Tollgate Cottage</name>
+  <pc>OX27 7HT</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>St Mary's Church</name>
+  <pc>OX27 7HU</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>Rectory Cottage</name>
+  <pc>OX27 7HU</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>Smiths Cottage</name>
+  <pc>OX27 7HU</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>The Old Rectory</name>
+  <pc>OX27 7HU</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>Crooks Firs</name>
+  <pc>OX27 7HX</pc>
+  <rd>Tusmore Road</rd>
+ </house>
+ <house>
+  <name>Crooks Firs Cottage</name>
+  <pc>OX27 7HX</pc>
+  <rd>Tusmore Road</rd>
+ </house>
+ <house>
+  <name>1, Tower Farm Cottages</name>
+  <pc>OX27 7HY</pc>
+  <rd>Tusmore Road</rd>
+ </house>
+ <house>
+  <name>Tower Fields</name>
+  <pc>OX27 7HY</pc>
+  <rd>Tusmore Road</rd>
+ </house>
+ <house>
+  <name>Tower House</name>
+  <pc>OX27 7HY</pc>
+  <rd>Tusmore Road</rd>
+ </house>
+ <house>
+  <name>Bear Cottage</name>
+  <pc>OX27 7HZ</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>Ploughley Cottage</name>
+  <pc>OX27 7HZ</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>The Old Stables</name>
+  <othername>The Old Barn</othername>
+  <pc>OX27 7HZ</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>1, The Turnpike</name>
+  <pc>OX27 7JA</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>2, The Turnpike</name>
+  <pc>OX27 7JA</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>3, The Turnpike</name>
+  <pc>OX27 7JA</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>4, The Turnpike</name>
+  <pc>OX27 7JA</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>1, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>1, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>1, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>2, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>3, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>4, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>5, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>6, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>7, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>8, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>9, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>10, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>11, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>12, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>13, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>14, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>15, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>16, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>17, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>18, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>19, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>20, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>21, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>22, Bovewell</name>
+  <pc>OX27 7JB</pc>
+  <rd>Bovewell</rd>
+ </house>
+ <house>
+  <name>Village Hall</name>
+  <pc>OX27 7JB</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Ardeen House</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Argyll House</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Bowling Leas</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Hill View Cottage</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Holly Cottage</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Magpie Cottage</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Mount Pleasant</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Trelawne</name>
+  <pc>OX27 7JD</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Above the Well Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Highland Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Hill Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Hillside</name>
+  <othername>Bayley's Cottage</othername>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Oakley Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Pond Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Rock Cottage</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>The Cottage, The Hill</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>The Rock</name>
+  <pc>OX27 7JE</pc>
+  <rd>The Hill</rd>
+ </house>
+ <house>
+  <name>Alley Cottage</name>
+  <pc>OX27 7JF</pc>
+  <rd>Back Lane</rd>
+ </house>
+ <house>
+  <name>Hollies Farm</name>
+  <othername>Great House Close</othername>
+  <pc>OX27 7JF</pc>
+  <rd>Back Lane</rd>
+ </house>
+ <house>
+  <name>Spring Cottage</name>
+  <pc>OX27 7JF</pc>
+  <rd>Back Lane</rd>
+ </house>
+ <house>
+  <name>Spring House</name>
+  <pc>OX27 7JF</pc>
+  <rd>Back Lane</rd>
+ </house>
+ <house>
+  <name>Wesleyan Reform Chapel</name>
+  <pc>OX27 7JF</pc>
+  <rd>Back Lane</rd>
+ </house>
+ <house>
+  <name>Court Cottage</name>
+  <pc>OX27 7JH</pc>
+  <rd>Back lane</rd>
+ </house>
+ <house>
+  <name>Souldern Court</name>
+  <pc>OX27 7JH</pc>
+  <rd>Back lane</rd>
+ </house>
+ <house>
+  <name>The Old Bakery, 1, High Street</name>
+  <pc>OX27 7JJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Barn End</name>
+  <pc>OX27 7JJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Dodgers Cottage</name>
+  <pc>OX27 7JJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Mallards</name>
+  <pc>OX27 7JJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Barnhouse</name>
+  <othername>Barn House</othername>
+  <pc>OX27 7JL</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Beech House</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Dovecote</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Manor Farm</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Manor Farm Barn</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Steeple House</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Stone Haven</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>The Granary</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>The Potting Shed</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Treetops</name>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house>
+  <name>Mullions</name>
+  <pc>OX27 7JN</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>The Hermitage</name>
+  <pc>OX27 7JN</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>The Old School</name>
+  <pc>OX27 7JN</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>The Wall House</name>
+  <othername>The Coach House</othername>
+  <pc>OX27 7JN</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Anvil Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>The Barn House</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Bulls Head Garage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Bulls Head Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Deep Well Cottage</name>
+  <othername>Post Office Cottage, Deepwell Cottage</othername>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Kenchs Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Foxhill House</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Grandpas Barn</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Little Slam</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Nutcracker Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Old Forge</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Portland Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Ryleens</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>The Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Timber Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Tudor Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Pye Cottage</name>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>3, Church Lane</name>
+  <pc>OX27 7JQ</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>Grannys Cottage</name>
+  <pc>OX27 7JQ</pc>
+  <rd>Church Lane</rd>
+ </house>
+ <house>
+  <name>1, Chapel Row</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>2, Chapel Row</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>3, Chapel Row</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>4, Chapel Row</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>5, Chapel Row</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>Appleton Lodge</name>
+  <pc>OX27 7JR</pc>
+  <rd>Chapel Row</rd>
+ </house>
+ <house>
+  <name>Garden Cottage</name>
+  <pc>OX27 7JT</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Manor Bungalow</name>
+  <pc>OX27 7JT</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Souldern Manor</name>
+  <pc>OX27 7JT</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>5 Bates Lane</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <!--
+     <house>
+     <name>Acume House</name>
+     <pc>OX27 7JU</pc>
+     <rd>Bates Lane</rd>
+     </house>
+ -->
+ <house>
+  <name>Applegarth</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Bowcombe House</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <!--
+     <house>
+     <name>Callows Cottage</name>
+     <pc>OX27 7JU</pc>
+     <rd>Bates Lane</rd>
+     </house>
+ -->
+ <house>
+  <name>Cider Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Crown Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Dovecote Barn</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Keepers Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Greystones</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Halfpenny Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Home Farm House</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Littlecot</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Olde Saddlers Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Tillys Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Rose Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Silver Find Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Stable Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Sunrise Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Sunset Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>The Brambles</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>The Orchard</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Westend House</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Willow Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>Yew Cottage</name>
+  <pc>OX27 7JU</pc>
+  <rd>Bates Lane</rd>
+ </house>
+ <house>
+  <name>1, Fox Lane</name>
+  <pc>OX27 7JW</pc>
+  <rd>Fox Lane</rd>
+ </house>
+ <house>
+  <name>Avondale</name>
+  <pc>OX27 7JW</pc>
+  <rd>Fox Lane</rd>
+ </house>
+ <house>
+  <name>Fairview</name>
+  <pc>OX27 7JW</pc>
+  <rd>Fox Lane</rd>
+ </house>
+ <house>
+  <name>Fox Inn</name>
+  <pc>OX27 7JW</pc>
+  <rd>Fox Lane</rd>
+ </house>
+ <house>
+  <name>The Swan House</name>
+  <pc>OX27 7JW</pc>
+  <rd>Fox Lane</rd>
+ </house>
+ <house>
+  <name>Leycroft Barn</name>
+  <pc>OX27 7JX</pc>
+  <rd>Somerton Road</rd>
+ </house>
+ <house>
+  <name>Souldern Grounds Farm</name>
+  <pc>OX27 7JY</pc>
+  <rd/>
+ </house>
+ <house>
+  <name>Acacia Bungalow</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Cheviot</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Circles</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Daleview</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Dovetail</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Fox Hill</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Fox Hollies</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Gibbs Field House</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Pleasant View</name>
+  <othername>Bicester Court</othername>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Rosecroft</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Stone Croft</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Sul-Thorn</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Sunnybank</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Tchure House</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Toosan</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Willow House</name>
+  <pc>OX27 7JZ</pc>
+  <rd>Foxhill Lane</rd>
+ </house>
+ <house>
+  <name>Cedar House</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Park House</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Park Lodge</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Rest Harrow</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Souldern House</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Souldern House Cottage</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>St. Josephs</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>Hackertys Way</name>
+  <pc>OX27 7LB</pc>
+  <rd>Mill Lane</rd>
+ </house>
+ <house>
+  <name>Souldern Mill</name>
+  <pc>OX27 7LB</pc>
+  <rd>Mill Lane</rd>
+ </house>
+ <house>
+  <name>1, Wharf Lane</name>
+  <pc>OX27 7LD</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>2, Wharf Lane</name>
+  <pc>OX27 7LD</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>3, Wharf Lane</name>
+  <pc>OX27 7LD</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>4, Wharf Lane</name>
+  <pc>OX27 7LD</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>Wharf Farm</name>
+  <pc>OX27 7LE</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>Wharf Farm Cottage</name>
+  <pc>OX27 7LE</pc>
+  <rd>Wharf Lane</rd>
+ </house>
+ <house>
+  <name>Souldern Manor Estate</name>
+  <pc>OX27 7LF</pc>
+  <rd/>
+ </house>
+ <house>
+  <name>1, The Paddocks</name>
+  <pc>OX27 7LG</pc>
+  <rd>The Paddocks</rd>
+ </house>
+ <house>
+  <name>2 The Paddocks</name>
+  <pc>OX27 7LG</pc>
+  <rd>The Paddocks</rd>
+ </house>
+ <house>
+  <name>3 The Paddocks</name>
+  <pc>OX27 7LG</pc>
+  <rd>The Paddocks</rd>
+ </house>
+ <house>
+  <name>Foxglove House, 4, The Paddocks</name>
+  <pc>OX27 7LG</pc>
+  <rd>The Paddocks</rd>
+ </house>
+ <house>
+  <name>5 The Paddocks</name>
+  <pc>OX27 7LG</pc>
+  <rd>The Paddocks</rd>
+ </house>
+ <house>
+  <name>1, The Old Stores</name>
+  <pc>OX27 7LJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>2, The Old Stores</name>
+  <pc>OX27 7LJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>3, The Old Stores</name>
+  <pc>OX27 7LJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>4, The Old Stores</name>
+  <pc>OX27 7LJ</pc>
+  <rd>High Street</rd>
+ </house>
+ <house>
+  <name>1, Cotswold Court</name>
+  <pc>OX27 7LQ</pc>
+  <rd>Cotswold Court</rd>
+ </house>
+ <house>
+  <name>2, Cotswold Court</name>
+  <pc>OX27 7LQ</pc>
+  <rd>Cotswold Court</rd>
+ </house>
+ <house>
+  <name>3, Cotswold Court</name>
+  <pc>OX27 7LQ</pc>
+  <rd>Cotswold Court</rd>
+ </house>
+ <house>
+  <name>4, Cotswold Court</name>
+  <pc>OX27 7LQ</pc>
+  <rd>Cotswold Court</rd>
+ </house>
 </houses>
