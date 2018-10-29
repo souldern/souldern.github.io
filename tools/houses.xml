@@ -403,11 +403,6 @@
       <rd>High Street</rd>
    </house>
    <house>
-      <name>2, High Street</name>
-      <pc>OX27 7JJ</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
       <name>Barn End</name>
       <pc>OX27 7JJ</pc>
       <rd>High Street</rd>
@@ -512,7 +507,13 @@
       <rd>High Street</rd>
    </house>
    <house>
+      <name>Bulls Head Cottage</name>
+      <pc>OX27 7JP</pc>
+      <rd>High Street</rd>
+   </house>
+   <house>
       <name>Deep Well Cottage</name>
+      <oldname>Post Office Cottage</oldname>
       <pc>OX27 7JP</pc>
       <rd>High Street</rd>
    </house>
