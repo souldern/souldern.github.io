@@ -231,6 +231,7 @@ var availableTags = [
 "tchure",
 "the",
 "the",
+"tillys",
 "timber",
 "tollgate",
 "toosan",
@@ -1015,13 +1016,6 @@ pc: 'OX27 7JP',
 rd: 'High Street',
 }
 ,
- "postofficecottage": {
-kw: ['7jp', 'cottage', 'high', 'office', 'ox27', 'post', 'street'],
-nm: 'Post Office Cottage',
-pc: 'OX27 7JP',
-rd: 'High Street',
-}
-,
  "ryleens": {
 kw: ['7jp', 'high', 'ox27', 'ryleens', 'street'],
 nm: 'Ryleens',
@@ -1183,9 +1177,9 @@ pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }
 ,
- "dovecote": {
-kw: ['7ju', 'bates', 'dovecote', 'lane', 'ox27'],
-nm: 'Dovecote',
+ "dovecotebarn": {
+kw: ['7ju', 'barn', 'bates', 'dovecote', 'lane', 'ox27'],
+nm: 'Dovecote Barn',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }
@@ -1228,6 +1222,13 @@ rd: 'Bates Lane',
  "oldesaddlerscottage": {
 kw: ['7ju', 'bates', 'cottage', 'lane', 'olde', 'ox27', 'saddlers'],
 nm: 'Olde Saddlers Cottage',
+pc: 'OX27 7JU',
+rd: 'Bates Lane',
+}
+,
+ "tillyscottage": {
+kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'tillys'],
+nm: 'Tillys Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }

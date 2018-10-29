@@ -550,11 +550,6 @@
       <rd>High Street</rd>
    </house>
    <house>
-      <name>Post Office Cottage</name>
-      <pc>OX27 7JP</pc>
-      <rd>High Street</rd>
-   </house>
-   <house>
       <name>Ryleens</name>
       <pc>OX27 7JP</pc>
       <rd>High Street</rd>
@@ -670,7 +665,7 @@
       <rd>Bates Lane</rd>
    </house>
    <house>
-      <name>Dovecote</name>
+      <name>Dovecote Barn</name>
       <pc>OX27 7JU</pc>
       <rd>Bates Lane</rd>
    </house>
@@ -701,6 +696,11 @@
    </house>
    <house>
       <name>Olde Saddlers Cottage</name>
+      <pc>OX27 7JU</pc>
+      <rd>Bates Lane</rd>
+   </house>
+   <house>
+    <name>Tillys Cottage</name>
       <pc>OX27 7JU</pc>
       <rd>Bates Lane</rd>
    </house>
