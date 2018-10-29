@@ -392,9 +392,9 @@ pc: 'OX27 7HX',
 rd: 'Tusmore Road',
 }
 ,
- "1towerfarmcottages": {
-kw: ['1', '7hy', 'cottages', 'farm', 'ox27', 'road', 'tower', 'tusmore'],
-nm: '1, Tower Farm Cottages',
+ "towerfarmcottages": {
+kw: ['7hy', 'cottages', 'farm', 'ox27', 'road', 'tower', 'tusmore'],
+nm: 'Tower Farm Cottages',
 pc: 'OX27 7HY',
 rd: 'Tusmore Road',
 }
