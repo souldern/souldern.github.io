@@ -112,10 +112,12 @@ var availableTags = [
 "crown",
 "daleview",
 "deep",
+"deepwell",
 "dodgers",
 "dovecote",
 "dovetail",
 "e",
+"end",
 "estate",
 "fairview",
 "farm",
@@ -740,9 +742,9 @@ pc: 'OX27 7JE',
 rd: 'The Hill',
 }
 ,
- "thecottage": {
+ "thecottagethehill": {
 kw: ['7je', 'cottage', 'hill', 'ox27', 'the'],
-nm: 'The Cottage',
+nm: 'The Cottage, The Hill',
 pc: 'OX27 7JE',
 rd: 'The Hill',
 }
@@ -810,9 +812,9 @@ pc: 'OX27 7JJ',
 rd: 'High Street',
 }
 ,
- "2highstreet": {
-kw: ['2', '7jj', 'high', 'ox27', 'street'],
-nm: '2, High Street',
+ "barnend": {
+kw: ['7jj', 'barn', 'end', 'high', 'ox27', 'street'],
+nm: 'Barn End',
 pc: 'OX27 7JJ',
 rd: 'High Street',
 }
@@ -839,78 +841,71 @@ rd: 'High Street',
 }
 ,
  "beechhouse": {
-kw: ['7jl', 'beech', 'high', 'house', 'ox27', 'street'],
+kw: ['7jl', 'beech', 'farm', 'high', 'house', 'manor', 'ox27', 'road', 'street'],
 nm: 'Beech House',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "dovecote": {
-kw: ['7jl', 'dovecote', 'high', 'ox27', 'street'],
+kw: ['7jl', 'dovecote', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
 nm: 'Dovecote',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "manorfarm": {
-kw: ['7jl', 'farm', 'high', 'manor', 'ox27', 'street'],
+kw: ['7jl', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
 nm: 'Manor Farm',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "manorfarmbarn": {
-kw: ['7jl', 'barn', 'farm', 'high', 'manor', 'ox27', 'street'],
+kw: ['7jl', 'barn', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
 nm: 'Manor Farm Barn',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "steeplehouse": {
-kw: ['7jl', 'high', 'house', 'ox27', 'steeple', 'street'],
+kw: ['7jl', 'farm', 'high', 'house', 'manor', 'ox27', 'road', 'steeple', 'street'],
 nm: 'Steeple House',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "stonehaven": {
-kw: ['7jl', 'haven', 'high', 'ox27', 'stone', 'street'],
+kw: ['7jl', 'farm', 'haven', 'high', 'manor', 'ox27', 'road', 'stone', 'street'],
 nm: 'Stone Haven',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "thegranary": {
-kw: ['7jl', 'granary', 'high', 'ox27', 'street', 'the'],
+kw: ['7jl', 'farm', 'granary', 'high', 'manor', 'ox27', 'road', 'street', 'the'],
 nm: 'The Granary',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "thepottingshed": {
-kw: ['7jl', 'high', 'ox27', 'potting', 'shed', 'street', 'the'],
+kw: ['7jl', 'farm', 'high', 'manor', 'ox27', 'potting', 'road', 'shed', 'street', 'the'],
 nm: 'The Potting Shed',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "treetops": {
-kw: ['7jl', 'high', 'ox27', 'street', 'treetops'],
+kw: ['7jl', 'farm', 'high', 'manor', 'ox27', 'road', 'street', 'treetops'],
 nm: 'Treetops',
 pc: 'OX27 7JL',
-rd: 'High Street',
+rd: 'Manor Farm Road, High Street',
 }
 ,
  "mullions": {
 kw: ['7jn', 'high', 'mullions', 'ox27', 'street'],
 nm: 'Mullions',
-pc: 'OX27 7JN',
-rd: 'High Street',
-}
-,
- "thecoachhouse": {
-kw: ['7jn', 'coach', 'high', 'house', 'ox27', 'street', 'the'],
-nm: 'The Coach House',
 pc: 'OX27 7JN',
 rd: 'High Street',
 }
@@ -930,7 +925,7 @@ rd: 'High Street',
 }
 ,
  "thewallhouse": {
-kw: ['7jn', 'high', 'house', 'ox27', 'street', 'the', 'wall'],
+kw: ['7jn', 'coach', 'high', 'house', 'ox27', 'street', 'the', 'wall'],
 nm: 'The Wall House',
 pc: 'OX27 7JN',
 rd: 'High Street',
@@ -957,8 +952,15 @@ pc: 'OX27 7JP',
 rd: 'High Street',
 }
 ,
+ "bullsheadcottage": {
+kw: ['7jp', 'bulls', 'cottage', 'head', 'high', 'ox27', 'street'],
+nm: 'Bulls Head Cottage',
+pc: 'OX27 7JP',
+rd: 'High Street',
+}
+,
  "deepwellcottage": {
-kw: ['7jp', 'cottage', 'deep', 'high', 'ox27', 'street', 'well'],
+kw: ['7jp', 'cottage', 'deep', 'deepwell', 'high', 'office', 'ox27', 'post', 'street', 'well'],
 nm: 'Deep Well Cottage',
 pc: 'OX27 7JP',
 rd: 'High Street',
