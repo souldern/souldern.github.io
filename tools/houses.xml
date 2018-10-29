@@ -764,17 +764,13 @@
   <rd>Bates Lane</rd>
  </house>
  <house>
-  <name>1, Fox Lane</name>
-  <pc>OX27 7JW</pc>
-  <rd>Fox Lane</rd>
- </house>
- <house>
   <name>Avondale</name>
   <pc>OX27 7JW</pc>
   <rd>Fox Lane</rd>
  </house>
  <house>
   <name>Fairview</name>
+  <othername>1, Fox lane</othername>
   <pc>OX27 7JW</pc>
   <rd>Fox Lane</rd>
  </house>

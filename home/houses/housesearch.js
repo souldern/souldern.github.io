@@ -1295,13 +1295,6 @@ pc: 'OX27 7JU',
 rd: 'Bates Lane',
 }
 ,
- "1foxlane": {
-kw: ['1', '7jw', 'fox', 'lane', 'ox27'],
-nm: '1, Fox Lane',
-pc: 'OX27 7JW',
-rd: 'Fox Lane',
-}
-,
  "avondale": {
 kw: ['7jw', 'avondale', 'fox', 'lane', 'ox27'],
 nm: 'Avondale',
@@ -1310,7 +1303,7 @@ rd: 'Fox Lane',
 }
 ,
  "fairview": {
-kw: ['7jw', 'fairview', 'fox', 'lane', 'ox27'],
+kw: ['1', '7jw', 'fairview', 'fox', 'lane', 'lane', 'ox27'],
 nm: 'Fairview',
 pc: 'OX27 7JW',
 rd: 'Fox Lane',
