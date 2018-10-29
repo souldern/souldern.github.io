@@ -248,7 +248,8 @@ var availableTags = [
 "westend",
 "wharf",
 "willow",
-"yew"
+"yew",
+"yogis"
 ];
 var kwj  = {
  "thelodgehillhouse": {
@@ -427,8 +428,15 @@ rd: 'B4100',
 }
 ,
  "theoldstables": {
-kw: ['7hz', 'b4100', 'barn', 'old', 'ox27', 'stables', 'the'],
+kw: ['7hz', 'b4100', 'old', 'ox27', 'stables', 'the'],
 nm: 'The Old Stables',
+pc: 'OX27 7HZ',
+rd: 'B4100',
+}
+,
+ "yogiscottage": {
+kw: ['7hz', 'b4100', 'cottage', 'ox27', 'yogis'],
+nm: 'Yogis Cottage',
 pc: 'OX27 7HZ',
 rd: 'B4100',
 }

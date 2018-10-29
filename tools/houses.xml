@@ -126,7 +126,11 @@
  </house>
  <house>
   <name>The Old Stables</name>
-  <othername>The Old Barn</othername>
+  <pc>OX27 7HZ</pc>
+  <rd>B4100</rd>
+ </house>
+ <house>
+  <name>Yogis Cottage</name>
   <pc>OX27 7HZ</pc>
   <rd>B4100</rd>
  </house>
