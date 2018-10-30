@@ -60,7 +60,7 @@
   <pc>OX27 7HT</pc>
   <rd>B4100</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/V6vKxkfYG8A2">
   <name>Tollgate Cottage</name>
   <pc>OX27 7HT</pc>
   <rd>B4100</rd>
@@ -85,47 +85,47 @@
   <pc>OX27 7HU</pc>
   <rd>Church Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/nCvEtwEwgSA2">
   <name>Crooks Firs</name>
   <pc>OX27 7HX</pc>
   <rd>Tusmore Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/nCvEtwEwgSA2">
   <name>Crooks Firs Cottage</name>
   <pc>OX27 7HX</pc>
   <rd>Tusmore Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/EtEeD3toJaN2">
   <name>Tower Farm Cottages</name>
   <pc>OX27 7HY</pc>
   <rd>Tusmore Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/nCvEtwEwgSA2">
   <name>Tower Fields</name>
   <pc>OX27 7HY</pc>
   <rd>Tusmore Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/roCaWtXzWKG2">
   <name>Tower House</name>
   <pc>OX27 7HY</pc>
   <rd>Tusmore Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/fLs2sqSVPuS2">
   <name>Bear Cottage</name>
   <pc>OX27 7HZ</pc>
   <rd>B4100</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/gRJj4UfxqiS2">
   <name>Ploughley Cottage</name>
   <pc>OX27 7HZ</pc>
   <rd>B4100</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/NYwGkWvFniT2">
   <name>The Old Stables</name>
   <pc>OX27 7HZ</pc>
   <rd>B4100</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/FCePc4po8XE2">
   <name>Yogis Cottage</name>
   <pc>OX27 7HZ</pc>
   <rd>B4100</rd>
@@ -260,22 +260,22 @@
   <pc>OX27 7JB</pc>
   <rd>Bovewell</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/wmL4wvx8hpD2">
   <name>Village Hall</name>
   <pc>OX27 7JB</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/FNW8DbdCoVx">
   <name>Ardeen House</name>
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/nkDZdKpGssC2">
   <name>Argyll House</name>
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/TCCYz9RLPuE2">
   <name>Bowling Leas</name>
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
@@ -295,23 +295,24 @@
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/7WGk7ij7Ky62">
   <name>Mount Pleasant</name>
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/A9NSX61b3z62">
   <name>Trelawne</name>
   <pc>OX27 7JD</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/n1UpB5DgfGK2">
   <name>Above the Well Cottage</name>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/PnDN9yEn6FU2">
   <name>Highland Cottage</name>
+  <othername>Bayley's Cottage</othername>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
@@ -320,13 +321,12 @@
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/PnDN9yEn6FU2">
   <name>Hillside</name>
-  <othername>Bayley's Cottage</othername>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/EWapX1JYNGH2">
   <name>Oakley Cottage</name>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
@@ -336,7 +336,7 @@
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/JM9WtGXyp692">
   <name>Rock Cottage</name>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
@@ -346,12 +346,12 @@
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/LkdffFwPGV32">
   <name>The Rock</name>
   <pc>OX27 7JE</pc>
   <rd>The Hill</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/JAGKjT8JjLM2">
   <name>Alley Cottage</name>
   <pc>OX27 7JF</pc>
   <rd>Back Lane</rd>
@@ -407,24 +407,24 @@
   <pc>OX27 7JJ</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
-  <name>Barnhouse</name>
-  <othername>Barn House</othername>
-  <pc>OX27 7JL</pc>
-  <rd>Manor Farm Road, High Street</rd>
- </house>
  <house sv="https://goo.gl/maps/cXgDqv44HXQ2">
   <name>Beech House</name>
   <pc>OX27 7JL</pc>
   <rd>Manor Farm Road, High Street</rd>
  </house>
- <house sv="https://goo.gl/maps/vYm8iLgVEVv">
-  <name>Dovecote</name>
+ <house sv="https://goo.gl/maps/yHNAbisxrPE2">
+  <name>Manor Farm</name>
   <pc>OX27 7JL</pc>
   <rd>Manor Farm Road, High Street</rd>
  </house>
- <house sv="https://goo.gl/maps/yHNAbisxrPE2">
-  <name>Manor Farm</name>
+ <house sv="https://goo.gl/maps/vYm8iLgVEVv">
+  <name>Barnhouse</name>
+  <othername>Barn House</othername>
+  <pc>OX27 7JL</pc>
+  <rd>Manor Farm Road, High Street</rd>
+ </house>
+ <house sv="https://goo.gl/maps/vYm8iLgVEVv">
+  <name>Dovecote</name>
   <pc>OX27 7JL</pc>
   <rd>Manor Farm Road, High Street</rd>
  </house>
@@ -610,12 +610,12 @@
   <pc>OX27 7JT</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/DRp3KhKXdHU2">
   <name>Souldern Manor</name>
   <pc>OX27 7JT</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/5Hn65DWeFLL2">
   <name>5 Bates Lane</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -659,7 +659,7 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/mygrR9e5Nks">
   <name>Keepers Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -802,6 +802,7 @@
  </house>
  <house sv="https://goo.gl/maps/zWg5TxKcE682">
   <name>Fox Hill</name>
+  <othername>The Lilacs</othername>
   <pc>OX27 7JZ</pc>
   <rd>Foxhill Lane</rd>
  </house>
@@ -871,12 +872,12 @@
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/xhrHwmGKBEU2">
   <name>Park House</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/QN49v9j8igx">
   <name>Park Lodge</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
@@ -896,47 +897,47 @@
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/PRiK415nXyE2">
   <name>St. Josephs</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/g6PVW9v1d4S2">
   <name>Hackertys Way</name>
   <pc>OX27 7LB</pc>
   <rd>Mill Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/g6PVW9v1d4S2">
   <name>Souldern Mill</name>
   <pc>OX27 7LB</pc>
   <rd>Mill Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/kVJesaCPhdF2">
   <name>1, Wharf Lane</name>
   <pc>OX27 7LD</pc>
   <rd>Wharf Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/MfNyCwzGaUx">
   <name>2, Wharf Lane</name>
   <pc>OX27 7LD</pc>
   <rd>Wharf Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/f4ZzgurU6vy">
   <name>3, Wharf Lane</name>
   <pc>OX27 7LD</pc>
   <rd>Wharf Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/b1RMQ77gcb52">
   <name>4, Wharf Lane</name>
   <pc>OX27 7LD</pc>
   <rd>Wharf Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/rzAesE8YPyy">
   <name>Wharf Farm</name>
   <pc>OX27 7LE</pc>
   <rd>Wharf Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/WAiZYGf3zxF2">
   <name>Wharf Farm Cottage</name>
   <pc>OX27 7LE</pc>
   <rd>Wharf Lane</rd>

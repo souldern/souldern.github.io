@@ -160,6 +160,7 @@ var availableTags = [
 "lane",
 "leas",
 "leycroft",
+"lilacs",
 "little",
 "littlecot",
 "lodge",
@@ -351,7 +352,7 @@ kw: ['7ht', 'b4100', 'cottage', 'ox27', 'tollgate'],
 nm: 'Tollgate Cottage',
 pc: 'OX27 7HT',
 rd: 'B4100',
-sv: '',
+sv: 'https://goo.gl/maps/V6vKxkfYG8A2',
 }
 ,
  "stmaryschurch": {
@@ -391,7 +392,7 @@ kw: ['7hx', 'crooks', 'firs', 'ox27', 'road', 'tusmore'],
 nm: 'Crooks Firs',
 pc: 'OX27 7HX',
 rd: 'Tusmore Road',
-sv: '',
+sv: 'https://goo.gl/maps/nCvEtwEwgSA2',
 }
 ,
  "crooksfirscottage": {
@@ -399,7 +400,7 @@ kw: ['7hx', 'cottage', 'crooks', 'firs', 'ox27', 'road', 'tusmore'],
 nm: 'Crooks Firs Cottage',
 pc: 'OX27 7HX',
 rd: 'Tusmore Road',
-sv: '',
+sv: 'https://goo.gl/maps/nCvEtwEwgSA2',
 }
 ,
  "towerfarmcottages": {
@@ -407,7 +408,7 @@ kw: ['7hy', 'cottages', 'farm', 'ox27', 'road', 'tower', 'tusmore'],
 nm: 'Tower Farm Cottages',
 pc: 'OX27 7HY',
 rd: 'Tusmore Road',
-sv: '',
+sv: 'https://goo.gl/maps/EtEeD3toJaN2',
 }
 ,
  "towerfields": {
@@ -415,7 +416,7 @@ kw: ['7hy', 'fields', 'ox27', 'road', 'tower', 'tusmore'],
 nm: 'Tower Fields',
 pc: 'OX27 7HY',
 rd: 'Tusmore Road',
-sv: '',
+sv: 'https://goo.gl/maps/nCvEtwEwgSA2',
 }
 ,
  "towerhouse": {
@@ -423,7 +424,7 @@ kw: ['7hy', 'house', 'ox27', 'road', 'tower', 'tusmore'],
 nm: 'Tower House',
 pc: 'OX27 7HY',
 rd: 'Tusmore Road',
-sv: '',
+sv: 'https://goo.gl/maps/roCaWtXzWKG2',
 }
 ,
  "bearcottage": {
@@ -431,7 +432,7 @@ kw: ['7hz', 'b4100', 'bear', 'cottage', 'ox27'],
 nm: 'Bear Cottage',
 pc: 'OX27 7HZ',
 rd: 'B4100',
-sv: '',
+sv: 'https://goo.gl/maps/fLs2sqSVPuS2',
 }
 ,
  "ploughleycottage": {
@@ -439,7 +440,7 @@ kw: ['7hz', 'b4100', 'cottage', 'ox27', 'ploughley'],
 nm: 'Ploughley Cottage',
 pc: 'OX27 7HZ',
 rd: 'B4100',
-sv: '',
+sv: 'https://goo.gl/maps/gRJj4UfxqiS2',
 }
 ,
  "theoldstables": {
@@ -447,7 +448,7 @@ kw: ['7hz', 'b4100', 'old', 'ox27', 'stables', 'the'],
 nm: 'The Old Stables',
 pc: 'OX27 7HZ',
 rd: 'B4100',
-sv: '',
+sv: 'https://goo.gl/maps/NYwGkWvFniT2',
 }
 ,
  "yogiscottage": {
@@ -455,7 +456,7 @@ kw: ['7hz', 'b4100', 'cottage', 'ox27', 'yogis'],
 nm: 'Yogis Cottage',
 pc: 'OX27 7HZ',
 rd: 'B4100',
-sv: '',
+sv: 'https://goo.gl/maps/FCePc4po8XE2',
 }
 ,
  "1theturnpike": {
@@ -671,7 +672,7 @@ kw: ['7jb', 'hall', 'hill', 'ox27', 'the', 'village'],
 nm: 'Village Hall',
 pc: 'OX27 7JB',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/wmL4wvx8hpD2',
 }
 ,
  "ardeenhouse": {
@@ -679,7 +680,7 @@ kw: ['7jd', 'ardeen', 'hill', 'house', 'ox27', 'the'],
 nm: 'Ardeen House',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/FNW8DbdCoVx',
 }
 ,
  "argyllhouse": {
@@ -687,7 +688,7 @@ kw: ['7jd', 'argyll', 'hill', 'house', 'ox27', 'the'],
 nm: 'Argyll House',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/nkDZdKpGssC2',
 }
 ,
  "bowlingleas": {
@@ -695,7 +696,7 @@ kw: ['7jd', 'bowling', 'hill', 'leas', 'ox27', 'the'],
 nm: 'Bowling Leas',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/TCCYz9RLPuE2',
 }
 ,
  "hillviewcottage": {
@@ -727,7 +728,7 @@ kw: ['7jd', 'hill', 'mount', 'ox27', 'pleasant', 'the'],
 nm: 'Mount Pleasant',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/7WGk7ij7Ky62',
 }
 ,
  "trelawne": {
@@ -735,7 +736,7 @@ kw: ['7jd', 'hill', 'ox27', 'the', 'trelawne'],
 nm: 'Trelawne',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/A9NSX61b3z62',
 }
 ,
  "abovethewellcottage": {
@@ -743,15 +744,15 @@ kw: ['7je', 'above', 'cottage', 'hill', 'ox27', 'the', 'the', 'well'],
 nm: 'Above the Well Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/n1UpB5DgfGK2',
 }
 ,
  "highlandcottage": {
-kw: ['7je', 'cottage', 'highland', 'hill', 'ox27', 'the'],
+kw: ['7je', 'bayley', 'cottage', 'highland', 'hill', 'ox27', 's', 'the'],
 nm: 'Highland Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/PnDN9yEn6FU2',
 }
 ,
  "hillcottage": {
@@ -763,11 +764,11 @@ sv: '',
 }
 ,
  "hillside": {
-kw: ['7je', 'bayley', 'cottage', 'hill', 'hillside', 'ox27', 's', 'the'],
+kw: ['7je', 'hill', 'hillside', 'ox27', 'the'],
 nm: 'Hillside',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/PnDN9yEn6FU2',
 }
 ,
  "oakleycottage": {
@@ -775,7 +776,7 @@ kw: ['7je', 'cottage', 'hill', 'oakley', 'ox27', 'the'],
 nm: 'Oakley Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/EWapX1JYNGH2',
 }
 ,
  "pondcottage": {
@@ -791,7 +792,7 @@ kw: ['7je', 'cottage', 'hill', 'ox27', 'rock', 'the'],
 nm: 'Rock Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/JM9WtGXyp692',
 }
 ,
  "thecottagethehill": {
@@ -807,7 +808,7 @@ kw: ['7je', 'hill', 'ox27', 'rock', 'the'],
 nm: 'The Rock',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/LkdffFwPGV32',
 }
 ,
  "alleycottage": {
@@ -815,7 +816,7 @@ kw: ['7jf', 'alley', 'back', 'cottage', 'lane', 'ox27'],
 nm: 'Alley Cottage',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
-sv: '',
+sv: 'https://goo.gl/maps/JAGKjT8JjLM2',
 }
 ,
  "holliesfarm": {
@@ -898,14 +899,6 @@ rd: 'High Street',
 sv: 'https://goo.gl/maps/cpwmV3cP3Jv',
 }
 ,
- "barnhouse": {
-kw: ['7jl', 'barn', 'barnhouse', 'farm', 'high', 'house', 'manor', 'ox27', 'road', 'street'],
-nm: 'Barnhouse',
-pc: 'OX27 7JL',
-rd: 'Manor Farm Road, High Street',
-sv: '',
-}
-,
  "beechhouse": {
 kw: ['7jl', 'beech', 'farm', 'high', 'house', 'manor', 'ox27', 'road', 'street'],
 nm: 'Beech House',
@@ -914,20 +907,28 @@ rd: 'Manor Farm Road, High Street',
 sv: 'https://goo.gl/maps/cXgDqv44HXQ2',
 }
 ,
- "dovecote": {
-kw: ['7jl', 'dovecote', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
-nm: 'Dovecote',
-pc: 'OX27 7JL',
-rd: 'Manor Farm Road, High Street',
-sv: 'https://goo.gl/maps/vYm8iLgVEVv',
-}
-,
  "manorfarm": {
 kw: ['7jl', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
 nm: 'Manor Farm',
 pc: 'OX27 7JL',
 rd: 'Manor Farm Road, High Street',
 sv: 'https://goo.gl/maps/yHNAbisxrPE2',
+}
+,
+ "barnhouse": {
+kw: ['7jl', 'barn', 'barnhouse', 'farm', 'high', 'house', 'manor', 'ox27', 'road', 'street'],
+nm: 'Barnhouse',
+pc: 'OX27 7JL',
+rd: 'Manor Farm Road, High Street',
+sv: 'https://goo.gl/maps/vYm8iLgVEVv',
+}
+,
+ "dovecote": {
+kw: ['7jl', 'dovecote', 'farm', 'high', 'manor', 'ox27', 'road', 'street'],
+nm: 'Dovecote',
+pc: 'OX27 7JL',
+rd: 'Manor Farm Road, High Street',
+sv: 'https://goo.gl/maps/vYm8iLgVEVv',
 }
 ,
  "manorfarmbarn": {
@@ -1223,7 +1224,7 @@ kw: ['7jt', 'bates', 'lane', 'manor', 'ox27', 'souldern'],
 nm: 'Souldern Manor',
 pc: 'OX27 7JT',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/DRp3KhKXdHU2',
 }
 ,
  "5bateslane": {
@@ -1231,7 +1232,7 @@ kw: ['5', '7ju', 'bates', 'lane', 'ox27'],
 nm: '5 Bates Lane',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/5Hn65DWeFLL2',
 }
 ,
  "applegarth": {
@@ -1279,7 +1280,7 @@ kw: ['7ju', 'bates', 'cottage', 'keepers', 'lane', 'ox27'],
 nm: 'Keepers Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/mygrR9e5Nks',
 }
 ,
  "greystones": {
@@ -1499,7 +1500,7 @@ sv: 'https://goo.gl/maps/52JiZqMkAxo',
 }
 ,
  "foxhill": {
-kw: ['7jz', 'fox', 'foxhill', 'hill', 'lane', 'ox27'],
+kw: ['7jz', 'fox', 'foxhill', 'hill', 'lane', 'lilacs', 'ox27', 'the'],
 nm: 'Fox Hill',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
@@ -1615,7 +1616,7 @@ kw: ['7la', 'high', 'house', 'ox27', 'park', 'street'],
 nm: 'Park House',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/xhrHwmGKBEU2',
 }
 ,
  "parklodge": {
@@ -1623,7 +1624,7 @@ kw: ['7la', 'high', 'lodge', 'ox27', 'park', 'street'],
 nm: 'Park Lodge',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/QN49v9j8igx',
 }
 ,
  "restharrow": {
@@ -1655,7 +1656,7 @@ kw: ['7la', 'high', 'josephs', 'ox27', 'st.', 'street'],
 nm: 'St. Josephs',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/PRiK415nXyE2',
 }
 ,
  "hackertysway": {
@@ -1663,7 +1664,7 @@ kw: ['7lb', 'hackertys', 'lane', 'mill', 'ox27', 'way'],
 nm: 'Hackertys Way',
 pc: 'OX27 7LB',
 rd: 'Mill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/g6PVW9v1d4S2',
 }
 ,
  "souldernmill": {
@@ -1671,7 +1672,7 @@ kw: ['7lb', 'lane', 'mill', 'ox27', 'souldern'],
 nm: 'Souldern Mill',
 pc: 'OX27 7LB',
 rd: 'Mill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/g6PVW9v1d4S2',
 }
 ,
  "1wharflane": {
@@ -1679,7 +1680,7 @@ kw: ['1', '7ld', 'lane', 'ox27', 'wharf'],
 nm: '1, Wharf Lane',
 pc: 'OX27 7LD',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/kVJesaCPhdF2',
 }
 ,
  "2wharflane": {
@@ -1687,7 +1688,7 @@ kw: ['2', '7ld', 'lane', 'ox27', 'wharf'],
 nm: '2, Wharf Lane',
 pc: 'OX27 7LD',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/MfNyCwzGaUx',
 }
 ,
  "3wharflane": {
@@ -1695,7 +1696,7 @@ kw: ['3', '7ld', 'lane', 'ox27', 'wharf'],
 nm: '3, Wharf Lane',
 pc: 'OX27 7LD',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/f4ZzgurU6vy',
 }
 ,
  "4wharflane": {
@@ -1703,7 +1704,7 @@ kw: ['4', '7ld', 'lane', 'ox27', 'wharf'],
 nm: '4, Wharf Lane',
 pc: 'OX27 7LD',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/b1RMQ77gcb52',
 }
 ,
  "wharffarm": {
@@ -1711,7 +1712,7 @@ kw: ['7le', 'farm', 'lane', 'ox27', 'wharf'],
 nm: 'Wharf Farm',
 pc: 'OX27 7LE',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/rzAesE8YPyy',
 }
 ,
  "wharffarmcottage": {
@@ -1719,7 +1720,7 @@ kw: ['7le', 'cottage', 'farm', 'lane', 'ox27', 'wharf'],
 nm: 'Wharf Farm Cottage',
 pc: 'OX27 7LE',
 rd: 'Wharf Lane',
-sv: '',
+sv: 'https://goo.gl/maps/WAiZYGf3zxF2',
 }
 ,
  "1thepaddocks": {
