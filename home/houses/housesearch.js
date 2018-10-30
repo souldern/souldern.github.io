@@ -1202,14 +1202,6 @@ rd: 'Chapel Row',
 sv: 'https://goo.gl/maps/7Bzmo8LSVJ72',
 }
 ,
- "appletonlodge": {
-kw: ['7jr', 'appleton', 'chapel', 'lodge', 'ox27', 'row'],
-nm: 'Appleton Lodge',
-pc: 'OX27 7JR',
-rd: 'Chapel Row',
-sv: '',
-}
-,
  "gardencottage": {
 kw: ['7jt', 'bates', 'cottage', 'garden', 'lane', 'ox27'],
 nm: 'Garden Cottage',
@@ -1247,7 +1239,7 @@ kw: ['7ju', 'applegarth', 'bates', 'lane', 'ox27'],
 nm: 'Applegarth',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/3zRaevgUBNU2',
 }
 ,
  "bowcombehouse": {
@@ -1255,7 +1247,7 @@ kw: ['7ju', 'bates', 'bowcombe', 'house', 'lane', 'ox27'],
 nm: 'Bowcombe House',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/PAMuzWQ47Nm',
 }
 ,
  "cidercottage": {
@@ -1263,7 +1255,7 @@ kw: ['7ju', 'bates', 'cider', 'cottage', 'lane', 'ox27'],
 nm: 'Cider Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/fj4n2JX5uuz',
 }
 ,
  "crowncottage": {
@@ -1271,7 +1263,7 @@ kw: ['7ju', 'bates', 'cottage', 'crown', 'lane', 'ox27'],
 nm: 'Crown Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/ZvQmvQXJdWL2',
 }
 ,
  "dovecotebarn": {
@@ -1279,7 +1271,7 @@ kw: ['7ju', 'barn', 'bates', 'dovecote', 'lane', 'ox27'],
 nm: 'Dovecote Barn',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/t1gat4nWs312',
 }
 ,
  "keeperscottage": {
@@ -1303,7 +1295,7 @@ kw: ['7ju', 'bates', 'cottage', 'halfpenny', 'lane', 'ox27'],
 nm: 'Halfpenny Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/i45X7Y938Kv',
 }
 ,
  "homefarmhouse": {
@@ -1319,7 +1311,7 @@ kw: ['7ju', 'bates', 'lane', 'littlecot', 'ox27'],
 nm: 'Littlecot',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/fJHNDtTcrgu',
 }
 ,
  "oldesaddlerscottage": {
@@ -1327,7 +1319,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'olde', 'ox27', 'saddlers'],
 nm: 'Olde Saddlers Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/FY2WKGCrh3w',
 }
 ,
  "tillyscottage": {
@@ -1335,7 +1327,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'tillys'],
 nm: 'Tillys Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/w6sBNmLrd7Q2',
 }
 ,
  "rosecottage": {
@@ -1343,7 +1335,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'rose'],
 nm: 'Rose Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/4Goo7qgsnMo',
 }
 ,
  "silverfindcottage": {
@@ -1351,7 +1343,7 @@ kw: ['7ju', 'bates', 'cottage', 'find', 'lane', 'ox27', 'silver'],
 nm: 'Silver Find Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/zhPfYdv4Two',
 }
 ,
  "stablecottage": {
@@ -1367,7 +1359,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'sunrise'],
 nm: 'Sunrise Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/jfrB7BPyRfr',
 }
 ,
  "sunsetcottage": {
@@ -1375,7 +1367,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'sunset'],
 nm: 'Sunset Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/jfrB7BPyRfr',
 }
 ,
  "thebrambles": {
@@ -1391,7 +1383,7 @@ kw: ['7ju', 'bates', 'lane', 'orchard', 'ox27', 'the'],
 nm: 'The Orchard',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/2ErSVDsoZNw',
 }
 ,
  "westendhouse": {
@@ -1399,7 +1391,7 @@ kw: ['7ju', 'bates', 'house', 'lane', 'ox27', 'westend'],
 nm: 'Westend House',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/E24tjq1o9ir',
 }
 ,
  "willowcottage": {
@@ -1407,7 +1399,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'willow'],
 nm: 'Willow Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/iPtUcb3SNzD2',
 }
 ,
  "yewcottage": {
@@ -1415,7 +1407,7 @@ kw: ['7ju', 'bates', 'cottage', 'lane', 'ox27', 'yew'],
 nm: 'Yew Cottage',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/YQDj2yh8URq',
 }
 ,
  "avondale": {
@@ -1487,7 +1479,7 @@ kw: ['7jz', 'circles', 'foxhill', 'lane', 'ox27'],
 nm: 'Circles',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/AVAsyzwZ7WU2',
 }
 ,
  "daleview": {
@@ -1594,12 +1586,28 @@ rd: 'Foxhill Lane',
 sv: 'https://goo.gl/maps/Ne5xA8PLs7T2',
 }
 ,
+ "appletonlodge": {
+kw: ['7la', 'appleton', 'high', 'lodge', 'ox27', 'street'],
+nm: 'Appleton Lodge',
+pc: 'OX27 7LA',
+rd: 'High Street',
+sv: 'https://goo.gl/maps/erqeATaiHPv',
+}
+,
+ "oldchapelsouldernmanor": {
+kw: ['7la', 'chapel', 'high', 'manor', 'old', 'ox27', 'souldern', 'street'],
+nm: 'Old Chapel, Souldern Manor',
+pc: 'OX27 7LA',
+rd: 'High Street',
+sv: 'https://goo.gl/maps/mKFTqNzuMJS2',
+}
+,
  "cedarhouse": {
 kw: ['7la', 'cedar', 'high', 'house', 'ox27', 'street'],
 nm: 'Cedar House',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/VyrwUCpjXH72',
 }
 ,
  "parkhouse": {
@@ -1623,7 +1631,7 @@ kw: ['7la', 'harrow', 'high', 'ox27', 'rest', 'street'],
 nm: 'Rest Harrow',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/VyrwUCpjXH72',
 }
 ,
  "souldernhouse": {
@@ -1631,7 +1639,7 @@ kw: ['7la', 'high', 'house', 'ox27', 'souldern', 'street'],
 nm: 'Souldern House',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/NBqjdeZnRo22',
 }
 ,
  "souldernhousecottage": {
@@ -1639,7 +1647,7 @@ kw: ['7la', 'cottage', 'high', 'house', 'ox27', 'souldern', 'street'],
 nm: 'Souldern House Cottage',
 pc: 'OX27 7LA',
 rd: 'High Street',
-sv: '',
+sv: 'https://goo.gl/maps/VyrwUCpjXH72',
 }
 ,
  "st.josephs": {

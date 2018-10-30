@@ -600,11 +600,6 @@
   <pc>OX27 7JR</pc>
   <rd>Chapel Row</rd>
  </house>
- <house sv="">
-  <name>Appleton Lodge</name>
-  <pc>OX27 7JR</pc>
-  <rd>Chapel Row</rd>
- </house>
  <house sv="https://goo.gl/maps/6WT3wHATtE52">
   <name>Garden Cottage</name>
   <pc>OX27 7JT</pc>
@@ -632,12 +627,12 @@
      <rd>Bates Lane</rd>
      </house>
  -->
- <house sv="">
+ <house sv="https://goo.gl/maps/3zRaevgUBNU2">
   <name>Applegarth</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/PAMuzWQ47Nm">
   <name>Bowcombe House</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -649,17 +644,17 @@
      <rd>Bates Lane</rd>
      </house>
  -->
- <house sv="">
+ <house sv="https://goo.gl/maps/fj4n2JX5uuz">
   <name>Cider Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/ZvQmvQXJdWL2">
   <name>Crown Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/t1gat4nWs312">
   <name>Dovecote Barn</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -674,7 +669,7 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/i45X7Y938Kv">
   <name>Halfpenny Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -684,27 +679,27 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/fJHNDtTcrgu">
   <name>Littlecot</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/FY2WKGCrh3w">
   <name>Olde Saddlers Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/w6sBNmLrd7Q2">
   <name>Tillys Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/4Goo7qgsnMo">
   <name>Rose Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/zhPfYdv4Two">
   <name>Silver Find Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -714,12 +709,12 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/jfrB7BPyRfr">
   <name>Sunrise Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/jfrB7BPyRfr">
   <name>Sunset Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -729,22 +724,22 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/2ErSVDsoZNw">
   <name>The Orchard</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/E24tjq1o9ir">
   <name>Westend House</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/iPtUcb3SNzD2">
   <name>Willow Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/YQDj2yh8URq">
   <name>Yew Cottage</name>
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
@@ -790,7 +785,7 @@
   <pc>OX27 7JZ</pc>
   <rd>Foxhill Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/AVAsyzwZ7WU2">
   <name>Circles</name>
   <pc>OX27 7JZ</pc>
   <rd>Foxhill Lane</rd>
@@ -861,7 +856,17 @@
   <pc>OX27 7JZ</pc>
   <rd>Foxhill Lane</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/erqeATaiHPv">
+  <name>Appleton Lodge</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house sv="https://goo.gl/maps/mKFTqNzuMJS2">
+  <name>Old Chapel, Souldern Manor</name>
+  <pc>OX27 7LA</pc>
+  <rd>High Street</rd>
+ </house>
+ <house sv="https://goo.gl/maps/VyrwUCpjXH72">
   <name>Cedar House</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
@@ -876,17 +881,17 @@
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/VyrwUCpjXH72">
   <name>Rest Harrow</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/NBqjdeZnRo22">
   <name>Souldern House</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/VyrwUCpjXH72">
   <name>Souldern House Cottage</name>
   <pc>OX27 7LA</pc>
   <rd>High Street</rd>
@@ -1008,4 +1013,7 @@
   <pc>OX27 7LQ</pc>
   <rd>Cotswold Court</rd>
  </house>
-</houses>
+ </houses>
+
+
+ 
