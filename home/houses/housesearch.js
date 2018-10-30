@@ -463,7 +463,7 @@ kw: ['1', '7ja', 'hill', 'ox27', 'the', 'turnpike'],
 nm: '1, The Turnpike',
 pc: 'OX27 7JA',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/dc8jMdnBznv',
 }
 ,
  "2theturnpike": {
@@ -471,7 +471,7 @@ kw: ['2', '7ja', 'hill', 'ox27', 'the', 'turnpike'],
 nm: '2, The Turnpike',
 pc: 'OX27 7JA',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/kMt9YohxQc12',
 }
 ,
  "3theturnpike": {
@@ -479,7 +479,7 @@ kw: ['3', '7ja', 'hill', 'ox27', 'the', 'turnpike'],
 nm: '3, The Turnpike',
 pc: 'OX27 7JA',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/JPMsvvcW6xn',
 }
 ,
  "4theturnpike": {
@@ -487,7 +487,7 @@ kw: ['4', '7ja', 'hill', 'ox27', 'the', 'turnpike'],
 nm: '4, The Turnpike',
 pc: 'OX27 7JA',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/3h3A1R746wq',
 }
 ,
  "1bovewell": {
@@ -495,23 +495,7 @@ kw: ['1', '7jb', 'bovewell', 'ox27'],
 nm: '1, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
-}
-,
- "1bovewell": {
-kw: ['1', '7jb', 'bovewell', 'ox27'],
-nm: '1, Bovewell',
-pc: 'OX27 7JB',
-rd: 'Bovewell',
-sv: '',
-}
-,
- "1bovewell": {
-kw: ['1', '7jb', 'bovewell', 'ox27'],
-nm: '1, Bovewell',
-pc: 'OX27 7JB',
-rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/LJGuqeqbfP62',
 }
 ,
  "2bovewell": {
@@ -519,7 +503,7 @@ kw: ['2', '7jb', 'bovewell', 'ox27'],
 nm: '2, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/AQVQWvaYU9S2',
 }
 ,
  "3bovewell": {
@@ -527,7 +511,7 @@ kw: ['3', '7jb', 'bovewell', 'ox27'],
 nm: '3, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/YFYsoAgH5532',
 }
 ,
  "4bovewell": {
@@ -535,7 +519,7 @@ kw: ['4', '7jb', 'bovewell', 'ox27'],
 nm: '4, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/t14rz1mNJzt',
 }
 ,
  "5bovewell": {
@@ -543,7 +527,7 @@ kw: ['5', '7jb', 'bovewell', 'ox27'],
 nm: '5, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/L9YSPsaV8ir',
 }
 ,
  "6bovewell": {
@@ -551,7 +535,7 @@ kw: ['6', '7jb', 'bovewell', 'ox27'],
 nm: '6, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/ekBjRxhiyeF2',
 }
 ,
  "7bovewell": {
@@ -559,7 +543,7 @@ kw: ['7', '7jb', 'bovewell', 'ox27'],
 nm: '7, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/Gtau3Vuax1G2',
 }
 ,
  "8bovewell": {
@@ -567,7 +551,7 @@ kw: ['7jb', '8', 'bovewell', 'ox27'],
 nm: '8, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/FPdyb39fgjF2',
 }
 ,
  "9bovewell": {
@@ -575,7 +559,7 @@ kw: ['7jb', '9', 'bovewell', 'ox27'],
 nm: '9, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/ZgKqHNgMp352',
 }
 ,
  "10bovewell": {
@@ -583,7 +567,7 @@ kw: ['10', '7jb', 'bovewell', 'ox27'],
 nm: '10, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/YdNGVmZUo8E2',
 }
 ,
  "11bovewell": {
@@ -591,7 +575,7 @@ kw: ['11', '7jb', 'bovewell', 'ox27'],
 nm: '11, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/5EeSJn7LJfG2',
 }
 ,
  "12bovewell": {
@@ -599,7 +583,7 @@ kw: ['12', '7jb', 'bovewell', 'ox27'],
 nm: '12, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/39pGh783Ygs',
 }
 ,
  "13bovewell": {
@@ -607,7 +591,7 @@ kw: ['13', '7jb', 'bovewell', 'ox27'],
 nm: '13, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/9WaMLE4bfCq',
 }
 ,
  "14bovewell": {
@@ -615,7 +599,7 @@ kw: ['14', '7jb', 'bovewell', 'ox27'],
 nm: '14, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/Drvvo8csUd62',
 }
 ,
  "15bovewell": {
@@ -623,7 +607,7 @@ kw: ['15', '7jb', 'bovewell', 'ox27'],
 nm: '15, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/9WaMLE4bfCq',
 }
 ,
  "16bovewell": {
@@ -631,7 +615,7 @@ kw: ['16', '7jb', 'bovewell', 'ox27'],
 nm: '16, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/7YBKSfXN8xC2',
 }
 ,
  "17bovewell": {
@@ -639,7 +623,7 @@ kw: ['17', '7jb', 'bovewell', 'ox27'],
 nm: '17, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/9WaMLE4bfCq',
 }
 ,
  "18bovewell": {
@@ -647,7 +631,7 @@ kw: ['18', '7jb', 'bovewell', 'ox27'],
 nm: '18, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/WtSZ9etj34B2',
 }
 ,
  "19bovewell": {
@@ -655,7 +639,7 @@ kw: ['19', '7jb', 'bovewell', 'ox27'],
 nm: '19, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/9WaMLE4bfCq',
 }
 ,
  "20bovewell": {
@@ -663,7 +647,7 @@ kw: ['20', '7jb', 'bovewell', 'ox27'],
 nm: '20, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/hUcRJiRnunu',
 }
 ,
  "21bovewell": {
@@ -671,7 +655,7 @@ kw: ['21', '7jb', 'bovewell', 'ox27'],
 nm: '21, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/9WaMLE4bfCq',
 }
 ,
  "22bovewell": {
@@ -679,7 +663,7 @@ kw: ['22', '7jb', 'bovewell', 'ox27'],
 nm: '22, Bovewell',
 pc: 'OX27 7JB',
 rd: 'Bovewell',
-sv: '',
+sv: 'https://goo.gl/maps/w1HeQA1yUAR2',
 }
 ,
  "villagehall": {
