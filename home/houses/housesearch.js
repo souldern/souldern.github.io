@@ -218,7 +218,7 @@ var availableTags = [
 "stone",
 "stores",
 "street",
-"sul-thorn",
+"sulthorn",
 "sunnybank",
 "sunrise",
 "sunset",
@@ -719,7 +719,7 @@ kw: ['7jd', 'cottage', 'hill', 'magpie', 'ox27', 'the'],
 nm: 'Magpie Cottage',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/2EGLCWqnKnJ2',
 }
 ,
  "mountpleasant": {
@@ -783,7 +783,7 @@ kw: ['7je', 'cottage', 'hill', 'ox27', 'pond', 'the'],
 nm: 'Pond Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/oGwziWjSKj52',
 }
 ,
  "rockcottage": {
@@ -799,7 +799,7 @@ kw: ['7je', 'cottage', 'hill', 'ox27', 'the'],
 nm: 'The Cottage, The Hill',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/gALGepQYZvt',
 }
 ,
  "therock": {
@@ -823,7 +823,7 @@ kw: ['7jf', 'back', 'close', 'farm', 'great', 'hollies', 'house', 'lane', 'ox27'
 nm: 'Hollies Farm',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
-sv: '',
+sv: 'https://goo.gl/maps/rpCG3L59ibw',
 }
 ,
  "springcottage": {
@@ -831,7 +831,7 @@ kw: ['7jf', 'back', 'cottage', 'lane', 'ox27', 'spring'],
 nm: 'Spring Cottage',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
-sv: '',
+sv: 'https://goo.gl/maps/HhkFHoyz7RJ2',
 }
 ,
  "springhouse": {
@@ -839,7 +839,7 @@ kw: ['7jf', 'back', 'house', 'lane', 'ox27', 'spring'],
 nm: 'Spring House',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
-sv: '',
+sv: 'https://goo.gl/maps/AMkj2fyuhb32',
 }
 ,
  "wesleyanreformchapel": {
@@ -847,7 +847,7 @@ kw: ['7jf', 'back', 'chapel', 'lane', 'ox27', 'reform', 'wesleyan'],
 nm: 'Wesleyan Reform Chapel',
 pc: 'OX27 7JF',
 rd: 'Back Lane',
-sv: '',
+sv: 'https://goo.gl/maps/gr1DHrrMaPN2',
 }
 ,
  "courtcottage": {
@@ -863,7 +863,7 @@ kw: ['7jh', 'back', 'court', 'lane', 'ox27', 'souldern'],
 nm: 'Souldern Court',
 pc: 'OX27 7JH',
 rd: 'Back lane',
-sv: '',
+sv: 'https://goo.gl/maps/qTsxnWPq4c32',
 }
 ,
  "theoldbakery1highstreet": {
@@ -1471,7 +1471,7 @@ kw: ['7jz', 'acacia', 'bungalow', 'foxhill', 'lane', 'ox27'],
 nm: 'Acacia Bungalow',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/oB5hqnMiwbT2',
 }
 ,
  "cheviot": {
@@ -1511,7 +1511,7 @@ kw: ['7jz', 'fox', 'foxhill', 'hill', 'lane', 'ox27'],
 nm: 'Fox Hill',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/zWg5TxKcE682',
 }
 ,
  "foxhollies": {
@@ -1551,15 +1551,15 @@ kw: ['7jz', 'croft', 'foxhill', 'lane', 'ox27', 'stone'],
 nm: 'Stone Croft',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/MvNoAanTVbE2',
 }
 ,
  "sulthorn": {
-kw: ['7jz', 'foxhill', 'lane', 'ox27', 'sul-thorn'],
-nm: 'Sul-Thorn',
+kw: ['7jz', 'foxhill', 'lane', 'ox27', 'sulthorn'],
+nm: 'Sulthorn',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: '',
+sv: 'https://goo.gl/maps/fEkt4EjZrR82',
 }
 ,
  "sunnybank": {
