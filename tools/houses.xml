@@ -51,16 +51,12 @@
  </house>
  <house>
   <name>A E Prentice, Souldern Gate</name>
+  <othername>K Scaffolding</othername>
   <pc>OX27 7HT</pc>
   <rd>B4100</rd>
  </house>
  <house>
   <name>Burgess, Souldern Gate</name>
-  <pc>OX27 7HT</pc>
-  <rd>B4100</rd>
- </house>
- <house>
-  <name>K Scaffolding, Souldern Gate</name>
   <pc>OX27 7HT</pc>
   <rd>B4100</rd>
  </house>

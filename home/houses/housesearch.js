@@ -323,7 +323,7 @@ rd: 'Somerton Road',
 }
 ,
  "aeprenticesoulderngate": {
-kw: ['7ht', 'a', 'b4100', 'e', 'gate', 'ox27', 'prentice', 'souldern'],
+kw: ['7ht', 'a', 'b4100', 'e', 'gate', 'k', 'ox27', 'prentice', 'scaffolding', 'souldern'],
 nm: 'A E Prentice, Souldern Gate',
 pc: 'OX27 7HT',
 rd: 'B4100',
@@ -332,13 +332,6 @@ rd: 'B4100',
  "burgesssoulderngate": {
 kw: ['7ht', 'b4100', 'burgess', 'gate', 'ox27', 'souldern'],
 nm: 'Burgess, Souldern Gate',
-pc: 'OX27 7HT',
-rd: 'B4100',
-}
-,
- "kscaffoldingsoulderngate": {
-kw: ['7ht', 'b4100', 'gate', 'k', 'ox27', 'scaffolding', 'souldern'],
-nm: 'K Scaffolding, Souldern Gate',
 pc: 'OX27 7HT',
 rd: 'B4100',
 }
