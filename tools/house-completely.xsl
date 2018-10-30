@@ -84,6 +84,9 @@ function completely(c,f){f=f||{};f.fontSize=f.fontSize||"16px";f.fontFamily=f.fo
  <xsl:text>',&#10;</xsl:text>
  <xsl:text>rd: '</xsl:text>
  <xsl:value-of select="rd"/>
+ <xsl:text>',&#10;</xsl:text>
+ <xsl:text>sv: '</xsl:text>
+ <xsl:value-of select="@sv"/>
  <xsl:text>',&#10;}&#10;</xsl:text>
 </xsl:for-each>
 <xsl:text>};&#10;</xsl:text>
@@ -183,7 +186,11 @@ function myresults(terms) {
         
         if(tr==1) {
             rtncount++;
-            t = t + "<div class='res'><div class='rtn'><b>"  + kwj[key].nm + "</b><br><img src='" +key + ".jpg'></div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
+            t = t + "<div class='res'><div class='rtn'><b>"  + kwj[key].nm + "</b><br>" +
+            (kwj[key].sv == "" ? "" : "<a href='" + kwj[key].sv + "'>") +
+            "<img src='" +key + ".jpg'>" +
+            (kwj[key].sv == "" ? "" : "</a>") +
+            "</div><div class='sd'>" + kwj[key].rd + " " + kwj[key].pc + "</div></div>";;
         }
     }
     rc.innerHTML= "Results found: " +rtncount;
