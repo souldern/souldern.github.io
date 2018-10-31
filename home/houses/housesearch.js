@@ -124,6 +124,7 @@ var availableTags = [
 "fox",
 "foxglove",
 "foxhill",
+"fritwell",
 "garage",
 "garden",
 "gate",
@@ -306,19 +307,27 @@ rd: 'Somerton Road',
 sv: 'https://goo.gl/maps/uMzKQKcJs2N2',
 }
 ,
+ "foxhillbarn": {
+kw: ['7hs', 'barn', 'foxhill', 'lane', 'ox27', 'road', 'somerton'],
+nm: 'Foxhill Barn',
+pc: 'OX27 7HS',
+rd: 'Foxhill Lane, Somerton Road',
+sv: '',
+}
+,
  "inkermanbarn": {
-kw: ['7hs', 'barn', 'inkerman', 'ox27', 'road', 'somerton'],
+kw: ['7hs', 'barn', 'fritwell', 'inkerman', 'ox27', 'road'],
 nm: 'Inkerman Barn',
 pc: 'OX27 7HS',
-rd: 'Somerton Road',
+rd: 'Fritwell Road',
 sv: 'https://goo.gl/maps/6TsGGPqMS572',
 }
 ,
  "inkermanfarm": {
-kw: ['7hs', 'farm', 'inkerman', 'ox27', 'road', 'somerton'],
+kw: ['7hs', 'farm', 'fritwell', 'inkerman', 'ox27', 'road'],
 nm: 'Inkerman Farm',
 pc: 'OX27 7HS',
-rd: 'Somerton Road',
+rd: 'Fritwell Road',
 sv: 'https://goo.gl/maps/AAEUZRQ3aBH2',
 }
 ,

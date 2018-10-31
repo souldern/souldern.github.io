@@ -34,15 +34,20 @@
   <pc>OX25 6LS</pc>
   <rd>Somerton Road</rd>
  </house>
+ <house sv="">
+  <name>Foxhill Barn</name>
+  <pc>OX27 7HS</pc>
+  <rd>Foxhill Lane, Somerton Road</rd>
+ </house>
  <house sv="https://goo.gl/maps/6TsGGPqMS572">
   <name>Inkerman Barn</name>
   <pc>OX27 7HS</pc>
-  <rd>Somerton Road</rd>
+  <rd>Fritwell Road</rd>
  </house>
  <house sv="https://goo.gl/maps/AAEUZRQ3aBH2">
   <name>Inkerman Farm</name>
   <pc>OX27 7HS</pc>
-  <rd>Somerton Road</rd>
+  <rd>Fritwell Road</rd>
  </house>
  <house sv="https://goo.gl/maps/BNf7FuSMb5S2">
   <name>Inkerman House</name>
