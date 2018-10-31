@@ -275,17 +275,17 @@ rd: 'Hill House, Somerton Road',
 sv: 'https://goo.gl/maps/iLaKd5uReeL2',
 }
 ,
- "barncottagehillhouse": {
+ "barncottage": {
 kw: ['6ls', 'barn', 'cottage', 'hill', 'house', 'ox25', 'road', 'somerton'],
-nm: 'Barn Cottage, Hill House',
+nm: 'Barn Cottage',
 pc: 'OX25 6LS',
 rd: 'Hill House, Somerton Road',
 sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
- "newcottagehillhouse": {
+ "newcottage": {
 kw: ['6ls', 'cottage', 'hill', 'house', 'new', 'ox25', 'road', 'somerton'],
-nm: 'New Cottage, Hill House',
+nm: 'New Cottage',
 pc: 'OX25 6LS',
 rd: 'Hill House, Somerton Road',
 sv: 'https://goo.gl/maps/v33eRbJciTJ2',
