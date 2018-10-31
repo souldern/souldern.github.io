@@ -8,7 +8,6 @@ function completely(c,f){f=f||{};f.fontSize=f.fontSize||"16px";f.fontFamily=f.fo
 
 
 var availableTags = [
-"",
 "1",
 "10",
 "11",
@@ -255,40 +254,48 @@ var kwj  = {
 kw: ['6lr', 'hill', 'house', 'lodge', 'ox25', 'road', 'somerton', 'the'],
 nm: 'The Lodge, Hill House',
 pc: 'OX25 6LR',
-rd: 'Somerton Road',
-sv: '',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/MhJLsEhhMEk',
 }
 ,
  "breezecottage": {
-kw: ['6ls', 'breeze', 'cottage', 'ox25', 'road', 'somerton'],
+kw: ['6ls', 'breeze', 'cottage', 'hill', 'house', 'ox25', 'road', 'somerton'],
 nm: 'Breeze Cottage',
 pc: 'OX25 6LS',
-rd: 'Somerton Road',
-sv: '',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/iLaKd5uReeL2',
 }
 ,
  "hillhouse": {
 kw: ['6ls', 'hill', 'house', 'ox25', 'road', 'somerton'],
 nm: 'Hill House',
 pc: 'OX25 6LS',
-rd: 'Somerton Road',
-sv: '',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
  "barncottagehillhouse": {
 kw: ['6ls', 'barn', 'cottage', 'hill', 'house', 'ox25', 'road', 'somerton'],
 nm: 'Barn Cottage, Hill House',
 pc: 'OX25 6LS',
-rd: 'Somerton Road',
-sv: '',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
  "newcottagehillhouse": {
 kw: ['6ls', 'cottage', 'hill', 'house', 'new', 'ox25', 'road', 'somerton'],
 nm: 'New Cottage, Hill House',
 pc: 'OX25 6LS',
-rd: 'Somerton Road',
-sv: '',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
+}
+,
+ "tackcottage": {
+kw: ['6ls', 'cottage', 'hill', 'house', 'ox25', 'road', 'somerton', 'tack'],
+nm: 'Tack Cottage',
+pc: 'OX25 6LS',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
  "lowersoulderngrounds": {
@@ -296,15 +303,7 @@ kw: ['6ls', 'grounds', 'lower', 'ox25', 'road', 'somerton', 'souldern'],
 nm: 'Lower Souldern Grounds',
 pc: 'OX25 6LS',
 rd: 'Somerton Road',
-sv: '',
-}
-,
- "tackcottage": {
-kw: ['', '6ls', 'cottage', 'ox25', 'road', 'somerton', 'tack'],
-nm: 'Tack Cottage ',
-pc: 'OX25 6LS',
-rd: 'Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/uMzKQKcJs2N2',
 }
 ,
  "inkermanbarn": {
@@ -312,7 +311,7 @@ kw: ['7hs', 'barn', 'inkerman', 'ox27', 'road', 'somerton'],
 nm: 'Inkerman Barn',
 pc: 'OX27 7HS',
 rd: 'Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/6TsGGPqMS572',
 }
 ,
  "inkermanfarm": {
@@ -320,7 +319,7 @@ kw: ['7hs', 'farm', 'inkerman', 'ox27', 'road', 'somerton'],
 nm: 'Inkerman Farm',
 pc: 'OX27 7HS',
 rd: 'Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/AAEUZRQ3aBH2',
 }
 ,
  "inkermanhouse": {
@@ -328,7 +327,7 @@ kw: ['7hs', 'house', 'inkerman', 'ox27', 'road', 'somerton'],
 nm: 'Inkerman House',
 pc: 'OX27 7HS',
 rd: 'Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/BNf7FuSMb5S2',
 }
 ,
  "aeprenticesoulderngate": {
@@ -704,7 +703,7 @@ kw: ['7jd', 'cottage', 'hill', 'ox27', 'the', 'view'],
 nm: 'Hill View Cottage',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/B38jTUw5ULU2',
 }
 ,
  "hollycottage": {
@@ -712,7 +711,7 @@ kw: ['7jd', 'cottage', 'hill', 'holly', 'ox27', 'the'],
 nm: 'Holly Cottage',
 pc: 'OX27 7JD',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/X7VVNbKCBfo',
 }
 ,
  "magpiecottage": {
@@ -760,7 +759,7 @@ kw: ['7je', 'cottage', 'hill', 'ox27', 'the'],
 nm: 'Hill Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
-sv: '',
+sv: 'https://goo.gl/maps/hCy13gTyJAK2',
 }
 ,
  "hillside": {
@@ -852,11 +851,11 @@ sv: 'https://goo.gl/maps/gr1DHrrMaPN2',
 }
 ,
  "courtcottage": {
-kw: ['7jh', 'back', 'cottage', 'court', 'lane', 'ox27'],
+kw: ['7jh', 'cottage', 'court', 'high', 'ox27', 'street'],
 nm: 'Court Cottage',
 pc: 'OX27 7JH',
-rd: 'Back lane',
-sv: '',
+rd: 'High Street',
+sv: 'https://goo.gl/maps/rdhUApnSEwN2',
 }
 ,
  "soulderncourt": {
@@ -1288,7 +1287,7 @@ kw: ['7ju', 'bates', 'greystones', 'lane', 'ox27'],
 nm: 'Greystones',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
-sv: '',
+sv: 'https://goo.gl/maps/ga8d666AgD92',
 }
 ,
  "halfpennycottage": {
@@ -1432,7 +1431,7 @@ kw: ['7jw', 'fox', 'inn', 'lane', 'ox27'],
 nm: 'Fox Inn',
 pc: 'OX27 7JW',
 rd: 'Fox Lane',
-sv: '',
+sv: 'https://goo.gl/maps/gAP7AzafbLE2',
 }
 ,
  "theswanhouse": {
@@ -1448,7 +1447,7 @@ kw: ['7jx', 'barn', 'leycroft', 'ox27', 'road', 'somerton'],
 nm: 'Leycroft Barn',
 pc: 'OX27 7JX',
 rd: 'Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
  "soulderngroundsfarm": {
@@ -1456,7 +1455,7 @@ kw: ['7jy', 'farm', 'grounds', 'ox27', 'souldern'],
 nm: 'Souldern Grounds Farm',
 pc: 'OX27 7JY',
 rd: '',
-sv: '',
+sv: 'https://goo.gl/maps/fQGz46UwYdQ2',
 }
 ,
  "acaciabungalow": {
