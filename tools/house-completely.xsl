@@ -37,14 +37,9 @@
   <h3 id="notes">Notes</h3>
   <ul>
    <li>Enter keywords from house names, road names, or postcodes into
-   the box above, the menu will show any keywords that match the
-   houses in the current list.</li>
+   the box above.</li>
    <li>Each house is shown with an image (which is also a link to
-   Google Street View). Initial images derived from Google Street
-   view, in accordance with their <a
-   href="https://www.google.com/permissions/geoguidelines/">terms of
-   use</a>, or photographs by David Carlisle for this site, or in some
-   cases from freely available images.</li>
+   Google Street View).</li>
    <li>Villagers are welcome to submit new (square) images for their
    houses, or any other details that they wish to list by the house
    entry.</li>
@@ -52,6 +47,11 @@
    and use it in an email etc. So that for exampple you can link to <a
    href="https://www.souldern.org/home/houses/?h=willow">https://www.souldern.org/home/houses/?h=willow</a>
    to list the houses with <b>Willow</b> in their name.</li>
+   <li>Initial images derived from Google Street
+   view, in accordance with their <a
+   href="https://www.google.com/permissions/geoguidelines/">terms of
+   use</a>, or photographs by David Carlisle for this site, or in some
+   cases from freely available images.</li>
   </ul>
 </xsl:result-document>
 </xsl:template>
