@@ -44,7 +44,7 @@
    houses, or any other details that they wish to list by the house
    entry.</li>
    <li> If you use the <b>Update URL</b> button you can save a search
-   and use it in an email etc. So that for exampple you can link to <a
+   and use it in an email etc. So that for example you can link to <a
    href="https://www.souldern.org/home/houses/?h=willow">https://www.souldern.org/home/houses/?h=willow</a>
    to list the houses with <b>Willow</b> in their name.</li>
    <li>Initial images derived from Google Street
