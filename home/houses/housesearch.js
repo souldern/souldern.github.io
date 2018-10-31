@@ -251,6 +251,14 @@ var availableTags = [
 "yogis"
 ];
 var kwj  = {
+ "hillhouse": {
+kw: ['6ls', 'hill', 'house', 'ox25', 'road', 'somerton'],
+nm: 'Hill House',
+pc: 'OX25 6LS',
+rd: 'Hill House, Somerton Road',
+sv: 'https://goo.gl/maps/v33eRbJciTJ2',
+}
+,
  "thelodgehillhouse": {
 kw: ['6lr', 'hill', 'house', 'lodge', 'ox25', 'road', 'somerton', 'the'],
 nm: 'The Lodge, Hill House',
@@ -265,14 +273,6 @@ nm: 'Breeze Cottage',
 pc: 'OX25 6LS',
 rd: 'Hill House, Somerton Road',
 sv: 'https://goo.gl/maps/iLaKd5uReeL2',
-}
-,
- "hillhouse": {
-kw: ['6ls', 'hill', 'house', 'ox25', 'road', 'somerton'],
-nm: 'Hill House',
-pc: 'OX25 6LS',
-rd: 'Hill House, Somerton Road',
-sv: 'https://goo.gl/maps/v33eRbJciTJ2',
 }
 ,
  "barncottagehillhouse": {

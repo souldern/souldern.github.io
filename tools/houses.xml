@@ -1,4 +1,9 @@
 <houses>
+ <house sv="https://goo.gl/maps/v33eRbJciTJ2">
+  <name>Hill House</name>
+  <pc>OX25 6LS</pc>
+  <rd>Hill House, Somerton Road</rd>
+ </house>
  <house sv="https://goo.gl/maps/MhJLsEhhMEk">
   <name>The Lodge, Hill House</name>
   <pc>OX25 6LR</pc>
@@ -6,11 +11,6 @@
  </house>
  <house sv="https://goo.gl/maps/iLaKd5uReeL2">
   <name>Breeze Cottage</name>
-  <pc>OX25 6LS</pc>
-  <rd>Hill House, Somerton Road</rd>
- </house>
- <house sv="https://goo.gl/maps/v33eRbJciTJ2">
-  <name>Hill House</name>
   <pc>OX25 6LS</pc>
   <rd>Hill House, Somerton Road</rd>
  </house>
