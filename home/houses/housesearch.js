@@ -312,7 +312,7 @@ kw: ['7hs', 'barn', 'foxhill', 'lane', 'ox27', 'road', 'somerton'],
 nm: 'Foxhill Barn',
 pc: 'OX27 7HS',
 rd: 'Foxhill Lane, Somerton Road',
-sv: '',
+sv: 'https://goo.gl/maps/BT1yRtQwLxv',
 }
 ,
  "inkermanbarn": {

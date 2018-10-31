@@ -34,7 +34,7 @@
   <pc>OX25 6LS</pc>
   <rd>Somerton Road</rd>
  </house>
- <house sv="">
+ <house sv="https://goo.gl/maps/BT1yRtQwLxv">
   <name>Foxhill Barn</name>
   <pc>OX27 7HS</pc>
   <rd>Foxhill Lane, Somerton Road</rd>
@@ -625,13 +625,6 @@
   <pc>OX27 7JU</pc>
   <rd>Bates Lane</rd>
  </house>
- <!--
-     <house sv="">
-     <name>Acume House</name>
-     <pc>OX27 7JU</pc>
-     <rd>Bates Lane</rd>
-     </house>
- -->
  <house sv="https://goo.gl/maps/3zRaevgUBNU2">
   <name>Applegarth</name>
   <pc>OX27 7JU</pc>
