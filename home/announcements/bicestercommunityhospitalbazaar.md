@@ -1,5 +1,5 @@
 ---
-date: 2010-11-01
+date: 2018-11-01
 title: Bicester Community Hospital Christmas Bazaar
 ---
 # BICESTER COMMUNITY HOSPITAL
