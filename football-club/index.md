@@ -7,8 +7,8 @@ title: "Football"
 
 ## Brackley Town Under 16s
 
-Since 2018 the season, Souldern Village Hall and football pitch has been the home ground for
-[Brackley Town Football Club's under 16 sides](https://en.brackleytownfc.com/index.php/academy/academy-12-to-18-s/academy-u16-s)
+Since the 2018 season, Souldern Village Hall and football pitch has been the home ground for
+[Brackley Town Football Club's under 16 sides](https://en.brackleytownfc.com/index.php/academy/academy-12-to-18-s/academy-u16-s).
 
 
 
