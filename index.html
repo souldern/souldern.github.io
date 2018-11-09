@@ -28,6 +28,41 @@ the village was established on the site of excellent freshwater springs, some of
 <p>If there is any more information that you would like to see on the site, <a href="/home/contact-website">please let us know</a>!</p>
 
 
+    <script>
+      var links = [
+"http://www.souldern.org/history/memorial-1914-1918/william-henry-bates",
+"http://www.souldern.org/history/memorial-1914-1918/harry-binding",
+"http://www.souldern.org/history/memorial-1914-1918/sidney-blencowe",
+"http://www.souldern.org/history/memorial-1914-1918/william-james-callow",
+"http://www.souldern.org/history/memorial-1914-1918/george-moore-day",
+"http://www.souldern.org/history/memorial-1914-1918/arthur-john-lake",
+"http://www.souldern.org/history/memorial-1914-1918/john-henry-payne",
+"http://www.souldern.org/history/memorial-1914-1918/william-frederick-robbins",
+"http://www.souldern.org/history/memorial-1914-1918/william-robert-robbins",
+"http://www.souldern.org/history/memorial-1914-1918/kenneth-sutherland-rudd",
+"http://www.souldern.org/history/memorial-1914-1918/frederick-henry-sweetman",
+"http://www.souldern.org/history/memorial-1914-1918/william-john-sweetman",
+"http://www.souldern.org/history/memorial-1914-1918/aubrey-ernest-westbury",
+"http://www.souldern.org/history/memorial-1914-1918/walter-thomas-westbury",
+"http://www.souldern.org/history/memorial-1914-1918/william-henry-westbury",
+"http://www.souldern.org/history/memorial-1914-1918/george-cleaver",
+"http://www.souldern.org/history/memorial-1914-1918/arthur-parker",
+"http://www.souldern.org/history/memorial-1939-1945/aubrey-j-finch",
+"http://www.souldern.org/history/memorial-1939-1945/william-george-paintin"
+      ]
+      ;
+var i = 0;
+var renew = setInterval(function(){
+    document.getElementById("foo").src = links[i];        
+    if(links.length == i){
+        i = 0;
+    }
+    else i++;
+},10000);
+</script>
+
+  <iframe style="display:block;margin-left:auto;margin-right:auto" id="foo" width="50%" height="750rem" src="http://example.com"></iframe>
+
 
 <div style="clear:both;text-align:center">
   <a href="/history/memorial-1914-1918/"><img src="/history/memorial-1914-1918/bookposter2.png" width="60%"/></a>
