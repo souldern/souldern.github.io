@@ -1,6 +1,6 @@
 ---
 date: 2018-11-18
-title: Souldern Chapel: Brink of Closure
+title: "Souldern Chapel: Brink of Closure"
 ---
 
 # SOULDERN CHAPEL IS ON THE BRINK OF CLOSURE
