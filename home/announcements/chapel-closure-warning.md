@@ -6,7 +6,7 @@ title: "Souldern Chapel: Brink of Closure"
 # SOULDERN CHAPEL IS ON THE BRINK OF CLOSURE
 
 <center>
-[![flyer][chapel-closure-warning.png]][chapel-closure-warning.pdf]
+[![flyer](chapel-closure-warning.png)](chapel-closure-warning.pdf)
 </center>
 
 Souldern Wesleyan Reform Chapel in Back Lane has been
