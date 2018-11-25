@@ -49,7 +49,7 @@ https://codepen.io/philhoyt/pen/ujHzd
     }
 }
 
-@media screen and (min-width: 60em) {
+@media screen and (min-width: 70em) {
     #primary_nav_wrap ul a{
 	font-size:10px;
     }
