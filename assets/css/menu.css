@@ -49,6 +49,12 @@ https://codepen.io/philhoyt/pen/ujHzd
     }
 }
 
+@media screen and (min-width: 60em) {
+    #primary_nav_wrap ul a{
+	font-size:10px;
+    }
+}
+
 #primary_nav_wrap ul li
 {
 	position:relative;
