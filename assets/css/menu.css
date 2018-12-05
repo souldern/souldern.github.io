@@ -36,22 +36,29 @@ https://codepen.io/philhoyt/pen/ujHzd
 	color:#333;
 	text-decoration:none;
 	font-weight:700;
-	font-size:12px;
+	font-size:10px;
 	line-height:18px;
 	padding:0 15px;
 	white-space: nowrap;
 	font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
 }
 
-@media screen and (min-width: 80em) {
+
+@media screen and (min-width: 57em) {
     #primary_nav_wrap ul a{
-	font-size:14px;
+	font-size:12px;
     }
 }
 
 @media screen and (min-width: 60em) {
     #primary_nav_wrap ul a{
 	font-size:13px;
+    }
+}
+
+@media screen and (min-width: 80em) {
+    #primary_nav_wrap ul a{
+	font-size:14px;
     }
 }
 
