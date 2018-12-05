@@ -9,7 +9,7 @@ https://codepen.io/philhoyt/pen/ujHzd
     display:inline
 }
 
-@media screen and (min-width: 55em) {
+@media screen and (min-width: 57em) {
 
 #collapsed-menu{
     display:none
@@ -44,7 +44,7 @@ https://codepen.io/philhoyt/pen/ujHzd
 }
 
 
-@media screen and (min-width: 57em) {
+@media screen and (min-width: 58em) {
     #primary_nav_wrap ul a{
 	font-size:12px;
     }
