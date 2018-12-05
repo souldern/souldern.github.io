@@ -30,5 +30,7 @@ Administrator the day before travel.  To book, or for general
 enquiries about this service, call 01865 768329, quoting “Souldern
 Comet”.
  
-IAN.CORKIN@OXFORDSHIRE.GOV.UK Fb.com/cllriancorkin 
+[IAN.CORKIN@OXFORDSHIRE.GOV.UK](mailto:IAN.CORKIN@OXFORDSHIRE.GOV.UK)
+
+[Fb.com/cllriancorkin](https://www.facebook.com/cllriancorkin/)
  
