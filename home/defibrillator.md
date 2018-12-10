@@ -2,9 +2,9 @@
 
 # Village Defibrillator
 
-There is a defibrillator in the
+**There is a defibrillator in the
 [centre of the village](https://www.google.co.uk/maps/@51.9795133,-1.2435921,18z),
-attached to the Fox Public House.
+attached to the Fox Public House.**
 
 
 ![defib on pub wall](defib-pub.jpg)
@@ -29,4 +29,4 @@ showing the use of the machine.
 <iframe width="686" height="315" src="https://www.youtube.com/embed/xkcD3Mv9oAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-[PDF](G5-Brochure.pdf)
+[PDF Brochure for G5 Defibrillator](G5-Brochure.pdf)
