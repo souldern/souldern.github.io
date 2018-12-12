@@ -20,7 +20,7 @@ to the patient and applying CPR if necessary.
 
 
 If you wish to familiarize yourself with the operation of the
-defibrilliator  the model installed is
+defibrillator  the model installed is
 the **Powerheart G5 Semi Automatic with CPR Feedback**
 
 Below is a video and a link to a PDF brochure from the manufacturer
