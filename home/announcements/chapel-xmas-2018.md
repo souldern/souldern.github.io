@@ -21,13 +21,15 @@ led by Rev. John Goulder
 **Sunday 23rd December at 2.30pm**
 
 Carols by Candlelight Service
+
 led by Mr Martin Goulder
 
 -----
 
 There will be refreshments after each service.
+
 The collection money will be for Children in Syria.
 
-Everyone welcome.
+**Everyone welcome.**
 
 
