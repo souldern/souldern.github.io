@@ -4,11 +4,9 @@ title: council tax to help protect operational policing
 ---
 
 
-    Dear Parish Council
+>  Dear Parish Council
 
- 
-
-    Anthony Stansfeld, the Police and Crime Commissioner for Thames Valley has launched a survey on an increase in council tax to help protect operational policing.  Please can you share the information below with your local residents and encourage them to have their say.
+>    Anthony Stansfeld, the Police and Crime Commissioner for Thames Valley has launched a survey on an increase in council tax to help protect operational policing.  Please can you share the information below with your local residents and encourage them to have their say.
 
  
 
@@ -58,12 +56,9 @@ Communications and Engagement Officer
 
  
 
-Office of the Police and Crime Commissioner
-
-The Farmhouse
-
-Thames Valley Police Headquarters
-
+Office of the Police and Crime Commissioner  
+The Farmhouse  
+Thames Valley Police Headquarters  
 Kidlington OX5 2NX
 
-www.thamesvalley-pcc.gov.uk
+htps://www.thamesvalley-pcc.gov.uk
