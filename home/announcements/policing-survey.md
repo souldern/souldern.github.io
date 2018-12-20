@@ -36,7 +36,8 @@ Anthony Stansfeld said: “The Thames Valley Police budget has been cut by £101
 
  
 
-**The survey and more information, including the proposed amounts from each council tax band can be found by visiting:** https://bit.ly/2QEkGkk
+**The survey and more information, including the proposed amounts from each council tax band can be found by visiting:**
+[https://bit.ly/2QEkGkk](https://bit.ly/2QEkGkk)
 
  
 
@@ -61,4 +62,4 @@ The Farmhouse
 Thames Valley Police Headquarters  
 Kidlington OX5 2NX
 
-https://www.thamesvalley-pcc.gov.uk
+[https://www.thamesvalley-pcc.gov.uk](https://www.thamesvalley-pcc.gov.uk)
