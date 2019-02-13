@@ -19,6 +19,6 @@ Incl quiz entry and super
 (Licensed Bar)
 
      
-![curry2019](curry219.png)
+![curry2019](curry2019.png)
 
 Tickets from Kim Curry (3459940 Barbara McGarry (345931) or any PCC member.
