@@ -7,9 +7,6 @@ title: Village Shop / family required for BBC Series.
 
 ![Casting Flyer](Back in Time - Casting Flyer.jpg)
 
-Good afternoon Cathy,
-
- 
 
 It’s a bit of a unusual one but I am hoping you can help me! We are the makers of the BBC 2 'Back in Time' you may have seen 'Back in Time for Tea' with the Ellis Family or 'Back in Time for School' which is currently broadcasting on BBC2
 
