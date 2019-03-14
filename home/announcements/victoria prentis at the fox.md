@@ -27,9 +27,9 @@ Office of Victoria Prentis MP, Member of Parliament for North Oxfordshire
 
 Orchard House, Hopcraft Lane, Deddington, OX15 0TD
 
-[mailto:zoe.mclernon@parliament.uk] | 01869 233 685
+[zoe.mclernon@parliament.uk](mailto:zoe.mclernon@parliament.uk) | 01869 233 685
 
  
-[mailto:victoria.prentis.mp@parliament.uk] | [https://www.victoriaprentis.com]
+[victoria.prentis.mp@parliament.uk](mailto:victoria.prentis.mp@parliament.uk) | <https://www.victoriaprentis.com>
 
-[https://www.facebook.com/victoriaprentis] | Twitter: @VictoriaPrentis
+<https://www.facebook.com/victoriaprentis> | Twitter: @VictoriaPrentis
