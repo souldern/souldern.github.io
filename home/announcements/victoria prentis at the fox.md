@@ -29,6 +29,6 @@ Orchard House, Hopcraft Lane, Deddington, OX15 0TD
 zoe.mclernon@parliament.uk | 01869 233 685
 
  
-victoria.prentis.mp@parliament.uk | www.victoriaprentis.com
+[mailto:victoria.prentis.mp@parliament.uk] | [https://www.victoriaprentis.com]
 
-www.facebook.com/victoriaprentis | Twitter: @VictoriaPrentis
+[https://www.facebook.com/victoriaprentis] | Twitter: @VictoriaPrentis
