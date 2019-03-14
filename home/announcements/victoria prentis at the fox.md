@@ -1,8 +1,9 @@
 ---
 date: 2019-03-14
-title: meet Victoria Prentis at The Fox Inn, Thursday 21 March
+title: Meet Victoria Prentis at The Fox Inn, Thursday 21 March
 ---
 
+# Meet your MP at the Fox Inn, Thursday 21st March
 
 Victoria Prentis MP will be holding her next
 ‘Pub Tour’ on **Thursday 21 March**, at the Fox in Souldern. The event
@@ -26,7 +27,7 @@ Office of Victoria Prentis MP, Member of Parliament for North Oxfordshire
 
 Orchard House, Hopcraft Lane, Deddington, OX15 0TD
 
-zoe.mclernon@parliament.uk | 01869 233 685
+[mailto:zoe.mclernon@parliament.uk] | 01869 233 685
 
  
 [mailto:victoria.prentis.mp@parliament.uk] | [https://www.victoriaprentis.com]
