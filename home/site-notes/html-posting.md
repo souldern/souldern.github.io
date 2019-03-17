@@ -44,7 +44,7 @@ If you do not add the two ``---``
 at the head of the file, Jekyll will
 not process the file at all and the file will be posted to the web
 exactly as submitted. This means that if you have a complete HTML file
-from some other source (perhasp sent to you or saved from a Word
+from some other source (perhaps sent to you or saved from a Word
 Processor, you do not _have_ to convert it to the site format you can
 simply upload it as described in the [File Upload](file-upload) notes.
 In this case the resulting page will not have any of the normal menu
