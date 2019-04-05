@@ -12,9 +12,9 @@ title: NOTICE OF UNCONTESTED ELECTION
 
 I, Yvonne Rees, being the Returning Officer at the above election, report that the persons whose
 names appear below were duly elected Parish Councillors for Souldern Parish Council.
-         Name of Candidate
 
-| **Name of Candidate** |  **Home Address** | **Description** (if any) |
+
+| **Name of Candidate** |  **Home Address** | **Description**<br> (if any) |
 | ALLPRESS Kirsten  | 4 Cotswold Court, Souldern, OX27 7LQ |
 | HOODLESS John     | Grannys Cottage, Souldern, OX27 7JQ  |
 | HOW Laura         | Mallards, High Street, Souldern, OX27 7JJ |
