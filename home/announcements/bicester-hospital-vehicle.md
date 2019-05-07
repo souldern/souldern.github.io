@@ -3,6 +3,7 @@ date: 2019-05-07
 title: Bicester Community Hospital League Of Friends donate new patient vehicle to the hospital
 ---
 
+# Bicester Community Hospital League Of Friends donate new patient vehicle to the hospital
 
 Bicester Community Hospital League of Friends (LOF) have purchased a new
 vehicle replacing an older one donated by the LOF in 2001. The vehicle will be
