@@ -26,5 +26,6 @@ at the time of booking.
 To reserve your places please contact:
 
 Joanna Carlisle on 07768 584102  
-Jon How on 07842 743720
-chapel@souldern.org
+Jon How on 07842 743720  
+[**chapel@souldern.org**](mailto:chapel@souldern.org)
+
