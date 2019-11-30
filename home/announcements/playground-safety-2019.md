@@ -9,4 +9,15 @@ The full Safety Inspection Report for the village playground equipment
 is [available from this website](/parish-council/spc-documents/ROSPA%20Report%20November%202019.pdf)
 
 
-*Please Note*: Some items have been classified as unsafe and will require immediate action.
+*Please Note*:
+
+Some items have been classified as unsafe and will require immediate action.
+
+The rope climbing frame and swing logs will be removed shortly, and the big slide will be closed until remedial work can be completed.
+
+We apologise for any inconvenience caused, but this course of action is necessary for safety reasons.
+
+
+Nick Oakhill
+
+Chair, Souldern Parish Council 
