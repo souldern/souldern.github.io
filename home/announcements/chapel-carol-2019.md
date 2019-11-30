@@ -6,7 +6,7 @@ title: Souldern Wesleyan Chapel Christmas Carol Service
 ## Souldern Wesleyan Chapel Christmas Carol Service
 
 
-[poster](chapel-carol-2019.jpg)
+![poster](chapel-carol-2019.jpg)
 
 The service will be led by 
 Mrs Wendy Manley from Brackley
