@@ -1,5 +1,5 @@
 ---
-date: 2019-11-31
+date: 2019-11-30
 title: Souldern Wesleyan Chapel Christmas Carol Service
 ---
 
