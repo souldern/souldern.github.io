@@ -35,9 +35,9 @@ images at the same time as the main text page.**
 
 To refer to an image uploaded to this site use: 
 
-`![local image](/event-2018/wacky2018.png)`
+`![local image](/home/events/event-2016/wacky-logo.png)`
 
-![local image](/event-2018/wacky2018.png)
+![local image](/home/events/event-2016/wacky-logo.png)
 
 To refer to an image in Google Photos, get a "get link" from the share
 menu in the Photos site, Follow that link to get the (long)  URL to the image

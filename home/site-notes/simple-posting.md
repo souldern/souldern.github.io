@@ -99,4 +99,4 @@ with a blank new announcement.
 
 ### Further Reading
 
-The "kramdown" syntax used in these pages supports all kinds of lists, and font chages etc, see this [Quick Reference Guide](https://kramdown.gettalong.org/quickref.html).
+The "kramdown" syntax used in these pages supports all kinds of lists, and font changes etc, see this [Quick Reference Guide](https://kramdown.gettalong.org/quickref.html).
