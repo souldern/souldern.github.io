@@ -16,3 +16,6 @@ afterwards for Christmas tea in the school room.
 
 Children are very
 welcome.
+
+
+![tree](chapel-xmas2019.jpg)
