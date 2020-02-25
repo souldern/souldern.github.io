@@ -13,10 +13,11 @@ In aid of **St Mary's Church Souldern**
 
 **Saturday 14th March 7pm**
 
-         £15 per person:
-     Incl quiz entry + supper
+£15 per person:
 
-          (Licensed Bar)
+Incl quiz entry + supper
+
+(Licensed Bar)
 
 Tickets from Kim Curry (345994), Barbara McGarry (345931) or any PCC member.
 
