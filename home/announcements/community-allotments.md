@@ -3,7 +3,7 @@ date: 2020-02-28
 title: Community Allotments
 ---
 
-![flyer](Community Allotment\ Flyer Feb20.jpg)
+![flyer](Community Allotment Flyer Feb20.jpg)
 
 # Community Allotment
 
@@ -28,7 +28,7 @@ If you would like to hear more or wish to attend a get together of interested pa
 
 Carol Gray, Chairman of the Horticultural Society :  01869 345965
 
-Susan Jones, Secretary to Souldern United Charity: suc@souldern.org or 07802 668434
+Susan Jones, Secretary to Souldern United Charity:  [suc@souldern.org](mailto:suc@souldern.org) or 07802 668434
 
 
      
