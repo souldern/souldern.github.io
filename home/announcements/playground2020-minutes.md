@@ -7,11 +7,13 @@ title: Rejuvenating Souldern Playground
 
 
 A meeting to discuss the Souldern Playground was held on 
-Thurs 5th March, 8pm, in Souldern Village Hall.
+Thursday 5th March.
 
-Slides presented at the meeting and teh formal minutes are available from this site.
+Slides presented at the meeting and the formal minutes are available from this site.
 
 
 [Presentation: Restoration of Souldern Playground](souldern_playground_open_meeting.pdf)
 
-[Minutes: 5th March Meeting](minutes_playground_07032020.pdf)
+[![Presentation: Restoration of Souldern Playground](playground2020.gif)](souldern_playground_open_meeting.pdf)
+
+[**Minutes: 5th March Meeting**](minutes_playground_07032020.pdf)
