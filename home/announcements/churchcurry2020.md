@@ -9,7 +9,7 @@ title: Curry and Quiz
 
 <div style="margin-left:auto;margin-right:auto;margin-bottom:1em;border:solid thick red; border-radius:.5em;
 padding:1em;font-size:120%;text-align:center">
-  <p><b>CANCELLED Due to  Coronavirus<b></p>
+  <p><b>CANCELLED Due to  Coronavirus</b></p>
 </div>
 
 In aid of **St Mary's Church Souldern**
