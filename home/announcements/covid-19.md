@@ -14,9 +14,10 @@ title: Coronavirus &mdash; COVID-19
 
 
 
-## Local Help ##
+## Local Help
 
-If you need to self-solate and need help with accessing supplies,
-several villagers have offered to help. If you contact us via  the [Form to
-contact the website](/home/contact-website) we will put you in touch.
+If you need to self-isolate and need help with accessing supplies,
+several villagers have offered to help. If you contact us via the [Form to
+contact the website](/home/contact-website) or [via email](mailto:website@souldern.org),
+we will put you in touch.
 
