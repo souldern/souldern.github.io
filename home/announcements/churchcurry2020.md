@@ -3,7 +3,6 @@ date: 2020-02-25
 title: Curry and Quiz
 ---
 
-![curry2020](curry2020.png)
 
 # Curry & Quiz
 
@@ -29,3 +28,4 @@ Tickets from Kim Curry (345994), Barbara McGarry (345931) or any PCC member.
 
 
 
+![curry2020](curry2020.png)
