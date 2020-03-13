@@ -1,9 +1,9 @@
 ---
 date: 2020-03-13
-title: Coronavirus &emdash; COVID-19
+title: Coronavirus &mdash; COVID-19
 ---
 
-# Coronavirus &emdash; COVID-19
+# Coronavirus &mdash; COVID-19
 
 **Local Information on Coronavirus**
 
