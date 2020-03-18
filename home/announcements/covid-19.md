@@ -56,7 +56,7 @@ beginning an emergency supplies system for neighbours in the village
 to help those who cannot get out.
 
 Please visit the Wrightons website
-to find the current order form. [wrightons.co.uk](http://www.wrightons.co.uk)
+to find the current order form. [wrightons.co.uk](https://www.wrightons.co.uk)
 
 Please
 note, Wrightons are not delivering. They will prepare shopping orders
