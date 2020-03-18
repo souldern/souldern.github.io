@@ -53,12 +53,18 @@ Daily specials are also available.
 So, launching today in advance of the instructions for the elderly and
 vulnerable to self isolate for weeks, Wrightons in Fritwell are
 beginning an emergency supplies system for neighbours in the village
-to help those who cannot get out.  Please visit the Wrightons website
-to find the current order form. [wrightons.co.uk](http://www.wrightons.co.uk) Please
+to help those who cannot get out.
+
+Please visit the Wrightons website
+to find the current order form. [wrightons.co.uk](http://www.wrightons.co.uk)
+
+Please
 note, Wrightons are not delivering. They will prepare shopping orders
 to their best ability using available supplies on two days a
 week. Orders will be totalled, and calls made to collect payment via
-debit / credit card.  If you know someone who cannot, or will not
+debit / credit card.
+
+If you know someone who cannot, or will not
 leave the house, and needs help, then please introduce yourseslf and
 offer your support.  Please help each other in this time of
 need. Please try to make sure you help neighbours who you know
