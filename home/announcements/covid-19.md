@@ -1,5 +1,5 @@
 ---
-date: 2020-03-13
+date: 2020-03-16
 title: Coronavirus &mdash; COVID-19
 ---
 
@@ -15,6 +15,8 @@ title: Coronavirus &mdash; COVID-19
 
 
 ## Local Help
+
+Please see the [separate announcement](covid-19-support) on the COVID 19 – Souldern Parish Council Community Support network.
 
 If you need to self-isolate and need help with accessing supplies,
 several villagers have offered to help. If you contact us via the [Form to
