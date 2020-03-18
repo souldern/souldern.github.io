@@ -4,9 +4,7 @@ title: COVID 19 – Souldern Parish Council Community Support Network
 ---
 
 
-# COVID 19
-# Souldern Parish Council
-# Community Support Network
+# COVID 19<br> Souldern Parish Council<br> Community Support Network
 
 With the escalation of the COVID 19 situation there is a network of volunteers in Souldern who are
 willing to offer assistance where it is needed in the village with everyday tasks from collecting
