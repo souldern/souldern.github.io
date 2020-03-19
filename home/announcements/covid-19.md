@@ -50,7 +50,7 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 The Fox in are providing local takeaway or delivery service  for those who need it.
 
-They may be contacted  on 01869 345 284.
+They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
 
 **Main menu**
 
