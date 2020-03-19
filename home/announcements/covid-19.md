@@ -9,9 +9,9 @@ title: Coronavirus &mdash; COVID-19
 **Local Information on Coronavirus**
 
  * [Government Advice](#government-advice)
- * [Souldern Covid-19 Support Network](#covid-19-support)
+ * [Souldern Covid-19 Support Network](#local-help)
  * [Milkman](#milk-round)
- * [The Fox takeaway service](#fox-in)
+ * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
 
 
