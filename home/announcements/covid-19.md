@@ -3,11 +3,17 @@ date: 2020-03-15
 title: Coronavirus &mdash; COVID-19
 ---
 
+ * [Government Advice](#government-advice)
+ * [Souldern Covid-19 Support Network](#covid-19-support)
+ * [Milkman](#milk-round)
+ * [The Fox takeaway service](#fox-in)
+ * [Wrightons](#wrightons-fritwell)
+
 # Coronavirus &mdash; COVID-19
 
 **Local Information on Coronavirus**
 
-## Government advice
+## Government Advice
 
 
 [Stay at home: guidance for people with confirmed or possible coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-people-with-confirmed-or-possible-coronavirus-covid-19-infection)
