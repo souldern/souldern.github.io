@@ -37,7 +37,7 @@ we will put you in touch.
 
 ### Milk Round
 
-Hi, for anyone who is not aware, there is a milkman delivering to
+There is a milkman delivering to
 Souldern three times a week, Tuesday, Thursday and Saturday. He not
 only delivers milk but you can order a whole range of groceries
 including bread, cheese, eggs, juice, fruit and veg, vegan, dairy
@@ -49,9 +49,9 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://milkandmore
 
 The Fox in are providing local takeaway or delivery service  for those who need it.
 
-They may be contacted  on 01869345284.
+They may be contacted  on 01869 345 284.
 
-Main menu
+**Main menu**
 
 ![menu](/home/sssc-whatsapp/IMG-20200316-WA0008.jpg)
 
@@ -75,7 +75,7 @@ week. Orders will be totalled, and calls made to collect payment via
 debit / credit card.
 
 If you know someone who cannot, or will not
-leave the house, and needs help, then please introduce yourseslf and
+leave the house, and needs help, then please introduce yourself and
 offer your support.  Please help each other in this time of
 need. Please try to make sure you help neighbours who you know
 personally.
