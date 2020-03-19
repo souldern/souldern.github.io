@@ -44,7 +44,7 @@ only delivers milk but you can order a whole range of groceries
 including bread, cheese, eggs, juice, fruit and veg, vegan, dairy
 free, household and garden items. Set up an account online and you can
 order online or on their app up until 9pm the night before for
-delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://milkandmore.co.uk)
+delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkandmore.co.uk)
 
 ### Fox Inn
 
