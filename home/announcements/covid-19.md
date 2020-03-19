@@ -3,15 +3,19 @@ date: 2020-03-15
 title: Coronavirus &mdash; COVID-19
 ---
 
+
+# Coronavirus &mdash; COVID-19
+
+**Local Information on Coronavirus**
+
  * [Government Advice](#government-advice)
  * [Souldern Covid-19 Support Network](#covid-19-support)
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-in)
  * [Wrightons](#wrightons-fritwell)
 
-# Coronavirus &mdash; COVID-19
 
-**Local Information on Coronavirus**
+====
 
 ## Government Advice
 
