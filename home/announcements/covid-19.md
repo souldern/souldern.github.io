@@ -13,7 +13,7 @@ title: Coronavirus &mdash; COVID-19
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
- * [Produce Warrior](#produce-warrior)
+ * [Produce Warriors](#produce-warriors)
 
 
 ---
