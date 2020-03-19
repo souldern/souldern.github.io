@@ -13,6 +13,7 @@ title: Coronavirus &mdash; COVID-19
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
+ * [Produce Warrior](#produce-warrior)
 
 
 ---
@@ -80,5 +81,8 @@ offer your support.  Please help each other in this time of
 need. Please try to make sure you help neighbours who you know
 personally.
 
+
+### Produce Warriors
+Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
 
 
