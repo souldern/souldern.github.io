@@ -52,11 +52,29 @@ The Fox in are providing local takeaway or delivery service  for those who need 
 
 They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
 
-**Main menu**
 
-![menu](/home/sssc-whatsapp/IMG-20200316-WA0008.jpg)
+> 
+> **The Fox Inn takeaway options for Saturday 21st March** are as follows-
+> 
+> 
+> Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
+> 
+> Home made Bacon and Cheese topped Burger with chips and onion rings £10.00
+> 
+> Locally reared lamb steamed pudding with buttered mash and fresh vegetables £12.00
+> 
+> Ham, Mushroom and Mozzarella Pizza with Chunky Chips £10.00
+> 
+> Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
 
-Daily specials are also available.
+Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection.
+
+Opening Times for collection are between 6.00pm and 8.00pm. We'll be doing collections through the Kitchen door as the Main Bar is closed.
+
+We Would Very Much Appreciate Cash Payments where possible as going through to the bar will cause delays.
+
+Thanks in advance and we look forward to seeing you The Fox Team.
+
 
 
 ### Wrightons Fritwell
