@@ -66,6 +66,8 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 > Ham, Mushroom and Mozzarella Pizza with Chunky Chips £10.00
 > 
 > Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
+>
+> Pan Fried Halloumi Burger with Chips  £10
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection.
 
