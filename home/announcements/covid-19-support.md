@@ -24,17 +24,14 @@ one step away from it.
 Alternatively, if you require assistance or feel able to offer help please make yourself known to any
 of the following in the village;
 
-John Hoodless, email: [motorvat@aol.com](mailto:motorvat@aol.com) or tel; 07785391591
-
-Alan Smith, email; [alan.smith@kantar.com](mailto:alan.smith@kantar.com) or tel; 07400 464401
-
-Laura How, email; [laura.how@btinternet.com](mailto:laura.how@btinternet.com) or tel 07710 242002
-
-Kirsty Allpress, email; [kirsty@allpress.org.uk](mailto:kirsty@allpress.org.uk) or tel; 07734 544001
-
-Barbara McGarry, email; [barbara.a.mcgarry@googlemail.com](mailto:barbara.a.mcgarry@googlemail.com) or tel; 07889 444616
-
-Susan Jones, email; [susan.jones@headlinersgroup.com](mailto:susan.jones@headlinersgroup.com) or tel; 07802 668434.
+ | Volunteer | Email | Telephone |
+ | --- | --- | --- |
+ | John Hoodless   | [motorvat@aol.com](mailto:motorvat@aol.com)                                 | 07785 391591 |
+ | Alan Smith      | [alan.smith@kantar.com](mailto:alan.smith@kantar.com)                       | 07400 464401 |
+ | Laura How       | [laura.how@btinternet.com](mailto:laura.how@btinternet.com)                 | 07710 242002 |
+ | Kirsty Allpress | [kirsty@allpress.org.uk](mailto:kirsty@allpress.org.uk)                     | 07734 544001 |
+ | Barbara McGarry | [barbara.a.mcgarry@googlemail.com](mailto:barbara.a.mcgarry@googlemail.com) | 07889 444616 |
+ | Susan Jones     | [susan.jones@headlinersgroup.com](mailto:susan.jones@headlinersgroup.com)   | 07802 668434 |
 
 Please do not be hesitant in requesting help in these unprecedented times if you need it. The
 network of volunteers is there to provide assistance where it is needed and will be happy to do what
