@@ -14,7 +14,7 @@ title: Coronavirus &mdash; COVID-19
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
  * [Produce Warriors](#produce-warriors)
-
+ * [Buckingham Garden Center](#buckingham-garden-center)
 
 ---
 
@@ -106,3 +106,14 @@ personally.
 Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
 
 
+### Buckingham Garden Center
+[buckinghamgardencentre.co.uk](https://www.buckinghamgardencentre.co.uk/)
+
+We also want to do everything we can to help our customers who find
+themselves stuck at home to be able to get out in the garden and get
+some fresh air which is important to maintain physical and mental
+health. We have therefore enlarged our local delivery service and
+reduced the costs. We are able to deliver anything in the Garden
+Centre - from plants and composts, gifts and items in our food hall
+(including jams, biscuits, eggs, meat and our home cooked frozen
+meals).  To place an order, please call: 01280 822133
