@@ -54,7 +54,8 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 
 
 
-** The Fox Inn takeaway options for 26th, 27th and 28th March are as follows **
+**The Fox Inn takeaway options for 26th, 27th and 28th March are as follows**
+
 
 > 
 > * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
