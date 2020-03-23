@@ -1,6 +1,6 @@
 ---
 date: 2020-03-23
-title: Covid-19: Playground Closure
+title: COVID-19 Playground Closure
 ---
 
 # Playground Closure
