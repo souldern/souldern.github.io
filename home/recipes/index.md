@@ -24,7 +24,8 @@ Please send them to
 
  * [Ham and Pea Soup](#ham-and-pea-soup-rob-large)
  * [Spagehetti Carbonara](#spagehetti-carbonara-rob-large)
- 
+
+---
 
 ## Ham and Pea Soup (Rob Large)
 
@@ -46,6 +47,7 @@ from Slimming World</a>
 
 
 ---
+
 <div style="font-size:small;font-style: italic">
 Original recipies contributed under <a
 href="https://www.souldern.org/home/about#TOC-Licence">Creative
