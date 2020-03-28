@@ -15,8 +15,10 @@ reference) recomendations from publications.
 
 ---
 
-## Recipes
+# Recipes
 
+ * [Ham and Pea Soup](#ham-and-pea-soup-rob-large}
+ * [Spagehetti Carbonara](#spagehetti-carbonara-rob-large)
  
 
 ## Ham and Pea Soup (Rob Large)
