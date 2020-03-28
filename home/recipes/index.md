@@ -24,7 +24,7 @@ Please send them to
 
  * [Ham and Pea Soup](#ham-and-pea-soup-rob-large)
  * [Spaghetti Carbonara](#spaghetti-carbonara-rob-large)
- * [Cauliflower Cheese Soup](#cauliflower-cheese-soup-sartory-caroline)
+ * [Cauliflower Cheese Soup](#cauliflower-cheese-soup-caroline-sartory)
 
 
 ---
@@ -49,7 +49,7 @@ from Slimming World</a>
 
 
 
-# Cauliflower Cheese Soup (Sartory, Caroline)
+# Cauliflower Cheese Soup (Caroline Sartory)
 
 Instead of boiling the cauliflower, I roasted it for 30 mins with a
 couple of cloves of garlic.
