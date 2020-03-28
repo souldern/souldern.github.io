@@ -25,6 +25,8 @@ reference) recomendations from publications.
 
 ![soup](pea-ham-soup.jpg)
 
+[Cited from thismama.co.uk](https://thismama.co.uk/slimming-world-pea-ham-soup)
+
 ## Spagehetti Carbonara (Rob Large)
 
 ![spaghetti](spaghetti-carbonara.jpg)
