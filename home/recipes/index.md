@@ -27,6 +27,10 @@ Please send them to
 
 ---
 
+{:toc}
+
+---
+
 ## Ham and Pea Soup (Rob Large)
 
 ![soup](pea-ham-soup.jpg)
