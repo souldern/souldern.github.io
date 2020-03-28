@@ -11,10 +11,11 @@ submit their favourite  recipes.
 Either original texts or (with
 reference) recomendations from publications.
 
-**Contributions area encouraged**
+**Contributions are encouraged**
 
 Please send them to
-  [website](mailto::webstite@souldern.org) or use the [Contact form on
+  [website@souldern.org](mailto::webstite@souldern.org)
+  r use the [Contact form on
   this site](/home/contact-website)
 
 ---
