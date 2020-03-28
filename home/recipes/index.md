@@ -6,10 +6,14 @@ layout: default
 # Souldern Recipes
 
 The Souldern Sports and Social club invide Souldern residents to
-submit their favourite  recipes. Either original texts or (with
+submit their favourite  recipes.
+
+Either original texts or (with
 reference) recomendations from publications.
 
-**Contributions area encouraged** please send them to
+**Contributions area encouraged**
+
+Please send them to
   [website](mailto::webstite@souldern.org) or use the [Contact form on
   this site](/home/contact-website)
 
