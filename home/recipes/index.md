@@ -35,7 +35,7 @@ Please send them to
 <a href="https://thismama.co.uk/slimming-world-pea-ham-soup">Cited from thismama.co.uk</a>
 </div>
 
-## Spagehetti Carbonara (Rob Large)
+## Spaghetti Carbonara (Rob Large)
 
 ![spaghetti](spaghetti-carbonara.jpg)
 
