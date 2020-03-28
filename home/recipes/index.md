@@ -9,7 +9,7 @@ The Souldern Sports and Social club invide Souldern residents to
 submit their favourite  recipes.
 
 Either original texts or (with
-reference) recomendations from publications.
+reference) recommendations from publications.
 
 **Contributions are encouraged**
 
