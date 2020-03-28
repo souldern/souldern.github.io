@@ -23,7 +23,7 @@ Please send them to
 # Recipes
 
  * [Ham and Pea Soup](#ham-and-pea-soup-rob-large)
- * [Spagehetti Carbonara](#spagehetti-carbonara-rob-large)
+ * [Spaghetti Carbonara](#spaghetti-carbonara-rob-large)
 
 ---
 
