@@ -38,5 +38,17 @@ Please send them to
 
 ![spaghetti](spaghetti-carbonara.jpg)
 
+<div style="text-align: right;font-size:small;font-style: italic">
+<a
+href="https://www.slimmingworld.co.uk/recipes/spaghetti-carbonara">Cited
+from Slimming World</a>
+</div>
 
 
+---
+<div style="text-align: right;font-size:small;font-style: italic">
+Original recipies contributed under <a
+href="https://www.souldern.org/home/about#TOC-Licence">Creative
+Commons Licence</a>, Excerpts of other publications cited with
+reference to the copyright holder in each case.
+</div>
