@@ -19,6 +19,8 @@ Please send them to
   or use the
   [Contact form on this site](/home/contact-website)
 
+Recipes submited are posted [to the recipe page on this site](/home/recipes).
+
 ---
 
 We will be also running weekly bake-off challenges for households to post their creations. The first will be Yorkshire puddings.
