@@ -1,5 +1,5 @@
 ---
-date: 2020-03-25
+date: 2020-03-28
 title: Coronavirus &mdash; COVID-19
 ---
 
@@ -19,6 +19,9 @@ title: Coronavirus &mdash; COVID-19
 ---
 
 ## Government Advice
+
+
+[Staying at home and away from others (social distancing)](https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others/full-guidance-on-staying-at-home-and-away-from-others)
 
 
 [Stay at home: guidance for people with confirmed or possible coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-people-with-confirmed-or-possible-coronavirus-covid-19-infection)
