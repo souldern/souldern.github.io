@@ -6,6 +6,8 @@ title: Souldern Recipes and Baking
 # Souldern Recipes and Baking
 
 
+## Favourite  Recipes
+
 The Souldern Sports and Social club invide Souldern residents to
 submit their favourite  recipes.
 
@@ -22,6 +24,8 @@ Please send them to
 Recipes submited are posted [to the recipe page on this site](/home/recipes).
 
 ---
+
+## Weekly Baking Competition
 
 We will be also running weekly bake-off challenges for households to post their creations. The first will be Yorkshire puddings.
 
