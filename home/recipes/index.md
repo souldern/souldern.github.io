@@ -15,8 +15,8 @@ reference) recomendations from publications.
 
 Please send them to
   [website@souldern.org](mailto::webstite@souldern.org)
-  r use the [Contact form on
-  this site](/home/contact-website)
+  or use the
+  [Contact form on this site](/home/contact-website)
 
 ---
 
