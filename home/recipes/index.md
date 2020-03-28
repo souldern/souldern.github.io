@@ -25,9 +25,7 @@ Please send them to
  * [Ham and Pea Soup](#ham-and-pea-soup-rob-large)
  * [Spaghetti Carbonara](#spaghetti-carbonara-rob-large)
 
----
 
-{:toc}
 
 ---
 
@@ -49,6 +47,21 @@ href="https://www.slimmingworld.co.uk/recipes/spaghetti-carbonara">Cited
 from Slimming World</a>
 </div>
 
+
+
+# Cauliflower Cheese Soup (Sartory, Caroline)
+
+Instead of boiling the cauliflower, I roasted it for 30 mins with a
+couple of cloves of garlic.
+
+<iframe width="400" height="400"
+src="https://www.bbcgoodfood.com/recipes/cauliflower-cheese-soup"></iframe>
+
+<div style="text-align: right;font-size:small;font-style: italic">
+<a
+href="https://www.bbcgoodfood.com/recipes/cauliflower-cheese-soup">Cited
+from BBC Good Food</a>
+</div>
 
 ---
 
