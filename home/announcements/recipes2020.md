@@ -34,6 +34,6 @@ As for recipes, please send them to
 
 
 ---
-.
+
 Any ideas for future challenges please get in touch with the SSSC.
 
