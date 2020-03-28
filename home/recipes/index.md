@@ -46,7 +46,7 @@ from Slimming World</a>
 
 
 ---
-<div style="text-align: right;font-size:small;font-style: italic">
+<div style="font-size:small;font-style: italic">
 Original recipies contributed under <a
 href="https://www.souldern.org/home/about#TOC-Licence">Creative
 Commons Licence</a>, Excerpts of other publications cited with
