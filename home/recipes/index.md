@@ -24,7 +24,7 @@ Please send them to
 
  * [Ham and Pea Soup](#ham-and-pea-soup-rob-large)
  * [Spaghetti Carbonara](#spaghetti-carbonara-rob-large)
-
+ * [Cauliflower Cheese Soup](#cauliflower-cheese-soup-sartory-caroline)
 
 
 ---
@@ -54,8 +54,38 @@ from Slimming World</a>
 Instead of boiling the cauliflower, I roasted it for 30 mins with a
 couple of cloves of garlic.
 
-<iframe width="400" height="400"
-src="https://www.bbcgoodfood.com/recipes/cauliflower-cheese-soup"></iframe>
+>   **Ingredients**
+>
+>    knob of butter
+>
+>    1 large onion, finely chopped
+>    
+>    1 large cauliflower (about 900g/2lb), leaves trimmed and cut into florets
+>    
+>    1 potato, peeled and cut into chunks
+>    
+>    700ml vegetable stock (from a cube is fine)
+>
+>    400ml milk
+>
+>    100g mature cheddar, diced
+>
+>    **Method**
+>
+>    Heat the butter in a large saucepan. Tip in the onion and cook
+>    until softened, about 5 mins, stirring often. Add the cauliflower,
+>    potato, stock, milk and seasoning. Bring to the boil, then reduce
+>    the heat and leave to simmer for about 30 mins until the
+>    cauliflower is soft and the potato almost collapsing.
+>
+>    Whizz in a food processor or crush with a potato masher until you
+>    get a creamy, thick soup. Top up with more milk to thin a little
+>    if serving in mugs. You can make ahead up to 2 days in advance,
+>    cool, cover and leave in the fridge until needed, or freeze for up
+>    to 1 month. When ready to serve, warm through, ladle into mugs or
+>    bowls, top with the cheese pieces, then stir through before
+>    eating.
+>    
 
 <div style="text-align: right;font-size:small;font-style: italic">
 <a
