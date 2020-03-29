@@ -31,10 +31,9 @@ We will be also running weekly bake-off challenges for households to post their 
 
 Photos of the baking creations to be posted any time leading up to Thursday 5pm.
 
-As for recipes, please send them to
-  [website@souldern.org](mailto:website@souldern.org)
-  or use the
-  [Contact form on this site](/home/contact-website)
+Please send photographs to
+  [website@souldern.org](mailto:website@souldern.org).
+
 
 
 ---
