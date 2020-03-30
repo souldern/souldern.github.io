@@ -21,6 +21,9 @@ title: Coronavirus &mdash; COVID-19
 ## Government Advice
 
 
+[Oxfordshire County Council Press office Warning about Cororonvirus scams](https://news.oxfordshire.gov.uk/oxfordshire-residents-warned-against-coronavirus-scams/)
+
+
 [Staying at home and away from others (social distancing)](https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others/full-guidance-on-staying-at-home-and-away-from-others)
 
 
