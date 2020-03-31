@@ -130,5 +130,6 @@ meals).  To place an order, please call: 01280 822133
 
 ### Greatfield Plants Nursery
 [Greatfield Plants Nursery](https://greatfieldplants.co.uk/)
+
 David from Brackley Market Plant Stall is taking orders over the phone and will deliver from his nursery in Greatworth.
 Click web link above for details.
