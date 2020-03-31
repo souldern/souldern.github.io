@@ -15,6 +15,7 @@ title: Coronavirus &mdash; COVID-19
  * [Wrightons](#wrightons-fritwell)
  * [Produce Warriors](#produce-warriors)
  * [Buckingham Garden Center](#buckingham-garden-center)
+ * [Greatfield Plants Nursery](#greatfield-plants-nursery)
 
 ---
 
@@ -126,3 +127,8 @@ reduced the costs. We are able to deliver anything in the Garden
 Centre - from plants and composts, gifts and items in our food hall
 (including jams, biscuits, eggs, meat and our home cooked frozen
 meals).  To place an order, please call: 01280 822133
+
+### Greatfield Plants Nursery
+[Greatfield Plants Nursery](https://greatfieldplants.co.uk/)
+David from Brackley Market Plant Stall is taking orders over the phone and will deliver from his nursery in Greatworth.
+Click web link above for details.
