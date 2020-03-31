@@ -186,6 +186,7 @@ var availableTags = [
 "ox27",
 "paddocks",
 "park",
+"phoenix",
 "pleasant",
 "ploughley",
 "pond",
@@ -1255,9 +1256,9 @@ rd: 'Bates Lane',
 sv: 'https://goo.gl/maps/3zRaevgUBNU2',
 }
 ,
- "bowcombehouse": {
-kw: ['7ju', 'bates', 'bowcombe', 'house', 'lane', 'ox27'],
-nm: 'Bowcombe House',
+ "phoenixhouse": {
+kw: ['7ju', 'bates', 'bowcombe', 'house', 'lane', 'ox27', 'phoenix'],
+nm: 'Phoenix House',
 pc: 'OX27 7JU',
 rd: 'Bates Lane',
 sv: 'https://goo.gl/maps/PAMuzWQ47Nm',
