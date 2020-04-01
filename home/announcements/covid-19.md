@@ -14,7 +14,7 @@ title: Coronavirus &mdash; COVID-19
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
  * [Produce Warriors](#produce-warriors)
- * [Buckingham Garden Center](#buckingham-garden-center)
+ * [Buckingham Garden Centre](#buckingham-garden-centre)
  * [Greatfield Plants Nursery](#greatfield-plants-nursery)
 
 ---
@@ -116,7 +116,7 @@ personally.
 Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
 
 
-### Buckingham Garden Center
+### Buckingham Garden Centre
 [buckinghamgardencentre.co.uk](https://www.buckinghamgardencentre.co.uk/)
 
 We also want to do everything we can to help our customers who find
