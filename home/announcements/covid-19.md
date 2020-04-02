@@ -10,6 +10,7 @@ title: Coronavirus &mdash; COVID-19
 
  * [Government Advice](#government-advice)
  * [Souldern Covid-19 Support Network](#local-help)
+ * [Bakig Competion(#local-help)
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
@@ -43,7 +44,7 @@ we will put you in touch.
 
 ## Local Activities
 
- * [Weekly Baking Competition](recipes2020#weekly-baking-competition)<br>
+ * <span id="baking"></span>[Weekly Baking Competition](recipes2020#weekly-baking-competition)<br>
    [2020-03-29, Yorkshire Pudding](https://photos.google.com/share/AF1QipNe_Mm3jL8bhhaZUijlRq2uhTyHL5Xq91VPJvMTqp5LKfk_b0l5-17qRWfVNQ7Kig?key=U0NBSlRJd0ZPYlJnbEp1aTQxTXk3ZUp4eDZ0dGZn)
 
 ## Local Suppliers
