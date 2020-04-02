@@ -10,7 +10,7 @@ title: Coronavirus &mdash; COVID-19
 
  * [Government Advice](#government-advice)
  * [Souldern Covid-19 Support Network](#local-help)
- * [Bakig Competion(#local-help)
+ * [Baking Competion](#baking)
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
