@@ -41,6 +41,11 @@ several villagers have offered to help. If you contact us via the [Form to
 contact the website](/home/contact-website) or [via email](mailto:website@souldern.org),
 we will put you in touch.
 
+## Local Activities
+
+ * [Weekly Baking Competition](recipes2020#weekly-baking-competition)<br>
+   [2020-03-29, Yorkshire Pudding](https://photos.google.com/share/AF1QipNe_Mm3jL8bhhaZUijlRq2uhTyHL5Xq91VPJvMTqp5LKfk_b0l5-17qRWfVNQ7Kig?key=U0NBSlRJd0ZPYlJnbEp1aTQxTXk3ZUp4eDZ0dGZn)
+
 ## Local Suppliers
 
 ### Milk Round
