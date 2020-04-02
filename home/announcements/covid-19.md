@@ -10,7 +10,7 @@ title: Coronavirus &mdash; COVID-19
 
  * [Government Advice](#government-advice)
  * [Souldern Covid-19 Support Network](#local-help)
- * [Baking Competion](#baking)
+ * [Baking Competition](#baking)
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
@@ -61,7 +61,7 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 ### Fox Inn
 
-The Fox inn are providing local takeaway or delivery service  for those who need it.
+The Fox Inn are providing local takeaway or delivery service  for those who need it.
 
 They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
 
