@@ -2,7 +2,9 @@
 date: 2020-03-28
 title: Coronavirus &mdash; COVID-19
 ---
-
+<style>
+li img {width:5em; vertical-align:middle}
+</style>
 
 # Coronavirus &mdash; COVID-19
 
