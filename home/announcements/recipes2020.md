@@ -8,7 +8,7 @@ title: Souldern Recipes and Baking
 
 ## Favourite  Recipes
 
-The Souldern Sports and Social club invide Souldern residents to
+The Souldern Sports and Social club invite Souldern residents to
 submit their favourite  recipes.
 
 Either original texts or (with
