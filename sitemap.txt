@@ -189,6 +189,7 @@ https://souldern.github.io/home/announcements/curry2019
 https://souldern.github.io/home/announcements/defibrillatordemonstration
 https://souldern.github.io/home/announcements/defibrillatorinformationandsocialevening17thseptember
 https://souldern.github.io/home/announcements/easter-egg-2019
+https://souldern.github.io/home/announcements/easterbonnet2020
 https://souldern.github.io/home/announcements/easteregg2017
 https://souldern.github.io/home/announcements/easteregghuntphotographs
 https://souldern.github.io/home/announcements/electionresultsdeddingtonward
@@ -243,6 +244,7 @@ https://souldern.github.io/home/announcements/playground2020-minutes
 https://souldern.github.io/home/announcements/playground2020
 https://souldern.github.io/home/announcements/policing-survey
 https://souldern.github.io/home/announcements/publicpathdiversionanddefinitivemapandstatementmodificationorder2017
+https://souldern.github.io/home/announcements/recipes2020
 https://souldern.github.io/home/announcements/rodneyallanmemorialconcert
 https://souldern.github.io/home/announcements/soulderncarbootsales
 https://souldern.github.io/home/announcements/souldernchapelharvestfestival22-23september
@@ -317,6 +319,7 @@ https://souldern.github.io/home/menu
 https://souldern.github.io/home/neighbouring-villages
 https://souldern.github.io/home/postcodes
 https://souldern.github.io/home/privacy-policy
+https://souldern.github.io/home/recipes/
 https://souldern.github.io/home/site-notes/file-upload
 https://souldern.github.io/home/site-notes/html-posting
 https://souldern.github.io/home/site-notes/
