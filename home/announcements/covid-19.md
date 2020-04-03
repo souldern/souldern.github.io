@@ -17,7 +17,7 @@ li img {width:5em; vertical-align:middle}
  * [Milkman](#milk-round)
  * [The Fox takeaway service](#fox-inn)
  * [Wrightons](#wrightons-fritwell)
- * [AE Prentice](#ae-prentice)
+ * [A.E. Prentice Coal Merchants](#ae-prentice)
  * [Produce Warriors](#produce-warriors)
  * [Buckingham Garden Centre](#buckingham-garden-centre)
  * [Greatfield Plants Nursery](#greatfield-plants-nursery)
@@ -124,8 +124,8 @@ offer your support.  Please help each other in this time of
 need. Please try to make sure you help neighbours who you know
 personally.
 
-### AE Prentice
-[AE Prentice Local Deliveries](https://thamesvalleyfuels.co.uk/)
+### A.E. Prentice
+[A.E. Prentice Local Deliveries](https://thamesvalleyfuels.co.uk/)
 
 We sell coal and smokeless fuels, logs, kindling wood and firelighters, and Flogas bottled gas cylinders.
 
