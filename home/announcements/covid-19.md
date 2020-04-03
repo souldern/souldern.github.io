@@ -130,12 +130,12 @@ personally.
 We sell coal and smokeless fuels, logs, kindling wood and firelighters, and Flogas bottled gas cylinders.
 
 
-We now have multi purpose compost (Durstons) in stock at AE Prentice — 50l bags with John Innes — 4 bags for £19 or individual bags for £5.
+We now have multi purpose compost (Durstons) in stock at AE Prentice — 50l bags with John Innes — 4 bags for £19 or individual bags for £5. Also lumpwood charcoal 5Kg bags for £5.50.
 
 
 All of the above available for collection from our yard gates (B4100 at the top of the hill outside Souldern) or delivery to Souldern.
 
-Please call 01869 346800
+Please call 01869 346800.
 
 
 ### Produce Warriors
