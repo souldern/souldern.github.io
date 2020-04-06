@@ -78,7 +78,7 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 
 
 
-**The Fox Inn takeaway options for 2nd, 3rd and 4th of April are as follows**
+**The Fox Inn takeaway options for 9th, 10th, and 11th of April are as follows**
 
 
 > 
@@ -86,7 +86,7 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 > 
 > * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
 > 
-> * Sweet and Sour Chicken with Jasmine Rice £10.00 
+> * Steak and Ale Pie with Buttered Mash and Fresh Vegetables £10.00
 > 
 > * Ham, Mushroom and Mozzarella Pizza with Chunky Chips £10.00
 > 
