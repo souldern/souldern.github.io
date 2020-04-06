@@ -159,6 +159,7 @@ https://souldern.github.io/home/announcements/carparking
 https://souldern.github.io/home/announcements/chapel-150
 https://souldern.github.io/home/announcements/chapel-carol-2019
 https://souldern.github.io/home/announcements/chapel-closure-warning
+https://souldern.github.io/home/announcements/chapel-closure-warning.pdf
 https://souldern.github.io/home/announcements/chapel-easter-2019/
 https://souldern.github.io/home/announcements/chapel-status
 https://souldern.github.io/home/announcements/chapel-xmas-2018
@@ -166,6 +167,7 @@ https://souldern.github.io/home/announcements/chapelanniversaryweekend
 https://souldern.github.io/home/announcements/chapelharvest2019
 https://souldern.github.io/home/announcements/chapelsundayschoolchristmasservice
 https://souldern.github.io/home/announcements/cherwelldistrictcouncilmobilephonesignalsurvey
+https://souldern.github.io/home/announcements/cherwellvalleybeneficetrailofexhibitions-files/7 BENEFICE TRAIL POSTER SOULDERN.pdf
 https://souldern.github.io/home/announcements/cherwellvalleybeneficetrailofexhibitions
 https://souldern.github.io/home/announcements/christingleservice
 https://souldern.github.io/home/announcements/christmasatsouldernchapel
@@ -210,6 +212,7 @@ https://souldern.github.io/home/announcements/house-search
 https://souldern.github.io/home/announcements/
 https://souldern.github.io/home/announcements/itsaknockout
 https://souldern.github.io/home/announcements/katharinehousesale
+https://souldern.github.io/home/announcements/minutes_playground_07032020.pdf
 https://souldern.github.io/home/announcements/missingsouldernslides
 https://souldern.github.io/home/announcements/motheringsundayservice11thmarch
 https://souldern.github.io/home/announcements/nearlynewbabyandchildsale
@@ -242,10 +245,12 @@ https://souldern.github.io/home/announcements/playground-covid-19
 https://souldern.github.io/home/announcements/playground-safety-2019
 https://souldern.github.io/home/announcements/playground2020-minutes
 https://souldern.github.io/home/announcements/playground2020
+https://souldern.github.io/home/announcements/playground_questionnaire_final.pdf
 https://souldern.github.io/home/announcements/policing-survey
 https://souldern.github.io/home/announcements/publicpathdiversionanddefinitivemapandstatementmodificationorder2017
 https://souldern.github.io/home/announcements/recipes2020
 https://souldern.github.io/home/announcements/rodneyallanmemorialconcert
+https://souldern.github.io/home/announcements/soulderncarbootsales-files/Souldern car boot flyer-1.pdf
 https://souldern.github.io/home/announcements/soulderncarbootsales
 https://souldern.github.io/home/announcements/souldernchapelharvestfestival22-23september
 https://souldern.github.io/home/announcements/souldernchurchautumnclean-up
@@ -268,6 +273,7 @@ https://souldern.github.io/home/announcements/souldernvision
 https://souldern.github.io/home/announcements/souldernvisionmeeting
 https://souldern.github.io/home/announcements/souldernwebsite
 https://souldern.github.io/home/announcements/souldernwesleyanchapelharvestfestival
+https://souldern.github.io/home/announcements/souldern_playground_open_meeting.pdf
 https://souldern.github.io/home/announcements/spc-2018-2019
 https://souldern.github.io/home/announcements/spc-nominations-2019
 https://souldern.github.io/home/announcements/spc-results-2019
@@ -275,12 +281,16 @@ https://souldern.github.io/home/announcements/spc-vacancy
 https://souldern.github.io/home/announcements/spc2016-17annualreturn
 https://souldern.github.io/home/announcements/spcnewsletter
 https://souldern.github.io/home/announcements/spcoctobernewsletter
+https://souldern.github.io/home/announcements/statementfromcllrhugobrownontheoxfordshirehousingandgrowthdeal-files/CDC Paper on Housing and Growth Deal.pdf
+https://souldern.github.io/home/announcements/statementfromcllrhugobrownontheoxfordshirehousingandgrowthdeal-files/Oxon Housing and Growth Deal Outline Agreement.pdf
 https://souldern.github.io/home/announcements/statementfromcllrhugobrownontheoxfordshirehousingandgrowthdeal
 https://souldern.github.io/home/announcements/steepleastonchoralsociety
 https://souldern.github.io/home/announcements/stevenmeadwithbrackleydistrictband22septemberstoweschool
 https://souldern.github.io/home/announcements/summerevent2017
 https://souldern.github.io/home/announcements/surveyonanincreaseincounciltax
 https://souldern.github.io/home/announcements/temporaryclosureoffootpath11
+https://souldern.github.io/home/announcements/temporaryroadclosuresouldernwharflane-files/Wharf Lane TRAFFIC REGULATION NOTICE.pdf
+https://souldern.github.io/home/announcements/temporaryroadclosuresouldernwharflane-files/Wharf-Lane-Closure-map.pdf
 https://souldern.github.io/home/announcements/temporaryroadclosuresouldernwharflane
 https://souldern.github.io/home/announcements/tenpinbowling
 https://souldern.github.io/home/announcements/testingthenewsouldernwebsite
@@ -303,12 +313,14 @@ https://souldern.github.io/home/contact-website
 https://souldern.github.io/home/defibrillator
 https://souldern.github.io/home/events/event-2016/
 https://souldern.github.io/home/events/event-2016/launch-event
+https://souldern.github.io/home/events/event-2016/Souldern Wacky Races - Race Pack Rev 5.pdf
 https://souldern.github.io/home/events/event-2018/
 https://souldern.github.io/home/events/
 https://souldern.github.io/home/events/oakapple2014/
 https://souldern.github.io/home/events/solstice2015/
 https://souldern.github.io/home/events/souldern-stomp
 https://souldern.github.io/home/events/summer-event-2017/
+https://souldern.github.io/home/G5-Brochure.pdf
 https://souldern.github.io/home/gallery/
 https://souldern.github.io/home/gallery/queen-s-90th-birthday
 https://souldern.github.io/home/houses/
@@ -325,6 +337,7 @@ https://souldern.github.io/home/site-notes/html-posting
 https://souldern.github.io/home/site-notes/
 https://souldern.github.io/home/site-notes/simple-posting
 https://souldern.github.io/home/sssc-whatsapp/
+https://souldern.github.io/home/sssc-whatsapp/playground_questionnaire_final.pdf
 https://souldern.github.io/home/street-view
 https://souldern.github.io/home/three-parishes
 https://souldern.github.io/horticultural-society/
@@ -335,13 +348,150 @@ https://souldern.github.io/parish-council/cherwell-dc-and-mps
 https://souldern.github.io/parish-council/fix-my-street
 https://souldern.github.io/parish-council/
 https://souldern.github.io/parish-council/planning
+https://souldern.github.io/parish-council/spc-agenda/2015-09-24 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2015-11-19 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-03-17 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-05-19 Agenda Annual Meeting.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-05-19 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-07-21 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-09-29 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2016-11-17 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-01-19 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-03-16 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-05-18 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-05-18 Annual Meeting Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-07-13 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-08-15 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-09-14 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-10-17 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2017-11-23 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-01-18 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-02-15 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-03-22 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-04-19 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-05-24 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-05-24 Annual Meeting Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-06-28 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-07-26 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-08-23 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-09-27 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-10-09 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-11-22 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2018-12-18 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-01-22 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-02-28 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-03-28 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-04-25 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-05-23 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-05-23 Annual Meeting Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-05-23 Annual Parish Meeting Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-07-25 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-09-26 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2019-11-28 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2020-01-30 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2020-03-02 Agenda.pdf
 https://souldern.github.io/parish-council/spc-agenda/
 https://souldern.github.io/parish-council/spc-documents/
+https://souldern.github.io/parish-council/spc-documents/ROSPA Report November 2019.pdf
+https://souldern.github.io/parish-council/spc-documents/Souldern Parish Council - Employers Liability Certificate 2017.pdf
+https://souldern.github.io/parish-council/spc-documents/Souldern PC Governance Statement 2018.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201415 accounting statements .pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201415 Annual governance statement.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201415 end of year accounts.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201415 expenditure over £100.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201415 external auditor report.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201516 accounting statements.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201516 Annual governance statement.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201516 external auditor certificate.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201516 notice of conclusion of audit.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201516 TRANSACTIONS OVER £100.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 account with budget.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 accounting statements.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 annual governance statement.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 Annual Return.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 Bank reconciliation.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 internal audit.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201617 TRANSACTIONS OVER £100.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201819 Accounting Statement.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201819 Audit Report.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201819 Expenditure.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC 201819 Governance Statement.pdf
+https://souldern.github.io/parish-council/spc-documents/SPC EXPENDITURE OVER £100 2017-18.pdf
 https://souldern.github.io/parish-council/spc-members
+https://souldern.github.io/parish-council/spc-minutes/2012-05-09 Annual Parish Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2012-06-28 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2012-09-27 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2012-11-29 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-01-17 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-03-21 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-05-16 Annual Parish Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-05-16 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-07-18 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-09-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2013-12-05 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-01-22 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-03-20 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-05-14 Annual Parish Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-05-15 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-07-17 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-09-18 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2014-11-20 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-01-22 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-03-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-05-14 Annual Parish Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-05-14 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-07-16 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2015-11-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-01-21 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-03-17 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-05-19 Annual Parish Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-05-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-07-21 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-09-29 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2016-11-17 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-01-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-03-16 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-05-18 Annual Meeting minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-05-18 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-07-13 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-09-14 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2017-11-23 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-01-18 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-02-15 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-03-22 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-04-19 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-05-24 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-07-26 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-08-23 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2018-10-09 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-01-15 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-02-28 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-03-28 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-04-25 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-05-23 Annual Meeting minutes DRAFT.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-05-23 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-06-27 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-07-25 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-09-26 SPC minutes.pdf
 https://souldern.github.io/parish-council/spc-minutes/
 https://souldern.github.io/parish-council/spc-newsletter/
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2014-12.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2015-03.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2015-06.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2015-09.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2015-12.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2016-03.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2016-10.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2016-12.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-04.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-07.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-09.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-12.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2018-03.pdf
+https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2018-07.pdf
 https://souldern.github.io/parish-council/transparency
 https://souldern.github.io/parish-council/vision-for-souldern/
+https://souldern.github.io/parish-council/vision-for-souldern/Souldern Vison & Conservation Event.pdf
 https://souldern.github.io/parish-council/welcome-packs
 https://souldern.github.io/recreational-areas/footpaths/219-2
 https://souldern.github.io/recreational-areas/footpaths/219-3
