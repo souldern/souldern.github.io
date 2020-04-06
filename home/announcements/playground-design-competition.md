@@ -9,6 +9,7 @@ title: Playground Design Competition
 
 ![pg1](pg1.png)
 
+
 Having held a public meeting earlier in the year, which gave full support to the playground redevelopment we  are now asking the village to help with ideas to design a space which can be multi generational – **we particularly would welcome the input of the teenagers (and ‘Big Kids’)** … who remember what they loved as toddlers but who also know how they would like to use it now.
 
 So to this end the Playground group in conjunction with the Parish Council are launching a competition for the best design, which will have two age groups;
@@ -39,3 +40,9 @@ It’s a mystery prize because we are not sure what best to give in the current 
 ---
 
 ![pg2](pg2.png)
+
+
+<!--
+
+https://365drawingsin2012.wordpress.com/2012/01/08/january-8th-eproson-park/
+-->
