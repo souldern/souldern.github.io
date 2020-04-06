@@ -29,7 +29,7 @@ Recipes submited are posted [to the recipe page on this site](/home/recipes).
 
 We will be also running weekly bake-off challenges for households to post their creations. The first will be Yorkshire puddings.
 
-Photos of the baking creations to be posted any time leading up to Thursday 5pm.
+Photos of the baking creations to be posted any time leading up to **Saturday 6pm**.
 
 Please send photographs to
   [website@souldern.org](mailto:website@souldern.org).
