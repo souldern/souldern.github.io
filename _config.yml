@@ -6,8 +6,6 @@ google_analytics: UA-68442524-1
 title: Souldern Village
 description: Community Website for Souldern Village
 
-plugins:
-  - jekyll-sitemap
 
 
 
