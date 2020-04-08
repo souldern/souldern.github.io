@@ -102,7 +102,7 @@ All meals and Specials  £10.00
 
 **Special for 9th, 10th, 11th April**
 
-> * Steak and Ale Pie with Buttered Mash and Fresh Vegetables £10.00
+> * Steak and Ale Pie with Buttered Mash and Fresh Vegetables
 > 
 
 ** Special for 16th, 17h, 18th April**
@@ -119,7 +119,7 @@ All meals and Specials  £10.00
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
 
-Opening Times for collection are between 6.00pm and 8.00pm. We'll be doing collections through the Kitchen door as the Main Bar is closed.
+Opening Times for collection are between 5.30pm and 8.00pm. We'll be doing collections through the Kitchen door as the Main Bar is closed.
 
 
 We Would Very Much Appreciate Cash Payments where possible as going through to the bar will cause delays.
