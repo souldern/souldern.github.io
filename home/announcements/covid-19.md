@@ -82,12 +82,12 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 
 
 
-**The Fox Inn takeaway options **
+**The Fox Inn takeaway options**
 
 All meals and Specials  £10.00
 
 
-** Regular Meals **
+**Regular Meals**
 
 > * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings
 > 
@@ -100,7 +100,7 @@ All meals and Specials  £10.00
 > * Pan fried Halloumi Burger with Chips and Onion
 > 
 
-** Special for 9th, 10th, 11th April**
+**Special for 9th, 10th, 11th April**
 
 > * Steak and Ale Pie with Buttered Mash and Fresh Vegetables £10.00
 > 
