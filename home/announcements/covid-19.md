@@ -21,6 +21,8 @@ li img {width:5em; vertical-align:middle}
    * [The Fox takeaway service](#fox-inn)
    * [Wrightons](#wrightons-fritwell)
    * [A.E. Prentice Coal Merchants](#ae-prentice)
+   * [Fish and Chips](#fish-and-chips)
+   * [Nash's Bakery](#nashs-bakery)
    * [Produce Warriors](#produce-warriors)
    * [Buckingham Garden Centre](#buckingham-garden-centre)
    * [Greatfield Plants Nursery](#greatfield-plants-nursery)
@@ -141,6 +143,12 @@ All of the above available for collection from our yard gates (B4100 at the top 
 
 Please call 01869 346800.
 
+### Fish and Chips
+Howe & Co fish and Chips visiting the village Easter Saturday (Bovewell between  5.45pm – 6.05pm) and perhaps other days
+[check their website](https://www.facebook.com/howeandco66/) or phone 0784360 719
+
+## Nash's Bakery
+Nash's Bakery visits the village (Village Hall Car Park) on Thursday Mornings,
 
 ### Produce Warriors
 Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
