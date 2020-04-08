@@ -76,26 +76,46 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 The Fox Inn are providing local takeaway or delivery service  for those who need it.
 
+Every **Thursday, Firiday and Saturday**.
+
 They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
 
 
 
-**The Fox Inn takeaway options for 9th, 10th, and 11th of April are as follows**
+**The Fox Inn takeaway options **
+
+All meals and Specials  £10.00
 
 
+** Regular Meals **
+
+> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings
 > 
-> * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
+> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon
+>
+> * Beer battered Fish and Chips with peas, tartar sauce and lemon
+>
+> * Ham, Mushroom and Mozerella Pizza with Chunky Chips.
 > 
-> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
+> * Pan fried Halloumi Burger with Chips and Onion
 > 
+
+** Special for 9th, 10th, 11th April**
+
 > * Steak and Ale Pie with Buttered Mash and Fresh Vegetables £10.00
 > 
-> * Ham, Mushroom and Mozzarella Pizza with Chunky Chips £10.00
+
+** Special for 16th, 17h, 18th April**
+
+> * Stuffed loin of Pork, Crispy Potatoes, Fresh vegetables and Gravy
 > 
-> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
+
+** Special for 23rd, 24th, 25th April**
+
+> * Coconut Chicken Curry with Steamed Rice and Onion Bhaji
 > 
-> * Pan fried Halloumi Burger with Chips and Onion £10.00
-> 
+
+
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
 
