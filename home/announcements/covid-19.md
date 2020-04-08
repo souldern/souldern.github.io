@@ -76,7 +76,7 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 The Fox Inn are providing local takeaway or delivery service  for those who need it.
 
-Every **Thursday, Firiday and Saturday**.
+Every **Thursday, Friday and Saturday**.
 
 They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
 
