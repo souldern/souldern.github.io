@@ -164,7 +164,7 @@ All of the above available for collection from our yard gates (B4100 at the top 
 Please call 01869 346800.
 
 ### Fish and Chips
-Howe & Co fish and Chips visiting the village Easter Saturday (Bovewell between  5.45pm – 6.05pm) and perhaps other days
+Howe & Co Fish and Chips visiting the village Easter Saturday (Bovewell between  5.45pm – 6.05pm) and perhaps other days
 [check their website](https://www.facebook.com/howeandco66/) or phone 07484 360719
 
 ## Nash's Bakery
