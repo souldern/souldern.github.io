@@ -165,7 +165,7 @@ Please call 01869 346800.
 
 ### Fish and Chips
 Howe & Co fish and Chips visiting the village Easter Saturday (Bovewell between  5.45pm – 6.05pm) and perhaps other days
-[check their website](https://www.facebook.com/howeandco66/) or phone 0784360 719
+[check their website](https://www.facebook.com/howeandco66/) or phone 07484 360719
 
 ## Nash's Bakery
 Nash's Bakery visits the village (Village Hall Car Park) on Thursday Mornings,
