@@ -105,7 +105,7 @@ All meals and Specials  £10.00
 > * Steak and Ale Pie with Buttered Mash and Fresh Vegetables
 > 
 
-**Special for 16th, 17h, 18th April**
+**Special for 16th, 17th, 18th April**
 
 > * Stuffed loin of Pork, Crispy Potatoes, Fresh vegetables and Gravy
 > 
