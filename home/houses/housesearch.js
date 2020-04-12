@@ -137,7 +137,7 @@ var availableTags = [
 "great",
 "greystones",
 "grounds",
-"hackertys",
+"hackerty",
 "halfpenny",
 "hall",
 "harrow",
@@ -1104,9 +1104,9 @@ rd: 'High Street',
 sv: 'https://goo.gl/maps/EWWPgmremPG2',
 }
 ,
- "oldforge": {
-kw: ['7jp', 'forge', 'high', 'old', 'ox27', 'street'],
-nm: 'Old Forge',
+ "theoldforge": {
+kw: ['7jp', 'forge', 'high', 'old', 'ox27', 'street', 'the'],
+nm: 'The Old Forge',
 pc: 'OX27 7JP',
 rd: 'High Street',
 sv: 'https://goo.gl/maps/tgzBBiRznBt',
@@ -1673,8 +1673,16 @@ sv: 'https://goo.gl/maps/PRiK415nXyE2',
 }
 ,
  "hackertysway": {
-kw: ['7lb', 'hackertys', 'lane', 'mill', 'ox27', 'way'],
-nm: 'Hackertys Way',
+kw: ['7lb', 'hackerty', 'lane', 'mill', 'ox27', 's', 'way'],
+nm: 'Hackerty\'s Way',
+pc: 'OX27 7LB',
+rd: 'Mill Lane',
+sv: 'https://goo.gl/maps/g6PVW9v1d4S2',
+}
+,
+ "hackertyslodge": {
+kw: ['7lb', 'hackerty', 'lane', 'lodge', 'mill', 'ox27', 's'],
+nm: 'Hackerty\'s Lodge',
 pc: 'OX27 7LB',
 rd: 'Mill Lane',
 sv: 'https://goo.gl/maps/g6PVW9v1d4S2',

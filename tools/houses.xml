@@ -537,7 +537,7 @@
   <rd>High Street</rd>
  </house>
  <house sv="https://goo.gl/maps/tgzBBiRznBt">
-  <name>Old Forge</name>
+  <name>The Old Forge</name>
   <pc>OX27 7JP</pc>
   <rd>High Street</rd>
  </house>
@@ -903,7 +903,12 @@
   <rd>High Street</rd>
  </house>
  <house sv="https://goo.gl/maps/g6PVW9v1d4S2">
-  <name>Hackertys Way</name>
+  <name>Hackerty's Way</name>
+  <pc>OX27 7LB</pc>
+  <rd>Mill Lane</rd>
+ </house>
+ <house sv="https://goo.gl/maps/g6PVW9v1d4S2">
+  <name>Hackerty's Lodge</name>
   <pc>OX27 7LB</pc>
   <rd>Mill Lane</rd>
  </house>
