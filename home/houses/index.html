@@ -7,7 +7,14 @@ extracss: search
 <script src="housesearch.js"> </script>
 
 <div>
-  <div><input type="button" value="Clear Form" onClick="p.setText('');p.input.focus();rc.innerHTML= '\u00a0';r.innerHTML='';"> &nbsp; <input type="button" value="Update URL" onClick="window.location.href=window.location.href.replace(/\?.*/,'') + '?h=' +p.getText().replace(/ +/g,'+')"></div><br><div id="rtncount">&nbsp;</div><div id="kwinput"></div><br>
+  <div>
+    <input type="button" value="Clear Form" onClick="p.setText('');p.input.focus();rc.innerHTML= '\u00a0';r.innerHTML='';"> &nbsp;
+    <input type="button" value="Update URL" onClick="window.location.href=window.location.href.replace(/\?.*/,'') + '?h=' +p.getText().replace(/ +/g,'+')">
+  </div>
+  <br>
+  <div id="rtncount">&nbsp;</div>
+  <div id="kwinput"></div>
+  <br>
   <div id="results"></div>
 </div>
 <h3 id="notes">Notes</h3>
