@@ -1537,7 +1537,7 @@ sv: 'https://goo.gl/maps/xemKCdK3pkE2',
 }
 ,
  "pleasantview": {
-kw: ['7jz', 'bicester', 'court', 'foxhill', 'lane', 'ox27', 'pleasant', 'view'],
+kw: ['7jz', 'bicester', 'close', 'foxhill', 'lane', 'ox27', 'pleasant', 'view'],
 nm: 'Pleasant View',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
