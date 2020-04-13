@@ -174,10 +174,10 @@ Please call 01869 346800.
 ### Wriggly Monkey Brewery
 Local brewer Wriggly Monkey offering free delivery to Souldern.
 
-Checkout choices from [website](https://www.wrigglymonkeybrewery.com) or phone 07590 749062 or 01869 246599
+Checkout choices from the [Wriggly Monkey Website](https://www.wrigglymonkeybrewery.com) or phone 07590 749062 or 01869 246599
 
 Also **beer yeast** available **free of charge** to any village
-bakers. Leave a clean jar, with your name & phone number on
+bakers. Leave a clean jar, with your name & phone number on the
 doorstep of [Hill Cottage](https://goo.gl/maps/hCy13gTyJAK2') and Susan and Luke will let you know when it
 is ready. Thanks!
 
