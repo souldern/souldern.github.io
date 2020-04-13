@@ -21,6 +21,7 @@ li img {width:5em; vertical-align:middle}
    * [The Fox takeaway service](#fox-inn)
    * [Wrightons](#wrightons-fritwell)
    * [A.E. Prentice Coal Merchants](#ae-prentice)
+   * [Wriggly Monkey Brewery](#wriggly-monkey-brewery)
    * [Fish and Chips](#fish-and-chips)
    * [Nash's Bakery](#nashs-bakery)
    * [Produce Warriors](#produce-warriors)
@@ -169,6 +170,16 @@ We now have multi purpose compost (Durstons) in stock at AE Prentice — 50l bag
 All of the above available for collection from our yard gates (B4100 at the top of the hill outside Souldern) or delivery to Souldern.
 
 Please call 01869 346800.
+
+### Wriggly Monkey Brewery
+Local brewer Wriggly Monkey offering free delivery to Souldern.
+
+Checkout choices from [website](https://www.wrigglymonkeybrewery.com) or phone 07590 749062 or 01869 246599
+
+Also **beer yeast** available **free of charge** to any village
+bakers. Leave a clean jar, with your name & phone number on
+doorstep of Hill Cottage and Susan and Luke will let you know when it
+is ready. Thanks!
 
 ### Fish and Chips
 Howe & Co Fish and Chips visiting the village Easter Saturday (Bovewell between  5.45pm – 6.05pm) and perhaps other days
