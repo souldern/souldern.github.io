@@ -178,7 +178,7 @@ Checkout choices from the [Wriggly Monkey Website](https://www.wrigglymonkeybrew
 
 Also **beer yeast** available **free of charge** to any village
 bakers. Leave a clean jar, with your name & phone number on the
-doorstep of [Hill Cottage](https://goo.gl/maps/hCy13gTyJAK2') and Susan and Luke will let you know when it
+doorstep of [Hill Cottage](https://goo.gl/maps/hCy13gTyJAK2) and Susan and Luke will let you know when it
 is ready. Thanks!
 
 ### Fish and Chips
