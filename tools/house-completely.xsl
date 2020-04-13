@@ -67,7 +67,7 @@ function completely(c,f){f=f||{};f.fontSize=f.fontSize||"16px";f.fontFamily=f.fo
 </xsl:text>
 <xsl:text>&#10;var availableTags = [&#10;</xsl:text>
 <xsl:for-each-group
-    select="/houses/house/*/tokenize(.,'[, '']+')" group-by=".">
+    select="/houses/house/*/tokenize(replace(.,'''',''),'[, ]+')" group-by=".">
  <xsl:sort lang="en"/>
  <xsl:if test="position()!=1">",&#10;</xsl:if>
  <xsl:text>"</xsl:text>
@@ -83,7 +83,7 @@ function completely(c,f){f=f||{};f.fontSize=f.fontSize||"16px";f.fontFamily=f.fo
  <xsl:value-of select="translate(lower-case(name),' ''-(),','')"/>
  <xsl:text>": {&#10;kw: [</xsl:text>
  <xsl:for-each-group
-     select="*/tokenize(.,'[, '']+')"
+     select="*/tokenize(replace(.,'''',''),'[, ]+')"
      group-by=".">
   <xsl:sort lang="en"/>
   <xsl:if test="position()!=1">, </xsl:if>
@@ -232,7 +232,7 @@ rc=document.getElementById("rtncount");
  if(terms.length>0){myresults(terms);}
   };
  p.onChange = function (text) {
-   text=text.toLowerCase();
+   text=text.toLowerCase().replace(/'/,"");
    p.setText(text);
    var terms = text.split(' ');
    if(terms.length>1){

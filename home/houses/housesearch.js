@@ -80,7 +80,7 @@ var availableTags = [
 "barn",
 "barnhouse",
 "bates",
-"bayley",
+"bayleys",
 "bear",
 "beech",
 "bicester",
@@ -137,7 +137,7 @@ var availableTags = [
 "great",
 "greystones",
 "grounds",
-"hackerty",
+"hackertys",
 "halfpenny",
 "hall",
 "harrow",
@@ -171,6 +171,7 @@ var availableTags = [
 "mallards",
 "manor",
 "mary",
+"marys",
 "mill",
 "mount",
 "mullions",
@@ -204,7 +205,6 @@ var availableTags = [
 "rosecroft",
 "row",
 "ryleens",
-"s",
 "saddlers",
 "scaffolding",
 "school",
@@ -369,7 +369,7 @@ sv: 'https://goo.gl/maps/V6vKxkfYG8A2',
 }
 ,
  "stmaryschurch": {
-kw: ['7hu', 'annunciation', 'blessed', 'church', 'lane', 'mary', 'of', 'ox27', 's', 'st', 'the', 'the', 'virgin'],
+kw: ['7hu', 'annunciation', 'blessed', 'church', 'lane', 'mary', 'marys', 'of', 'ox27', 'st', 'the', 'the', 'virgin'],
 nm: 'St Mary\'s Church',
 pc: 'OX27 7HU',
 rd: 'Church Lane',
@@ -761,7 +761,7 @@ sv: 'https://goo.gl/maps/n1UpB5DgfGK2',
 }
 ,
  "highlandcottage": {
-kw: ['7je', 'bayley', 'cottage', 'highland', 'hill', 'ox27', 's', 'the'],
+kw: ['7je', 'bayleys', 'cottage', 'highland', 'hill', 'ox27', 'the'],
 nm: 'Highland Cottage',
 pc: 'OX27 7JE',
 rd: 'The Hill',
@@ -1673,7 +1673,7 @@ sv: 'https://goo.gl/maps/PRiK415nXyE2',
 }
 ,
  "hackertysway": {
-kw: ['7lb', 'hackerty', 'lane', 'mill', 'ox27', 's', 'way'],
+kw: ['7lb', 'hackertys', 'lane', 'mill', 'ox27', 'way'],
 nm: 'Hackerty\'s Way',
 pc: 'OX27 7LB',
 rd: 'Mill Lane',
@@ -1681,7 +1681,7 @@ sv: 'https://goo.gl/maps/g6PVW9v1d4S2',
 }
 ,
  "hackertyslodge": {
-kw: ['7lb', 'hackerty', 'lane', 'lodge', 'mill', 'ox27', 's'],
+kw: ['7lb', 'hackertys', 'lane', 'lodge', 'mill', 'ox27'],
 nm: 'Hackerty\'s Lodge',
 pc: 'OX27 7LB',
 rd: 'Mill Lane',
@@ -1978,7 +1978,7 @@ rc=document.getElementById("rtncount");
  if(terms.length>0){myresults(terms);}
   };
  p.onChange = function (text) {
-   text=text.toLowerCase();
+   text=text.toLowerCase().replace(/'/,"");
    p.setText(text);
    var terms = text.split(' ');
    if(terms.length>1){
