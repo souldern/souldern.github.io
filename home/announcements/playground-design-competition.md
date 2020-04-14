@@ -30,7 +30,10 @@ All entries to be sent via email to [admin@souldern.org](mailto:admin@souldern.o
 
 ---
 
-All entries will be posted to [This website](home/playground2020/).
+
+**All entries will be posted to [this website](/home/playground2020/)**.
+
+---
 
 Winning entries will be decided by the playground committee and will receive a mystery prize.
 
