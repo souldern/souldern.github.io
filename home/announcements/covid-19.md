@@ -108,10 +108,12 @@ All meals and Specials  £10.00
 > * Pan fried Halloumi Burger with Chips and Onion
 > 
 
+<!--
 **Special for 9th, 10th, 11th April**
 
 > * Steak and Ale Pie with Buttered Mash and Fresh Vegetables
 > 
+-->
 
 **Special for 16th, 17th, 18th April**
 
