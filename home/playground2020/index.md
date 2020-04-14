@@ -14,33 +14,33 @@ See the [Competition Annoucement](/home/announcements/playground-design-competit
 
 ![km](kimberley-marvell.jpg)
 
-**Priority - everyone’s favourite!**
+
+**Priority – everyone’s favourite!**
 
 1. Zip wire accessed by a small mound 
 
-   **Track**
-
+**Track**
 2. Cycling/jogging track with 100m markers, accessed from the High street without going through the car park, made of crushed limestone or other self-binding aggregate
 3. Alternative route for track over small cycle jumps
 4. Longer woodland trail 
 
-   **Shelter**
+**Shelter**
 5. Bench for adults with high back to seat so that teens can ‘perch’ up higher. The seat side could face the zip wire as people will sit and chat, queue or guard coats etc here. The reverse side could have bowls in the bench so it works like a mud kitchen. Need a bucket to catch water nearby.
 
-   **Fitness trail**
+**Fitness trail**
 6. Pull up bars 
 7. Static bikes - some charge telephones! - you need two for company. Would adults use these? Cycling is great for people with hip replacements... 
 
-   **Welcome sign**
+**Welcome sign**
 8. ‘No dogs ever’ sign to be replaced with something more welcoming as you enter the village. As well as rules about dogs, you need info about nearest first aid point or things like sponsorship information 
 
-   **Enclosed area for younger children**
+**Enclosed area for younger children**
 9. Toddler swings. Swings for older children should not be in this area in case toddlers run through the swing area, but a ‘group’ swing could entertain older siblings 
 10. Ride on toys such as planes or horses on springs. Best to have two for ‘races’
 11. Fort-style climbing frame with play areas above and below platforms. Whilst there would be ladder access too, it’s good to have more challenging access routes such as a climbing wall for older children / for younger children to aspire to. 
 12. Miniature trampolines flush with the ground. These should be small with limited bounce so they cannot be used for somersaults or for wrestling
 
-   **Older children equipment**
+**Older children equipment**
 13. The original epic slide could be replaced with similar. If there is earth from groundwork’s elsewhere on the site, this could form a mound under the slide do it can be accessed safely from all sides and not create a fall risk, whilst maximising their slide length. Tunnels can be put through a mound for younger children to climb through 
 14. A large basket swing which promotes group activity may be more fun than individual swings for older kids 
 15. An alternative to a see-saw is a skateboard fixed between two curved parallel bars. Two younger children can ride it back and forward, or an older child can stand on it bracing themselves against the a frame or learning to ride it like a skateboard 
