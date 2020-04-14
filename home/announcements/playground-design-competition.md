@@ -30,7 +30,7 @@ All entries to be sent via email to [admin@souldern.org](mailto:admin@souldern.o
 
 ---
 
-All entries will be posted onto www.souldern.org after the competition has closed.
+All entries will be posted to [This website](home/playground2020/).
 
 Winning entries will be decided by the playground committee and will receive a mystery prize.
 
