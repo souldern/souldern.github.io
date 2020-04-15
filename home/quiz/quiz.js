@@ -3,6 +3,7 @@ var thisQ=1;
 var answers=[];
 
 function squiz () {
+    document.getElementById("top").scrollIntoView(true);
     var q=document.getElementById("q");
     var fdiv=document.getElementById("fdiv");
     var im=document.getElementById("im");
