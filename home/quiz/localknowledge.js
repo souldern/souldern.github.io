@@ -12,7 +12,15 @@ var questions = [
 
     ["What year did Wordsworth visit Souldern","https://lh3.googleusercontent.com/-54IerkhcLEk/VhgN_0F1p3I/AAAAAAAACBU/S47G0T2-IYo/s400/William_Wordsworth_001.jpg",["1810","1820","1830"],1],
 
-    ["If you leave Souldern via this tunnel, which village will you enter?","https://picasaweb.google.com/111338960776702858271/DavidCarlisleSouldernVillage#6418558889812887858",["Fritwell","Clifton","Ardley"],2],
+    ["If you leave Souldern via this tunnel, which village will you enter?","https://lh3.googleusercontent.com/-m_eNzZ5kJ3k/WRNNTaU5CTI/AAAAAAAADnA/CyeqDWa6aLMcckXYIfjVPypbadQ2SlRjgCMQC/s400/20170510_083552.jpg",["Fritwell","Clifton","Aynho"],2],
+
+    ["How long is the Oxford Canal?","https://lh3.googleusercontent.com/-TleWMs9fPIY/WRiVE6UiW9I/AAAAAAAADrM/t7sUz9t9S8IuVYXv_4k7Ya5R8jgeN4EXgCMQC/s400/20170514_162508.jpg",["78miles (126Km)","98miles (158Km)","108miles (174Km)"],0],
+
+    ["What is the name of this path?", "https://lh3.googleusercontent.com/-3IzzA2Nv1nI/WQ8YcML2IoI/AAAAAAAADj8/6bJRlTa8OQcztSLwfzl-QQyDZJr3gysLwCMQC/s400/20170507_120316.jpg", ["The Alley", "The Tchure", "The Chure"],1],
+
+
+    ["What is the original date of this barn?","https://www.souldern.org/home/houses/manorfarmbarn.jpg",["17th Century","16th Century","15th Century"],2],
+    
 
     
 ];
