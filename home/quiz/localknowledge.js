@@ -26,6 +26,8 @@ var questions = [
     ["Which street starts through this opening?","https://www.souldern.org/home/houses/thecottage.jpg",["Church Row","Chapel Row","Church Lane"],1],
     ["The village pump is on which street?","http://www.villagepumps.org.uk/souldern1Abig.jpg",["The High Street", "Church Lane", "Back Lane"],0],
 
+    ["The medeavial painting on teh wall of teh Churis is though to b eof:","https://lh5.googleusercontent.com/p/AF1QipP1Pfp0jGUpPToof474q0aDctUyPkY-yfzCn1ik=w203-h135-k-no",["St. Paul", "St. George", "St Christopher","St. Mary"],2],
+    
     
 ];
 
