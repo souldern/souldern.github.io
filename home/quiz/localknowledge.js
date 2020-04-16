@@ -26,9 +26,11 @@ var questions = [
     ["Which street starts through this opening?","https://www.souldern.org/home/houses/thecottage.jpg",["Church Row","Chapel Row","Church Lane"],1],
     ["The village pump is on which street?","http://www.villagepumps.org.uk/souldern1Abig.jpg",["The High Street", "Church Lane", "Back Lane"],0],
 
-    ["The medieval painting on the wall of the Church is is though to be of:","https://lh5.googleusercontent.com/p/AF1QipP1Pfp0jGUpPToof474q0aDctUyPkY-yfzCn1ik=w203-h135-k-no",["St. Paul", "St. George", "St. Christopher","St. Mary"],2],
+    ["The medieval painting on the wall of the Church is is thought to be of:","https://lh5.googleusercontent.com/p/AF1QipP1Pfp0jGUpPToof474q0aDctUyPkY-yfzCn1ik=w203-h135-k-no",["St. Paul", "St. George", "St. Christopher","St. Mary"],2],
 
     ["Where is this Saxon bucket discovered in Souldern kept?", "https://www.souldern.org/history/souldern-online-history/1927-4617-bucket-souldern.jpg",["Souldern Church", "Souldern Manor", "St. Johns Colledge, Oxford", "The Ashmolean Museum"],3],
+
+    "Which Ward of Cherwell District Council represents Souldern?", "https://www.souldern.org/history/souldern-online-history/map-1742.png", "Banbury South", "Ardley", "Deddington"],2], 
     
     
 ];
