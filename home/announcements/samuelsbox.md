@@ -1,6 +1,6 @@
 ---
 date: 2020-04-16
-title: Yin and Yang meeting
+title: "Kindness Box project"
 ---
 
 # “Kindness Box” project.
