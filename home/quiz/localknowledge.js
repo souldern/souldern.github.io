@@ -30,7 +30,7 @@ var questions = [
 
     ["Where is this Saxon bucket discovered in Souldern kept?", "https://www.souldern.org/history/souldern-online-history/1927-4617-bucket-souldern.jpg",["Souldern Church", "Souldern Manor", "St. Johns Colledge, Oxford", "The Ashmolean Museum"],3],
 
-    ["Which Ward of Cherwell District Council represents Souldern?", "https://www.souldern.org/history/souldern-online-history/map-1742.png", "Banbury South", "Ardley", "Deddington"],2], 
+    ["Which Ward of Cherwell District Council represents Souldern?", "https://www.souldern.org/history/souldern-online-history/map-1742.png", ["Banbury South", "Ardley", "Deddington"],2], 
     
     
 ];
