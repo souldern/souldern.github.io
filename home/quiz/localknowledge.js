@@ -32,7 +32,7 @@ var questions = [
 
     ["Which Ward of Cherwell District Council represents Souldern?", "https://www.souldern.org/history/souldern-online-history/map-1742.png", ["Banbury South", "Ardley", "Deddington"],2],
 
-    ["What is the name of this house overlooking the village pond?","https://www.souldern.org/home/houses/soulderncourt.jpg",["Souldern Manor", "Souldern Court", "Park House","The Hermitage"],1],
+    ["What is the name of this house overlooking the village pond?","https://www.souldern.org/home/houses/soulderncourt.jpg",["Souldern Manor", "Souldern Court", "Souldern House","The Hermitage"],1],
 
     ["Which of these towns is furthest away by road","https://lh3.googleusercontent.com/-CyzkAA4ePnw/Vg68Oc4gfxI/AAAAAAAABvg/Y5UITGzTqf4/s400/local-map.png",["Brackley","Bicester","Banbury"],2],
     
