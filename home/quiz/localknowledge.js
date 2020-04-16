@@ -28,11 +28,13 @@ var questions = [
 
     ["The medieval painting on the wall of the Church is is thought to be of:","https://lh5.googleusercontent.com/p/AF1QipP1Pfp0jGUpPToof474q0aDctUyPkY-yfzCn1ik=w203-h135-k-no",["St. Paul", "St. George", "St. Christopher","St. Mary"],2],
 
-    ["Where is this Saxon bucket discovered in Souldern kept?", "https://www.souldern.org/history/souldern-online-history/1927-4617-bucket-souldern.jpg",["Souldern Church", "Souldern Manor", "St. Johns Colledge, Oxford", "The Ashmolean Museum"],3],
+    ["Where is this Saxon bucket discovered in Souldern kept?", "https://www.souldern.org/history/souldern-online-history/1927-4617-bucket-souldern.jpg",["Souldern Church", "Souldern Manor", "St. John's College, Oxford", "The Ashmolean Museum"],3],
 
     ["Which Ward of Cherwell District Council represents Souldern?", "https://www.souldern.org/history/souldern-online-history/map-1742.png", ["Banbury South", "Ardley", "Deddington"],2],
 
-    ["What is the name of `lThis house overlooking the village Pond","https://www.souldern.org/home/houses/soulderncourt.jpg",["Souldern Manor", "Souldern Court", "Park House","The Hermitage"],1],
+    ["What is the name of this house overlooking the village pond?","https://www.souldern.org/home/houses/soulderncourt.jpg",["Souldern Manor", "Souldern Court", "Park House","The Hermitage"],1],
+
+    ["Which of these towns is furthest away by road","https://lh3.googleusercontent.com/-CyzkAA4ePnw/Vg68Oc4gfxI/AAAAAAAABvg/Y5UITGzTqf4/s400/local-map.png",["Brackley","Bicester","Banbury"],2],
     
     
 ];
