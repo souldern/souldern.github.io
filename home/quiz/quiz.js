@@ -1,4 +1,6 @@
 
+
+
 var thisQ=1;
 var answers=[];
 
@@ -17,10 +19,11 @@ function squiz () {
 	    if(answers[i] == questions[i][3]) {
 		l.style.backgroundColor="#AFA";
 		total+=1;
+		l.innerHTML=i+1 + ": " + questions[i][2][answers[i]] + " \u2714";
 	    } else {
 		l.style.backgroundColor="#FAA";
+		l.innerHTML=i+1 + ": " + questions[i][2][answers[i]] + " \u2718";
 	    }
-	    l.innerHTML=i+1 + ": " + questions[i][2][answers[i]];
 	    fdiv.appendChild(l);
 	}
 	var l = document.createElement("div");
