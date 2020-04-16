@@ -14,6 +14,7 @@ function squiz () {
 	im.style.display="none";
 	q.innerHTML="Results";
 	var total=0;
+	fdiv.style.fontSize="80%";
 	for (var i=0;i< questions.length; i++) {
 	    var l = document.createElement("div");
 	    if(answers[i] == questions[i][3]) {
