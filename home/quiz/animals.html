@@ -2,27 +2,30 @@
 layout: default
 title: "quiz: animals"
 ---
+
   <script src="animals.js"></script>
   <script src="quiz.js"></script>
   <style>
    input.a {height:1em;width:1em; margin-right:1em;}
    #fdiv div  {border: solid thin black; border-radius:1em; padding:.5em;margin:.5em;}
    #im {margin:0 auto; height:15em;}
+   button {font-size: 120%; font-weight-bold; padding:.1em 1em; margin:0em .5em;border-radius:.5em;}
   </style>
 
   <h1 id="top">Quiz: Animals</h1>
   <p>Animals seen in Souldern.</p>
 
-  <img  style="display:none" id="im" src="#">
+  <img style="display:none" id="im" src="#">
   
   <h2 id="q">Question</h2>
   <form id="f" action="javascript:nextpage()">
    <div id="fdiv">
    </div>
-   <div>
-    <button id="next" type="submit">Next</button>
-   </div>
   </form>
+   <div>
+    <button id="next" onclick="nextpage()">Next</button>
+    <button id="previous" style="display:none" onclick="prevpage()">Previous</button>
+   </div>
 
 
   <p style="display:none" id="win">
@@ -31,3 +34,8 @@ title: "quiz: animals"
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHeYonGUAIeu-XnjbhyfrwgQqYm2uSxLzPblt7QQZlXljthg/viewform?entry.209724808=quiz:animals" target="_blank">Form to register your name for completing the quiz</a>
     </p>
 
+
+    <p style="display:none" id="lose">
+    <b>Not Quite!</b><br>
+	You can use the <b>Previous</b> button to go back and re-try.
+   </p>

@@ -3,6 +3,7 @@
 
 var thisQ=1;
 var answers=[];
+var showprev=false;
 
 function squiz () {
     document.getElementById("top").scrollIntoView(true);
@@ -28,13 +29,29 @@ function squiz () {
 	    fdiv.appendChild(l);
 	}
 	var l = document.createElement("div");
+	l.id="total";
 	l.innerHTML="<b>Your total: " + total + " / " + questions.length + "</b>" ;
 	fdiv.parentNode.appendChild(l);
        if(total == questions.length)  {
        document.getElementById("win").style.display="block";
-}
+	   document.getElementById("lose").style.display="none";
+	   	   document.getElementById("previous").style.display="none";
+       } else {
+	   document.getElementById("win").style.display="none";
+	   document.getElementById("lose").style.display="block";
+	   document.getElementById("previous").style.display="inline";
+	   showprev=true;
+       }
 
     } else {
+	   document.getElementById("win").style.display="none";
+	   document.getElementById("lose").style.display="none";
+	document.getElementById("next").style.display="inline";
+	if((thisQ > 1) && showprev) {
+	    	document.getElementById("previous").style.display="inline";
+	} else {
+	    	document.getElementById("previous").style.display="none";
+	}
 	q.innerHTML="Question " + thisQ + "/" + questions.length + ": " + questions[thisQ - 1][0];
 	if(questions[thisQ - 1][1] == "") {
 	    im.style.display="none";
@@ -42,9 +59,11 @@ function squiz () {
 	    im.style.display="block";
 	    im.setAttribute("src",questions[thisQ - 1][1]);
 	}
-    for (var i=0;i< questions[thisQ - 1][2].length; i++) {
+	for (var i=0;i< questions[thisQ - 1][2].length; i++) {
 	var l = document.createElement("div");
-	l.innerHTML="<label><input type=\"radio\" name=\"ans\" class=\"a\" value=\"" + i + "\">" + questions[thisQ - 1][2][i] + "</label>";
+	    l.innerHTML="<label><input type=\"radio\" name=\"ans\" class=\"a\"" +
+		((answers.length >= thisQ && answers[thisQ - 1] == i) ? " checked" : "") +
+               " value=\"" + i + "\">" + questions[thisQ - 1][2][i] + "</label>";
 	fdiv.appendChild(l);
     }
     }
@@ -59,6 +78,18 @@ function nextpage() {
 	squiz();
     } else {
 	alert("Please select an answer");
+    }
+}
+
+function prevpage() {
+    var radios = document.querySelectorAll('input[type="radio"]:checked');
+    if (radios.length>0) {        
+	answers[thisQ-1]=radios[0].value;
+    }
+    if (thisQ != 1) {
+    thisQ -= 1 ;
+    document.getElementById("fdiv").innerHTML="";
+	squiz();
     }
 }
 
