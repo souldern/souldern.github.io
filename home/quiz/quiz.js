@@ -29,7 +29,7 @@ function squiz () {
 	    fdiv.appendChild(l);
 	}
 	var l = document.createElement("div");
-	l.id="total";
+//	l.id="total";
 	l.innerHTML="<b>Your total: " + total + " / " + questions.length + "</b>" ;
 	fdiv.parentNode.appendChild(l);
        if(total == questions.length)  {
