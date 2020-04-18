@@ -29,8 +29,8 @@ function squiz () {
 	    fdiv.appendChild(l);
 	}
 	var l = document.createElement("div");
-//	l.id="total";
-	l.innerHTML="<b class=\"total\">Your total: " + total + " / " + questions.length + "</b>" ;
+	l.class="total";
+	l.innerHTML="<b>Your total: " + total + " / " + questions.length + "</b>" ;
 	fdiv.parentNode.appendChild(l);
        if(total == questions.length)  {
        document.getElementById("win").style.display="block";
