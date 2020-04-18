@@ -2,6 +2,8 @@
 title: Souldern Quizzes
 ---
 
+# Souldern Quizzes
+
 A Collection of online quizzes produced for this site.
 
 Try to answer the questions, once you get to the end, your score will
@@ -15,8 +17,8 @@ a winner (Collected names are not shown on the site).
 
 Currently the available quizes are
 
-* [**Souldern Animals**](animals) Suitable for anyone aged 5–105 Local
-* [**Local Knowledge**](localnkowledge) Test your local Knowledge (quite hard but most of the answers are on this site!)
+* [**Souldern Animals**](animals) Suitable for anyone aged 5–105 
+* [**Local Knowledge**](localnkowledge) Test your local knowledge (harder but most of the answers are on this site!)
 
 ---
 
