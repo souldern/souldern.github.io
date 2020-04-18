@@ -6,7 +6,7 @@ var questions = [
    [ "What bird is this?","https://www.irishnews.com/picturesarchive/irishnews/irishnews/2018/01/22/112432708-f91ef149-6018-4e4a-8d83-e0563a9edc7f.jpg",["Sparrow","Blue Tit","Sea Gull"],1],
     [ "What animal is this?","https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Igel.JPG/440px-Igel.JPG",["Mouse","Hedgehog","Lion"],1],
 
-    ["What animal is this?"],"https://www.witneygazette.co.uk/resources/images/7290740.jpg",["Rabbit","Fox","Tiger"],1],
+    ["What animal is this?","https://www.witneygazette.co.uk/resources/images/7290740.jpg",["Rabbit","Fox","Tiger"],1],
 
     ["What animal is this?","https://pestsolutionsoxfordshire.co.uk/wp-content/uploads/2019/10/Wild-Rabbit-1024x700.jpg", ["Dog", "Hampster", "Rabbit"],2],
 
