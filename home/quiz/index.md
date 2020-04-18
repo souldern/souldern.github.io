@@ -18,7 +18,7 @@ a winner (Collected names are not shown on the site).
 Currently the available quizes are
 
 * [**Souldern Animals**](animals) Suitable for anyone aged 5–105 
-* [**Local Knowledge**](localnkowledge) Test your local knowledge (harder but most of the answers are on this site!)
+* [**Local Knowledge**](localknowledge) Test your local knowledge (harder but most of the answers are on this site!)
 
 ---
 
