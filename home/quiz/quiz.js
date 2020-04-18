@@ -1,6 +1,7 @@
 
 
 
+
 var thisQ=1;
 var answers=[];
 var showprev=false;
@@ -31,7 +32,7 @@ function squiz () {
 	var l = document.createElement("div");
 	l.setAttribute("class","total");
 	l.innerHTML="<b>Your total: " + total + " / " + questions.length + "</b>" ;
-	fdiv.parentNode.appendChild(l);
+	document.getElementById("totals").appendChild(l);
        if(total == questions.length)  {
        document.getElementById("win").style.display="block";
 	   document.getElementById("lose").style.display="none";
