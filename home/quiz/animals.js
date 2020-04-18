@@ -14,7 +14,7 @@ var questions = [
 
     ["What drink do we get from cows?","https://i.pinimg.com/474x/78/9f/5c/789f5c100c57ca8a8871b5f5f2e24ddb--allposters-com-cows.jpg",["Milk","Beer","Orange Juice"],0],
 
-     ["Which animals produce eggs?","https://www.bbcgoodfood.com/sites/default/files/editor_files/2020/01/2._hen_egg.jpg",["Cows","Chickens","Goldfish"],1],
+     ["Which animals produce these eggs?","https://www.bbcgoodfood.com/sites/default/files/editor_files/2020/01/2._hen_egg.jpg",["Cows","Chickens","Goldfish"],1],
      
 
      
