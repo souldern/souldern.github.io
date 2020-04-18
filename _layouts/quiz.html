@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="icon" sizes="144x144" type="image/png" href="{{ site.baseurl }}/assets/images/favicon.png">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" href="/assets/css/menu.css" >
+    {% if page.extracss %}
+    <link rel="stylesheet" type="text/css" href="/assets/css/{{ page.extracss }}.css" >
+    {% endif %}
+    
+<script type="text/javascript" id="cookiebanner"
+    src="https://cdn.jsdelivr.net/gh/dobarkod/cookie-banner@1.2.2/dist/cookiebanner.min.js"
+    data-height="20px" data-position="top"
+    data-message="We use cookies to improve your browsing experience.">
+</script>
+  <script src="animals.js"></script>
+  <script src="quiz.js"></script>
+  <style>
+   input.a {height:1em;width:1em; margin-right:1em;}
+   #fdiv div  {border: solid thin black; border-radius:1em; padding:.5em;margin:.5em;}
+   #im {margin:0 auto; height:15em;}
+   button {font-size: 120%; font-weight-bold; padding:.1em 1em; margin:0em .5em;border-radius:.5em;}
+   div.total:not(:last-of-type) {text-decoration:line-through}
+   div.total:not(:last-of-type) b {font-weight:normal}
+  </style>
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name"><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <div id="gsearch">
+	<script>
+  (function() {
+    var cx = '012439869432470945129:cu9cowbnwgi';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+	</script>
+	<div>
+      <gcse:search></gcse:search>
+      
+      {% if site.github.is_project_page %}
+        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
+      {% endif %}
+      {% if site.show_downloads %}
+        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
+	{% endif %}
+       </div>
+       </div>
+    </header>
+
+
+    {% include topmenu.html %}
+
+    <main id="content" class="main-content" role="main">
+  <h1 id="top">{{ page.title }}</h1>
+  <p>{{page.description}}</p>
+
+  {{ content }}
+
+  <img style="display:none" id="im" src="#">
+  
+  <h2 id="q">Question</h2>
+  <form id="f" action="javascript:nextpage()">
+   <div id="fdiv">
+   </div>
+  </form>
+   <div>
+    <button id="next" onclick="nextpage()">Next</button>
+    <button id="previous" style="display:none" onclick="prevpage()">Previous</button>
+   </div>
+
+
+  <p style="display:none" id="win">
+    <b>Congratulations!</b><br>
+	If you wish to register your name for completing the quiz, please enter it at the following link<br><br>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeHeYonGUAIeu-XnjbhyfrwgQqYm2uSxLzPblt7QQZlXljthg/viewform?entry.209724808={{page.title | replace: " " , "" }}" target="_blank">Form to register your name for completing the quiz</a>
+    </p>
+
+
+    <p style="display:none" id="lose">
+    <b>Not Quite!</b><br>
+	You can use the <b>Previous</b> button to go back and re-try.
+   </p>
+
+    
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+      </footer>
+    </main>
+  </body>
+</html>
