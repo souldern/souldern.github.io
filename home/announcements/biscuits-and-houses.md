@@ -37,6 +37,8 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 
 ## “Old” Houses
 
+Name | Order | | Name | Order
+|---| ---| |---| ---|
 THE OLD FORGE |  3 | | THE OLD CHAPEL |  2
 THE OLD SCHOOL | 5 | | THE OLD STABLES |  6
 THE OLDE SADDLERS COTTAGE | 8 | | THE OLD RECTORY | 4
