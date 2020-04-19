@@ -3,8 +3,6 @@ date: 2000-04-19
 title: Biscuits and Houses Quizzes
 ---
 
-(Winning entry Joanna Carlisle)
-
 # Biscuits and Houses Quizzes
 
 The recent Village Newsletter had quizzes to name Biscuits and to recognise villae _Old_ houses. The answers are as follows:
@@ -17,7 +15,7 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 1. Jammie Dodger
 2. Digestives
 3. Happy Face <!-- http://www.nicecupofteaandasitdown.com/biscuits/previous.php3?item=87 -->
-4. Viennese Fingers <!-- https://www.tesco.com/groceries/en-GB/products/297520644-->
+4. Viennese Fingers <!-- https://www.tesco.com/groceries/en-GB/products/297520644   https://www.thetimes.co.uk/article/mary-berry-viennese-fingers-gtcqkklmg -->
 5. Nice
 6. Malted Milk
 7. Bourbon
