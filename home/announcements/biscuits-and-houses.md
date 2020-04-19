@@ -10,6 +10,8 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 
 ## Biscuits
 
+[biscuits](buiscuits.png)
+
 1. Jammie Dodger
 2. Digestives
 3. Happy Face <!-- http://www.nicecupofteaandasitdown.com/biscuits/previous.php3?item=87 -->
@@ -32,6 +34,8 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 20. Iced Gems
 
 ## “Old” Houses
+
+[oldhouses](oldhouse.png)
 
 Name | Position | | Name | Position |
 |---| ---| |---| ---|
