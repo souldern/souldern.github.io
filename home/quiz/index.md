@@ -7,7 +7,7 @@ title: Souldern Quizzes
 A collection of online quizzes produced for this site.
 
 Try to answer the questions, once you get to the end, your score will
-be totalled and you can come back to correct any answers and try
+be totalled and you can go back to correct any answers and try
 again.
 
 If you get all answers correct you may optionally record your name as
