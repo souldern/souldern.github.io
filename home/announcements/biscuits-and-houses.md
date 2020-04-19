@@ -7,8 +7,6 @@ title: Biscuits and Houses Quizzes
 
 The recent Village Newsletter had quizzes to name Biscuits and to recognise village _Old_ houses. The answers are as follows:
 
-(Winning entry Joanna Carlisle)
-
 
 ## Biscuits
 
