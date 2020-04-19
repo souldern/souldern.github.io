@@ -14,7 +14,7 @@ The recent Village Newsletter had quizzes to name Buiscuits and to recognise vil
 1. Jammie Dodger
 2. Digestive
 3. Funny Faces
-4. Vienese Shortbread
+4. Viennese Shortbread
 5. Nice
 6. Malted Milk
 7. Bourbon
