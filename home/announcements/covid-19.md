@@ -46,12 +46,16 @@ li img {width:5em; vertical-align:middle}
 
 ## Local Help
 
-Please see the [separate announcement on the **COVID 19 – Souldern Parish Council Community Support Network**](covid-19-support).
+ * <span id="network"></span>Community Support Network
+ 
+    Please see the [separate announcement on the **COVID 19 – Souldern Parish Council Community Support Network**](covid-19-support).
 
-If you need to self-isolate and need help with accessing supplies,
-several villagers have offered to help. If you contact us via the [Form to
-contact the website](/home/contact-website) or [via email](mailto:website@souldern.org),
-we will put you in touch.
+    If you need to self-isolate and need help with accessing supplies,
+    several villagers have offered to help. If you contact us via the [Form to
+    contact the website](/home/contact-website) or [via email](mailto:website@souldern.org),
+    we will put you in touch.
+
+ * <span id="newletter"></span> Newsletter: [The Souldern Shout-Out](/parish-council/spc-newsletter/PDF%20version%20Souldern%20Newsletter%20Apr20.pdf)
 
 ## Local Activities
 
