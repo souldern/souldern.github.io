@@ -10,7 +10,7 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 
 ## Biscuits
 
-[biscuits](buiscuits.png)
+![bisciuts](biscuits.png)
 
 1. Jammie Dodger
 2. Digestives
