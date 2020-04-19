@@ -35,7 +35,7 @@ The recent Village Newsletter had quizzes to name Biscuits and to recognise vill
 
 ## “Old” Houses
 
-[oldhouses](oldhouse.png)
+![oldhouses](oldhouse.png)
 
 Name | Position | | Name | Position |
 |---| ---| |---| ---|
