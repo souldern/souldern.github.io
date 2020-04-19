@@ -4,7 +4,7 @@
 
 <ul class="category-list">
   {%- assign sorted = site.pages | sort: 'date'  | where_exp:"item","item.path contains 'home/announcements'" | reverse -%}
-  {%- for page in sorted limit:5 -%}
+  {%- for page in sorted limit:7 -%}
   <li><a href="/{{page.path | replace: '.html', ''| replace: '.md', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
 

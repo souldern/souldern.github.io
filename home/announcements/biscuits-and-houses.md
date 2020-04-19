@@ -33,4 +33,4 @@ The recent Village Newsletter had quizzes to name Buiscuits and to recognise vil
 20. Iced Gem
 
 ## “Old” Houses
-(Winning Entry Joanna Carlisle)
+(Winning entry Joanna Carlisle)
