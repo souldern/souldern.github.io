@@ -16,6 +16,9 @@ If you get all answers correct you may optionally record your name as a winner.
 
 The first one is suitable for all ages, the second one is a little harder (but most of the answers are on this site).
 
-[Souldern Quizes](/home/quiz/)
+
+| [**Souldern Animals**](animals) | Suitable for anyone aged 5–105 |
+| [**Local Knowledge**](localknowledge) | Test your local knowledge (harder but most of the answers are on this site!) |
+
 
 
