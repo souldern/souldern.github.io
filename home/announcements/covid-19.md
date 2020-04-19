@@ -11,7 +11,9 @@ li img {width:5em; vertical-align:middle}
 **Local Information on Coronavirus**
 
  * [Government Advice](#government-advice)
- * [Souldern Covid-19 Support Network](#local-help)
+ * [Local Help](#local-help)
+   * [Souldern Covid-19 Support Network](#network)
+   * [Souldern Shout-Out Newsletter](#newsletter)
  * [Local Activities](#local-activities)
    * [Baking Competition](#baking)
    * [Souldern Quizzes](#quizzes)
@@ -55,7 +57,7 @@ li img {width:5em; vertical-align:middle}
     contact the website](/home/contact-website) or [via email](mailto:website@souldern.org),
     we will put you in touch.
 
- * <span id="newletter"></span> Newsletter: [The Souldern Shout-Out](/parish-council/spc-newsletter/PDF%20version%20Souldern%20Newsletter%20Apr20.pdf)
+ * <span id="newsletter"></span> Newsletter: [The Souldern Shout-Out](/parish-council/spc-newsletter/PDF%20version%20Souldern%20Newsletter%20Apr20.pdf)
 
 ## Local Activities
 
