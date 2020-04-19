@@ -23,7 +23,7 @@ The recent Village Newsletter had quizzes to name Buiscuits and to recognise vil
 10. Custard Cream
 11. Ginger Nut
 12. Shortcake
-13. Hob Nob
+13. Hobnob
 14. Tea Cake
 15. Oatmeal
 16. Morning Coffee
