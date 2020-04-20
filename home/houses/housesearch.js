@@ -1732,7 +1732,7 @@ sv: 'https://goo.gl/maps/Ne5xA8PLs7T2',
 }
 ,
  "appletonlodge": {
-kw: ['7la', 'appleton', 'appletonlodge', 'high', 'lodge', 'ox27', 'street'],
+kw: ['7la', 'appleton', 'appletonlodge', 'high', 'lane', 'lodge', 'ox27', 'street', 'wharf'],
 nm: 'Appleton Lodge',
 pc: 'OX27 7LA',
 rd: 'High Street',
