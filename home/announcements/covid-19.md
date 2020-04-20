@@ -127,10 +127,12 @@ All meals and Specials  £10.00
 > 
 -->
 
+<!--
 **Special for 16th, 17th, 18th April**
 
 > * Stuffed loin of Pork, Crispy Potatoes, Fresh vegetables and Gravy
 > 
+-->
 
 **Special for 23rd, 24th, 25th April**
 
