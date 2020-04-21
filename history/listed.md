@@ -4,6 +4,11 @@ title: Listed Buildings and Monuments
 
 ## Listed Buildings and Monuments
 
+* [Houses](#houses)
+* [Church](#church)
+* [Other Listings](#other-listings)
+* [Headstones and Tombs](#headstones-and-tombs)
+* [Canal Bridges](#canal-bridges)
 
 ## Houses
 
