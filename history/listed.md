@@ -67,11 +67,11 @@ List Entry Number: [1046430](https://historicengland.org.uk/listing/the-list/lis
 Grade: II  *
 Location: Barn at Manor Farm at SP 5218 3155, HIGH STREET, Souldern, Cherwell, Oxfordshire
 
-### St Joseph'S
+### St Joseph's
 
 List Entry Number: [1193233](https://historicengland.org.uk/listing/the-list/list-entry/1193233)  
 Grade: II  
-Location: St Joseph'S, HIGH STREET, Souldern, Cherwell, Oxfordshire
+Location: St Joseph's, HIGH STREET, Souldern, Cherwell, Oxfordshire
 
 ### The Court
 
