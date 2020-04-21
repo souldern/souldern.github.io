@@ -4,11 +4,16 @@ title: Listed Buildings and Monuments
 
 ## Listed Buildings and Monuments
 
+A List of all the listed buildings in the village together with links to the official
+Listings pages at the [Historic England website](https://historicengland.org.uk/).
+
 * [Houses](#houses)
 * [Church](#church)
 * [Other Listings](#other-listings)
 * [Headstones and Tombs](#headstones-and-tombs)
 * [Canal Bridges](#canal-bridges)
+
+---
 
 ## Houses
 
