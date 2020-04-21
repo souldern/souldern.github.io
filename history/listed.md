@@ -29,13 +29,6 @@ Heritage Category: Listing
 Grade: II  
 Location: House abutting to right of Souldern House, HIGH STREET, Souldern, Cherwell, Oxfordshire
 
-### Gazebo approximately 50 metres north of Souldern House
-
-List Entry Number: [1046432](https://historicengland.org.uk/listing/the-list/list-entry/1046432)  
-Heritage Category: Listing  
-Grade: II  
-Location: Gazebo approximately 50 metres north of Souldern House, HIGH STREET, Souldern, Cherwell, Oxfordshire
-
 
 ### Tudor Cottage
 
@@ -162,7 +155,7 @@ Grade: II*
 Location: Church of St Mary, CHURCH LANE, Souldern, Cherwell, Oxfordshire
 
 
-## Other Buidlings
+## Other Listings
 
 ### Village Pump
 
@@ -172,13 +165,13 @@ Grade: II
 Location: Village Pump, HIGH STREET, Souldern, Cherwell, Oxfordshire
 
 
+### Gazebo approximately 50 metres north of Souldern House
 
-### Bridge over Oxford Canal AT SP 4985 3148
-
-List Entry Number: [1193078](https://historicengland.org.uk/listing/the-list/list-entry/1193078)  
+List Entry Number: [1046432](https://historicengland.org.uk/listing/the-list/list-entry/1046432)  
 Heritage Category: Listing  
 Grade: II  
-Location: Bridge over Oxford Canal AT SP 4985 3148, Souldern, OXFORD CANAL, Cherwell, Oxfordshire
+Location: Gazebo approximately 50 metres north of Souldern House, HIGH STREET, Souldern, Cherwell, Oxfordshire
+
 
 
 ## Headstones and Tombs
@@ -233,3 +226,10 @@ List Entry Number: [1369802](https://historicengland.org.uk/listing/the-list/lis
 Heritage Category: Listing  
 Grade: II  
 Location: Oxford Canal Chisnell Lift Bridge (193) AT SP 497 304, Souldern, OXFORD CANAL, Cherwell, Oxfordshire
+
+### Bridge over Oxford Canal AT SP 4985 3148
+
+List Entry Number: [1193078](https://historicengland.org.uk/listing/the-list/list-entry/1193078)  
+Heritage Category: Listing  
+Grade: II  
+Location: Bridge over Oxford Canal AT SP 4985 3148, Souldern, OXFORD CANAL, Cherwell, Oxfordshire
