@@ -28,6 +28,7 @@ li img {width:5em; vertical-align:middle}
    * [Fish and Chips](#fish-and-chips)
    * [Nash's Bakery](#nashs-bakery)
    * [Produce Warriors](#produce-warriors)
+   * [Y&R Sushi)(#y&r-sushi)
    * [Buckingham Garden Centre](#buckingham-garden-centre)
    * [Greatfield Plants Nursery](#greatfield-plants-nursery)
 
@@ -207,6 +208,8 @@ Nash's Bakery visits the village (Village Hall Car Park) on Friday Mornings,
 ### Produce Warriors
 Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
 
+### Y&R Sushi
+Bicester Sushi providers will deliver to Souldern. [See their website](https://www.yrsushi.com/) or contact them at 07501 090507.
 
 ### Buckingham Garden Centre
 [buckinghamgardencentre.co.uk](https://www.buckinghamgardencentre.co.uk/)
@@ -219,6 +222,8 @@ reduced the costs. We are able to deliver anything in the Garden
 Centre - from plants and composts, gifts and items in our food hall
 (including jams, biscuits, eggs, meat and our home cooked frozen
 meals).  To place an order, please call: 01280 822133
+
+
 
 ### Greatfield Plants Nursery
 [Greatfield Plants Nursery](https://greatfieldplants.co.uk/)
