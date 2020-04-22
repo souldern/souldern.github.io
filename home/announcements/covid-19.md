@@ -28,7 +28,7 @@ li img {width:5em; vertical-align:middle}
    * [Fish and Chips](#fish-and-chips)
    * [Nash's Bakery](#nashs-bakery)
    * [Produce Warriors](#produce-warriors)
-   * [Y&R Sushi)(#y&r-sushi)
+   * [Y&R Sushi](#yr-sushi)
    * [Buckingham Garden Centre](#buckingham-garden-centre)
    * [Greatfield Plants Nursery](#greatfield-plants-nursery)
 
