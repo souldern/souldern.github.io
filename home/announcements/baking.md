@@ -3,12 +3,12 @@ date: 2000-04-23
 title: Baking Competion
 ---
 <style>
-table img {width:7em; vertical-align:middle}
+table img {width:12em; vertical-align:middle}
 </style>
 
 # Souldern  Weekly Baking Competition
 
-SSSC are running weekly bake-off challenges for households to post their creations.
+The Souldern Sports and Social Club (SSSC) are running weekly bake-off challenges for households to post their creations.
 
 Photos of the baking creations to be posted any time leading up to **Saturday 6pm**.
 
