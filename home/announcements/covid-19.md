@@ -64,8 +64,8 @@ li img {width:5em; vertical-align:middle}
 
  * <span id="baking"></span>[Weekly Baking Competition](baking)
  
- SSSC are running weekly bake-off challenges for households to post their creations.  
- [See the announcement page for entry details and recent winners](baking)
+     SSSC are running weekly bake-off challenges for households to post their creations.  
+     [See the announcement page for entry details and recent winners](baking)
 
  * <span id="quizzes"></span>[Souldern Quizzes](/home/quiz) Online general knowledge quizzes with a Souldern local interest.
  
