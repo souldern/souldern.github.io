@@ -1,5 +1,5 @@
 ---
-date: 2020-04-06
+date: 2020-04-26
 title: Playground Design Competition
 ---
 
@@ -26,7 +26,7 @@ Design a multi generational play park using the available space in the park whic
 
 ---
 
-All entries to be sent via email to [admin@souldern.org](mailto:admin@souldern.org)  by **30th April**.
+All entries to be sent via email to [admin@souldern.org](mailto:admin@souldern.org)  by **17th May** (**NEW DATE**).
 
 ---
 
