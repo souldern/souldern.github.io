@@ -1,0 +1,95 @@
+#!/bin/bash
+
+# ./photoalbum
+# ./photalbum "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
+
+shareTitle=${1-Souldern 2020}
+shareURL=${2-https://photos.app.goo.gl/w6SxED3jdp23cAXr7}
+
+
+cat <<END    > photo.html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <style>
+      img.scroll {display:none;  max-height:100%;max-width:100%;margin-left:auto;margin-right:auto;}
+      </style>
+  </head>
+  <body>
+
+<div style="clear:both;background-color:#555;text-align:center; height:20em;" onclick="imgStop()" title="$shareTitle">
+
+END
+
+
+wget -O album.html $shareURL 2> /dev/null
+grep -o ',\[.*\["https://lh3.googleusercontent.com/[^"/]*"' album.html | \
+sed -e  's/^.*\[/<img class=scroll src=/' -e 's/$/>\n/' >> photo.html
+
+
+cat <<END >> photo.html
+
+</div>
+</div>
+<div>
+<button id="imgstop" onclick="imgStop()">Stop</button>
+<button id="imgstart" onclick="imgStart()">Start</button>
+<button id="imgnext" onclick="imgNext()">Next</button>
+<button id="imgprev" onclick="imgPrev()">Previous</button>
+<a id="imglink" href="$shareURL">$shareTitle</a>
+</div>
+
+<script>
+  var elements = document.getElementsByClassName('scroll')
+  var i = Math.floor(elements.length*Math.random());
+  elements[i].style.display="block";            
+  var renew = 0
+
+  function imgNext() {
+    elements[i].style.display="none";        
+     i++;
+    if(elements.length == i){
+        i = 0;
+    }
+    elements[i].style.display="block";            
+  }
+  function imgPrev() {
+    elements[i].style.display="none";        
+     i--;
+    if(-1 == i){
+        i = elements.length - 1;
+    }
+    elements[i].style.display="block";            
+  }
+  
+  function imgLoop () {
+    return setInterval(imgNext,2000)}
+  ;
+
+  function imgStart () {
+      document.getElementById('imgstop').style.display='none';
+      document.getElementById('imgstart').style.display='none';
+      document.getElementById('imgnext').style.display='none';
+      document.getElementById('imgprev').style.display='none';
+      document.getElementById('imglink').style.display='none';
+      renew=imgLoop()
+  }
+
+  function imgStop () {
+      document.getElementById('imgstop').style.display='none';
+      document.getElementById('imgstart').style.display='inline';
+      document.getElementById('imgnext').style.display='inline';
+      document.getElementById('imgprev').style.display='inline';
+      document.getElementById('imglink').style.display='inline';
+      clearInterval(renew);
+  }
+  imgStart();
+</script>
+
+
+<p>xxx</p>
+</body>
+</html>
+END

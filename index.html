@@ -43,7 +43,7 @@ the village was established on the site of excellent freshwater springs, some of
 <p>If there is any more information that you would like to see on the site, <a href="/home/contact-website">please let us know</a>!</p>
 
 
-<div style="clear:both;background-color:#555;text-align:center; height:20em;">
+<div style="clear:both;background-color:#555;text-align:center; height:20em;" onclick="imgStop()" title="Souldern 2020">
 
 <img class=scroll src="https://lh3.googleusercontent.com/5Qzh8ZIkKrz3xSr9HdABUCfwdoJZBZP-t0qFV6GZ9oLfn9ATK4XgRwpK2_e3Km--K_5kuvoFXO-mYrEAY0r_Zj__D6Mihwx9bXgs7y8IPVWb7KCWs6SxKAAWXoOxx6tXG4AnYid8hg">
 
@@ -109,22 +109,64 @@ the village was established on the site of excellent freshwater springs, some of
 
 <img class=scroll src="https://lh3.googleusercontent.com/dwxEuVfF-L5N3tBBrfv9wDH_MEXu60yzu9we3PjQ_yHDOXN5eCyCNCaH6WpbOtwdQE4cSRLylZq4OkaNTz7NLTTNItUghhnoscCLCgPl5aYh6pzT6_QwZl4ZBc5w9vh_xNi-2XohKg">
 
-<img class=scroll src="https://lh3.googleusercontent.com/Em5Bf53Z9If_tHZFtaX9ReaeBFoettkYO1XJZsQiDnuY6U0ZLdC_VxgSjxxeM0LphybySH8CcehthdY5IGT_tQnLiezfm9U2LQVBmrKX22Gxqc5BpkrlEvwa-bg7-cPF4Bno3maNTA">
+<img class=scroll src="https://lh3.googleusercontent.com/5ULthg5PR-Uta1nau4C8zt8sPXpGbQ4zK2pXlHVXS1EmZ-utFTdgUMVnQKdRkUdvwQblF-AUorPGyoIMYdNdxmrFGaD8JRZPUDBKE7vZocch6UDP9ErvatILsgQuYY3_TzZhGx9uyg">
 
+
+</div>
+</div>
+<div>
+<button id="imgstop" onclick="imgStop()">Stop</button>
+<button id="imgstart" onclick="imgStart()">Start</button>
+<button id="imgnext" onclick="imgNext()">Next</button>
+<button id="imgprev" onclick="imgPrev()">Previous</button>
+<a id="imglink" href="https://photos.app.goo.gl/w6SxED3jdp23cAXr7">Souldern 2020</a>
 </div>
 
 <script>
   var elements = document.getElementsByClassName('scroll')
   var i = Math.floor(elements.length*Math.random());
   elements[i].style.display="block";            
-var renew = setInterval(function(){
+  var renew = 0
+
+  function imgNext() {
     elements[i].style.display="none";        
      i++;
     if(elements.length == i){
         i = 0;
     }
     elements[i].style.display="block";            
-},5000);
+  }
+  function imgPrev() {
+    elements[i].style.display="none";        
+     i--;
+    if(-1 == i){
+        i = elements.length - 1;
+    }
+    elements[i].style.display="block";            
+  }
+  
+  function imgLoop () {
+    return setInterval(imgNext,2000)}
+  ;
+
+  function imgStart () {
+      document.getElementById('imgstop').style.display='none';
+      document.getElementById('imgstart').style.display='none';
+      document.getElementById('imgnext').style.display='none';
+      document.getElementById('imgprev').style.display='none';
+      document.getElementById('imglink').style.display='none';
+      renew=imgLoop()
+  }
+
+  function imgStop () {
+      document.getElementById('imgstop').style.display='none';
+      document.getElementById('imgstart').style.display='inline';
+      document.getElementById('imgnext').style.display='inline';
+      document.getElementById('imgprev').style.display='inline';
+      document.getElementById('imglink').style.display='inline';
+      clearInterval(renew);
+  }
+  imgStart();
 </script>
 
 
