@@ -65,7 +65,7 @@ cat <<END >> photo.html
   }
   
   function imgLoop () {
-    return setInterval(imgNext,2000)}
+    return setInterval(imgNext,5000)}
   ;
 
   function imgStart () {
