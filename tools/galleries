@@ -10,5 +10,8 @@
 # ./photojs soulderng  "Souldern Gallery" https://goo.gl/photos/ELeaYPtjdQmcjFYo8
 # mv soulderng.js ../home/gallery
 
-./photojs queen90 "Queen 90" https://goo.gl/photos/vpNg622EYvpByJam6
-mv queen90.js ../home/gallery
+# ./photojs queen90 "Queen 90" https://goo.gl/photos/vpNg622EYvpByJam6
+# mv queen90.js ../home/gallery
+
+./photojs "nbwgallery" "Nancy Bowles Wood" https://goo.gl/photos/XLb6n9fPZuGQf1q18
+mv nbwgallery.js ../home/gallery
