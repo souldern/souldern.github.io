@@ -15,7 +15,7 @@
   }
   
   function imgLoop (n) {
-      return setInterval(function(){imgNext(n)},2000)}
+      return setInterval(function(){imgNext(n)},5000)}
   
   
   function imgStart (n) {
