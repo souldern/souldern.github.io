@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+# ./photojs sssc0405 "SSSC Baking Week 2020-04-05" https://photos.app.goo.gl/4vyjnxGKp9JSx7eJ6
+# mv sssc0405.js ../home/gallery
+./photojs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
+mv souldern2020.js ../home/gallery

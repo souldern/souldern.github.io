@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# ./photojs
+# ./photjs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
+
+shareID=${1-isouldern2020}
+shareTitle=${2-Souldern 2020}
+shareURL=${3-https://photos.app.goo.gl/w6SxED3jdp23cAXr7}
+
+
+echo "var galleries = galleries || {};" > "${shareID}.js"
+
+
+echo "
+galleries.$shareID = {
+    title: \"${shareTitle}\",
+    url: \"${shareURL}\",
+    album: [
+" >> "${shareID}.js"
+
+wget -O "album${shareID}.html" $shareURL 2> /dev/null
+grep -o ',\[.*\["https://lh3.googleusercontent.com/[^"/]*"' album${shareID}.html | \
+sed -e  's/^.*\[//' -e 's/$/,/' >> "${shareID}.js"
+
+
+echo -e "\n]\n};"  >> "${shareID}.js"
