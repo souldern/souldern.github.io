@@ -25,6 +25,8 @@
 # ./photojs knockout2017 "Knockout 2017" https://goo.gl/photos/yZhPPmYm84d812d4A
 # mv knockout2017.js ../home/gallery
 
-./photojs wacky2018 "Souldern Wacky Races 2018" https://photos.app.goo.gl/CmyvBVvsJJfoeAfg9
-mv wacky2018.js ../home/gallery
+# ./photojs wacky2018 "Souldern Wacky Races 2018" https://photos.app.goo.gl/CmyvBVvsJJfoeAfg9
+# mv wacky2018.js ../home/gallery
 
+./photojs sundaysch "Sunday School" https://photos.app.goo.gl/TGxXrrQZjTJ2JRrf7
+mv sundaysch.js ../home/gallery
