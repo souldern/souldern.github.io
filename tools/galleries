@@ -1,11 +1,9 @@
 #!/bin/bash
 
 
-# ./photojs sssc0405 "SSSC Baking Week 2020-04-05" https://photos.app.goo.gl/4vyjnxGKp9JSx7eJ6
-# mv sssc0405.js ../home/gallery
 
-# ./photojs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
-# mv souldern2020.js ../home/gallery
+./photojs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
+mv souldern2020.js ../home/gallery
 
 # ./photojs soulderng  "Souldern Gallery" https://goo.gl/photos/ELeaYPtjdQmcjFYo8
 # mv soulderng.js ../home/gallery
@@ -28,5 +26,11 @@
 # ./photojs wacky2018 "Souldern Wacky Races 2018" https://photos.app.goo.gl/CmyvBVvsJJfoeAfg9
 # mv wacky2018.js ../home/gallery
 
-./photojs sundaysch "Sunday School" https://photos.app.goo.gl/TGxXrrQZjTJ2JRrf7
-mv sundaysch.js ../home/gallery
+# ./photojs sundaysch "Sunday School" https://photos.app.goo.gl/TGxXrrQZjTJ2JRrf7
+# mv sundaysch.js ../home/gallery
+
+
+
+
+### ./photojs sssc0405 "SSSC Baking Week 2020-04-05" https://photos.app.goo.gl/4vyjnxGKp9JSx7eJ6
+### mv sssc0405.js ../home/gallery
