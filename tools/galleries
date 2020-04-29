@@ -19,5 +19,8 @@
 # ./photojs wacky2016 "Souldern Wacky Races 2016" https://goo.gl/photos/U1JFfKSCVRDH7g5B6
 # mv wacky2016.js ../home/gallery
 
-./photojs easter2017 "Easter Egg Hunt 2017" https://goo.gl/photos/JKoHFsuWuqTUctWX9
-mv easter2017.js ../home/gallery
+# ./photojs easter2017 "Easter Egg Hunt 2017" https://goo.gl/photos/JKoHFsuWuqTUctWX9
+# mv easter2017.js ../home/gallery
+
+./photojs knockout2017 "Knockout 2017" https://goo.gl/photos/yZhPPmYm84d812d4A
+mv knockout2017.js ../home/gallery
