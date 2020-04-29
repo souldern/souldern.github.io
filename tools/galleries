@@ -13,5 +13,8 @@
 # ./photojs queen90 "Queen 90" https://goo.gl/photos/vpNg622EYvpByJam6
 # mv queen90.js ../home/gallery
 
-./photojs "nbwgallery" "Nancy Bowles Wood" https://goo.gl/photos/XLb6n9fPZuGQf1q18
-mv nbwgallery.js ../home/gallery
+# ./photojs "nbwgallery" "Nancy Bowles Wood" https://goo.gl/photos/XLb6n9fPZuGQf1q18
+# mv nbwgallery.js ../home/gallery
+
+./photojs wacky2016 "Souldern Wacky Races 2016" https://goo.gl/photos/U1JFfKSCVRDH7g5B6
+mv wacky2016.js ../home/gallery
