@@ -98,7 +98,13 @@ They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah
 
 **The Fox Inn takeaway options**
 
-All meals and Specials  £10.00
+Snacks £5. All meals and Specials  £10.00
+
+**Small Snacks**
+
+> * Deep Fried Whitebait 
+>
+> * Halloumi Fries 
 
 
 **Regular Meals**
