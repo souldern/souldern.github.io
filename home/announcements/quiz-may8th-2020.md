@@ -3,7 +3,7 @@ date: 2000-02-02
 title: Souldern Village Quiz (Zoom)
 ---
 
-# Live Quiz
+# Souldern Quiz
 
 # Friday 8th May 8pm
 
@@ -17,5 +17,5 @@ Please connect via Zoom
 Meeting ID: 880-9318-4440
 Password: as above.
 
-[**Please Consider donating to Katherine House Hospice](https://www.khh.org.uk/donate/donate-now/20)
+[**Please Consider donating to Katherine House Hospice**](https://www.khh.org.uk/donate/donate-now/20)
 
