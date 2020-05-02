@@ -17,5 +17,5 @@ Please connect via Zoom
 Meeting ID: 880-9318-4440  
 Password: as above.
 
-[**Please consider donating to Katherine House Hospice**](https://www.khh.org.uk/donate/donate-now/20)
+[**Please consider donating to Katherine House Hospice: www.khh.org.uk**](https://www.khh.org.uk/donate/donate-now/20)
 
