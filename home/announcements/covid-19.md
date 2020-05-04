@@ -137,13 +137,22 @@ Snacks £5.   All meals and Specials  £10.
 > * Coconut Chicken Curry with Steamed Rice and Onion Bhaji
 > 
 
--->
-
 
 **Special for 30th April, 1st and 2nd May**
 
 > * Slow Cooked Confit of Duck with Buttered Mash, Fresh Vegetables and Gravy.
 > 
+
+-->
+
+**Special for 7th, 8th, 9th May**
+
+> * **VE Celebration** Steak and Kidney Pie with Buttered Mash and Braised Red Cabbage.
+>   ![VE75](https://cdn-az.allevents.in/events10/banners/a4a86d3c07ef3887dbb94bce239964697ed26068a0d3c21d0bcfadf6af9879c0-rimg-w526-h933-gmir.jpg)
+> 
+
+
+
 
 
 
