@@ -6,6 +6,7 @@ https://codepen.io/philhoyt/pen/ujHzd
     display:none
 }
 #collapsed-menu {
+    background-color:white;
     display:inline
 }
 
@@ -17,6 +18,7 @@ https://codepen.io/philhoyt/pen/ujHzd
 
 #primary_nav_wrap
 {
+    background-color:white;
     display:block;
     margin-top:15px
 }
