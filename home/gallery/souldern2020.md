@@ -12,4 +12,7 @@ Pictures of Souldern, taken during the Covid-19 restrictions.
 
 <script src="/home/gallery/souldern2020.js"></script>
 <script src="/home/gallery/galleries.js"></script>
+<script>
+  document.getElementById("souldern2020").style.height="25em";
+</script>
 
