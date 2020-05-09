@@ -6,6 +6,7 @@ title: Village Events
 # Village Events
 
 
+ * [VE75, May 2020](ve75-2020)
  * [Wacky Races 2018](event-2018)
  * [It's A Knockout 2017](summer-event-2017)
  * [Wacky Races 2016](event-2016)
