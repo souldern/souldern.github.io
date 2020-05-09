@@ -42,7 +42,7 @@ galleries.souldern2020 = {
 "https://lh3.googleusercontent.com/Q5ShFrkrcob0hYiHdYcQxHz3KHoBbPHnEUFEtUygKE84hA8xIq0egm8hrd7J8XJ1eipvocvV15h4Pwenc5iWloTOW2H49sg-PxOT-CdORSnvpYgDdmB_QnRPTVT9t-0wvh71WrUW9g",
 "https://lh3.googleusercontent.com/F6nKidcKhL_9Huktfb4tvRu11b34JLsC-YY-qmUwmAarnlNVTjiN8Zd1J_g_UebYndPc4i15o7mea73t_vV-y3H2k4PAi-2iUvFVJK5-Qjyc5e-nZ34p3fL7gRsUejiYHq662UXg5g",
 "https://lh3.googleusercontent.com/Z9wx-QPbgyipxl4rp3zmhXSZfDh6IzFOF5wgU9X5FYvP6m6cNEvwCtXPcEIN_XBc9zjKMEck5ABwrMuCQm_ex-f2D5BD3zmEv2ja5rqzy16qYe6rUnuBfzQtpkXp62NFRc6aKdeEpQ",
-"https://lh3.googleusercontent.com/ht6TWaG2bV5R298jyVt17QfUXkuDRdx4mDKxVUx97ICc1ZV-JEzf-PTXC6Om-p7S_XTAB48CZlid0DrMn3t7aHIRS10d5JQ6gSEVMdeZCTRnxE95N5jLMHjgWTBn63PoFceuEajdEA",
+"https://lh3.googleusercontent.com/Z1FJZG7cK_mCXgncHqj0ntivDykiF12o1iClkb1yqYPhf08Gd7kfRyRFd1IpWHVGYI1NxHlShBX3xTUFy6tiB3fIrpVZ1Ccsxy7CGw4-Izh-9Cdy-d_tOttTJ2TN-jn4rJ0lWlYDFg",
 
 ]
 };
