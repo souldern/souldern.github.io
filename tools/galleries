@@ -4,8 +4,8 @@
 mv ve75.js ../home/gallery
 
 
-./photojs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
-mv souldern2020.js ../home/gallery
+# ./photojs souldern2020 "Souldern 2020" https://photos.app.goo.gl/w6SxED3jdp23cAXr7
+# mv souldern2020.js ../home/gallery
 
 # ./photojs soulderng  "Souldern Gallery" https://goo.gl/photos/ELeaYPtjdQmcjFYo8
 # mv soulderng.js ../home/gallery
