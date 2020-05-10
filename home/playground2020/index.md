@@ -88,3 +88,32 @@ See the [Competition Annoucement](/home/announcements/playground-design-competit
 
 
 ----
+
+## Rose Kyte (Age 5)
+
+![rk](rose-kyte-playground.png)
+
+Rose has designed:
+
+- Swings
+- Slide 
+- Zip wire
+- Tunnels
+- Sand pit
+
+
+----
+
+## William Kyte (Age 7)
+
+![wk](william-kyte-playground.png)
+
+William has designed:
+
+- Swings
+- Zip wire
+- Obstacle course
+- Tunnels through mounds of earth
+- Water play
+
+---
