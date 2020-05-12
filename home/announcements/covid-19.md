@@ -107,54 +107,20 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-**Regular Meals**
+** Meals for 14th, 15th and 16th of May**
 
-> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings
-> 
-> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon
+> * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
 >
-> * Beer battered Fish and Chips with peas, tartar sauce and lemon
+> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
 >
-> * Ham, Mushroom and Mozerella Pizza with Chunky Chips.
-> 
-> * Pan fried Halloumi Burger with Chips and Onion
-> 
-
-<!--
-**Special for 9th, 10th, 11th April**
-
-> * Steak and Ale Pie with Buttered Mash and Fresh Vegetables
-> 
-
-
-**Special for 16th, 17th, 18th April**
-
-> * Stuffed loin of Pork, Crispy Potatoes, Fresh vegetables and Gravy
-> 
-
-**Special for 23rd, 24th, 25th April**
-
-> * Coconut Chicken Curry with Steamed Rice and Onion Bhaji
-> 
-
-
-**Special for 30th April, 1st and 2nd May**
-
-> * Slow Cooked Confit of Duck with Buttered Mash, Fresh Vegetables and Gravy.
-> 
-
--->
-
-**Special for 7th, 8th, 9th May**
-
-> * **VE Celebration** Steak and Kidney Pie with Buttered Mash and Braised Red Cabbage.
->   
->   ![VE75](https://cdn-az.allevents.in/events10/banners/a4a86d3c07ef3887dbb94bce239964697ed26068a0d3c21d0bcfadf6af9879c0-rimg-w526-h933-gmir.jpg)
-> 
-
-
-
-
+> * Slow Cooked Moroccan Lamb Tagine with Herb Roasted Potatoes and Vegetable Cous Cous £10.00 
+>
+> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00
+>
+> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
+>
+> * Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
+>
 
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
