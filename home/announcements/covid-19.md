@@ -107,7 +107,7 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-** Meals for 14th, 15th and 16th of May**
+**Meals for 14th, 15th and 16th of May**
 
 > * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
 >
