@@ -3,12 +3,14 @@ date: 2020-05-13
 title: Parish Council Meetings 2020
 ---
 
-
-##  Public Parish Council Meetings
+# Parish Council Meetings
 
 If the village hall is closed due to Covid-19 restrictions, contact details will be made available.
 
 The minutes of previous meetings are listed [on this site](/parish-council/spc-minutes/).
+
+
+##  Full Parish Council Meetings
 
 * 28th May                         
 
