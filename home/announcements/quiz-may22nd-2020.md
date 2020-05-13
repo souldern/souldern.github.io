@@ -17,5 +17,10 @@ Please connect via Zoom
 Meeting ID: 874-8343-4599
 Password: as above.
 
+**Audience Participation**
+
+Please would contestants submit two movie-themed questions to Nick Oakhill prior to the Quiz.
+
+
 [**Please consider donating to Katherine House Hospice: www.khh.org.uk**](https://www.khh.org.uk/donate/donate-now/20)
 
