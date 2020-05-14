@@ -14,7 +14,7 @@ title: Souldern Village Quiz (Zoom) 2
 Please connect via Zoom
 (Download the zoom client from [zoom](https://zoom.us/) )
 
-Meeting ID: 874-8343-4599
+Meeting ID: 874-8343-4599  
 Password: as above.
 
 **Audience Participation**
