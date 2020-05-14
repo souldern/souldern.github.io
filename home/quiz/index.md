@@ -25,4 +25,5 @@ possible answers.
 
 # Souldern Live (Zoom) Quizzes
 
-* [May 8th 8pm](/home/announcements/quiz-may8th-2020)
+* [May  8th 8pm](/home/announcements/quiz-may8th-2020)
+* [May 22nd 8pm](/home/announcements/quiz-may22nd-2020)
