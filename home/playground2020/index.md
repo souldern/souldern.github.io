@@ -117,3 +117,23 @@ William has designed:
 - Water play
 
 ---
+
+## Ben Pheasant (Age 5)
+
+![bp](ben-pheasant.jpg)
+
+Ben has designed:
+
+- Zip Wire
+- Swings
+- Tall Slide
+- Monkey Bars
+- See-saw
+- Shelter
+- Roundabout
+- Cycle Track
+
+
+---
+
+
