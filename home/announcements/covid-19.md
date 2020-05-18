@@ -107,7 +107,7 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-**Meals for 21st, 22nd and 23rd of May*
+**Meals for 21st, 22nd and 23rd of May**
 
 >
 > * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
