@@ -133,6 +133,34 @@ Ben has designed:
 - Roundabout
 - Cycle Track
 
+---
+
+
+## Suzanna Green (Age 9)
+
+![sg](suzanna-green.jpg)
+
+Suzanna has designed:
+
+Outer area
+
+- Obstacle course
+- Swings
+- Stepping Stones
+- Zipline
+- See-saw
+
+Fenced area
+
+- Monkey Bars
+- Original (Train) building
+- Hill
+- Tunnel
+- Sand Pit
+- Swings
+- Climbing Wall
+- Patio
+- Scooter track
 
 ---
 
