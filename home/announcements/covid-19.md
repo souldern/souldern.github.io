@@ -107,13 +107,14 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-**Meals for 14th, 15th and 16th of May**
+**Meals for 21st, 22nd and 23rd of May*
 
+>
 > * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
 >
 > * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
 >
-> * Slow Cooked Moroccan Lamb Tagine with Herb Roasted Potatoes and Vegetable Cous Cous £10.00 
+> * Cheesey Crumb Topped Fish Pie with French Fries and Mixed Vegetables £10.00
 >
 > * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00
 >
@@ -121,7 +122,6 @@ Snacks £5.   All meals and Specials  £10.
 >
 > * Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
 >
-
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
 
