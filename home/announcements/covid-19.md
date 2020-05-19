@@ -59,8 +59,8 @@ li img {width:5em; vertical-align:middle}
     we will put you in touch.
 
  * <span id="newsletter"></span> Newsletter:  
-   [The Souldern Shout-Out April 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20Apr20pdf)  
-   [The Souldern Shout-Out May 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20May20pdf)  
+   [The Souldern Shout-Out April 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20Apr20.pdf)  
+   [The Souldern Shout-Out May 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20May20.pdf)  
 
 ## Local Activities
 
