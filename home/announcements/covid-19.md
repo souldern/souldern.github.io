@@ -109,21 +109,54 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-**Meals for 21st, 22nd and 23rd of May**
+**Regular Meals £10**
+
 
 >
-> * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00
+> * Homemade Beef Burger with Smoked Bacon,
 >
-> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
+> * Cheddar Cheese, Chips and Onion Rings
 >
-> * Cheesey Crumb Topped Fish Pie with French Fries and Mixed Vegetables £10.00
+> * Crispy Fried Breaded Scampi with Chips,
 >
-> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00
+> * Peas, Tartar Sauce and Lemon
 >
-> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
+> * BBQ Meat Feast and Mozzarella
 >
-> * Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
+> * Pizza with Chunky Chips
 >
+> * Pan Fried Halloumi Burger with Grilled Vegetables, Chunky Chips and Onion Rings
+>
+> * Beer Battered Fish and Chips with Chips, Peas, Tartar Sauce and Lemon
+
+
+**Specials, all £10**
+
+**Specials for 21st, 22nd & 23rd May**
+>
+> * Cheesy Crumb Topped Fish Pie with French Fries & Mixed Vegetables
+
+**Specials for 28th, 29th & 30th May**
+>
+> * Thai Green Chicken Curry with Jasmine Rice
+
+**Specials for 4th, 5th & 6th June**
+>
+> * Smokey BBQ Pork Ribs with Potato Hash & Chunky Coleslaw
+
+**Specials for 11th, 12th & 13th June**
+>
+> * Smoke Salmon, Prawn & Parsley Fishcake with Chunky Chips and Crunchy Salad
+
+**Specials for 18th, 19th & 20th June**
+>
+> * Stir Fried Kung Pao Chicken with Peanuts, Spring Onion and Steamed Rice
+
+**Specials for 25th, 26th & 27th June**
+>
+> * Butter & Apple Glazed Boneless Pork Chop with Dauphinoise Potatoes & Braised Red Cabbage
+
+
 
 Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
 
