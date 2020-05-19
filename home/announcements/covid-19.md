@@ -113,17 +113,11 @@ Snacks £5.   All meals and Specials  £10.
 
 
 >
-> * Homemade Beef Burger with Smoked Bacon,
+> * Homemade Beef Burger with Smoked Bacon, Cheddar Cheese, Chips and Onion Rings
 >
-> * Cheddar Cheese, Chips and Onion Rings
+> * Crispy Fried Breaded Scampi with Chips, Peas, Tartar Sauce and Lemon
 >
-> * Crispy Fried Breaded Scampi with Chips,
->
-> * Peas, Tartar Sauce and Lemon
->
-> * BBQ Meat Feast and Mozzarella
->
-> * Pizza with Chunky Chips
+> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips
 >
 > * Pan Fried Halloumi Burger with Grilled Vegetables, Chunky Chips and Onion Rings
 >
