@@ -126,10 +126,6 @@ Snacks £5.   All meals and Specials  £10.
 
 **Specials, all £10**
 
-**Specials for 21st, 22nd & 23rd May**
->
-> * Cheesy Crumb Topped Fish Pie with French Fries & Mixed Vegetables
-
 **Specials for 28th, 29th & 30th May**
 >
 > * Thai Green Chicken Curry with Jasmine Rice
