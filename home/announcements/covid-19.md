@@ -209,7 +209,8 @@ Howe & Co Fish and Chips visiting the village Easter Saturday (Bovewell between 
 [check their website](https://www.facebook.com/howeandco66/) or phone 07484 360719
 
 ### Nash's Bakery
-Nash's Bakery visits the village (Village Hall Car Park) on Friday Mornings,
+Nash's Bakery visits the village (Village Hall Car Park) on Friday Mornings.
+**Last weekly visit: 29th May.**
 
 ### Produce Warriors
 Online Green Grocer based in Banbury that will deliver to this area [producewarriors.com/](https://producewarriors.com/).
