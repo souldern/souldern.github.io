@@ -126,22 +126,6 @@ Snacks £5.   All meals and Specials  £10.
 
 **Specials, all £10**
 
-**Specials for 28th, 29th & 30th May**
->
-> * Thai Green Chicken Curry with Jasmine Rice
-
-**Specials for 4th, 5th & 6th June**
->
-> * Smokey BBQ Pork Ribs with Potato Hash & Chunky Coleslaw
-
-**Specials for 11th, 12th & 13th June**
->
-> * Smoke Salmon, Prawn & Parsley Fishcake with Chunky Chips and Crunchy Salad
-
-**Specials for 18th, 19th & 20th June**
->
-> * Stir Fried Kung Pao Chicken with Peanuts, Spring Onion and Steamed Rice
-
 **Specials for 25th, 26th & 27th June**
 >
 > * Butter & Apple Glazed Boneless Pork Chop with Dauphinoise Potatoes & Braised Red Cabbage
