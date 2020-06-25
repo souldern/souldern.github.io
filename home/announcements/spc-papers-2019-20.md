@@ -19,7 +19,7 @@ Should anybody wish to see a detailed breakdown of the material
 variances between 18/19 and 19/20 financial accounts our RFO, Laura
 How has conducted a detailed analysis of these. To request a copy and
 explanation please send an email to
-[mailto:admin@souldern.org](admin@souldern.org).
+[admin@souldern.org](mailto:admin@souldern.org).
 
 
 
