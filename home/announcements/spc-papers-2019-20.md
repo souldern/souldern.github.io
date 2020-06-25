@@ -1,9 +1,9 @@
 ---
-date: 2010-10-13
-title: Yin and Yang meeting
+date: 2020-06-25
+title: Parish Council End of Year Accounts 2019-2020
 ---
 
-# Parish Council End of Year Accounts
+# Parish Council End of Year Accounts 2019-2020
 
 During the 19/20 financial year Souldern Parish Council spent £1750 less than in the previous year.
 
