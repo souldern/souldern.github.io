@@ -28,7 +28,9 @@ us a message on 01869 345284 with your booking request and the
 following details for :-
 
  a. A table in one of the Cabanas – your name, meal order, date, arrival & departure time.
+
  b. Seats for drinks only – your name, no of people, date & time of arrival & departure.
+
  c. Takeaway food – your name, meal order, date & collection time. NB: We’ll call you back if your requested time if not available.
 
 The backing we've received from the village during Lockdown has been
