@@ -90,6 +90,8 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 ### Fox Inn
 
+**Fox Reopening for Ouside meals 4th July**
+
 The Fox Inn are providing local takeaway or delivery service  for those who need it.
 
 Every **Thursday, Friday and Saturday**.
@@ -109,37 +111,33 @@ Snacks £5.   All meals and Specials  £10.
 > * Halloumi Fries 
 
 
-**Regular Meals £10**
+**Regular Meals £10** for 2nd, 3rd, 4th and 5th July 
 
-
+> * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00 
 >
-> * Homemade Beef Burger with Smoked Bacon, Cheddar Cheese, Chips and Onion Rings
+> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
 >
-> * Crispy Fried Breaded Scampi with Chips, Peas, Tartar Sauce and Lemon
+> * Chargrilled Chicken Caesar Salad with French Fries, Smoked Bacon and Parmesan £10.00
 >
-> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips
+> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00
 >
-> * Pan Fried Halloumi Burger with Grilled Vegetables, Chunky Chips and Onion Rings
+> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
 >
-> * Beer Battered Fish and Chips with Chips, Peas, Tartar Sauce and Lemon
-
-
-**Specials, all £10**
-
-**Specials for 25th, 26th & 27th June**
+> * Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
 >
-> * Butter & Apple Glazed Boneless Pork Chop with Dauphinoise Potatoes & Braised Red Cabbage
+> * Louisiana Style Chicken Breast with French Fries and Buttered Greens £10.00 (not available Sunday)
+
+Please call us on 01869 345 284 to place your order leaving what you
+would like, your Telephone Number, Name and preferred time of
+collection, we'll call you back if your chosen time is full. First
+come first served bases in regards to menu choices and time
+slot. Opening Times for collection are between 5.30pm - 7.30pm
+Thursday through Saturday and 12.00pm - 2.30pm Sunday. We'll be doing
+collections through the Kitchen door as per usual.
+
+Thanks in advance and we look forward to seeing you. The Fox Inn Team. 🦊
 
 
-
-Please call us on 01869 345 284 to place your order leaving what you would like, your Telephone Number, Name and preferred time of collection. First come first served bases in regards to menu choices and time slot.
-
-Opening Times for collection are between 5.30pm and 8.00pm. We'll be doing collections through the Kitchen door as the Main Bar is closed.
-
-
-We would very much appreciate cash payments where possible, as going through to the bar will cause delays.
-
-Thanks in advance and we look forward to seeing you The Fox Team.
 
 
 
