@@ -1,6 +1,6 @@
 ---
 date: 2020-06-30
-title: Fox Reopening for outside eating and drinking: Saturday 4th July
+title: "Fox Reopening for outside eating and drinking: Saturday 4th July"
 ---
 
 The Fox Inn Souldern  🦊We will be reopening for outside eating and
