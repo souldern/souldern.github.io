@@ -90,7 +90,7 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 ### Fox Inn
 
-**Fox Reopening for Ouside meals 4th July**
+*Fox Reopening for Outside meals 4th July*
 
 The Fox Inn are providing local takeaway or delivery service  for those who need it.
 
