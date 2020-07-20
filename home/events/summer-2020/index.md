@@ -5,6 +5,20 @@ title: "2020: Virtual End of Summer Show"
 
 # Souldern End of Summer Show 2020
 
+<div style="
+font-size:400%;
+transform: rotate(-45deg);
+position: absolute;
+width: 100%;
+height: 100%;
+margin: 0;
+z-index: -1;
+left:170px;
+top:-100px;
+">
+DRAFT SUBJECT TO CHANGE
+</div>
+
 Classes for the Souldern **Virtual** End of Summer show 2020 are as below.
 
 Entries can be submitted directly to the site if you have a Google
