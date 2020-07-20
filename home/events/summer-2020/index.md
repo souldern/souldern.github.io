@@ -11,7 +11,7 @@ Entries can be submitted directly to the site if you have a Google
 account (gmail, android phone, google docs, etc) or may be submitted
 by email to [website@souldern.org](mailto:website@souldern.org) or via
 WhatsApp to David Carlisle (+447768584101). If submitting via email or
-Whatsapp please include your real name and which class is being entered,
+WhatsApp please include your real name and which class is being entered,
 
 
 * [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
