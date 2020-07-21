@@ -2,6 +2,9 @@
 layout: default
 title: "2020: Virtual End of Summer Show"
 ---
+<style>
+body {background-color: rgb(255,255,255,0.5) !important;}
+</style>
 
 # Souldern End of Summer Show 2020
 
@@ -12,7 +15,7 @@ position: absolute;
 width: 50%;
 height: 50%;
 margin: 0;
-z-index: 1;
+z-index: -;
 left:400px;
 top:100px;
 color:rgba(1,1,1,.2);
