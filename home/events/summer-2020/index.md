@@ -9,14 +9,14 @@ title: "2020: Virtual End of Summer Show"
 font-size:400%;
 transform: rotate(-45deg);
 position: absolute;
-width: 100%;
-height: 100%;
+width: 50%;
+height: 50%;
 margin: 0;
-z-index: -1;
-left:170px;
-top:-100px;
+z-index: 1;
+left:400px;
+top:400px;
 ">
-DRAFT SUBJECT TO CHANGE
+DRAFT<br>DRAFT<br>DRAFT<br>DRAFT
 </div>
 
 Classes for the Souldern **Virtual** End of Summer show 2020 are as below.
