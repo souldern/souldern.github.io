@@ -15,7 +15,7 @@ position: absolute;
 width: 50%;
 height: 50%;
 margin: 0;
-z-index: -;
+z-index: -1;
 left:400px;
 top:100px;
 color:rgba(1,1,1,.2);
