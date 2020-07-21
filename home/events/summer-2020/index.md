@@ -14,9 +14,10 @@ height: 50%;
 margin: 0;
 z-index: 1;
 left:400px;
-top:400px;
+top:100px;
+color:rgba(1,1,1,.5);
 ">
-DRAFT<br>DRAFT<br>DRAFT<br>DRAFT
+DRAFT<br>DRAFT<br>DRAFT<br>DRAFT<br>DRAFT<br>DRAFT<br>DRAFT<br>DRAFT
 </div>
 
 Classes for the Souldern **Virtual** End of Summer show 2020 are as below.
