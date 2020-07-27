@@ -53,7 +53,7 @@ WhatsApp please include your real name and which class is being entered,
 
 6. [**Lockdown poem or Limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
 
-   Photigraph or Scan of the Poem, or submit text version [via email](mailto:website@souldern.org).
+   Photograph or scan of the poem, or submit a text version [via email](mailto:website@souldern.org).
 
 7. Best lockdown hairstyle
 
@@ -109,12 +109,12 @@ WhatsApp please include your real name and which class is being entered,
 
     ( U10's and Open)
 
-22. [**Picture of the best Lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
+22. [**Picture of the best lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
 
 23. [**Picture of the best Sweet Pea**](https://photos.app.goo.gl/7KufQcUWvGzpfPWa6)
 
     Stem ............and flower.
 
-24. [**Picture of the most improved Allotment space**](https://photos.app.goo.gl/hrAsk9PtHoPW4JTq5)
+24. [**Picture of the most improved allotment space**](https://photos.app.goo.gl/hrAsk9PtHoPW4JTq5)
 
-25. [**Picture of your Favorite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
+25. [**Picture of your favorite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
