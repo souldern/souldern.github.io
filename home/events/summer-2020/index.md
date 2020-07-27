@@ -10,10 +10,10 @@ ol li::marker {font-size:125%; font-weight:bold;}
 
 ## Rules
 
-* Closing date for entries ; 29th August.
-* Announcement of winners; September 12th.
+* Closing date for entries:  **29th August**.
+* Announcement of winners: **September 12th**.
 * Judges decision final. No appeal procedure.
-* No entry fees
+* No entry fees.
 
 
 ## Submitting Enries
@@ -51,13 +51,13 @@ WhatsApp please include your real name and which class is being entered,
 
    Picture of something claimed from village whatsapp group and put to good use in new surroundings
 
-6. Lockdown poem or Limerick
+6. [**Lockdown poem or Limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
 
 7. Best lockdown hairstyle (U10's)
 
 8. Best lockdown hairstyle (Open)
 
-9. Best VE day picture
+9. [**Best VE day picture**](https://photos.app.goo.gl/PAid97LYpC9mkb4Z8)
 
 10. Best picture of a lockdown project
 
