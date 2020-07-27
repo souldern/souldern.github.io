@@ -10,52 +10,44 @@ body {background-color: rgb(255,255,255,0.9) !important;}
 
 ## Rules
 
-* Closing date for entries ; 29th August
-
-* Announcement of winners; September 12th#
-
-
-Judges decision final. No appeal procedure. No entry fees
+* Closing date for entries ; 29th August.
+* Announcement of winners; September 12th.
+* Judges decision final. No appeal procedure.
+* No entry fees
 
 
-Entries can be submitted directly to the site if you have a Google
-account (gmail, android phone, google docs, etc) or may be submitted
+* Entries can be submitted directly to the site if you have a Google
+account (gmail, android phone, google docs, etc)
+
+  Alternatively entries  may be submitted
 by email to [website@souldern.org](mailto:website@souldern.org) or via
-WhatsApp to David Carlisle (+447768584101). If submitting via email or
+WhatsApp to David Carlisle (+447768584101).
+
+  If submitting via email or
 WhatsApp please include your real name and which class is being entered,
 
 
-## Classes for the Souldern **Virtual** End of Summer
+## Classes for the Souldern End of Summer Show
 
 
-* [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
+1.  [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
 
-* [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)
+2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)
 
-  Mocked up in back garden, or digitally re-created/faked/
+   Mocked up in back garden or superimposed onto picture taken from another medium?
 
-* [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)
+3. [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)
 
-  A picture taken of some/all members of family at front of house, through window/ at front door/ in garden etc
+   A picture taken of some/all members of family at front of house, through window/ at front door/ in garden etc.
 
+4. [**Fairy Garden**](https://photos.app.goo.gl/xg5Waqmcwm72TkWp7)
 
-* [**Fairy Garden**](https://photos.app.goo.gl/xg5Waqmcwm72TkWp7)
+   Under 10s.
+   
 
-    (U10's)
+5. [**Picture of something claimed from village WhatsApp group**](https://photos.app.goo.gl/M79Hch9v3ErAHdRB9)
 
-* [**Best use of something claimed from village WhatsApp group**](https://photos.app.goo.gl/M79Hch9v3ErAHdRB9)
-
-
-
-1. Best picture of a family pet
-
-2. Best picture of the intended 2020 family holiday .....mocked up in back garden or superimposed onto picture taken from another medium?
-
-3. Household portrait, or Doortrait as they've been renamed. A picture taken of some/all members of family at front of house, through window/ at front door/ in garden etc
-
-4. Picture of Best Fairy Garden (U10's)
-
-5. Picture of something claimed from village whatsapp group and put to good use in new surroundings
+   Picture of something claimed from village whatsapp group and put to good use in new surroundings
 
 6. Lockdown poem or Limerick
 
