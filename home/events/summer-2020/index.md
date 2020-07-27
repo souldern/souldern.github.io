@@ -16,7 +16,7 @@ ol li::marker {font-size:125%; font-weight:bold;}
 * No entry fees.
 
 
-## Submitting Enries
+## Submitting Entries
 
 * Entries can be submitted directly to the site if you have a Google
 account (gmail, android phone, google docs, etc)
