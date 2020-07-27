@@ -53,9 +53,13 @@ WhatsApp please include your real name and which class is being entered,
 
 6. [**Lockdown poem or Limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
 
-7. Best lockdown hairstyle (U10's)
+7. Best lockdown hairstyle
 
-8. Best lockdown hairstyle (Open)
+   (U10's)
+
+8. [**Best lockdown hairstyle**](https://photos.app.goo.gl/pYPf2xWnBhH3C2Xf7)
+
+    (Open)
 
 9. [**Best VE day picture**](https://photos.app.goo.gl/PAid97LYpC9mkb4Z8)
 
@@ -87,18 +91,28 @@ WhatsApp please include your real name and which class is being entered,
 
     ( U10 and Open)
 
-18. Picture of Lockdown essentials (U10 and Open)
+18. [**Picture of Lockdown essentials**](https://photos.app.goo.gl/CAJaxLSKTZ5ocfY3A)
 
-19. Picture of the best reconstruction of a movie scene (U10's and Open)
+    (U10 and Open)
 
-20. Picture of a vegetable or Salad Wreath (U10's and Open)
+19. [**Picture of the best reconstruction of a movie scene**](https://photos.app.goo.gl/Arw4UkFriEg5wiPc8)
 
-21. A picture of the best Souldern landscape ( U10's and Open)
+    (U10's and Open)
 
-22. Picture of the best Lockdown wine bottle sculpture
+20. [**Picture of a vegetable or Salad Wreath**](https://photos.app.goo.gl/SfvJCEKL273N1Jgz5)
 
-23. Picture of the best Sweet Pea stem ............and flower.
+    (U10's and Open)
 
-24. Picture of the most improved Allotment space
+21. [**A picture of the best Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)
 
-25. Picture of your Favorite village pub
+    ( U10's and Open)
+
+22. [**Picture of the best Lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
+
+23. [**Picture of the best Sweet Pea**](https://photos.app.goo.gl/7KufQcUWvGzpfPWa6)
+
+    Stem ............and flower.
+
+24. [**Picture of the most improved Allotment space**](https://photos.app.goo.gl/hrAsk9PtHoPW4JTq5)
+
+25. [**Picture of your Favorite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
