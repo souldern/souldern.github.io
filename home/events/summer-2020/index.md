@@ -36,7 +36,7 @@ WhatsApp please include your real name and which class is being entered,
 
 2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)
 
-    Mocked up in back garden or superimposed onto picture taken from another medium?
+    Mocked up in back garden or superimposed onto picture taken from another medium.
 
 3. [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)
 
