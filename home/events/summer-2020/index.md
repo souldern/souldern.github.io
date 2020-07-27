@@ -3,7 +3,7 @@ layout: default
 title: "2020: Virtual End of Summer Show"
 ---
 <style>
-ol li::marker {font-size:110%; font-weight:bold;}
+ol li::marker {font-size:150%; font-weight:bold;}
 </style>
 
 # Souldern End of Summer Show 2020
