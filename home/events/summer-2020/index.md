@@ -3,7 +3,7 @@ layout: default
 title: "2020: Virtual End of Summer Show"
 ---
 <style>
-body {background-color: rgb(255,255,255,0.9) !important;}
+ol li::marker {font-size:110%; font-weight:bold;}
 </style>
 
 # Souldern End of Summer Show 2020
@@ -16,14 +16,16 @@ body {background-color: rgb(255,255,255,0.9) !important;}
 * No entry fees
 
 
+## Submitting Enries
+
 * Entries can be submitted directly to the site if you have a Google
 account (gmail, android phone, google docs, etc)
 
-  Alternatively entries  may be submitted
+*  Alternatively entries  may be submitted
 by email to [website@souldern.org](mailto:website@souldern.org) or via
 WhatsApp to David Carlisle (+447768584101).
 
-  If submitting via email or
+*  If submitting via email or
 WhatsApp please include your real name and which class is being entered,
 
 
@@ -34,7 +36,7 @@ WhatsApp please include your real name and which class is being entered,
 
 2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)
 
-   Mocked up in back garden or superimposed onto picture taken from another medium?
+    Mocked up in back garden or superimposed onto picture taken from another medium?
 
 3. [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)
 
