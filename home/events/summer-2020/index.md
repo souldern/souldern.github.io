@@ -67,15 +67,25 @@ WhatsApp please include your real name and which class is being entered,
 
 12. [**Picture of Largest Courgette**](https://photos.app.goo.gl/Y8CWtJwY5uvtSvi99)
 
-13. Picture of best lockdown cake (U10's and Open)....not from Supermarket!!!
+13. [**Picture of best lockdown cake**](https://photos.app.goo.gl/SQ4Nno3tmbJikcZ16)
 
-14. Picture of best lockdown savoury (Bread/ buns/ sausage rolls etc)
+    (U10's and Open)....not from Supermarket!!!
 
-15. Picture of best flower arrangement ( U10's and seniors)
+14. [**Picture of best lockdown savoury**](https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA)
 
-16. Picture of longest runner bean ( next to tape measure)
+    (Bread/ buns/ sausage rolls etc)
 
-17. Picture of Best Decorated stone ( U10 and Open)
+15. [**Picture of best flower arrangement**](https://photos.app.goo.gl/5y6vootQ6bEDojfEA)
+
+    ( U10's and seniors)
+
+16. [**Picture of longest runner bean**](https://photos.app.goo.gl/5pZanfDN3uAvWtC27)
+
+    Show next to tape measure or ruler.
+
+17. [**Picture of Best Decorated stone**](https://photos.app.goo.gl/wDXDRFAAyXcqmyLr8)
+
+    ( U10 and Open)
 
 18. Picture of Lockdown essentials (U10 and Open)
 
