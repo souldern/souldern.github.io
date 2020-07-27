@@ -59,11 +59,13 @@ WhatsApp please include your real name and which class is being entered,
 
 9. [**Best VE day picture**](https://photos.app.goo.gl/PAid97LYpC9mkb4Z8)
 
-10. Best picture of a lockdown project
+10. [**Best picture of a lockdown project**](https://photos.app.goo.gl/MwAgaHN7xUUr2HF7A)
 
-11. Tallest Sunflower ...YAYYYYY!!! No measuring, judging to be done by eye with bribery actively encouraged!!!
+11. [**Tallest Sunflower**](https://photos.app.goo.gl/WUR2Y6sWnWLTfUV4A)
 
-12. Picture of Largest Courgette
+    No measuring, judging to be done by eye with bribery actively encouraged!!!
+
+12. [**Picture of Largest Courgette**](https://photos.app.goo.gl/Y8CWtJwY5uvtSvi99)
 
 13. Picture of best lockdown cake (U10's and Open)....not from Supermarket!!!
 
