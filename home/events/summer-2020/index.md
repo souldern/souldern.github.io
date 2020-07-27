@@ -53,6 +53,8 @@ WhatsApp please include your real name and which class is being entered,
 
 6. [**Lockdown poem or Limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
 
+   Photigraph or Scan of the Poem, or submit text version [via email](mailto:website@souldern.org).
+
 7. Best lockdown hairstyle
 
    (U10's)
@@ -103,7 +105,7 @@ WhatsApp please include your real name and which class is being entered,
 
     (U10's and Open)
 
-21. [**A picture of the best Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)
+21. [**Picture of the best Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)
 
     ( U10's and Open)
 
