@@ -48,7 +48,8 @@ WhatsApp please include your real name and which class is being entered,
 5. [**Picture of something claimed from village WhatsApp group**](https://photos.app.goo.gl/M79Hch9v3ErAHdRB9)  
    . . . and put to good use in new surroundings.
 
-6. [**Lockdown poem or limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)     Photograph or scan of the poem, or submit a text version [via email](mailto:website@souldern.org).
+6. [**Lockdown poem or limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
+   Photograph or scan of the poem, or submit a text version [via email](mailto:website@souldern.org).
 
 7. [**Lockdown hairstyle**](https://photos.app.goo.gl/pYPf2xWnBhH3C2Xf7)  
     (U10's and Open)
