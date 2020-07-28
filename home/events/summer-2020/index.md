@@ -4,6 +4,7 @@ title: "2020: Virtual End of Summer Show"
 ---
 <style>
 ol li::marker {font-size:125%; font-weight:bold;}
+oi li p:first-child {color:red; margin-bottom:0pt;}
 </style>
 
 # Souldern End of Summer Show 2020
