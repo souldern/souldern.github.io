@@ -29,6 +29,12 @@ WhatsApp to David Carlisle (+447768584101).
 *  If submitting via email or
 WhatsApp please include your real name and which class is being entered,
 
+* Some classes will have a winner declared for a specified age group
+  (Under 10s or Seniors) in addition to the main classification that
+  is open to all. Send an email to [the
+  organisers](mailto:website@souldern.org) to let us know the names
+  that should be entered in in the age-restricted categories.
+
 
 ## Classes for the Souldern End of Summer Show
 
@@ -52,7 +58,7 @@ WhatsApp please include your real name and which class is being entered,
    Photograph or scan of the poem, or submit a text version [via email](mailto:website@souldern.org).
 
 7. [**Lockdown hairstyle**](https://photos.app.goo.gl/pYPf2xWnBhH3C2Xf7)  
-    (U10's and Open)
+    (Under 10s and Open)
 
 8. [**VE day picture**](https://photos.app.goo.gl/PAid97LYpC9mkb4Z8)
 
@@ -64,31 +70,31 @@ WhatsApp please include your real name and which class is being entered,
 11. [**Picture of largest courgette**](https://photos.app.goo.gl/Y8CWtJwY5uvtSvi99)
 
 12. [**Picture of best lockdown cake**](https://photos.app.goo.gl/SQ4Nno3tmbJikcZ16)  
-    (U10's and Open)....not from Supermarket!!!
+    (Under 10s and Open)....not from Supermarket!!!
 
 13. [**Picture of best lockdown savoury**](https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA)  
     (Bread / buns / sausage rolls / etc.)
 
 14. [**Picture of best flower arrangement**](https://photos.app.goo.gl/5y6vootQ6bEDojfEA)  
-    (U10's and seniors)
+    (Under 10s and seniors)
 
 15. [**Picture of longest runner bean**](https://photos.app.goo.gl/5pZanfDN3uAvWtC27)  
     Show next to tape measure or ruler.
 
 16. [**Picture of Best Decorated stone**](https://photos.app.goo.gl/wDXDRFAAyXcqmyLr8)  
-    (U10 and Open)
+    (Under 10s and Open)
 
 17. [**Picture of Lockdown essentials**](https://photos.app.goo.gl/CAJaxLSKTZ5ocfY3A)  
-    (U10 and Open)
+    (Under 10s and Open)
 
 18. [**Picture of a reconstruction of a movie scene**](https://photos.app.goo.gl/Arw4UkFriEg5wiPc8)  
-    (U10's and Open)
+    (Under 10s and Open)
 
 19. [**Picture of a vegetable or salad wreath**](https://photos.app.goo.gl/SfvJCEKL273N1Jgz5)  
-    (U10's and Open)
+    (Under 10s and Open)
 
 20. [**Picture of the best Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)  
-    (U10's and Open)
+    (Under 10s and Open)
 
 21. [**Picture of the best lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
 
@@ -100,4 +106,4 @@ WhatsApp please include your real name and which class is being entered,
 24. [**Picture of your favourite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
 
 25. [**Picture of homemade facemask**](https://photos.app.goo.gl/6Rfrga59gsqp7AXq8)     
-    (U10's and Open)
+    (Under 10s and Open)
