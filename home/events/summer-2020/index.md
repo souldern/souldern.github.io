@@ -69,19 +69,19 @@ WhatsApp please include your real name and which class is being entered,
 
 11. [**Picture of largest courgette**](https://photos.app.goo.gl/Y8CWtJwY5uvtSvi99)
 
-12. [**Picture of best lockdown cake**](https://photos.app.goo.gl/SQ4Nno3tmbJikcZ16)  
+12. [**Picture of a lockdown cake**](https://photos.app.goo.gl/SQ4Nno3tmbJikcZ16)  
     (Under 10s and Open)....not from Supermarket!!!
 
-13. [**Picture of best lockdown savoury**](https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA)  
+13. [**Picture of a lockdown savoury**](https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA)  
     (Bread / buns / sausage rolls / etc.)
 
-14. [**Picture of best flower arrangement**](https://photos.app.goo.gl/5y6vootQ6bEDojfEA)  
+14. [**Picture of a flower arrangement**](https://photos.app.goo.gl/5y6vootQ6bEDojfEA)  
     (Under 10s and seniors)
 
 15. [**Picture of longest runner bean**](https://photos.app.goo.gl/5pZanfDN3uAvWtC27)  
     Show next to tape measure or ruler.
 
-16. [**Picture of Best Decorated stone**](https://photos.app.goo.gl/wDXDRFAAyXcqmyLr8)  
+16. [**Picture of a decorated stone**](https://photos.app.goo.gl/wDXDRFAAyXcqmyLr8)  
     (Under 10s and Open)
 
 17. [**Picture of Lockdown essentials**](https://photos.app.goo.gl/CAJaxLSKTZ5ocfY3A)  
@@ -93,12 +93,12 @@ WhatsApp please include your real name and which class is being entered,
 19. [**Picture of a vegetable or salad wreath**](https://photos.app.goo.gl/SfvJCEKL273N1Jgz5)  
     (Under 10s and Open)
 
-20. [**Picture of the best Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)  
+20. [**Picture of a Souldern landscape**](https://photos.app.goo.gl/EyxmDApYwPjVFqqg7)  
     (Under 10s and Open)
 
-21. [**Picture of the best lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
+21. [**Picture of the a lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
 
-22. [**Picture of the best sweet pea**](https://photos.app.goo.gl/7KufQcUWvGzpfPWa6)  
+22. [**Picture of a sweet pea**](https://photos.app.goo.gl/7KufQcUWvGzpfPWa6)  
     Stem . . . and flower.
 
 23. [**Picture of the most improved allotment space**](https://photos.app.goo.gl/hrAsk9PtHoPW4JTq5)
