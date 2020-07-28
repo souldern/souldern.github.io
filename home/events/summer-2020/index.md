@@ -2,10 +2,7 @@
 layout: default
 title: "2020: Virtual End of Summer Show"
 ---
-<style>
-ol li::marker {font-size:125%; font-weight:bold;}
-oi li p:first-child {color:red; margin-bottom:0pt;}
-</style>
+
 
 # Souldern End of Summer Show 2020
 
@@ -35,22 +32,19 @@ WhatsApp please include your real name and which class is being entered,
 
 1.  [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
 
-2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)
-
+2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)  
     Mocked up in back garden or superimposed onto picture taken from another medium.
 
 3. [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)
 
    A picture taken of some/all members of family at front of house, through window/ at front door/ in garden etc.
 
-4. [**Fairy Garden**](https://photos.app.goo.gl/xg5Waqmcwm72TkWp7)
-
+4. [**Fairy Garden**](https://photos.app.goo.gl/xg5Waqmcwm72TkWp7)  
    Under 10s.
    
 
-5. [**Picture of something claimed from village WhatsApp group**](https://photos.app.goo.gl/M79Hch9v3ErAHdRB9)
-
-   Picture of something claimed from village whatsapp group and put to good use in new surroundings
+5. [**Picture of something claimed from village WhatsApp group**](https://photos.app.goo.gl/M79Hch9v3ErAHdRB9)  
+   . . . and put to good use in new surroundings.
 
 6. [**Lockdown poem or Limerick**](https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA)
 
