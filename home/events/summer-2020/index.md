@@ -97,7 +97,7 @@ WhatsApp please include your real name and which class is being entered,
 
     (U10's and Open)
 
-19. [**Picture of a vegetable or Salad Wreath**](https://photos.app.goo.gl/SfvJCEKL273N1Jgz5)
+19. [**Picture of a vegetable or salad wreath**](https://photos.app.goo.gl/SfvJCEKL273N1Jgz5)
 
     (U10's and Open)
 
@@ -113,7 +113,7 @@ WhatsApp please include your real name and which class is being entered,
 
 23. [**Picture of the most improved allotment space**](https://photos.app.goo.gl/hrAsk9PtHoPW4JTq5)
 
-24. [**Picture of your favorite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
+24. [**Picture of your favourite village pub**](https://photos.app.goo.gl/qcqESkW977ngQ3vE7)
 
 25. [**Picture of homemade facemask**](https://photos.app.goo.gl/6Rfrga59gsqp7AXq8)
    
