@@ -21,7 +21,7 @@ li img {width:5em; vertical-align:middle}
    * [Bike Loan](#bikes)
  * [Local Suppliers](#local-suppliers)
    * [Milkman](#milk-round)
-   * [The Fox takeaway service](#fox-inn)
+   * [The Fox Inn](#fox-inn)
    * [Wrightons](#wrightons-fritwell)
    * [A.E. Prentice Coal Merchants](#ae-prentice)
    * [Wriggly Monkey Brewery](#wriggly-monkey-brewery)
