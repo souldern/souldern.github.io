@@ -90,52 +90,85 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 
 ### Fox Inn
 
-*Fox Reopening for Outside meals 4th July*
+Please note we will be opening both lunch and dinner next Monday,
+Tuesday and Wednesday to participate in the government’s “eat out “
+scheme, all food and soft drinks 50% off up to a maximum of £10 per
+person.
 
-The Fox Inn are providing local takeaway or delivery service  for those who need it.
-
-Every **Thursday, Friday and Saturday**.
-
-They may be contacted  on 01869 345 284 or mobile<br> Paul: 07931 371956, Hannah: 07980 417631 and Les: 07856 400358
-
+**Take away**
 
 
-**The Fox Inn takeaway options**
+The Fox Inn takeaway options for the 30th and 31st July, 1st and 2nd August are as follows-
 
-Snacks £5.   All meals and Specials  £10.
+* Aromatic Prawn and Cod Fish Balls with a Thai Coconut Sauce and Crunchy Vegetables £10.00 (not available Sunday)
 
-**Small Snacks**
+* Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00 
 
-> * Deep Fried Whitebait 
->
-> * Halloumi Fries 
+* Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
 
+* Chargrilled Chicken Caesar Salad with French Fries, Smoked Bacon and Parmesan £10.00
 
-**Regular Meals £10** for 2nd, 3rd, 4th and 5th July 
+* BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00 (not available Sundays)
 
-> * Beer battered Fish and Chips with peas, tartar sauce and lemon £10.00 
->
-> * Home made Burger with Smoked Bacon, Cheddar Cheese, chips and onion rings £10.00
->
-> * Chargrilled Chicken Caesar Salad with French Fries, Smoked Bacon and Parmesan £10.00
->
-> * BBQ Meat Feast and Mozzarella Pizza with Chunky Chips £10.00
->
-> * Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
->
-> * Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
->
-> * Louisiana Style Chicken Breast with French Fries and Buttered Greens £10.00 (not available Sunday)
+* Whole Tail Scampi with Chips, peas, tartar sauce and lemon £10.00
+
+* Pan Fried Halloumi Burger with Chips and Onion Rings £10.00
+
+* Sunday 2nd - Slow Roast Loin of Pork or Roasted Rump of Beef both
+  Served with All the Trimmings £10.00 (Pre order by Friday Afternoon)
 
 Please call us on 01869 345 284 to place your order leaving what you
 would like, your Telephone Number, Name and preferred time of
 collection, we'll call you back if your chosen time is full. First
-come first served bases in regards to menu choices and time
-slot. Opening Times for collection are between 5.30pm - 7.30pm
-Thursday through Saturday and 12.00pm - 2.30pm Sunday. We'll be doing
-collections through the Kitchen door as per usual.
+come first served bases in regards to menu choices and time slot.
+Opening Times for collection are between 5.30pm - 7.30pm Thursday
+through Saturday and 12.00pm - 2.30pm Sunday. We'll be doing
+collections from the designated area.
 
-Thanks in advance and we look forward to seeing you. The Fox Inn Team. 🦊
+
+**Coming to The Fox Inn this August ONLY.** The Government's Eat out
+  to Help out Scheme will be running from Monday to Wednesday every
+  week in August allowing customers to get HALF PRICE off Food and
+  Soft Drinks.
+
+SO DON'T MISS OUT! Book your Cabana and enjoy some Great Food for HALF
+PRICE (government T's and C's apply).
+
+For more information or to book
+a Cabana call us on 01869345284.(BOOKING HIGHLY RECOMMENDED TO AVOID
+DISAPPOINTMENT)
+
+**Opening Times**:
+
+* Food served Monday to Wednesday from
+12.00pm to 2.00pm and 5.30pm to 7.30pm.
+
+* Drinks served Monday to
+Wednesday from 12.00pm to 3.00pm and 5.00pm to 9.00pm.
+
+Thanks in advance The Fox Inn Team 🦊
+
+**Mains**
+
+* Cajon Blackened Sea Bass Fillet on Asparagus, Petit Pois, Sweetcorn and Dauphinoisse Potatoes with a Citrus Dressing £16.00
+
+* Char Grilled Rib Eye Steak with Triple Cooked Chips, Crunchy Salad, Onion Rings and Peppercorn Sauce £20.00
+
+* King Prawn and Smoked Haddock Risotto, Baby Leeks, Broad Beans, Creme Fraiche and Pesto £16.00
+
+* Garlic and Rosemary Roasted Rump of Lamb, Buttered Mash, Green Beans and Onion Gravy £16.00
+
+* Sweet Pepper, Tomato and Spinach Baked Halloumi with Dressed Leaves and Coriander Flatbread £16.00
+
+**Desserts**
+
+Desserts £4.00 each with any main course purchase.
+
+* Sticky Toffee Pudding with Butterscotch Sauce and Vanilla Ice Cream £6.00
+
+* Summer Fruit Eton Mess, Strawberry Coulis and Candy Floss £6.00
+
+* Warm Chocolate Brownie with White Chocolate and Vanilla Ice Cream £6.00
 
 
 
