@@ -125,18 +125,10 @@ Opening Times for collection are between 5.30pm - 7.30pm Thursday
 through Saturday and 12.00pm - 2.30pm Sunday. We'll be doing
 collections from the designated area.
 
-
-**Coming to The Fox Inn this August ONLY.** The Government's Eat out
-  to Help out Scheme will be running from Monday to Wednesday every
-  week in August allowing customers to get HALF PRICE off Food and
-  Soft Drinks.
-
-SO DON'T MISS OUT! Book your Cabana and enjoy some Great Food for HALF
-PRICE (government T's and C's apply).
-
 For more information or to book
-a Cabana call us on 01869345284.(BOOKING HIGHLY RECOMMENDED TO AVOID
-DISAPPOINTMENT)
+a Cabana call us on 01869345284.
+(Booking Highly Recommended To Avoid
+Disappointment)
 
 **Opening Times**:
 
