@@ -28,13 +28,14 @@
       clearInterval(galleries[n].renew);
   }
   
-  
+galleryheight=galleryheight || "20em";
+
 for (n in galleries) {
     var d=document.getElementById(n);
     d.setAttribute("title",galleries[n].title);
     d.setAttribute("onclick","imgStop('" + n + "')");
     d.style.clear="both";
-    d.style.height="20em";
+    d.style.height=galleryheight;
     d.style.backgroundColor="#555";
     d.style.backgroundSize="contain";
     d.style.backgroundRepeat="no-repeat";
