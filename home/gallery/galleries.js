@@ -28,9 +28,7 @@
       clearInterval(galleries[n].renew);
   }
 
-if (galleryheight==null) {
-    galleryheight= "20em";
-}
+var galleryheight = galleryheight || "20em";
 
 for (n in galleries) {
     var d=document.getElementById(n);
