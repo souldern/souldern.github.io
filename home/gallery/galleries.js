@@ -1,3 +1,6 @@
+var galleryheight = galleryheight || "20em";
+var gallerybg = gallerybg || "#555";
+var galleryspeed = galleryspeed || 5000;
 
   function imgNext(n) {
       var g=galleries[n];
@@ -15,7 +18,7 @@
   }
   
   function imgLoop (n) {
-      return setInterval(function(){imgNext(n)},5000)}
+      return setInterval(function(){imgNext(n)},galleryspeed)}
   
   
   function imgStart (n) {
@@ -28,8 +31,6 @@
       clearInterval(galleries[n].renew);
   }
 
-var galleryheight = galleryheight || "20em";
-var gallerybg = gallerybg || "#555";
 
 for (n in galleries) {
     var d=document.getElementById(n);

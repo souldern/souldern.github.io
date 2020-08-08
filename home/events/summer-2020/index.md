@@ -207,5 +207,6 @@ WhatsApp please include your real name and which class is being entered,
 <script>
 var galleryheight="7em";
 var gallerybg="#FFF";
+var galleryspeed=2000;
 </script>
 <script src="../../gallery/galleries.js"></script>
