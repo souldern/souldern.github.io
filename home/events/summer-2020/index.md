@@ -152,7 +152,7 @@ WhatsApp please include your real name and which class is being entered,
     <div id="landscape"></div>
 
 
-21. [**Picture of the a lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
+21. [**Picture of a lockdown wine bottle sculpture**](https://photos.app.goo.gl/eS48GEn2Dc99GJ3AA)
 
     <div id="sculpture"></div>
 
