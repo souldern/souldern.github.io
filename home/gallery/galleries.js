@@ -27,8 +27,10 @@
       document.getElementById(n+'buttons').style.display='block';
       clearInterval(galleries[n].renew);
   }
-  
-galleryheight=galleryheight || "20em";
+
+if (galleryheight==null) {
+    galleryheight= "20em";
+}
 
 for (n in galleries) {
     var d=document.getElementById(n);
