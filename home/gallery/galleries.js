@@ -29,6 +29,7 @@
   }
 
 var galleryheight = galleryheight || "20em";
+var gallerybg = gallerybg || "#555";
 
 for (n in galleries) {
     var d=document.getElementById(n);
@@ -36,7 +37,7 @@ for (n in galleries) {
     d.setAttribute("onclick","imgStop('" + n + "')");
     d.style.clear="both";
     d.style.height=galleryheight;
-    d.style.backgroundColor="#555";
+    d.style.backgroundColor=gallerybg;
     d.style.backgroundSize="contain";
     d.style.backgroundRepeat="no-repeat";
     d.style.backgroundPosition="center";

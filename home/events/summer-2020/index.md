@@ -206,5 +206,6 @@ WhatsApp please include your real name and which class is being entered,
 <script src="wreath.js"></script>
 <script>
 var galleryheight="7em";
+var gallerybg="#FFF";
 </script>
 <script src="../../gallery/galleries.js"></script>
