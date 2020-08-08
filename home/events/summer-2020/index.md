@@ -84,7 +84,7 @@ WhatsApp please include your real name and which class is being entered,
 
 9. [**Picture of a lockdown project**](https://photos.app.goo.gl/MwAgaHN7xUUr2HF7A)
 
-    <div id="lockdown"></div>
+    <div id="project"></div>
 
 
 10. [**Tallest Sunflower**](https://photos.app.goo.gl/WUR2Y6sWnWLTfUV4A)  
