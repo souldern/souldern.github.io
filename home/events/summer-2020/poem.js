@@ -5,7 +5,7 @@ galleries.poem = {
     url: "https://photos.app.goo.gl/jgCKsv3n1kG3p4hDA",
     album: [
 
-"https://lh3.googleusercontent.com/bJAwOwZga6EyejiNn5GRHk5bb2yapNgoRFnM5J26kq0A83sRYh9ZJ3stGDa5E1heJf72zMvShjCjjWaCoIagIPtVWRDtsim2A1ej0oJBY248KCxqCbmdfOn6Uybv3ft_maXiIX9ERg",
+"https://lh3.googleusercontent.com/soiFoyw8wGLi8CSNCU0xC7M6wIJjPGRzMV4c0_XDxTWLm3rwyX_P5TWQJR4Uqp9pzDwMz_dUEVpzYv_rqMS6gB6WAzFTaF4-Ey0SlVp-kqQqfD7yrIzk3wWoAa-CHfG38NRNAe7Ggg",
 
 ]
 };
