@@ -5,7 +5,7 @@ galleries.arrangement = {
     url: "https://photos.app.goo.gl/5y6vootQ6bEDojfEA",
     album: [
 
-"https://lh3.googleusercontent.com/tI6DjOc7Jz3xxlYsD1BFp-_1T4wNbeStJY6SxoaizDq-CC0tG_KvEbg9Bugnz0KbJB_31O0T-ZCpeCsYTcGKMw_mFHCVzFaEN6v-x1voXTvNz3AtX4gGbUusNJLsUpfpoCtJ-yeUoQ",
+"https://lh3.googleusercontent.com/UVC_fv-f5mB53gHgdQn9dvZm1HSDZ7ecv210EoD8Lm8R76P7JonK5RhdJnCLedQZw9Z62eEYxPlpyl0hfNu1CQQt7cHeJHlShPYmulin8E8Ix359PCLylfx5aVuY9AdsHV2iPyLirA",
 
 ]
 };
