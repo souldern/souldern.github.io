@@ -62,6 +62,7 @@ https://souldern.github.io/history/linger-a-while-1989/timber-carting
 https://souldern.github.io/history/linger-a-while-1989/titch-the-flavoured-one
 https://souldern.github.io/history/linger-a-while-1989/will-west-slam-one
 https://souldern.github.io/history/linger-a-while-1989/william-henry-solomon-joseph-coles
+https://souldern.github.io/history/listed
 https://souldern.github.io/history/memorial-1914-1918/arthur-john-lake
 https://souldern.github.io/history/memorial-1914-1918/arthur-parker
 https://souldern.github.io/history/memorial-1914-1918/aubrey-ernest-westbury
@@ -145,12 +146,16 @@ https://souldern.github.io/home/announcements/annualparishmeeting2017
 https://souldern.github.io/home/announcements/annualparishmeetingandspcmeeting7pm730pm24thmay
 https://souldern.github.io/home/announcements/audreywestbury
 https://souldern.github.io/home/announcements/aynhocarboot27thaugust
+https://souldern.github.io/home/announcements/b4100-august2020
+https://souldern.github.io/home/announcements/b4100-july2020
 https://souldern.github.io/home/announcements/b4100-may2020
 https://souldern.github.io/home/announcements/back-in-time-shop/
+https://souldern.github.io/home/announcements/baking
 https://souldern.github.io/home/announcements/bicester-hospital-coffee-2019
 https://souldern.github.io/home/announcements/bicester-hospital-vehicle-new
 https://souldern.github.io/home/announcements/bicester-hospital-vehicle
 https://souldern.github.io/home/announcements/bicestercommunityhospitalbazaar
+https://souldern.github.io/home/announcements/biscuits-and-houses
 https://souldern.github.io/home/announcements/bringandbuysale10thmarchsouldernvillagedefibrilator
 https://souldern.github.io/home/announcements/broadbandmeeting
 https://souldern.github.io/home/announcements/campatnancybowleswood
@@ -199,6 +204,7 @@ https://souldern.github.io/home/announcements/escapedpheasants
 https://souldern.github.io/home/announcements/footpathstoayno
 https://souldern.github.io/home/announcements/footpathstocoughtonandtusmore
 https://souldern.github.io/home/announcements/footpathstofritwell
+https://souldern.github.io/home/announcements/fox-open-july2020
 https://souldern.github.io/home/announcements/funeralofaubreyreeve
 https://souldern.github.io/home/announcements/gdprsouldernmailinglist
 https://souldern.github.io/home/announcements/gigacleardemo
@@ -242,14 +248,20 @@ https://souldern.github.io/home/announcements/parishcouncilmeetingthursday20thju
 https://souldern.github.io/home/announcements/pheasantsallcaught
 https://souldern.github.io/home/announcements/pheasantspotted
 https://souldern.github.io/home/announcements/playground-covid-19
+https://souldern.github.io/home/announcements/playground-design-competition
 https://souldern.github.io/home/announcements/playground-safety-2019
 https://souldern.github.io/home/announcements/playground2020-minutes
 https://souldern.github.io/home/announcements/playground2020
 https://souldern.github.io/home/announcements/playground_questionnaire_final.pdf
 https://souldern.github.io/home/announcements/policing-survey
 https://souldern.github.io/home/announcements/publicpathdiversionanddefinitivemapandstatementmodificationorder2017
+https://souldern.github.io/home/announcements/quiz-may22nd-2020
+https://souldern.github.io/home/announcements/quiz-may8th-2020
+https://souldern.github.io/home/announcements/quizes2020
 https://souldern.github.io/home/announcements/recipes2020
 https://souldern.github.io/home/announcements/rodneyallanmemorialconcert
+https://souldern.github.io/home/announcements/samuelsbox
+https://souldern.github.io/home/announcements/show-2020
 https://souldern.github.io/home/announcements/soulderncarbootsales-files/Souldern car boot flyer-1.pdf
 https://souldern.github.io/home/announcements/soulderncarbootsales
 https://souldern.github.io/home/announcements/souldernchapelharvestfestival22-23september
@@ -275,7 +287,9 @@ https://souldern.github.io/home/announcements/souldernwebsite
 https://souldern.github.io/home/announcements/souldernwesleyanchapelharvestfestival
 https://souldern.github.io/home/announcements/souldern_playground_open_meeting.pdf
 https://souldern.github.io/home/announcements/spc-2018-2019
+https://souldern.github.io/home/announcements/spc-meetings2020
 https://souldern.github.io/home/announcements/spc-nominations-2019
+https://souldern.github.io/home/announcements/spc-papers-2019-20
 https://souldern.github.io/home/announcements/spc-results-2019
 https://souldern.github.io/home/announcements/spc-vacancy
 https://souldern.github.io/home/announcements/spc2016-17annualreturn
@@ -299,6 +313,7 @@ https://souldern.github.io/home/announcements/twonewsoulderndirectories1924and19
 https://souldern.github.io/home/announcements/updatedfootpathdescriptions
 https://souldern.github.io/home/announcements/updatedfootpathpages
 https://souldern.github.io/home/announcements/updatedinformationforsouldernwackyracesevent
+https://souldern.github.io/home/announcements/ve75-album
 https://souldern.github.io/home/announcements/victoria prentis at the fox
 https://souldern.github.io/home/announcements/village-hall-committee
 https://souldern.github.io/home/announcements/villagehallagm14thapril2016
@@ -319,18 +334,25 @@ https://souldern.github.io/home/events/
 https://souldern.github.io/home/events/oakapple2014/
 https://souldern.github.io/home/events/solstice2015/
 https://souldern.github.io/home/events/souldern-stomp
+https://souldern.github.io/home/events/summer-2020/
 https://souldern.github.io/home/events/summer-event-2017/
+https://souldern.github.io/home/events/ve75-2020
 https://souldern.github.io/home/G5-Brochure.pdf
 https://souldern.github.io/home/gallery/
 https://souldern.github.io/home/gallery/queen-s-90th-birthday
+https://souldern.github.io/home/gallery/souldern2020
 https://souldern.github.io/home/houses/
 https://souldern.github.io/home/
 https://souldern.github.io/home/local-services
 https://souldern.github.io/home/map
 https://souldern.github.io/home/menu
 https://souldern.github.io/home/neighbouring-villages
+https://souldern.github.io/home/playground2020/
 https://souldern.github.io/home/postcodes
 https://souldern.github.io/home/privacy-policy
+https://souldern.github.io/home/quiz/animals
+https://souldern.github.io/home/quiz/
+https://souldern.github.io/home/quiz/localknowledge
 https://souldern.github.io/home/recipes/
 https://souldern.github.io/home/site-notes/file-upload
 https://souldern.github.io/home/site-notes/html-posting
@@ -390,6 +412,9 @@ https://souldern.github.io/parish-council/spc-agenda/2019-09-26 Agenda.pdf
 https://souldern.github.io/parish-council/spc-agenda/2019-11-28 Agenda.pdf
 https://souldern.github.io/parish-council/spc-agenda/2020-01-30 Agenda.pdf
 https://souldern.github.io/parish-council/spc-agenda/2020-03-02 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2020-05-28 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2020-06-25 Agenda.pdf
+https://souldern.github.io/parish-council/spc-agenda/2020-07-30 Agenda.pdf
 https://souldern.github.io/parish-council/spc-agenda/
 https://souldern.github.io/parish-council/spc-documents/
 https://souldern.github.io/parish-council/spc-documents/ROSPA Report November 2019.pdf
@@ -473,6 +498,11 @@ https://souldern.github.io/parish-council/spc-minutes/2019-05-23 SPC minutes.pdf
 https://souldern.github.io/parish-council/spc-minutes/2019-06-27 SPC minutes.pdf
 https://souldern.github.io/parish-council/spc-minutes/2019-07-25 SPC minutes.pdf
 https://souldern.github.io/parish-council/spc-minutes/2019-09-26 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2019-11-28 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2020-01-30 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2020-03-02 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2020-03-26 SPC minutes.pdf
+https://souldern.github.io/parish-council/spc-minutes/2020-07-30 SPC minutes.pdf
 https://souldern.github.io/parish-council/spc-minutes/
 https://souldern.github.io/parish-council/spc-newsletter/
 https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2014-12.pdf
@@ -489,6 +519,8 @@ https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-09.pdf
 https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2017-12.pdf
 https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2018-03.pdf
 https://souldern.github.io/parish-council/spc-newsletter/NEWSLETTER-2018-07.pdf
+https://souldern.github.io/parish-council/spc-newsletter/Souldern Shout Out Apr20.pdf
+https://souldern.github.io/parish-council/spc-newsletter/Souldern Shout Out May20.pdf
 https://souldern.github.io/parish-council/transparency
 https://souldern.github.io/parish-council/vision-for-souldern/
 https://souldern.github.io/parish-council/vision-for-souldern/Souldern Vison & Conservation Event.pdf
@@ -519,6 +551,7 @@ https://souldern.github.io/recreational-areas/footpaths/351-6
 https://souldern.github.io/recreational-areas/footpaths/351-7
 https://souldern.github.io/recreational-areas/footpaths/351-8
 https://souldern.github.io/recreational-areas/footpaths/ab9
+https://souldern.github.io/recreational-areas/footpaths/abx
 https://souldern.github.io/recreational-areas/footpaths/
 https://souldern.github.io/recreational-areas/footpaths/nbw-1
 https://souldern.github.io/recreational-areas/footpaths/whl-1
