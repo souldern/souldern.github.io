@@ -5,7 +5,7 @@ galleries.landscape = {
     url: "https://photos.app.goo.gl/EyxmDApYwPjVFqqg7",
     album: [
 
-"https://lh3.googleusercontent.com/TkyQhFbj_hdzx39Lm8kjXflnMdls5-B9FtwmSdRb6_ltN8ENxmidjw5grw--JiJ_Av_E4uVAR8X3BAc04uIdQGnJGtQqUeX8O20t8ooJHRKqobqXSFPZ2eKsURoCle5gYIfgSxuXaw",
+"https://lh3.googleusercontent.com/Ohwo_Jz0BkA8T1pSfAc8jkphEgMX0dakP9Dp7AryCALS4JO6vLMVb8YuMru6sF1Kj20xZ0PasS6JcIrVKp7bF-05xGSOOzqFSpVTw64KQbZu-QELGpHnDTcC-FQzKFxOpF6yygBBPg",
 
 ]
 };
