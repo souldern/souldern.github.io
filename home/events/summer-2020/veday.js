@@ -5,6 +5,7 @@ galleries.veday = {
     url: "https://photos.app.goo.gl/PAid97LYpC9mkb4Z8",
     album: [
 
+"https://lh3.googleusercontent.com/fiN1KY1f4eOoPRnqhqRuky7cbawz4dnfm-S6xA9CMFeW7TnYT_xZGCgFdKrW8cdkeE6vQW30nRF42_w_44xQbRfwLzW2nr0Gvi-hhRO_yvexucZweLyfzjl8FaN6tg9cbDKVMHzaCA",
 "https://lh3.googleusercontent.com/SFZrK8oGOu1jmPv7qpMOHjHqsglqWph6WwBRLXxPyeybSoGxtqzrBKl_EpjpwOCELEEW6d4Ba_nxTqFG2_m6HZTK2tvoZ8YKxZja2Qa-rf9u0DtGsx0-HJkFRU6oVIyLGMreOKLcPQ",
 "https://lh3.googleusercontent.com/ew_kEsYTuV_az1vI9hiHXkNoAJzZvJpHqMsDpilsn2ZAw0sBsLcvkRpQw33HjdLuKt6oO86PCk8MXcV7Lpmc73TsjrJ5j3ecSbAITXvWPKTlGmaT4PppexI4Jq_XKSM7UQ5Keiwq2Q",
 "https://lh3.googleusercontent.com/R0yHL7iKrwMGT28aAFi7l7WMmGDNkfx_uN-0MCYOStk11Ajz0e0HjjFMmkuzCfTR7hXK3vtuebUwfOgDSH9u6mJaZbEWF4TC7ogRoUKuAmIdRJtur4j_N5bpUwei-Bw_x6VBnCWXHg",
