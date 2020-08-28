@@ -7,6 +7,8 @@ galleries.project = {
 
 "https://lh3.googleusercontent.com/-OQ93skSJnuYJoWsbbQKpiMZIUtTrgEqDyS2mHwyIiJ7nriTCGaqM6-SsOC6J9rzSxeB0U2PmP5eoblwIfjMtJkP0DXetQzNV-npUneiTWg42h4PjgD5WL_gT7wk39mXZquyDLfE8g",
 "https://lh3.googleusercontent.com/OyX5e7ohmqBCBGeILh7izJSD3oSm023VFxDOEd_JMzKY8_VCQgWJWrm2bcj4TSPARpJIw--LImGn2XBYJHMc9TwtjMa2kERb0JXppbqbxwgp9uFbW7QmcLBQvVGlJQ0vW8-2Vb9wfw",
+"https://lh3.googleusercontent.com/Z7kRzftaRotOtX-zT2r1FLFu531UpL5IL95kPlv2X-SOlhM-oXEKx0sRjv02jDA-MlNbDOwyxEmwa40v-XQxnbEeN4a4CcGocjGmMQE83mQdF2hADTtqoVo7hvZpYS136inHFwQnLA",
+"https://lh3.googleusercontent.com/Y4smRSqox83qB32757IjIBjEpEuaeJBGKQZlkmJmeSQzjyOyYOhttQea8HqNrOp8S19cylLpKtBoTp0FZ4Z1g0OR_spoCyb0kSGc7MIFAMeSj4wAJ9jchl8oIT2gA0NDvpjVYPE7BA",
 
 ]
 };

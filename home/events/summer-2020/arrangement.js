@@ -10,6 +10,7 @@ galleries.arrangement = {
 "https://lh3.googleusercontent.com/llj5w7xZ5sNoVXXaYIgw0pO9qqOnbx3Iv4Xt6kyPCI2Zg68Jf0gHhMWlrgQlh74LnsbXBfpymn-3LgJ1QDoU6Lg0wy226zBOAWmvxdjSafQ5r-RrVnCqpj2rTf5Y3x0oJJrSwt87xQ",
 "https://lh3.googleusercontent.com/uY69GWLpJciXNBVzNDMkRlU4z6L362OlC0UQihIySeSWmbS3r5NIRnRM5qtQ6HA4hSKozu-fGetkz39hwSG_nrk1p-o9E9rcRLjkIv6XdyaBGuROy9lKMX0oBm6ZF-90k7E8saX1_A",
 "https://lh3.googleusercontent.com/PASxks6iPSBtAAQqFCgPZFg2YbLYReh0MPLbBl5jYb7HB2aj7p_oAFxhcIrQsPnAReT0qMy6G0c6a2FYXo8cweztxYUhN1M6CQslcufaweaM2XpO29wdPuVDMHXuc8cWVWbiI03sjg",
+"https://lh3.googleusercontent.com/sIxZtyfXINkQqhWdGigixPiPRqbTjBbKRlrwbbmGrN7oDjDJV1MRGkXrAwEPnopFMbp-ZUpYLChqhkiPQZNolqdnSLHit8TNtFvvYfc8UaPlLfy2pEB4mlNQioygvAOsAbIRrOsFkA",
 
 ]
 };
