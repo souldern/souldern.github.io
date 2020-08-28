@@ -5,10 +5,10 @@ galleries.savoury = {
     url: "https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA",
     album: [
 
-"https://lh3.googleusercontent.com/5vbaISbxpf2XWPksEjU9yoToQf_OU6HbpCR1nIk5XxW30UzM1zIiURFMG9n5A_HBmXjkuucZkPjP4uK1pQyvoxWDXrUtu1YWLN3jFzDmGCYgonUSpA3_rMPcb7PqdUJSEWWy94FwJg",
-"https://lh3.googleusercontent.com/cd9zo58vI74FJoPjh9ll9qRJbhEl9fmpU8ABGsIDSOER3vItlsuHpO6qrfHQhNl9XrqzZqq9_9GzMtJmIZbZqtH82tT7quREHncsYZeJlHeL01GywI8RUj8wr4wtol3zGHLjbVW2rQ",
-"https://lh3.googleusercontent.com/Oc5KTQe6gCi-nFw5Aw6RfaQpeyyk6dO1ZNLHd0TTwr5kjAPPLFwGRipgbay-HLePdZQADyY4Av-RvPBPlHAgnEQC1nzWfg1Ks9MPNtgTtHAJYv0IakC68PkRDAn_Difw7XeM8_o6BQ",
-"https://lh3.googleusercontent.com/HP8IWi-I_0RJfUt1oYKX4oiFaidTA037HhQwt0Qom7FMpr8z8cAD25D7JB78xrr2qTylO2CaSuLzmBmUlGuQp8VV8sgLY1jQSonwVRz_-QKB7d5xB8Fq_I2BnjgEH3CkrCYP6k8jAQ",
+"https://lh3.googleusercontent.com/7pKSOmMfqbGwUyPncrm7_g7JbwawZwrj0Nr1XM639gAjgMnV_cYD6Tkc2hFucKH4dDXP5ordbE-xjUVDEkqokWt39v_O4VTun0au9mHoFvwlwhx45oyT9ZtrbqrO7F7qCx6GSiEdEA",
+"https://lh3.googleusercontent.com/L9E98b1bj8veK2YZ2lmeh9SCwtK-K8SVo273wUfP5z4q23pBoJFQx8Cs5fB7QJksRQ1uMgM9aEEpHOYEqSsVPWqv_7JH_vnaArTK-b9eP-n5G5q0-3eDJ8rZ51DeXuF376IY1hKUgg",
+"https://lh3.googleusercontent.com/vXkA19ZubEG_XTfU8gForyh9Ku7qp3wNW3HV57gSjNl23uCz-B8jXX-2oHhrCh0jP5eogYcYbUsSoM2n2zvSOP_PgGBDzik5jWtrlG6gaOWaPKGpF23fMFLRyqruZHAFP8EheZelgw",
+"https://lh3.googleusercontent.com/FJRj9bg1EpwkeRh1-Qjlxw6Wb5HUFkOiliE9VFuVvVdr_LFsnosG6MICOYMpoSTuqPG5oRgMlUJOd6rLoD7VNjGRscpMttahKfLCOCxgY5K6olHuMnfJBD9xGHpYsF8nzHf1mTrNuA",
 
 ]
 };
