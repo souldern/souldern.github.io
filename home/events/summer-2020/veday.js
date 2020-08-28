@@ -14,6 +14,7 @@ galleries.veday = {
 "https://lh3.googleusercontent.com/daCDuVlpLxbafAlBgeLm5yTU-SO8Q08dzRT94s8r_GrZYeH-qnvvdlhvQLLc2v0RdVl1byOEmJ-_gsSI_JU8rYMbNM1NMGWBbH-ZicJSZRBcV8jE3Y9JFHC1Y2EAU6_hZ5lTZESkeQ",
 "https://lh3.googleusercontent.com/I6WQyBr5SUp582WxG3ARWYTRw78yYRLixlyq9WAaVklDkhnz7vnbJeTMIO8whowcLaleg1fhc6o9U2iOk-ycxand2WuyZS1AAdmq_WIHviY0-lmD3o14BxHoVobpGIasBCnkNWEn7A",
 "https://lh3.googleusercontent.com/wVQfM46hOYseH_gL0jc04qIqy0s_9iJnwegBaiuKv4QySlaiiZ5yBtQadoeighDhXXOIGQNA5SW65kAkCH3NB5Vkn4tCanT36XC_9FvLQjONCzPBq_mPcnn9ib6ZqKNlzZG1guq36w",
+"https://lh3.googleusercontent.com/Z6xQAFUFDCo1G0dg6qg_N5HTyTAu6UtWOhdgRqpliN6KpUKZkaXl5vjkHfr5R5ftoIL36tDcrDYau3s0ccn_ilNBc3qmJfNeZolgHC_1X3ccpRtPDV2HkRGQDH8rjVVx3EviTxNCyQ",
 
 ]
 };
