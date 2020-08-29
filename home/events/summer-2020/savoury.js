@@ -5,6 +5,7 @@ galleries.savoury = {
     url: "https://photos.app.goo.gl/vZ2tAiY2WLEqq96WA",
     album: [
 
+"https://lh3.googleusercontent.com/IZ69EghjcBvn836bEPhFuB9axQySUh4LYYXclt8zgkeO_sZbcr921985zQgz-Wj2R6EdbXBqMyPGE_rSUF3cZHh7WeDjPtKyJht93ZXAIZtsH0lKflOE4K_frxRR8vtvTTgMWw9BgA",
 "https://lh3.googleusercontent.com/7pKSOmMfqbGwUyPncrm7_g7JbwawZwrj0Nr1XM639gAjgMnV_cYD6Tkc2hFucKH4dDXP5ordbE-xjUVDEkqokWt39v_O4VTun0au9mHoFvwlwhx45oyT9ZtrbqrO7F7qCx6GSiEdEA",
 "https://lh3.googleusercontent.com/L9E98b1bj8veK2YZ2lmeh9SCwtK-K8SVo273wUfP5z4q23pBoJFQx8Cs5fB7QJksRQ1uMgM9aEEpHOYEqSsVPWqv_7JH_vnaArTK-b9eP-n5G5q0-3eDJ8rZ51DeXuF376IY1hKUgg",
 "https://lh3.googleusercontent.com/vXkA19ZubEG_XTfU8gForyh9Ku7qp3wNW3HV57gSjNl23uCz-B8jXX-2oHhrCh0jP5eogYcYbUsSoM2n2zvSOP_PgGBDzik5jWtrlG6gaOWaPKGpF23fMFLRyqruZHAFP8EheZelgw",
