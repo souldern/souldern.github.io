@@ -6,7 +6,6 @@ galleries.project = {
     album: [
 
 "https://lh3.googleusercontent.com/iJlMyD1nUFjK9eTGR84jdj1rp1IcLjIaD7ozu41LuZPMARWt1RHzJsLfuNlwEBeqIJe9kriIAemI73f3yC8WGPgajFeBKESWD0-UPBdXMPU2ZCUG6-IMCujghkt3c9yY0PAEDgQzS4U",
-"https://lh3.googleusercontent.com/nUCavBcdP80GZdNgjXLQQYOaeIKXqRItVcgusHw93lsJOh92aH701Ws8AbwyiROjLg5SadzqyVGgECQsM_uXqOB7RHafr7g_SFB-h3TSVOnNJRlpwcxtQT-pKDScFNfdvytbDoM6GFs",
 "https://lh3.googleusercontent.com/D6HGzGJd0JkkAaKMDz14mQyae7jPsDOW-wTitpYJdiNdZuA_narYS6sPUCARnyTkBa2sswdj3iSSdxe48zzCqvie3FCry_4kaKbTjM3wNuArg4XpOaAIpDRK-uWUISwOYzpm-xgNtRM",
 "https://lh3.googleusercontent.com/-OQ93skSJnuYJoWsbbQKpiMZIUtTrgEqDyS2mHwyIiJ7nriTCGaqM6-SsOC6J9rzSxeB0U2PmP5eoblwIfjMtJkP0DXetQzNV-npUneiTWg42h4PjgD5WL_gT7wk39mXZquyDLfE8g",
 "https://lh3.googleusercontent.com/OyX5e7ohmqBCBGeILh7izJSD3oSm023VFxDOEd_JMzKY8_VCQgWJWrm2bcj4TSPARpJIw--LImGn2XBYJHMc9TwtjMa2kERb0JXppbqbxwgp9uFbW7QmcLBQvVGlJQ0vW8-2Vb9wfw",
