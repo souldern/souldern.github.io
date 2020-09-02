@@ -93,8 +93,7 @@ delivery by 7am. Delivery is free. Go to [milkandmore.co.uk](https://www.milkand
 The Fox Inn is now open for drinks, eating in, and also takeway meals.
 
 The Opening times and Menu vary according to current rules but are posted to the
-pub Facebook page: 
-https://www.facebook.com/thefoxinnsouldern/
+pub [Facebook page](https://www.facebook.com/thefoxinnsouldern/)
 and also to the village SSSC WhatsApp group.
 
 For more information or to book a Cabana call us on 01869345284. (Booking Highly Recommended To Avoid Disappointment.)
