@@ -97,6 +97,8 @@ pub Facebook page:
 https://www.facebook.com/thefoxinnsouldern/
 and also to the village SSSC WhatsApp group.
 
+For more information or to book a Cabana call us on 01869345284. (Booking Highly Recommended To Avoid Disappointment.)
+
 
 
 
