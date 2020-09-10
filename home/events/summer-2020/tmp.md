@@ -55,9 +55,9 @@ WhatsApp please include your real name and which class is being entered,
     Mocked up in back garden or superimposed onto picture taken from another medium.
 
     <div id="holiday"></div>
-<div class="winner">
-Rose Kyte <img src="https://lh3.googleusercontent.com/TWoHLQtP7ppbLoZ3cfCt1XSYd6Z0tszGijJO4m-XuLP9M5EO_3oGvwDjmN_KorBr-RikynhPPUUZagRUv7YVEROciRDV8CEUQ1_-B1lEFV91MgpajpzIvp-0mazHgoSZrhtR5g9B4A">
-</div>
+    <div class="winner">
+    Rose Kyte <img src="https://lh3.googleusercontent.com/TWoHLQtP7ppbLoZ3cfCt1XSYd6Z0tszGijJO4m-XuLP9M5EO_3oGvwDjmN_KorBr-RikynhPPUUZagRUv7YVEROciRDV8CEUQ1_-B1lEFV91MgpajpzIvp-0mazHgoSZrhtR5g9B4A">
+    </div>
 
 3. [**Household portrait (Doortrait)**](https://photos.app.goo.gl/FHrKctR5iaVKk4cN6)  
    A picture taken of some/all members of family at front of house, through window/ at front door/ in garden etc.
