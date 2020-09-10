@@ -48,7 +48,7 @@ WhatsApp please include your real name and which class is being entered,
 
     <div id="pet"></div>
     <div class="winner">
-    Alex Curry and Albert  ![](https://lh3.googleusercontent.com/pw/ACtC-3e_Br-IKLsTxCPvlORRj6xmEN9--CA7GtAICoI8iCiWQ-LztOXNljhJ79X2EaJIPEC9ouZSPEYwEbzHD-c7G4uG2QM7g_tPNMKdGbnWJuyh04yTE3YGZC72gIS0K4N1ONhVv-YOV3y_dlx7G11pZ7QS=w680-h910-no?authuser=0)
+    Alex Curry and Albert  <img src="https://lh3.googleusercontent.com/pw/ACtC-3e_Br-IKLsTxCPvlORRj6xmEN9--CA7GtAICoI8iCiWQ-LztOXNljhJ79X2EaJIPEC9ouZSPEYwEbzHD-c7G4uG2QM7g_tPNMKdGbnWJuyh04yTE3YGZC72gIS0K4N1ONhVv-YOV3y_dlx7G11pZ7QS=w680-h910-no?authuser=0">
     </div>
 
 2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)  
