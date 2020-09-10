@@ -175,7 +175,7 @@ WhatsApp please include your real name and which class is being entered,
 
     <div id="bean"></div>
     <div class="winner">
-     Lynda Palmer?????? <img src="">
+     Lynda Palmer <img src="https://lh3.googleusercontent.com/zMbN1gH8C5eE3Qgk6nDSMxEL6svhG10p_pIeSXXNee3Hsj3_FWE_ct06Hex1W--oEmxueKfjQbyV3RZNzi8UCqvJl7asye2s3FWyn0KYVtmVhfkB-87qlmhPHwLdzNLFjEN_lMwGNA">
     </div>
 
 
