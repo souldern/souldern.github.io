@@ -5,7 +5,7 @@ title: "2020: Virtual End of Summer Show"
 
 <style>
 ol li::marker {font-size:125%; font-weight:bold;}
-div.winner {font-weight: bold; margin-bottom:1em;text-align-right;}
+div.winner {font-weight: bold; margin-bottom:1em;text-align: right;}
 div.winner img {height: 7em;vertical-align:middle}
 </style>
 
