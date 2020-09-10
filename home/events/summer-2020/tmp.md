@@ -11,7 +11,7 @@ div.winner img {height: 7em;vertical-align:middle}
 
 # Souldern End of Summer Show 2020
 
-## Classes **and Winning Entries** for the Souldern End of Summer Show
+## Classes **and Winning Entries** 
 
 ---
 
