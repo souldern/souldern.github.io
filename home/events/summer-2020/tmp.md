@@ -269,6 +269,18 @@ WhatsApp please include your real name and which class is being entered,
     </div>
 
 
+---
+
+*  **Best in Show**
+    <div class="winner">
+      Katy Draper <img src="https://lh3.googleusercontent.com/8OgX73wCdG5qw3gNHokWMSLt_YbqF-e6afN-2XOmQ9v8Sfo3f7RsGp1yFasfZHQcSNZw7H9m4LHwHUSjzrrPS2X6YWRMGijz0d1Ip3DZKi2oylmTcIUK1Ru_gymPBdXHd-MttPdZ2Q">
+    </div>
+
+* **Best attempted blag**
+   <div class="winner">
+      Ben Williams <img src="https://lh3.googleusercontent.com/Ug1TyU9LeVv5JmeqVjgAAFgXcIfTYh_nROByC0h8OunAaCQ3RYOAxc60njTvH79wzEHZvl3De61KcIY8Y4d39wEplg3X449eEL3v-Eer65B-SUIb8uXIalZ5Y_uC_XSNfHWhb6ubFw">
+    </div>
+
 <script src="allotment.js"></script>
 <script src="arrangement.js"></script>
 <script src="bean.js"></script>
