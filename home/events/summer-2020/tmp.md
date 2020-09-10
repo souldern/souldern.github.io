@@ -5,6 +5,8 @@ title: "2020: Virtual End of Summer Show"
 
 <style>
 ol li::marker {font-size:125%; font-weight:bold;}
+div.winner {font-weight: bold; margin-bottom:.5em;}
+div.winner img {height: 2em}
 </style>
 
 # Souldern End of Summer Show 2020
@@ -45,6 +47,9 @@ WhatsApp please include your real name and which class is being entered,
 1.  [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
 
     <div id="pet"></div>
+    <div class="winner">
+    Alex Curry and Albert  ![https://lh3.googleusercontent.com/pw/ACtC-3e_Br-IKLsTxCPvlORRj6xmEN9--CA7GtAICoI8iCiWQ-LztOXNljhJ79X2EaJIPEC9ouZSPEYwEbzHD-c7G4uG2QM7g_tPNMKdGbnWJuyh04yTE3YGZC72gIS0K4N1ONhVv-YOV3y_dlx7G11pZ7QS=w680-h910-no?authuser=0)
+    </div>
 
 2.  [**Picture of the intended 2020 family holiday**](https://photos.app.goo.gl/QWgBzpQ3RUDbi6L39)  
     Mocked up in back garden or superimposed onto picture taken from another medium.
