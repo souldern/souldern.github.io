@@ -11,38 +11,9 @@ div.winner img {height: 7em;vertical-align:middle}
 
 # Souldern End of Summer Show 2020
 
-<div style="font-size:200%; font-weight: bold; text-align: center">Bank Holiday Extension: 31st August</div>
+## Classes **and Winning Entries** for the Souldern End of Summer Show
 
-
-## Rules
-
-* Closing date for entries:  **31st August**.
-* Announcement of winners: **September 12th**.
-* Judges decision final. No appeal procedure.
-* No entry fees.
-
-
-## Submitting Entries
-
-* Entries can be submitted directly to the site if you have a Google
-account (gmail, android phone, google docs, etc)
-
-*  Alternatively entries  may be submitted
-by email to [website@souldern.org](mailto:website@souldern.org) or via
-WhatsApp to David Carlisle (+447768584101).
-
-*  If submitting via email or
-WhatsApp please include your real name and which class is being entered,
-
-* Some classes will have a winner declared for a specified age group
-  (Under 10s or Seniors) in addition to the main classification that
-  is open to all. Send an email to [the
-  organisers](mailto:website@souldern.org) to let us know the names
-  that should be entered in in the age-restricted categories.
-
-
-## Classes for the Souldern End of Summer Show
-
+---
 
 1.  [**Picture of a family pet**](https://photos.app.goo.gl/ZAkadkMo2n9UXLhS7)
 
@@ -314,3 +285,39 @@ var gallerybg="#EEE";
 var galleryspeed=2000;
 </script>
 <script src="../../gallery/galleries.js"></script>
+
+---
+---
+
+
+<div style="font-size:200%; font-weight: bold; text-align: center">Bank Holiday Extension: 31st August</div>
+
+
+## Rules
+
+* Closing date for entries:  **31st August**.
+* Announcement of winners: **September 12th**.
+* Judges decision final. No appeal procedure.
+* No entry fees.
+
+
+## Submitting Entries
+
+* Entries can be submitted directly to the site if you have a Google
+account (gmail, android phone, google docs, etc)
+
+*  Alternatively entries  may be submitted
+by email to [website@souldern.org](mailto:website@souldern.org) or via
+WhatsApp to David Carlisle (+447768584101).
+
+*  If submitting via email or
+WhatsApp please include your real name and which class is being entered,
+
+* Some classes will have a winner declared for a specified age group
+  (Under 10s or Seniors) in addition to the main classification that
+  is open to all. Send an email to [the
+  organisers](mailto:website@souldern.org) to let us know the names
+  that should be entered in in the age-restricted categories.
+
+
+---
