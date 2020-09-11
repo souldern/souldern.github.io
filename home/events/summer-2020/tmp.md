@@ -290,12 +290,9 @@ var galleryspeed=2000;
 ---
 
 
-<div style="font-size:200%; font-weight: bold; text-align: center">Bank Holiday Extension: 31st August</div>
-
-
 ## Rules
 
-* Closing date for entries:  **31st August**.
+* Closing date for entries (extended):  **31st August**.
 * Announcement of winners: **September 12th**.
 * Judges decision final. No appeal procedure.
 * No entry fees.
