@@ -11,7 +11,12 @@ div.winner img {height: 8em;vertical-align:middle}
 
 # Souldern End of Summer Show 2020
 
-## Classes **and Winning Entries** 
+## Classes **and Winning Entries**
+
+The heading of each class is a link to the photo album with full size pictures.
+
+Clicking on any slideshow will stop the animation.
+
 
 ---
 
