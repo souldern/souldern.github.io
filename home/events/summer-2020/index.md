@@ -296,7 +296,7 @@ var galleryspeed=2000;
 
 ## Prizes
 
-Adults: £10 voucher to be spent at The Fox inn.
+Adults: £10 voucher to be spent at The Fox Inn.
 
 Juniors: receive £5 cash.
 
