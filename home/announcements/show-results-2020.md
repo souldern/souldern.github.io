@@ -1,6 +1,6 @@
 ---
 date: 2020-09-12
-title: End of Summer Show 2020: Results
+title: "End of Summer Show 2020: Results"
 ---
 
 
