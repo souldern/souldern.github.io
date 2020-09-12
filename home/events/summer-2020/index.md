@@ -294,6 +294,11 @@ var galleryspeed=2000;
 ---
 ---
 
+## Prizes
+
+Adults: £10 voucher to be spent at The Fox inn.
+
+Juniors: receive £5 cash.
 
 ## Rules
 
