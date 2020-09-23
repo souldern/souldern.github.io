@@ -1,6 +1,6 @@
 ---
 date: 2020-09-23
-title: Yin and Yang meeting
+title: Harvest at St Mary's Souldern
 ---
 
 # Harvest at St Mary's Souldern
