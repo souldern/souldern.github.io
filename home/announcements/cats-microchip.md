@@ -22,8 +22,10 @@ than half price and incredible value.
 The participating veterinary practices teaming up with Cherwell Cats Protection for this
 scheme are Hawthorne Lodge Vets (Banbury), Vets4Pets (Banbury), and West Bar Vets
 (Banbury). All chipping must be completed between October 1st – October 31st.
-To have your cat micro chipped, please call the vets directly for an appointment,
-referencing Cherwell Cats Protection micro chipping scheme.
+
+
+*_To have your cat micro chipped, please call the vets directly for an appointment,
+referencing Cherwell Cats Protection micro chipping scheme._*
 
 Pet owners must live in postcode(s) – OX5, OX15, OX16, OX17, OX25, OX26, OX27 or
 NN13 to be eligible.
@@ -35,7 +37,7 @@ above.
 
 For more information about Cherwell Cats Protection, how to participate in this October offer
 and our on-going neutering scheme, please see our website at
-[www.cherwell.cats.org.uk/cherwell](https://www.cherwell.cats.org.uk/cherwell)
+[www.cherwell.cats.org.uk/cherwell](http://www.cherwell.cats.org.uk/cherwell)
 
 
 
@@ -45,5 +47,5 @@ Co-ordinator Cherwell Cats Protection
 Tel: 01869 908308
 Email: [coordinator@cherwell.cats.org.uk](mailto:coordinator@cherwell.cats.org.uk)
 
-You can follow us on Facebook at [https://www.facebook.com/Cherwell-Cats-Protection](https://www.facebook.com/Cherwell-Cats-Protection)
+You can follow us on Facebook at [https://www.facebook.com/cherwellcats/](https://www.facebook.com/cherwellcats/)
 and on Twitter @cherwellcats.
