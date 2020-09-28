@@ -48,4 +48,4 @@ Tel: 01869 908308
 Email: [coordinator@cherwell.cats.org.uk](mailto:coordinator@cherwell.cats.org.uk)
 
 You can follow us on Facebook at [https://www.facebook.com/cherwellcats/](https://www.facebook.com/cherwellcats/)
-and on Twitter @cherwellcats.
+and on Twitter [@cherwellcats](https://twitter.com/cherwellcats).
