@@ -24,8 +24,8 @@ scheme are Hawthorne Lodge Vets (Banbury), Vets4Pets (Banbury), and West Bar Vet
 (Banbury). All chipping must be completed between October 1st – October 31st.
 
 
-*_To have your cat micro chipped, please call the vets directly for an appointment,
-referencing Cherwell Cats Protection micro chipping scheme._*
+<b><i>To have your cat micro chipped, please call the vets directly for an appointment,
+referencing Cherwell Cats Protection micro chipping scheme.</i></b>
 
 Pet owners must live in postcode(s) – OX5, OX15, OX16, OX17, OX25, OX26, OX27 or
 NN13 to be eligible.
