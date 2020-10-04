@@ -4,9 +4,9 @@ title: Souldern Historic Maps
 
 # Souldern Historic Maps
 
-Scans of historic maps provides by Souldern Residents.
+Scans of historic maps provided by Souldern Residents.
 
-Clicking on the preview omage will link t a high resolution PDF scan of the map.
+Clicking on the preview image will link to a high resolution PDF scan of the map.
 
 
 ## 1978
