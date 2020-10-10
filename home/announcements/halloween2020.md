@@ -6,7 +6,7 @@ title: Halloween Event (Covid-friendly)
 # Halloween
 
 <div style="background-image:url('https://i.pinimg.com/originals/dc/88/e6/dc88e6b62520e7d2bdac85554e0f5a57.jpg');
-background-size:contain;background-repeat:no-repeat;" kramdown=1>
+background-size:100% auto;background-repeat:no-repeat;" kramdown=1>
 <div style="margin-left:auto;margin-right-auto;max-width:80%;background-color;yellow" kramdown=1>
 Souldern is planning a Covid-friendly trick or treat event for Halloween.
 
