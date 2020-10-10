@@ -5,6 +5,9 @@ title: Halloween Event (Covid-friendly)
 
 # Halloween
 
+<div style="background-image:url('https://i.pinimg.com/originals/dc/88/e6/dc88e6b62520e7d2bdac85554e0f5a57.jpg');
+background-size:contain;background-repeat:no-repeat;" kramdown=1>
+<div style="margin-left:auto;margin-right-auto;max-width:80%;background-color;yellow" kramdown=1>
 Souldern is planning a Covid-friendly trick or treat event for Halloween.
 
 Souldern Kids of all ages are invited to participate in a Halloween treasure hunt
@@ -12,7 +15,10 @@ round the village before collecting a suitably hygienic swag bag from the Fox.
 
 For further details join the
 [Spooktacular Souldern WhatsApp group](https://chat.whatsapp.com/LMzCdwBcE7B23uj1cgtLSJ)
-or email [ben@manchester.com]{mailto:ben@manchester.com)
+or email [ben@manchester.com](mailto:ben@manchester.com)
+
+</div>
+</div>
 
 
 ![pumpkins](https://i.pinimg.com/originals/dc/88/e6/dc88e6b62520e7d2bdac85554e0f5a57.jpg)
