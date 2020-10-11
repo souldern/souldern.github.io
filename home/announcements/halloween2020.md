@@ -26,4 +26,4 @@ or email [ben@manchester.com](mailto:ben@manchester.com)
 
 ![souldernhalloween](halloween2020.jpg)
 
-![pumpkins](https://i.pinimg.com/originals/dc/88/e6/dc88e6b62520e7d2bdac85554e0f5a57.jpg)
+
