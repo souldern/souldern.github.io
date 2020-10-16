@@ -7,7 +7,7 @@ title: Remembrance Stones
 
 # Remembrance Stones
 
-![Remembrance Stones](remembrance.png)
+![Remembrance Stones](remembrance-stones.png)
 
 
 Paint a poppy on a stone or pebble.
