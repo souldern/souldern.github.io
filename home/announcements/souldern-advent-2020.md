@@ -9,8 +9,6 @@ title: Souldern Advent Trail 2020
 
 ![](souldernadvent2020-1.png)
 
-[PDF Poster](Souldern Advent Trail 2020.pdf)
-
 
 ## Souldern Village Advent Trail 2020
 
@@ -30,10 +28,10 @@ emailing [heididennison27@gmail.com](mailto:heididennison27@gmail.com), joining 
 Trail’ WhatsApp group or writing a note to Anvil Cottage, High
 Street. Allocated dates will be published a week later.
 
-Do pass this poster and information on to anyone you think might like to take part!
+[PDF Poster](Souldern Advent Trail 2020.pdf) Do pass this poster and information on to anyone you think might like to take part!
 
 
-##Souldern Village Advent Trail  Extra Information
+## Souldern Village Advent Trail  Extra Information
 
 * The plan is to create a trail, adding a new window for every day in
   December. Once the window is in the trail, it stays there, so that
@@ -52,7 +50,7 @@ Do pass this poster and information on to anyone you think might like to take pa
 * It would be ideal if the windows chosen can be seen from the road,
   unless you are happy for people to walk onto your driveway.
 
-* Some windows may be better viewed by day, some by night. It need not
+*  Some windows may be better viewed by day, some by night. It need not
   matter which.
 
 ✴ Outlying houses are likely to be included for weekend dates, so that
