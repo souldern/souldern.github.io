@@ -26,7 +26,7 @@ emailing [heididennison27@gmail.com](mailto:heididennison27@gmail.com), joining 
 Trail’ WhatsApp group or writing a note to Anvil Cottage, High
 Street. Allocated dates will be published a week later.
 
-[PDF Poster](Souldern Advent Trail 2020.pdf) Do pass this poster and information on to anyone you think might like to take part!
+Do pass this [PDF poster](Souldern Advent Trail 2020.pdf) and information on to anyone you think might like to take part!
 
 
 ## Souldern Village Advent Trail  Extra Information
@@ -51,7 +51,7 @@ Street. Allocated dates will be published a week later.
 *  Some windows may be better viewed by day, some by night. It need not
   matter which.
 
-✴ Outlying houses are likely to be included for weekend dates, so that
+* Outlying houses are likely to be included for weekend dates, so that
   these can be visited with more time and daylight.
 
 * People may choose to see each new window on the day it appears, or
