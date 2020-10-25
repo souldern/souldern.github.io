@@ -7,8 +7,6 @@ title: Souldern Advent Trail 2020
 
 ![](souldernadvent2020-0.png)
 
-![](souldernadvent2020-1.png)
-
 
 ## Souldern Village Advent Trail 2020
 
@@ -58,3 +56,7 @@ Street. Allocated dates will be published a week later.
 
 * People may choose to see each new window on the day it appears, or
   to pick up the trail again each weekend
+
+
+![](souldernadvent2020-1.png)
+
