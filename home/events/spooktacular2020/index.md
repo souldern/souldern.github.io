@@ -13,4 +13,4 @@ title: Souldern Spooktacular 2020
 * [Souldern Spooktacular Pack – Participants Pack](Souldern Spooktacular Pack - Participants.pdf)
 
 
-![souldernhalloween](../../announcements/halloween2020/halloween2020.jpg)
+![souldernhalloween](../../announcements/halloween2020.jpg)
