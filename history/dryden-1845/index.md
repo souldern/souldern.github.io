@@ -3,7 +3,6 @@ layout: default
 title: "Dryden Account of Souldern 1845"
 ---
 
-
 ### A SHORT ACCOUNT OF THE
 ## PARISH OF SOULDERN,
 ### OXFORDSHIRE.
