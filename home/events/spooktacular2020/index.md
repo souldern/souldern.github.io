@@ -12,7 +12,7 @@ title: Souldern Spooktacular 2020
 
 * [Souldern Spooktacular Pack – Participants Pack (PDF)](Souldern Spooktacular Pack - Participants.pdf)
 
-* Sticker Sheets (PDF) [A4 paper](Spooktacular PDF.pdf) [A3 paper](Spooktacular PDF A3.pdf)
+* Sticker Sheets (PDF) [A4 paper](Spooktacular PDF.pdf),   [A3 paper](Spooktacular PDF A3.pdf)
 
 
 ![souldernhalloween](../../announcements/halloween2020.jpg)
