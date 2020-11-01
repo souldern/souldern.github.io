@@ -20,7 +20,7 @@ title: Souldern Spooktacular 2020
 
 
 
-<script src="allotment.js"></script>
+<script src="Spooktacular-2020.js"></script>
 <script>
 // var galleryheight="7em";
 // var gallerybg="#EEE";
