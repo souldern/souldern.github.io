@@ -14,5 +14,16 @@ title: Souldern Spooktacular 2020
 
 * Sticker Sheets (PDF) [A4 paper](Spooktacular PDF.pdf),   [A3 paper](Spooktacular PDF A3.pdf)
 
+<div id="spook"></div>
 
 ![souldernhalloween](../../announcements/halloween2020.jpg)
+
+
+
+<script src="allotment.js"></script>
+<script>
+// var galleryheight="7em";
+// var gallerybg="#EEE";
+// var galleryspeed=2000;
+</script>
+<script src="../../gallery/galleries.js"></script>
