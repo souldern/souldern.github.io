@@ -1,7 +1,7 @@
 var galleries = galleries || {};
 
-galleries.Spooktacular-2020 = {
-    title: "spook",
+galleries.spook = {
+    title: "Spooktacular 2020",
     url: "https://photos.app.goo.gl/mNYHNhpNUTuQN4nT6",
     album: [
 
