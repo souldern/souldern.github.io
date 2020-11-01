@@ -7,6 +7,8 @@ title: Souldern Spooktacular 2020
 
 <div id="spook"></div>
 
+---
+
 
 * [Initial announcement](../../announcements/halloween2020)
 
@@ -16,6 +18,7 @@ title: Souldern Spooktacular 2020
 
 * Sticker Sheets (PDF) [A4 paper](Spooktacular PDF.pdf),   [A3 paper](Spooktacular PDF A3.pdf)
 
+---
 
 ![souldernhalloween](../../announcements/halloween2020.jpg)
 
