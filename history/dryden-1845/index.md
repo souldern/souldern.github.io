@@ -3,12 +3,10 @@ layout: default
 title: "Dryden Account of Souldern 1845"
 ---
 
-### A SHORT ACCOUNT OF THE
-## PARISH OF SOULDERN,
-### OXFORDSHIRE.
+### A SHORT ACCOUNT OF THE<br>PARISH OF SOULDERN,<br>OXFORDSHIRE.
 
 
-The following chapter is taken from from &ldquo;The antiquities and history of Steeple Aston, Oxfordshire / compiled by William Wing, together with a short description of Souldern, Oxfordshire, and of sepulchral remains found there, by ... Henry E.L. Dryden&ldquo; compiled by William Wing in 1845.
+The following chapter is taken from from &ldquo;The antiquities and history of Steeple Aston, Oxfordshire / compiled by William Wing, together with a short description of Souldern, Oxfordshire, and of sepulchral remains found there, by Henry E.L. Dryden&ldquo; compiled by William Wing in 1845.
 
 [Sir Henry Dryden of Canons Ashby](https://www.nationaltrust.org.uk/canons-ashby/features/sir-henry-dryden-the-antiquary)
 
