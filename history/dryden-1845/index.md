@@ -12,6 +12,8 @@ The following chapter is taken from from &ldquo;The antiquities and history of S
 
 The book is in the British Library available as an [ebook](http://access.bl.uk/item/viewer/ark:/81055/vdc_100048351802.0x000001#?c=0&m=0&s=0&cv=0&xywh=-575%2C0%2C2700%2C2463). This extract is available for Non commercial use as allowed by the licence.
 
+[Sir Henry Dryden of Canons Ashby](https://www.nationaltrust.org.uk/canons-ashby/features/sir-henry-dryden-the-antiquary)
+
 
 [Dryden Account of Souldern 1845](dryden.html)
 
