@@ -185,7 +185,7 @@ Click web link above for details.
 ### Magda Polakow artwork
 [http://www.magdapolakow.com](http://www.magdapolakow.com/)
 
-Local Souldern Artist: If you would like something special,
+Local Souldern artist: If you would like something special,
 personalised illustration (also designs for greeting cards,
 invitations etc.) or any other make, please contact me. I'm always
 happy to challenge myself. Please keep in mind that I only take a
