@@ -31,7 +31,7 @@ li img {width:5em; vertical-align:middle}
    * [Y&R Sushi](#yr-sushi)
    * [Buckingham Garden Centre](#buckingham-garden-centre)
    * [Greatfield Plants Nursery](#greatfield-plants-nursery)
-   * [Magda Polakow artwork](#magda)
+   * [Magda Polakow artwork](#magda-polakow-artwork)
 
 ---
 
@@ -181,7 +181,7 @@ meals).  To place an order, please call: 01280 822133
 David from Brackley Market Plant Stall is taking orders over the phone and will deliver from his nursery in Greatworth.
 Click web link above for details.
 
-### Magda Polakaw artwork
+### Magda Polakow artwork
 [http://www.magdapolakow.com](http://www.magdapolakow.com/)
 
 Local Souldern Artist: If you would like something special,
