@@ -37,6 +37,7 @@ li img {width:5em; vertical-align:middle}
 
 ## Government Advice
 
+[New Goverment rules for November 2020 Lockdown](https://www.gov.uk/guidance/new-national-restrictions-from-5-november)
 
 [Oxfordshire County Council Press office Warning about Cororonvirus scams](https://news.oxfordshire.gov.uk/oxfordshire-residents-warned-against-coronavirus-scams/)
 
