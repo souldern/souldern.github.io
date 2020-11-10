@@ -8,7 +8,7 @@ title: Souldern Christmas Shop 2020
 
 
 
-<div style="text-align: center;font-size:110%" kramdown=1>
+<div style="text-align: center;font-size:110%" markdown=1>
 
 ![poster](shop2020.jpg)
 
