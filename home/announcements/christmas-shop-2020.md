@@ -3,7 +3,7 @@ date: 2020-11-10
 title: Souldern Christmas Shop 2020
 ---
 
-<div style="text-align: center;font-size:120%" markdown=1>
+
 
 
 # Souldern Christmas Shop
@@ -28,7 +28,7 @@ Souldern
 
 ---
 
-<div>
+
 
 
 
