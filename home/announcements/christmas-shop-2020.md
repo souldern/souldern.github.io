@@ -6,18 +6,22 @@ title: Souldern Christmas Shop 2020
 # Souldern Christmas Shop
 
 
-![poster](shop2020.png)
+
+
+<div style="text-align: center;font-size:110%" kramdown=1>
+
+![poster](shop2020.jpg)
 
 Christmas decorations and gifts from local crafters.
 
 
-Starting from **5th December** 22020.
+Starting from **5th December** 2020.
 	
 Saturday &amp; Sunday  
 10am – 4pm
 	
 [Deepwell Cottage](https://www.souldern.org/home/houses/?h=deepwell), High Street, Souldern
-
+<div>
 
 
 
