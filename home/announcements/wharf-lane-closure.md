@@ -1,3 +1,7 @@
+---
+date: 2020-11-11
+title: Temporary Road Closure at Souldern, Wharf Lane, Bicester
+---
 
 # Temporary Traffic Regulation Order – S14 Road Traffic Regulation Act 1984
 
