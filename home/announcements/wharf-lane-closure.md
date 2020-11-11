@@ -13,7 +13,7 @@ A request has been received from Centurion Traffic Management for a temporary ro
 
  
 
-A Temporary Traffic Regulation Order (TTRO) is being made to implement the temporary closure and will operate on 03 January 2021. This will operate between 07:30 to 14:30
+A Temporary Traffic Regulation Order (TTRO) is being made to implement the temporary closure and will operate on *03 January 2021**. This will operate between **07:30 to 14:30**
 
  
 
