@@ -4,7 +4,8 @@ title: Sandy Gray 1924-2020
 ---
 
 
-# Obituary Alexander Harry Gray (14.12.1924-14.11.2020) – Sandy
+# Obituary: Alexander Harry Gray
+## (14.12.1924-14.11.2020) – Sandy
 
 Sandy was born in Bombay 96 years ago this month. His father, Sir Alexander
 George Gray, was a bank manager there. He returned to England with his
