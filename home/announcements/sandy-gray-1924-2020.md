@@ -26,6 +26,7 @@ February 1945 he was in one of the leading tanks in Operation Veritable (the
 allies’ final push into Germany) and the first to cross the Siegfried Line. He
 never made it over the Rhine as his tank was hit by a bazooka. He was
 wounded in the leg and spent the next 3 months in hospital in England.
+
 Sandy stayed in the army for another 20 years, being posted to the Middle
 East, Hong Kong and Canada and doing ceremonial duties in London. He and
 Diana were married in 1958. In 1964 he decided to leave the army and
