@@ -9,7 +9,7 @@ title: Sandy Gray 1924-2020
 
 Sandy was born in Bombay 96 years ago this month. His father, Sir Alexander
 George Gray, was a bank manager there. He returned to England with his
-mother, Dulce, and older sister, Diné, just before his 4 th birthday and from then
+mother, Dulce, and older sister, Diné, just before his 4th birthday and from then
 on spent from April to September with his mother and nanny in Berkshire
 where they lived on a small farm and the rest of the year with his grandparents
 and nanny in Berkhamstead. His mother went back to India every winter. His
