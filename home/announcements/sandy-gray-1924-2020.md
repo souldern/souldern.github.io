@@ -17,7 +17,7 @@ father came home on leave every 5 years!
 
 After school at Charterhouse and a year at Cambridge studying French and
 German, he was called up in 1943 aged 18 and joined the Tank Battalion of the
-Grenadier Guards. He was too young to be at D Day but by August 1944 the
+Grenadier Guards. He was too young to be at D Day but by August 1944 the
 Battalion had lost so many men that he was sent over as a reinforcement aged
 just 19. He was extremely proud of the Legion d’Honneur recently awarded to
 him by the French President for the small role he played in liberating France.
