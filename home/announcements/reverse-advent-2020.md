@@ -15,5 +15,7 @@ title: Reverse Advent Calendar
 Why not donate an item for every day of Advent?
 
 Our church works with food banks as well as local charities throughout
-the year. A box for donations will be in St Mary's porch from the
+the year.
+
+A box for donations will be in St Mary's porch from the
 start of Advent on 29 November
