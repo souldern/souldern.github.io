@@ -23,9 +23,7 @@ Throughout the year, we support the food banks in Bicester and Heyford
 Park as well as a local charity which feeds the homeless in Banbury.
 
 If you would like to help this Christmas, our usual food donation box
-will be in the porch from  Sunday 29th November.
-
-This is emptied every
+will be in the porch from  Sunday 29th November. This is emptied every
 day.
 
 
