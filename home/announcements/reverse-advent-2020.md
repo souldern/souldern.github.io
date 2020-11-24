@@ -8,7 +8,7 @@ title: Reverse Advent Calendar
 
 
 
-![Reverse ADvent](reverse-advent-202.jpg)
+![Reverse Advent](reverse-advent-2020.jpg)
 
 ## St Mary's Church
 
