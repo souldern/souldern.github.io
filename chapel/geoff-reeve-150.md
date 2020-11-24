@@ -1,5 +1,5 @@
 ---
-title: "Souldern Chapel: 150 years"
+title: "Geoff Reeve: Souldern Chapel - 150 years"
 ---
 
 # Souldern 150 years
