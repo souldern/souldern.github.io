@@ -12,10 +12,20 @@ title: Reverse Advent Calendar
 
 ## St Mary's Church
 
-Why not donate an item for every day of Advent?
+This Advent, why not focus on giving something back each day?
 
-Our church works with food banks as well as local charities throughout
-the year.
+St Marys church is asking for donations of food and other essentials,
+based on a Reverse Advent calendar. Any donation is welcome so long as
+it’s non-perishable — it really doesn’t have to be French onion soup
+but they don’t put Calling Birds in tins!
 
-A box for donations will be in St Mary's porch from the
-start of Advent on 29 November
+Throughout the year, we support the food banks in Bicester and Heyford
+Park as well as a local charity which feeds the homeless in Banbury.
+
+If you would like to help this Christmas, our usual food donation box
+will be in the porch from  Sunday 29th November.
+
+This is emptied every
+day.
+
+
