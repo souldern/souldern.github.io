@@ -8,7 +8,6 @@ In one respect celebrating an anniversary such as this is like celebrating the
 New Year.
 
 It finds us doing something which some may say is hard to do – To look
-
 both ways at the same time.
 
 Yes, we look back at years past & we try to look forward to what may lie
