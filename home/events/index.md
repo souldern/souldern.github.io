@@ -5,7 +5,7 @@ title: Village Events
 
 # Village Events
 
- * [Souldern Spooktacular 2020](spooktacular2020)
+ * [Souldern Advent Trail 2020](/home/announcements/souldern-advent-2020-2)
  * [Souldern Virtual End of Summer Show 2020](summer-2020)
  * [VE75, May 2020](ve75-2020)
  * [Wacky Races 2018](event-2018)
