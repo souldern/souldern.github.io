@@ -7,7 +7,7 @@
   {%- for page in sorted limit:7 -%}
   <li><a href="/{{page.path | replace: '.html', ''| replace: '.md', ''}}">{{page.title}}</a> [{{page.date}}]
     <blockquote style="background-color:lightgoldenrodyellow; border;border-radius:1em;">
-
+    <a style="text-decorations:none; color:inherit;" href="/{{page.path | replace: '.html', ''| replace: '.md', ''}}">
       {% if page.path contains '.md' %}
       {{ page.content | markdownify| strip_html | truncatewords: 40 }}
       {% else %}
@@ -16,7 +16,8 @@
 {% else %}
 	{{ page.content | strip_html | truncatewords: 40 }}
 {% endif %}
-{% endif %}
+      {% endif %}
+      </a>
  <br style="clear:both"/>
 </blockquote>
 
