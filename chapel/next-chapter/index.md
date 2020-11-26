@@ -3,7 +3,7 @@ layout: default
 title: "Wesleyan Chapel: The Next Chapter"
 ---
 
-# SOULDERN CHAPEL: THE NEXT CHAPTER
+# Souldern Chapel: The Next Chapter
 
 
 
