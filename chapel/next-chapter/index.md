@@ -16,8 +16,8 @@ title: "Wesleyan Chapel: The Next Chapter"
   * [How to get involved](#getinvolved)
 
 
-![](image345.jpg){:width="100%"}
-
+![](image345.jpg){:width="50%"}
+{:style="text-align:center":}
 
 ## The Next Chapter {#nextchapter}
 
