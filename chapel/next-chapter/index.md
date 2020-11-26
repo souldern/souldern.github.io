@@ -101,7 +101,9 @@ conflict between the two buildings.
 ## How to get involved {#getinvolved}
 
 We would really value your input, ideas and thoughts on how the
-Chapel might be repurposed.  You can email us via
+Chapel might be repurposed.
+
+You can email us via  
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
 
 Please contact any of the following to find out more:
