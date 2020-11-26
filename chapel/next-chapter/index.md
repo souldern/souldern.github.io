@@ -17,6 +17,7 @@ title: "Wesleyan Chapel: The Next Chapter"
 
 
 ![](image345.jpg){:width="50%"}
+
 {:style="text-align:center":}
 
 ## The Next Chapter {#nextchapter}
@@ -36,14 +37,8 @@ promotion of community wellbeing, village activities and social
 gatherings. All proceeds from this sale will be returned to The
 Wesleyan Reform Union of Churches for their central funds.
 
-Following preliminary discussion with the Trustees, the village is
-being given the time to put a plan together that will secure the
-building for future generations. If collectively we do not act now,
-the Chapel building will be sold to a third party.
 
-
-
-## Two community assets {#twoassets}
+## Two Community Assets {#twoassets}
 
 If collectively we have the appetite to purchase the Chapel, there
 are three registered charities in the village under whose ownership
