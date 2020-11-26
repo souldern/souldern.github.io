@@ -92,13 +92,13 @@ Chapel might be repurposed.  You can email us via
 ## Frequently Aked Questions (FAQ) (:if faq:)
 
 
-<p>
- <img src="image353.jpg" style="width:30%"/>
- <img src="image357.jpg" style="width:30%"/>
- <img src="image355.jpg" style="width:30%"/>
-</p>
+![](image353.jpg)
+![](image357.jpg)
+![](image355.jpg)
 
----
+
+
+
 
 Please contact any of the following to find out more:
 
