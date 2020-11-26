@@ -73,15 +73,15 @@ conflict between the two buildings.
     parking, would be more focussed on larger gatherings, classes and
     external bookings.
 
-    Historically, management groups have grappled
-    with the task of raising the finances required to maintain community
-    assets and to cover the day to day running costs. It is proposed that
-    to overcome this hurdle, parishioners will be invited to become
-    members of a village society and pay an annual subscription which will
-    cover entrance and use of both venues, (membership terms and
-    conditions of which are still to be agreed).  Subscriptions for
-    corporate and not for profit organisations will also be available,
-    plus additional income from external bookings.
+Historically, management groups have grappled
+with the task of raising the finances required to maintain community
+assets and to cover the day to day running costs. It is proposed that
+to overcome this hurdle, parishioners will be invited to become
+members of a village society and pay an annual subscription which will
+cover entrance and use of both venues, (membership terms and
+conditions of which are still to be agreed).  Subscriptions for
+corporate and not for profit organisations will also be available,
+plus additional income from external bookings.
 
 
 
