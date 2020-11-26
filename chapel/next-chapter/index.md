@@ -18,7 +18,6 @@ title: "Wesleyan Chapel: The Next Chapter"
 
 ![](image345.jpg){:width="50%"}
 
-{:style="text-align:center":}
 
 ## The Next Chapter {#nextchapter}
 
@@ -103,7 +102,7 @@ conflict between the two buildings.
 We would really value your input, ideas and thoughts on how the
 Chapel might be repurposed.
 
-You can email us via  
+You can email us via:
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
 
 Please contact any of the following to find out more:
