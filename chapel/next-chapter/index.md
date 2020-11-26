@@ -45,7 +45,7 @@ the Chapel building will be sold to a third party.
 
 
 
-## Reorganisation of two community assets and split of uses
+## Two community assets {#twoassets}
 
 If collectively we have the appetite to purchase the Chapel, there
 are three registered charities in the village under whose ownership
@@ -63,35 +63,52 @@ village buildings to be used in conjunction with one another to
 support a wider variety of activities and uses. This would also avoid
 conflict between the two buildings.
 
-**The Chapel**, being a smaller more intimate venue is better suited to
-host fixed activities such as Sunday School, youth club, toddlers
-group, sports and social club, occasional Chapel events and after
-Church gatherings.
+**The Chapel**
 
-This option would also enable the Chapel to
-become the new base for a permanent village reading room and to
-establish a central archive for the many village photos, maps and
-documents we collectively wish to retain.
+ :  being a smaller more intimate venue is better suited to
+    host fixed activities such as Sunday School, youth club, toddlers
+    group, sports and social club, occasional Chapel events and after
+    Church gatherings.
 
-**The Village Hall**, with its larger capacity and ample car
-parking, would be more focussed on larger gatherings, classes and
-external bookings.
+    This option would also enable the Chapel to
+    become the new base for a permanent village reading room and to
+    establish a central archive for the many village photos, maps and
+    documents we collectively wish to retain.
 
-Historically, management groups have grappled
-with the task of raising the finances required to maintain community
-assets and to cover the day to day running costs. It is proposed that
-to overcome this hurdle, parishioners will be invited to become
-members of a village society and pay an annual subscription which will
-cover entrance and use of both venues, (membership terms and
-conditions of which are still to be agreed).  Subscriptions for
-corporate and not for profit organisations will also be available,
-plus additional income from external bookings.
+**The Village Hall**
+
+ :  with its larger capacity and ample car
+    parking, would be more focussed on larger gatherings, classes and
+    external bookings.
+
+    Historically, management groups have grappled
+    with the task of raising the finances required to maintain community
+    assets and to cover the day to day running costs. It is proposed that
+    to overcome this hurdle, parishioners will be invited to become
+    members of a village society and pay an annual subscription which will
+    cover entrance and use of both venues, (membership terms and
+    conditions of which are still to be agreed).  Subscriptions for
+    corporate and not for profit organisations will also be available,
+    plus additional income from external bookings.
+
+
+
+## Frequently Aked Questions (FAQ) {#faq}
+
+**The First Question**
+
+: The first answer
+
+**The Second Question**
+
+: The second answer
+
+
+
 
 We would really value your input, ideas and thoughts on how the
 Chapel might be repurposed.  You can email us via
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
-
-## Frequently Aked Questions (FAQ) {#faq}
 
 
 ![](image353.jpg)
