@@ -15,7 +15,7 @@ title: "Wesleyan Chapel: The Next Chapter"
   * [How to get involved](#getinvolved)
 
 
-![](image345.jpg)
+![](image345.jpg){:width="100%"}
 
 
 ## The Next Chapter {#background}
@@ -111,9 +111,9 @@ Chapel might be repurposed.  You can email us via
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
 
 
-![](image353.jpg)
-![](image357.jpg)
-![](image355.jpg)
+![](image353.jpg){:width="30%"}
+![](image357.jpg){:width="30%"}
+![](image355.jpg){:width="30%"}
 
 
 
