@@ -16,7 +16,7 @@ title: "Wesleyan Chapel: The Next Chapter"
 
 
 
-## The Next Chapter (:id background:)
+## The Next Chapter {#background}
 
 
 The last service was held in the Chapel in February 2019 and then
@@ -26,7 +26,7 @@ April 2020.
 
 ---
 
-## The Opportunity (:id opportunity">:)
+## The Opportunity {#opportunity}
 
 The trustees of the Wesleyan Chapel are now going to
 have to sell the building, which Souldern village is being given the
@@ -89,7 +89,7 @@ We would really value your input, ideas and thoughts on how the
 Chapel might be repurposed.  You can email us via
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
 
-## Frequently Aked Questions (FAQ) (:if faq:)
+## Frequently Aked Questions (FAQ) {#faq}
 
 
 ![](image353.jpg)
@@ -103,12 +103,12 @@ Chapel might be repurposed.  You can email us via
 Please contact any of the following to find out more:
 
 
-    Nick Oakhill,
-    Ian Gray,
-    Jon How,
-    Joanna Carlisle,
-    Barbara McGarry,
-    Lucy Cornish,
-    Charlie Jones,
-    John Hoodless,
-    Susan Jones.
+>   Nick Oakhill,
+>   Ian Gray,
+>   Jon How,
+>   Joanna Carlisle,
+>   Barbara McGarry,
+>   Lucy Cornish,
+>   Charlie Jones,
+>   John Hoodless,
+>   Susan Jones.
