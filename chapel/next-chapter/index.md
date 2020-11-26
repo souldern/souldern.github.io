@@ -11,8 +11,8 @@ title: "Wesleyan Chapel: The Next Chapter"
 * [Chapel History](/chapel/history-of-souldern-chapel/)
 * [Next Chapter Newsletter (PDF)](Souldern Chapel Newsletter Nov20.pdf)
 * [The Next Chapter](#nextchapter)
-* [Village Hall and Chapel](#twoassets)
-* [How to get involved](#getinvolved)
+  * [Village Hall and Chapel](#twoassets)
+  * [How to get involved](#getinvolved)
 
 
 ![](image345.jpg)
