@@ -15,6 +15,8 @@ title: "Wesleyan Chapel: The Next Chapter"
 * [How to get involved](#getinvolved)
 
 
+![](image345.jpg)
+
 
 ## The Next Chapter {#background}
 
@@ -107,7 +109,7 @@ Please contact any of the following to find out more:
 >   Ian Gray,
 >   Jon How,
 >   Joanna Carlisle,
->   Barbara McGarry,
+>   Barbara McGarry,  
 >   Lucy Cornish,
 >   Charlie Jones,
 >   John Hoodless,
