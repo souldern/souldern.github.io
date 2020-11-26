@@ -9,16 +9,17 @@ title: "Wesleyan Chapel: The Next Chapter"
 
 * [Chapel Home Page](/chapel/)
 * [Chapel History](/chapel/history-of-souldern-chapel/)
-* [Next Chapter Newsletter (PDF)](Souldern Chapel Newsletter Nov20.pdf)
 * [The Next Chapter](#nextchapter)
+  * [Next Chapter Newsletter (PDF)](Souldern Chapel Newsletter Nov20.pdf)
   * [Village Hall and Chapel](#twoassets)
+  * [Frequently Asked Questions](#faq)
   * [How to get involved](#getinvolved)
 
 
 ![](image345.jpg){:width="100%"}
 
 
-## The Next Chapter {#background}
+## The Next Chapter {#nextchapter}
 
 
 The last service was held in the Chapel in February 2019 and then
@@ -26,9 +27,6 @@ after another year of unsuccessfully trying to encourage increased
 attendance, the painful decision was taken to close permanently from
 April 2020.
 
----
-
-## The Opportunity {#opportunity}
 
 The trustees of the Wesleyan Chapel are now going to
 have to sell the building, which Souldern village is being given the
@@ -93,7 +91,7 @@ conflict between the two buildings.
 
 
 
-## Frequently Aked Questions (FAQ) {#faq}
+## Frequently Asked Questions (FAQ) {#faq}
 
 **The First Question**
 
@@ -105,19 +103,11 @@ conflict between the two buildings.
 
 
 
+## How to get involved {#getinvolved}
 
 We would really value your input, ideas and thoughts on how the
 Chapel might be repurposed.  You can email us via
 [ChapelProject@souldern.org](mailto:ChapelProject@souldern.org)
-
-
-![](image353.jpg){:width="30%"}
-![](image357.jpg){:width="30%"}
-![](image355.jpg){:width="30%"}
-
-
-
-
 
 Please contact any of the following to find out more:
 
@@ -131,3 +121,10 @@ Please contact any of the following to find out more:
 >   Charlie Jones,
 >   John Hoodless,
 >   Susan Jones.
+
+
+
+![](image353.jpg){:width="30%"}
+![](image357.jpg){:width="30%"}
+![](image355.jpg){:width="30%"}
+
