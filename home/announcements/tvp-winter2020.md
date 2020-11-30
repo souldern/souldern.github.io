@@ -72,4 +72,4 @@ Address: Bicester Police Station. Queens Avenue, Bicester
 
 * [Christmas Gifts for Burglars (PDF)](Christmas_Gifts_for_Burglars.pdf)
 
-* [Home Security Advice](CP52_-_Home_Security_Advice_Leaflet.pdf)
+* [Home Security Advice (PDF)](CP52_-_Home_Security_Advice_Leaflet.pdf)
