@@ -39,6 +39,8 @@ li img {width:5em; vertical-align:middle}
 
 [Rules for Christmas (23–27 December)](https://www.gov.uk/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
 
+[Tier 2 Rules](https://www.gov.uk/guidance/local-restriction-tiers-what-you-need-to-know#high-alert)
+
 [New Government rules for November 2020 Lockdown](https://www.gov.uk/guidance/new-national-restrictions-from-5-november)
 	
 [Oxfordshire County Council Press office Warning about Cororonvirus scams](https://news.oxfordshire.gov.uk/oxfordshire-residents-warned-against-coronavirus-scams/)
