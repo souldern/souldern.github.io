@@ -1,6 +1,6 @@
 ---
 date: 2020-12-02
-title: Covid: Tier 2
+title: "Covid: Tier 2"
 ---
 
 # Tier 2
