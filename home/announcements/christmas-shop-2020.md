@@ -33,4 +33,6 @@ Souldern
 
 
 
-
+<div id="shop2020"></div>
+<script src="../gallery/shop2020.js"></script>
+<script src="/home/gallery/galleries.js"></script>
