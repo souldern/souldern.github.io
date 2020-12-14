@@ -27,6 +27,13 @@ to join in the festive fun in a ‘free for all’ during the week before
 Christmas. The aim is to bring as much festive cheer at the end of an
 unusual year!
 
+
+![1-5](Souldern Advent Trail 2020 Windows High St to Wharf Lane.png)
+
+![6-11](Souldern Advent Trail 2020 Windows Bates Lane.png)
+
+
+
 ---
 
 [Original announcement](souldern-advent-2020)
