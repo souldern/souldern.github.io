@@ -3,7 +3,7 @@ date: 2020-12-16
 title: Christmas at St Mary's Souldern
 ---
 
-# Christmas at St Mary's<br>SOULDERN
+# Christmas at St Mary's SOULDERN
 
 
 ![poster](church-christmas-2020.jpg)
