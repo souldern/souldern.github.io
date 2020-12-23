@@ -32,7 +32,11 @@ unusual year!
 
 ![6-11](Souldern Advent Trail 2020 Windows Bates Lane.png)
 
+![12-15](Souldern Advent Trail 2020 Windows High Street.png)
 
+![16-18](Souldern Advent Trail 2020 Windows High St & Fox Lane.png)
+
+![19-22](Souldern Advent Trail 2020 Windows The Hill.png)
 
 ---
 
