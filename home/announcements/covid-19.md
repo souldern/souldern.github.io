@@ -1,5 +1,5 @@
 ---
-date: 2020-11-06
+date: 2020-12-23
 title: Coronavirus &mdash; COVID-19
 ---
 <style>
@@ -36,6 +36,9 @@ li img {width:5em; vertical-align:middle}
 ---
 
 ## Government Advice
+
+[Tier 4 Rules (from 26th December)](https://www.gov.uk/guidance/tier-4-stay-at-home)
+
 
 [Rules for Christmas (23–27 December)](https://www.gov.uk/government/publications/making-a-christmas-bubble-with-friends-and-family/making-a-christmas-bubble-with-friends-and-family)
 
