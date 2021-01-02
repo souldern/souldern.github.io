@@ -38,7 +38,7 @@ unusual year!
 
 ![19-22](Souldern Advent Trail 2020 Windows The Hill.png)
 
-![23-24](Souldern Advent Trail 2020 Windows Curch Lane.png)
+![23-24](Souldern Advent Trail 2020 Windows Church Lane.png)
 
 ---
 
