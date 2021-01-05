@@ -1,5 +1,5 @@
 ---
-date: 2021-01.05
+date: 2021-01-05
 title: Fox Takeaway Service
 ---
 
