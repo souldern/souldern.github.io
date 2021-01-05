@@ -1,6 +1,6 @@
 ---
 date: 2021-01-05
-title: Fox Takeaway Service
+title: "Fox Takeaway Service"
 ---
 
 # Fox Takeaway Service
