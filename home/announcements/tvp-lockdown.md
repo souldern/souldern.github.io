@@ -11,7 +11,7 @@ title: "Lockdown In the Thames Valley"
 
 “Firstly, I would like to thank you all for your support throughout the pandemic and your continued support of us and other emergency services by following the government legislation and guidance and staying at home to stop the spread, save the NHS, save lives and protect everyone in our communities.
 
-“We all have a duty to stay at home unless there is a valid reason not to be there. The full details of what you can and can’t do during lockdown are contained on the government pages - https://www.gov.uk/guidance/national-lockdown-stay-at-home
+“We all have a duty to stay at home unless there is a valid reason not to be there. The full details of what you can and can’t do during lockdown are contained on the government pages — <https://www.gov.uk/guidance/national-lockdown-stay-at-home>
 
 “Our officers will continue to engage, explain and encourage people to abide by the restrictions. Where people have genuinely misunderstood the rules, or where there is an element of complexity, a simple reminder of the regulations is often enough for them to comply.
 
