@@ -25,7 +25,7 @@ title: "Lockdown In the Thames Valley"
 
 “We have resources in place to respond appropriately and these will be targeted where the risk to the wider public is greatest.
 
-“We will continue to work with our partners, businesses and the public to protect our communities from Coronavirus."Email tracking gif
+“We will continue to work with our partners, businesses and the public to protect our communities from Coronavirus.
 
 Message Sent By  
 Emma Tarry (Police, Communications Officer, Thames Valley)
