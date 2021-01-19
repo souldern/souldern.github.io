@@ -72,6 +72,7 @@ li img {width:5em; vertical-align:middle}
  * <span id="newsletter"></span> Newsletter:  
    [The Souldern Shout-Out April 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20Apr20.pdf)  
    [The Souldern Shout-Out May 2020](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20May20.pdf)  
+   [The Souldern Shout-Out Jan 21](/parish-council/spc-newsletter/Souldern%20Shout%20Out%20Jan21.pdf)  
 
 ## Local Activities
 
