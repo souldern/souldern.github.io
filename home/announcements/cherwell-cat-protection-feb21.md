@@ -51,7 +51,7 @@ participate in this February offer, please see our website at
 <https://www.cherwell.cats.org.uk/cherwell>
 
 You can follow us on Facebook at
-<https://www.facebook.com/Cherwell-Cats-Protection> and
+<https://www.facebook.com/cherwellcats> and
 on Twitter [@cherwellcats](https://twitter.com/cherwellcats).
 
 
