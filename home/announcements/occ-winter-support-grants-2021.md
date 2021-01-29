@@ -63,7 +63,7 @@ The teams will then carry out the appropriate checks to see if you are eligible 
 
  
 
-For more information about this release contact the **Oxfordshire County Council and Cherwell District Council communications team** on 01865 323870 or email [press.office@oxfordshire.gov.uk](mailto:press.office@oxfordshire.gov.uk0
+For more information about this release contact the **Oxfordshire County Council and Cherwell District Council communications team** on 01865 323870 or email [press.office@oxfordshire.gov.uk](mailto:press.office@oxfordshire.gov.uk)
  
 ## Notes to editors
 
