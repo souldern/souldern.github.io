@@ -71,8 +71,6 @@ For more information about this release contact the **Oxfordshire County Council
 
  
 
-Marc Evans
-
-Communications and Media Officer
-
+Marc Evans  
+Communications and Media Officer  
 Oxfordshire County Council
