@@ -2,7 +2,7 @@
 ---
 <style>
 .embed-container {
-  border: solid thick red;
+  border: solid thin green;
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
