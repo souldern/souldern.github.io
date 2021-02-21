@@ -14,4 +14,4 @@ Please help us by filling in this questionnaire.
 [Playground Questionaire](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAZ__oxDaSVUMkVLRkwyQlBSSENPUzRXVVFRR0VVVjFIOS4u)
 
 Thank you  
-from Playground Advisory Group
+from the Playground Advisory Group
