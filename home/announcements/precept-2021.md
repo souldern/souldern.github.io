@@ -35,4 +35,4 @@ their efforts, and hope that all parishioners are supportive of this
 change.
 
 Nick Oakhill  
-Chairman, Souldern parish Council
+Chairman, Souldern Parish Council
