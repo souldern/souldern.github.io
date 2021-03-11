@@ -22,13 +22,13 @@ level, we just cannot afford to do this work.
 Preliminary work is already ongoing to replace the playground,
 hopefully in three phases. This work has been delayed by the pandemic,
 and was originally intended to be started in 2020 following a village
-consultation in last January.
+consultation last January.
 
 There is also an amount of maintenance required on trees that are the
 responsibility of SPC, along with any wall repairs that may be needed.
 
 It means that on average, each household will see their annual council
-tax increaase by £9.
+tax **increase by £9**.
 
 The Councillors will continue to carry out their duties to the best of
 their efforts, and hope that all parishioners are supportive of this
