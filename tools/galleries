@@ -1,7 +1,10 @@
 #!/bin/bash
 
-./photojs shop2020  "Christmas Shop 2020" https://photos.app.goo.gl/wvz5KosDbyWhJti69
-mv shop2020.js ../home/gallery
+./photojs playgroundmarch21 "Playground Demolition" https://photos.app.goo.gl/XZrSWnTtwcHmGQ1k9
+
+
+# ./photojs shop2020  "Christmas Shop 2020" https://photos.app.goo.gl/wvz5KosDbyWhJti69
+# mv shop2020.js ../home/gallery
 
 # ./photojs ve75  "VE75 May 2020" https://photos.app.goo.gl/AB1TurFPowecpk9VA
 # mv ve75.js ../home/gallery
