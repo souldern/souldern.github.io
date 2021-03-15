@@ -26,7 +26,7 @@ for decades to come.
 Thank you to all those who helped. 
 
 Best wishes,  
-Lucy Mahhews
+Lucy Matthews
 
 <script src="/home/gallery/playgroundmarch21.js"></script>
 <script src="/home/gallery/galleries.js"></script>
