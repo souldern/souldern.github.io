@@ -1,0 +1,86 @@
+---
+layout: default
+title: "Souldern Village Hall Booking"
+---
+    <script>
+      function generateEmail () {
+	  var body ="Booking request for Souldern Village Hall\n";
+	  var body = body + "My name: " + document.getElementById('name').value+ " (" +
+	      (document.getElementById('resid').checked ? document.getElementById('resid').value :"") +
+ 	      (document.getElementById('org').checked ? document.getElementById('org').value :"") +
+	      (document.getElementById('ext').checked ? document.getElementById('ext').value :"") +
+	      ")";
+	  body = body + "\nDate: " + document.getElementById('date').value ;
+	  body=body+"\n  Duration: " +   document.getElementById('duration').value;
+	 if(document.getElementById('duration').value.indexOf('hour') !== -1) {
+	      body=body+" from: " +   document.getElementById('start').value;
+	 }
+         if(document.getElementById('repeat').value != 'No repeat') {
+  	   body=body+"\n  Repeat: " + document.getElementById('repeat').value;
+	 }
+	  body=body+"\nAny further comments:\n"
+
+	  if(document.getElementById('name').value=="") {
+	      document.getElementById('missing').innerHTML="Please supply your name";
+	  } else if(document.getElementById('date').value=="") {
+	      document.getElementById('missing').innerHTML="Please select a date";
+	  } else {	      
+	      document.location.href = "mailto:d.pc.arlisle@gmail.com?subject=Village+Hall+Booking+Form&body="+encodeURI(body);
+	  }
+      }
+      function showtimes () {
+	  if(document.getElementById('duration').value.indexOf('hour') == -1) {
+	      document.getElementById('times').style.display='none';
+	  } else {
+	      document.getElementById('times').style.display='block';
+	  }
+      }
+</script>
+
+  <h1>Souldern Village Hall Booking</h1>
+
+
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=azVtbDdmbm4ybXU4YzJtamdwdHEyZzBwMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F4511E&amp;color=%230B8043&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showNav=1&amp;showTitle=0" style="border:solid 1px #777" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
+  <p>
+    <label for="date">Date:  </label><input id="date" name="date" type="date">
+    <label for="duration">&nbsp;Duration: </label>
+    <select id="duration" name="duration" onchange="showtimes(this)">
+      <option>1 hour</option>
+      <option>2 hours</option>
+      <option>3 hours</option>
+      <option>4 hours</option>
+      <option>5 hours</option>
+      <option selected>1 day</option>
+      <option>2 days</option>
+      <option>3 days</option>
+    </select>
+    <label for="repeat">&nbsp;Repeat:</label>
+    <select id="repeat" name="repeat">
+      <option selected>No repeat</option>
+      <option>Weekly</option>
+      <option>Monthly</option>
+</select>
+  </p>
+  <p id="times" style="display:none">
+    <label for="start">Start time </label>
+    <select id="start" name="start">
+      <option selected>07:00</option><option>08:00</option><option>09:00</option><option>10:00</option><option>11:00</option><option>12:00</option>
+      <option>13:00</option><option>14:00</option><option>15:00</option><option>16:00</option><option>17:00</option><option>18:00</option>
+      <option>19:00</option><option>20:00</option>
+      </select>
+</p>
+<p>
+ <label for="name">Your Name </label><input type="textbox" id="name" name="name" size="60">
+</p>
+  <p>
+   <input type="radio" name="status" id="resid" value="Souldern Resident"> <label for="resid">Souldern Resident</label>
+   <input type="radio" name="status" id="org" value="Souldern Organisation"> <label for="org">Souldern Organisation</label>
+   <input type="radio" name="status" id="ext" value="External" checked> <label for="ext">External</label>
+</p>
+
+<p><i>You can add further notes or amend the text for special requests before sending the email.</i></p>
+  <p><button onclick = "generateEmail()">Generate booking request email</button>
+  <span id="missing" style="color:red;font-weight:bold"></span>
+  <hr>
+
+	
