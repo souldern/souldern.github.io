@@ -1,0 +1,3 @@
+---
+title: Allotment Pictures
+---
