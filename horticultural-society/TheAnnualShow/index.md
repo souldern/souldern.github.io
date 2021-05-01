@@ -39,4 +39,4 @@ And you're never too young to start...
 
 [2020 Show Classes and Rules](2020_Schedule.pdf)
 
-[Photos from previous years](PhotoGallery)
+[Photos from previous years](../PhotoGallery)
