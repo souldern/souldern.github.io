@@ -30,6 +30,7 @@ Held in the village hall on Saturday 17 August 2019, the Souldern Horticultural 
 
 The prize winners were (clockwise from left) Helen Blunt, Susan Jones, Bill Wright, Carol Gray, Sophia Large and Ben Pheasant.
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3c2nNg6uHYplzFfXVpfgp7_ZyYvNuOTdg7NSgrwCepCmmuF98J6t3jRCVW4Ry8xL0ir37KGShis3dZCqcnHaoIKWY-V2699MtLbFrzgF0BRE50cUATTyKqsCLuDBbzOGZtig47u43Lu6g5StOBlqQcP=w404-h303-no?authuser=1)
 
 Society Chairperson Carol Gray said, 
 
