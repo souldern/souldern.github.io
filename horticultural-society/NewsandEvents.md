@@ -19,3 +19,5 @@ The Royal Horticultural Society, to which the Souldern Horticultural Society is 
 We have a discount scheme arranged with Suttons Seeds. For the latest update [click here](SeedOrders).
 
 The Cheese and Wine Evening on 24th January was a great success. Thanks to all who assisted and attended.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3cnI7XZdm6OqrXXkIKWTxxvAed5TA3YDDkG0POGjqXmNajqiS3ll_bFA3XFkVfaW3xiJTyptze575-dIArmMj6v0HBzToLpoNXsa7sann6DPIGd6n3-LOZuI0PDS5LVGCb14y700GQOMeHrR7_aAth-=w605-h454-no?authuser=0)
