@@ -7,7 +7,7 @@ title: SHS Photo Gallery
 Linked to this page are photographs of past events of the society. 
 
 
-* [2019 Annual show](2019Annualshow)
+* [2019 Annual Show](2019Annualshow)
 * [2018 Annual Show](2018AnnualShow)
 * [2017 Annual Show](2017AnnualShow)
 * [2016 Annual Show](2016AnnualShow)
