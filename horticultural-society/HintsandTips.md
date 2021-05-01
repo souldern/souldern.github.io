@@ -10,11 +10,11 @@ This page is intended for sharing ideas and helping fellow gardeners. The conten
 If you would like to post your favourite idea that you think would help others,
 Simply Click here to send it to us and we will add it to the site. Just put the details in the message box.
 
-To get us started, try the following web site: RHS Grow your own veg Advice
+To get us started, try the following web site: [RHS Grow your own veg Advice](https://www.rhs.org.uk/advice/grow-your-own/vegetables)
 
-Plus advice from The Eden Project Gardening Team: Eden Project Advice
+Plus advice from The Eden Project Gardening Team: [Eden Project Advice](https://www.youtube.com/playlist?list=PLC6B2B2BF1E5BA92B)
 
-What to do in the garden this month: Tips from Thompson and Morgan
+What to do in the garden this month: [Tips from Thompson and Morgan](https://www.thompson-morgan.com/in-the-garden-this-month)
 
 ## Start Growing Your Own!
 
