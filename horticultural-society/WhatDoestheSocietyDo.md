@@ -10,4 +10,4 @@ The Society organises an annual show, arranges trips, invites guest speakers, ho
 
 It may also organise other activities that support the purpose of the Society.
 
-[[List of planned events](NewsandEvents)
+[List of planned events](NewsandEvents)

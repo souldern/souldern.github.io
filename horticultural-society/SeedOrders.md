@@ -42,5 +42,5 @@ The number for is pre-printed on the supplied order forms and will be valid unti
 
 To obtain this number or request a catalogue and order form, please contact Diana, Ian, Bill or Carol.
 
-<span style="color:red">4Please Note: You should not pass on our group discount number to anyone
+<span style="color:red">Please Note: You should not pass on our group discount number to anyone
 who is not a member of the Souldern Horticultural Society.</span>
