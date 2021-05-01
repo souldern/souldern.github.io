@@ -5,28 +5,28 @@ extracss: booking
 ---
     <script>
       function generateEmail () {
-	  var body ="Booking request for Souldern Village Hall\n";
-	  var body = body + "My name: " + document.getElementById('name').value+ " (" +
+	  var body ="\n";
+	  var body = body + "My name: " + document.getElementById('name').value+ "\n(" +
 	      (document.getElementById('resid').checked ? document.getElementById('resid').value :"") +
  	      (document.getElementById('org').checked ? document.getElementById('org').value :"") +
 	      (document.getElementById('ext').checked ? document.getElementById('ext').value :"") +
 	      ")";
 	  body = body + "\nDate: " + document.getElementById('date').value ;
-	  body=body+"\n  Duration: " +   document.getElementById('duration').value;
+	  body=body+"\nDuration: " +   document.getElementById('duration').value;
 	 if(document.getElementById('duration').value.indexOf('hour') !== -1) {
 	      body=body+" from: " +   document.getElementById('start').value;
 	 }
          if(document.getElementById('repeat').value != 'No repeat') {
-  	   body=body+"\n  Repeat: " + document.getElementById('repeat').value;
+  	   body=body+"\n Repeat: " + document.getElementById('repeat').value;
 	 }
-	  body=body+"\nAny further comments:\n"
+	  body=body+"\n\nAny further comments:\n"
 
 	  if(document.getElementById('name').value=="") {
 	      document.getElementById('missing').innerHTML="Please supply your name";
 	  } else if(document.getElementById('date').value=="") {
 	      document.getElementById('missing').innerHTML="Please select a date";
 	  } else {	      
-	      document.location.href = "mailto:d.pc.arlisle@gmail.com?subject=Village%20Hall%20Booking%20Form&body="+encodeURI(body);
+	      document.location.href = "mailto:d.pc.arlisle@gmail.com?subject=Souldern%20Village%20Hall%20Booking%20Request&body="+encodeURI(body);
 	  }
       }
       function showtimes () {
@@ -46,7 +46,7 @@ extracss: booking
 <iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FLondon&amp;src=azVtbDdmbm4ybXU4YzJtamdwdHEyZzBwMDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4udWsjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23F4511E&amp;color=%230B8043&amp;showTz=0&amp;showCalendars=0&amp;showTabs=0&amp;showPrint=0&amp;showNav=1&amp;showTitle=0" style="border:solid 1px #777" width="100%" height="500" frameborder="0" scrolling="no"></iframe>
   <p>
     <span style="white-space:nowrap"><label for="date">Date:&nbsp;</label><input id="date" name="date" type="date"></span>
-    <span style="white-space:nowrap"><label for="duration">&nbsp;Duration:&nbsp;</label><select id="duration" name="duration" onchange="showtimes(this)">
+    <span style="white-space:nowrap"><label for="duration">Duration:&nbsp;</label><select id="duration" name="duration" onchange="showtimes(this)">
       <option>1 hour</option>
       <option>2 hours</option>
       <option>3 hours</option>
@@ -56,7 +56,7 @@ extracss: booking
       <option>2 days</option>
       <option>3 days</option>
     </select></span>
-    <span style="white-space:nowrap"><label for="repeat"> Repeat:&nbsp;</label><select id="repeat" name="repeat">
+    <span style="white-space:nowrap"><label for="repeat">Repeat:&nbsp;</label><select id="repeat" name="repeat">
       <option selected>No repeat</option>
       <option>Weekly</option>
       <option>Monthly</option>
