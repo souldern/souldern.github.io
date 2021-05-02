@@ -22,18 +22,16 @@ title: 2016 Annual Show
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f5No9Wzdd4IhmYZAd5wihJd9mOZLgQy6oFncbimeb0Bau_07CgQEIsIkcM3KZiVBQx9yT2tXulcXAGV0puvyzCWpZNWzkMA55h3S_NdE6YrxCkcDESQ_Xb756l-Zp5a5vGcieklkY20QBpYdDp4tTd=w703-h373-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eyPUXo936zcVXIDfL2KalScpSu11xUwRLu8d1hkMGg4GPqGCm-lsO_YdEx9rY1evdnkRe2VPB9dXtsI23kgvzxdm0TOrmTdM4rVKe0854Gw6BHvr0zMmlsxeFhFuM0Z_UZfoVv66rBUmqUGKIbjnsV=w639-h302-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d2qiAJ4dB2hjeLhplFINj9dbHPuvAFbpx9lP0dSbEviLGvm3JsIiUQDp5cEh8thgFQKb30sSKYW2iHhRvlV2Ug8gfEi5HZDIYRKDm5jHsQfir4eso4uVW9ek9fT4YUugt08LuDnroodctfCkGH79mZ=w567-h479-no?authuser=0)
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3evbpUDtBkC4HCWfaKpbYpIyWyQvF8ka9z1gdmQMBm0keexreYoVlwprUCrIzwOvzn2TosW7iC8l8SFVFXyJd23bstKwi3shRXcYNjwMwOC25eWdQmdcA2TVMCXWfNhCXsw4tGc75RLv2FHcXN0l2Y_=w612-h332-no?authuser=0)
------
-
-### Judging the entries
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cEIRAxH-WC_uJ-3Wv0s9pNHVp8ZNhqOBgSaco52jSAMHA9nfm2RFWHkn9IV_r1wFx1q4brz4tJ6_vDioOXD7MMjY6yDNYBEDw_F85Ao1rOi3kdMst9vyA4TnYTjlPgD90LwH1VezC36ZlILCXIoaDN=w701-h379-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fzjF4zJ-gz_ZN3ngGpAbAjDXyPG6cbsTpbao8RknlcWML7X0aDsMzHQ5taR0DY8e3py5pAes1ldjaytVS1uB7N7BUiVv-V0M25RI4PgPWj8wwTt9dxgTKPsqn0lvR38ds32CaIiYGvyP-nTSUYkmLg=w649-h464-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cgbHOSbdIW248adK5G0GBoQMA2dTOtuF5jBwnUbR81HFNd3T80QwMGhKtacYwz3uC_YoABv10pLpVNbKwaKseUJVQ-4jMSJYXbaAMmFHMKuVCqlj6apGKTECjrxrlvpeCmK9CIDWfXyIO3pCqQxNmU=w446-h258-no?authuser=0)
 
 
-jjj
+-----
+
+### Judging the entries
+
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dxXNNZ26cxsvuRdAaBRoHgSL405KS3I13RM0AwR5py4NpAOIrjNcfyGsqle_I6HxYwJKq4-6GECM-bshuuf2E0AYb1ajOsH3jMYcxisV7M7C3y3PphGDrTv5wcnoxsrsgcRDsPOtjuDWEOMs6C4bU7=w618-h471-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cGIQWvEntCZGSaJ7HL0_Hg7fQLz4y6___f4msXXtfvyCi8TiyTdqpDBsJF6pWJqL5fDTrTINw3uofln4FUO0n-SAw8TFcQnDm0N7sca0KQvaYxymEOCjzMniznrV8SGXx0jkEKEH_sfMjX3U40qeoU=w737-h499-no?authuser=0)
