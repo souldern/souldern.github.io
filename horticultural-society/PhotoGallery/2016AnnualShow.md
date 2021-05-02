@@ -18,20 +18,12 @@ title: 2016 Annual Show
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cBnPdbnEDfPGG_FA460ROgQgkDvMdcDSEVUAoA1d2iEE6h-WteCVA8dH-FEbpVRZ5qmJ7-Zlgu6lAg87jLD7x_KlO7NboqeTtQkkHYrjHDcsaaZCFRANLXc4Zs3GYZUP4Gm3SF7cJ-kq5ae-pkcBLf=w770-h433-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d2RT6syQ2IjpxtrgLB4T1y64CYtpyTVCZ6N9nkRS-SX_HHpwWsiwz7fAfGnaT_7WPhC1O2uM1o9eOWCjpKM7faFmXtPtaWLlmhGCGwFLd8TBUvyE59KivXVaq7kwxZ7zlao8H9cyUJfO3V8L2lxiYJ=w657-h500-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eVg2PursQhBAxTAcdu9ZMEMqmcRxCUIV6DilI4mjxu1-uRJ-BwKH5yMqTJXqdP6LEtfsRLE1X7SifEsGYeliH8PGF9RzJctSH9Be7n1EwqYzzotsXA2qXE7KCqeC63PaCNKuU6IN79DHszejesgAaP=w599-h462-no?authuser=0)
-
-
-jars
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fsbMz8lL6JTpkxyR8chzRPoScECiOQGpDveKIfGV1M060lTTqpiQqHHSjABxYPaahPpoKZMqMnFIVv5QED8PiC7PbcVjONQT45G7z2QY1gw-txkprcA2QO6fG8OLvS7tH9cELCtLGCEzoSUhjhiEjW=w668-h361-no?authuser=0)
-
----
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f5No9Wzdd4IhmYZAd5wihJd9mOZLgQy6oFncbimeb0Bau_07CgQEIsIkcM3KZiVBQx9yT2tXulcXAGV0puvyzCWpZNWzkMA55h3S_NdE6YrxCkcDESQ_Xb756l-Zp5a5vGcieklkY20QBpYdDp4tTd=w703-h373-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eyPUXo936zcVXIDfL2KalScpSu11xUwRLu8d1hkMGg4GPqGCm-lsO_YdEx9rY1evdnkRe2VPB9dXtsI23kgvzxdm0TOrmTdM4rVKe0854Gw6BHvr0zMmlsxeFhFuM0Z_UZfoVv66rBUmqUGKIbjnsV=w639-h302-no?authuser=0)
-
-llll
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d2qiAJ4dB2hjeLhplFINj9dbHPuvAFbpx9lP0dSbEviLGvm3JsIiUQDp5cEh8thgFQKb30sSKYW2iHhRvlV2Ug8gfEi5HZDIYRKDm5jHsQfir4eso4uVW9ek9fT4YUugt08LuDnroodctfCkGH79mZ=w567-h479-no?authuser=0)
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3evbpUDtBkC4HCWfaKpbYpIyWyQvF8ka9z1gdmQMBm0keexreYoVlwprUCrIzwOvzn2TosW7iC8l8SFVFXyJd23bstKwi3shRXcYNjwMwOC25eWdQmdcA2TVMCXWfNhCXsw4tGc75RLv2FHcXN0l2Y_=w612-h332-no?authuser=0)
 -----
 
 ### Judging the entries
@@ -40,17 +32,13 @@ llll
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fzjF4zJ-gz_ZN3ngGpAbAjDXyPG6cbsTpbao8RknlcWML7X0aDsMzHQ5taR0DY8e3py5pAes1ldjaytVS1uB7N7BUiVv-V0M25RI4PgPWj8wwTt9dxgTKPsqn0lvR38ds32CaIiYGvyP-nTSUYkmLg=w649-h464-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cgbHOSbdIW248adK5G0GBoQMA2dTOtuF5jBwnUbR81HFNd3T80QwMGhKtacYwz3uC_YoABv10pLpVNbKwaKseUJVQ-4jMSJYXbaAMmFHMKuVCqlj6apGKTECjrxrlvpeCmK9CIDWfXyIO3pCqQxNmU=w446-h258-no?authuser=0)
 
-cups
 
-![](https://lh3.googleusercontent.com/pw/ACtC-3evbpUDtBkC4HCWfaKpbYpIyWyQvF8ka9z1gdmQMBm0keexreYoVlwprUCrIzwOvzn2TosW7iC8l8SFVFXyJd23bstKwi3shRXcYNjwMwOC25eWdQmdcA2TVMCXWfNhCXsw4tGc75RLv2FHcXN0l2Y_=w612-h332-no?authuser=0)
+jjj
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dxXNNZ26cxsvuRdAaBRoHgSL405KS3I13RM0AwR5py4NpAOIrjNcfyGsqle_I6HxYwJKq4-6GECM-bshuuf2E0AYb1ajOsH3jMYcxisV7M7C3y3PphGDrTv5wcnoxsrsgcRDsPOtjuDWEOMs6C4bU7=w618-h471-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cGIQWvEntCZGSaJ7HL0_Hg7fQLz4y6___f4msXXtfvyCi8TiyTdqpDBsJF6pWJqL5fDTrTINw3uofln4FUO0n-SAw8TFcQnDm0N7sca0KQvaYxymEOCjzMniznrV8SGXx0jkEKEH_sfMjX3U40qeoU=w737-h499-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dz8pnWrAFDVMATPHMimcPOfPBWCnX5bCWbx8UmIxqGTIf-3vFkO7tfliHMFtAcNrHs7ibdqrYYdVciIIawBl8LIyKWyjm-3VTgf4dbrIOLfLKmF914wdHoR3LiinyFTp0lvDGDiSBsQILQrjB2mMAI=w757-h473-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3ezopmiCSzybfGZUuU1Uv6lggFb_IdpV6B8g0h5galC1Rr9Yst041lvw3uIhL8T0dnS5AcOMW0qdrgN3hubsoyWch9_0-9BhOas4htGeLKwgkpvFAbk2QPlW97xV9gRJ_OQbjs1W-7jY040-GoYQJJQ=w392-h385-no?authuser=0)
-
-
-judge
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3c-_VTcPvEzOm4lR_OJbhGIX6v4_o321Nf7PwTWCkhfHd5NUV4_b3dbn6ChWNFgoEcqBvxP5C6L_4SgFEmNn3lG0M2ZRFEd3AOin0iUamvl4-xa7g9JZpwMtzQef16NZxUjfycu97r2QpmbZU2_9tZQ=w592-h365-no?authuser=0)
 
 
@@ -93,7 +81,8 @@ judge
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dmCcvffgF26dQfxiY20WfSgS6kXZnVnY6Sdn6secy_upChJV3InLOypgTwAJurdAP2rJ6ew_NWN-PAl8DgQNE59OzcSA8qLXgQLcDZCVPK1e5KJqjQSfAx_3PqfTf0Gw5ZYbR-KsolpCbi-9guKCNV=w413-h385-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eIHG7w6uy8Ynuz8BTciSjiL7yRyU4RmrayXacl2AQD2e2m5PjEcDvtwHa8eGGRQNbJPw9YVIqlG-TqYSpMic7VU65McR7W8AWcaBNZaCbgqCcdfJUL0mrszU4-SLS_sMtkhdQ0YI3zKjSWsQ3HHQq9=w488-h461-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f8aV0YLdDl09eIDMBx5oepOGFVfUSs8fxNCnq-BnhoTb74ggsbSxggDctfx7vIY-_1deU00eMbgi-y7qRvqN_Z24YtsiJSxM-AbEzyOsXoEFaGD2Jn3QvO7iXMQHY6RRpt1ZVm8oCRSdaRM77vncMW=w641-h509-no?authuser=0)
-
+![](https://lh3.googleusercontent.com/pw/ACtC-3fZ99wdlLf0vjvSq-Ifq3tPp5l7kSl576ox2EdQTUq-FF_r6NkMO1GKcf1YNI2CauYqZZR_LU0wf9oUcJr_3ok5Oc8ge1Hiegm-DtEEt9hNxQzh5lO3L4Xf8LMgBKSOdU1zk1PIteh3c_dxlVKQ8ba_=w292-h528-no?authuser=0)
+![](https://lh3.googleusercontent.com/pw/ACtC-3e1LNu9UiNCeXHSfSuZHSYp8fyIcKckHFxWVOVRslxfqfTJINFtqJVP9zbwtzgViuBZD9gtLvVGnrMidruoR-tZ11ykoMswV3tFrzPnEGV9dQTKCYiZczeBZRwMjxguunGw0mCFXhLOjMJDrHy2YQgM=w352-h494-no?authuser=0)
 
 ----
 
@@ -101,21 +90,10 @@ judge
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3c5iJYuXBP70L7wZhVmwPewMUxiCkE1o1vVmRhPyQdHXXqUSsmAmesZ1DFtyaXjKcQfpAdh_zJTBj7EPlnzk06XG6Mfp_77XgmHm8iQ8NC7yS7WZgI7kHqU0q72eV42W6j8GYjhCg69zZcBrLmp_vwZ=w654-h445-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3e-oLEV6LuiRPenBRajnrdGkXHAw86tn5Km0sGnbD1JgnuxPwqSxXGZC8DS_n8DmyxXsVsbzSDNaXsDuHRcbw5knPVEg1oYLbvL2NTi8qNjTTUmLocGu265DHlNRBlRygIrqmKoqh6fyDMOaggDLZ9n=w303-h319-no?authuser=0)
-
-
-
-carol scone
-
-![](https://lh3.googleusercontent.com/pw/ACtC-3fZ99wdlLf0vjvSq-Ifq3tPp5l7kSl576ox2EdQTUq-FF_r6NkMO1GKcf1YNI2CauYqZZR_LU0wf9oUcJr_3ok5Oc8ge1Hiegm-DtEEt9hNxQzh5lO3L4Xf8LMgBKSOdU1zk1PIteh3c_dxlVKQ8ba_=w292-h528-no?authuser=0)
-
-nick
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fkOzOl-hgalB2_W8PTKHeq28g1NKlZhmFrkUy-LC3a5Jend2NfRXblGGzSOLMKB6i1GZTqdzab8vMC-FEzgrjBIqHVNks67iBSuouKoM2WIt_rXQLBE_8CdAs6sqcKlOrnfM1p0vhCof_qeSMlS41C=w725-h418-no?authuser=0)
-
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3evLs89EWP6MiMJFdv5m8wxpXD-joyOsusf2WJH26lDndklKojY9E_J4Jie-gDL_k75W86qLFXGJA55LoyaDaN0KoX8w0rzFgBvM9SDbjUPZnATGasZSkYxd8wufgWKoigTbulD9ZJE1Cwg3Fz4ZAJM=w175-h234-no?authuser=0)
 
 
-carol
 
-![](https://lh3.googleusercontent.com/pw/ACtC-3e1LNu9UiNCeXHSfSuZHSYp8fyIcKckHFxWVOVRslxfqfTJINFtqJVP9zbwtzgViuBZD9gtLvVGnrMidruoR-tZ11ykoMswV3tFrzPnEGV9dQTKCYiZczeBZRwMjxguunGw0mCFXhLOjMJDrHy2YQgM=w352-h494-no?authuser=0)
+
+
