@@ -10,10 +10,16 @@ title: 2017 Annual Show
 ----
 
 
+### The main hall before judging:
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dpTywKspFzb4B3XNAVSA9tof4F_hxfrGN64Wcf1sEG2Lp990kovSntuyWhT-RNp27skzMM_Phy4rE2amX5E8EZPNMaZs10xKuvV7LZzWjsekRojg7Vf2-qvWkN8KNSbVvCeWPX0qpocB55plSmqMzw=w881-h449-no?authuser=1)
 
 
----
+----
+
+### Colourful stuff from our younger entrants:
+
+----
 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dNilULnb94_HwP4kDpg0glwF13E9F-OMTYL60TFYPhMBgpAfbrvDTUcpA5BOu9Fi989424GS38TPmH6lxdhZKzB8Cou9_7iyCFW1ouWfU0XyABEz9YX3xC4YzosZKUeKJ4_EdutCbjn73oP1sww-IE=w850-h524-no?authuser=1)
@@ -37,6 +43,7 @@ xxx
 ----
 
 flan
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eYCdHF45rl3KkBM2TYHixV4fHytnmbR889MoF41W17IeN7JeyAvsCAT9u6JqZOm4vNJBNmzIErH52ILZ62jjiVDZ0hMWSmeRclZBVe3soE6XP_NC8xcwiQ3ypSsRhtSEGNfcbNmFhsghccDvEDxy9r=w858-h575-no?authuser=1)
 
 ----
@@ -63,11 +70,16 @@ aaaa
 
 ----
 
+www
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eLrz-_kt4r8LuYvbfhhlFt7bELNmyYNi6aFWj5d6833ewWFrjfJ_XRs0cyNpeo9yRETecI-Lc3s1JupS1lINWMuc7wEuGuGjlE5d4J1An0SY3AwwqSK8iUOHxLNF_st4t2i0EriCXBlkWO4uRLGfqK=w746-h593-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fk9pe3Gtl204l2slhHw4jDsKeCchbGhDofBo3ZqY8kEfea4sO3IMSvpuK1gWwH3ub3LgwaMeWTQXcDZDAjh2NSaTCg3GK7_Iysw9_3k7pRI-sE4OEq0BgnHeFgi4-GNiJpF7v76ergM6ooBCPDjont=w803-h399-no?authuser=1)
 
 
 ----
+
+zzz
+
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d147KbrC0RC-u1CQpUeJJ_THVLQrK30cqg5Dzo-MjejwEi-XqbFuUyV2MsPvtqhQaEFquSxtE6XvHdO6fd9sAjZU7vCUWRhlmVmer_77q5tey7RssTqfcr8nWWB9T6xMyjkBYhoKeNTiKSucJ0cafj=w786-h444-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dxaO7va-Zt87aLrvQsefIKmEA8CFhDfiT6_gnNKS7zYviFVUe8gYPAzZhfp49TM01YAxR1UO1PrBXLYNunazTfdXtYgluuYZ46V2ECcGWt2Odz5dtxUK2rga-5P40toXFnsfD5OICEwYNuYstV1shy=w326-h484-no?authuser=1)
@@ -77,7 +89,13 @@ aaaa
 ----
 
 
-bill
+### Finally the trophies presented by club president John Bailey
+
+
+----
+
+First off Bill Wright with his collection of silverware
+
 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f34fxeqxIBV_z4nDLyk5P_s4M353StdjaFr3PHT7PoHPQV_pnhWPCtUhzXkU5IsBnqzbJeTrWJH-dW8kjkNGJ_dcAHfdR5iawETkmYOuT1FKMEcCiXMaWcj6FG8dWStf4rhYbZLcCfxtWVfDUTlHuf=w414-h406-no?authuser=1)
@@ -87,14 +105,20 @@ bill
 
 ----
 
+Then Romney Summers and Helen Blunt -- A trophy each and a hug from John!
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cXs31x2IbmdmgEPtoc88eUjqb38liExzkEuf3wGkRMSZ7albpNdM1Se1FzuG_wg1G8DGVcPLsbS4I54_u0VmYyBFdDCXdX3FoODULuRYxsaRvKKCqzNNh-rz58TcHJJfSb4Lb87MQu8reOgCd91-nK=w328-h352-no?authuser=1)
-![](https://lh3.googleusercontent.com/pw/ACtC-3cHkuPSvyip_2RdM3GMSf5r5vqtOjkh-s4GZjkAq9AfnSFGKFM09QSx9Pop9OzSW49-VFEFQd3-RUkqL4tTJyjRW0YRiFi_HkZHxhcc1EEmLnDewXKr6cKCL5F_oFCDEYkfv0CR4QOv9XQ-uWRqFYiV=w277-h272-no?authuser=1)
-![](https://lh3.googleusercontent.com/pw/ACtC-3cHkuPSvyip_2RdM3GMSf5r5vqtOjkh-s4GZjkAq9AfnSFGKFM09QSx9Pop9OzSW49-VFEFQd3-RUkqL4tTJyjRW0YRiFi_HkZHxhcc1EEmLnDewXKr6cKCL5F_oFCDEYkfv0CR4QOv9XQ-uWRqFYiV=w277-h272-no?authuser=1)
+![](https://lh3.googleusercontent.com/pw/ACtC-3dku5d1TyjFXT9GTtKky_mD2D5xr_F4eeYDZ71tpeXdgCaxdT6Rz_Lvb_ONMf8AwFtekxxJ-K6QcuthNnB5HjDR0W7B8VwX64ZoOPga-3S3LGtjQlY4AvNbKruMcoCfykHTJzAx6HicO6sXEXj_5emX=w381-h363-no?authuser=0)
+
 
 
 ----
 
+Finally Carol Gray with her collection of trophies and more hugs from John!
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3cHkuPSvyip_2RdM3GMSf5r5vqtOjkh-s4GZjkAq9AfnSFGKFM09QSx9Pop9OzSW49-VFEFQd3-RUkqL4tTJyjRW0YRiFi_HkZHxhcc1EEmLnDewXKr6cKCL5F_oFCDEYkfv0CR4QOv9XQ-uWRqFYiV=w277-h272-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d-k-QK9CJY-_8_2D6UCVjeWkEj0n5tFNS_Dzmp0NiGRNTbZr5S-TtlOLDrHke2lDkJpHJMDmszuzYEX1Zk9U4czTItpRcED4jJvHPyBYOciXYIJtNVcX_9xU5puJ6Za95efPIPI7RV77cclO85V0Uc=w244-h235-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cbwujaA0rDiA_pPiwBomdq3bLAyntHHhr3fJm2-k7H9EOFPGXsaWZJd3xv3cvCRysP_MbEFhfru_EBecXrIq_zjdXt4GWc09lypE93vPXfL7xdN6OMvZ92J6ieQPE5oC27VnfFLK1vtl08a-EEFpqN=w311-h307-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cCf5dGRNxgRvTk21cJfhRyBkK_ePyfbVWrtO7A9ypRPo074p5QKFPIWF46GV-CyhzO3N4xinCDaoTCFYHgCjmot0hsZnJ7FBliUIiKrtMVdtvHMNvzjmRB_q2aZKHm_Kz3aV_d_0Q2QujAXCBQqf8z=w194-h266-no?authuser=1)
+
+----
