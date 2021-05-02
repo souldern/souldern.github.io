@@ -10,6 +10,9 @@ title: 2016 Annual Show
 # 2016 Annual Show
 
 
+----
+
+### Setting up on Saturday morning.
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eYqThnrRWTJ_PwzsJRz2YeYFr6yGwAHyNAO0jUI11wfSGiG6qWTvDfwUSn_bxOUrO00FUD2OGwJ6I44otL2J6znG6jlN1dE3Br9n8YmcpcvlExC3FQLYwQ7u8iV5B9dJXZbGDaCcJOzPmEqFQJUNE6=w800-h436-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cBnPdbnEDfPGG_FA460ROgQgkDvMdcDSEVUAoA1d2iEE6h-WteCVA8dH-FEbpVRZ5qmJ7-Zlgu6lAg87jLD7x_KlO7NboqeTtQkkHYrjHDcsaaZCFRANLXc4Zs3GYZUP4Gm3SF7cJ-kq5ae-pkcBLf=w770-h433-no?authuser=0)
@@ -31,6 +34,8 @@ llll
 
 -----
 
+### Judging the entries
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cEIRAxH-WC_uJ-3Wv0s9pNHVp8ZNhqOBgSaco52jSAMHA9nfm2RFWHkn9IV_r1wFx1q4brz4tJ6_vDioOXD7MMjY6yDNYBEDw_F85Ao1rOi3kdMst9vyA4TnYTjlPgD90LwH1VezC36ZlILCXIoaDN=w701-h379-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fzjF4zJ-gz_ZN3ngGpAbAjDXyPG6cbsTpbao8RknlcWML7X0aDsMzHQ5taR0DY8e3py5pAes1ldjaytVS1uB7N7BUiVv-V0M25RI4PgPWj8wwTt9dxgTKPsqn0lvR38ds32CaIiYGvyP-nTSUYkmLg=w649-h464-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cgbHOSbdIW248adK5G0GBoQMA2dTOtuF5jBwnUbR81HFNd3T80QwMGhKtacYwz3uC_YoABv10pLpVNbKwaKseUJVQ-4jMSJYXbaAMmFHMKuVCqlj6apGKTECjrxrlvpeCmK9CIDWfXyIO3pCqQxNmU=w446-h258-no?authuser=0)
@@ -49,7 +54,9 @@ judge
 ![](https://lh3.googleusercontent.com/pw/ACtC-3c-_VTcPvEzOm4lR_OJbhGIX6v4_o321Nf7PwTWCkhfHd5NUV4_b3dbn6ChWNFgoEcqBvxP5C6L_4SgFEmNn3lG0M2ZRFEd3AOin0iUamvl4-xa7g9JZpwMtzQef16NZxUjfycu97r2QpmbZU2_9tZQ=w592-h365-no?authuser=0)
 
 
-biscuit
+----
+
+### Children's entries 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3enRnk3c7fbGoEpZ36QbPql5_pWdpsr9R1dsilMupXlQ1wpX-1XaFiBIqOAN1C-3Tvs_Q7TW5AFOMFE_OFtfX25e9z_1lU48y59Kfusw0xVAkzDEG0g2h9Wlv4Qd6ApRBuBKszLGyPIojxBU3H5K23X=w645-h418-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3ec7VzISzRBshAvbha40kn7IiZJHRykp-ILoogRwJxeza6MkXLhqihh4aY-nz3mFZm98l6PFbIAFFS8VnQd6MzbmOAHQkVvDhB_kv6cd5-_qrKwZtz8RgUXy4NbgY1Y0gs6xtUkj2eUM-r2NXRhjZbw=w624-h357-no?authuser=0)
@@ -62,56 +69,37 @@ biscuit
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dffDpj2mMvlPzE2e11qKaIxaZWUYOZpQ0UTR3kBJPnK_O0B8x6nsugWN0LIjbRg6uwj4MQCAKwi3QSszEept43RACVVrDvcpHbSNh7T5Clo5aOZm9go2Qc_yOdOMwRjLEZPOySqRD7gIcdkrGrn-D3=w511-h299-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fVNcYz3sCEQs35X27D5MBYUz4x3zVxgyoxBtoQk4IJLXqdX84qULlmaMwyfhNOomcrkSMqDZOCTF3UORn6Gj7DVHRkK7YnLVE-Gql986m-t92ue-hNf5L5wpz7NvnfY4H9VIa9fsJIjuk4xzgebPxz=w782-h309-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fUKRso2Izh5AJU0blhAFIQsVEqigYfUww0H5Qi0va8B_ds-PqmZlyhVtNQDwEEZmmFSf3fORbRmi0ZGTAYWKxlETisdm7Pr4WsMxxrBOz2WKUK_mMRFSReBw3umMtFx8SH1kcetOmqpNmkH44cMN6t=w501-h324-no?authuser=0)
-
-bird
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f99FVfyqpldtLCHDHucqxUo9JU52LYcyGDgiD1MMnoffzeDS6n2uLiNWPg8JYosFFWU89ucqb-QCY-sZddBG88F81cJqrEMmCaDJOg3sZ-95Br0aenkIKN-nkBGDWKHyTmpJ3qtx-iwhxf3ZXhQrM6=w223-h302-no?authuser=0)
 
+----
+
+
+### Some floral entries
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fj9t0AoH6RPc-NXRIvsEucWTCHHgVa-vhbyTlXsC6934DRnMF06FhchUzuhTn3zG03JAC7872pHGK1xqyqQSqNpsZF8ZK-4qulQeyWVfZVTJy7kigY0y2oyn1BO3tD1DNYYJqpL52v8RVlQ0k_dOFq=w438-h383-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3ftOJO-ttTP7VlOl6UQ0LkydbBiRBOi-4a7sSYrO7IZ4bDUfDFsutMjKV10wZzcgaw4V3nSQzL-NR-Z18dvaIic3Y_nQ8ftXiVz_OgCZWvEcnospADGDlZMzGQl_KrS8PouzOjiDXlHT19sZpLEU481=w316-h291-no?authuser=0)
 
 
 
-i
+----
+
+### Trophy winners 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3ftwjb7NeHbuc5zKc2MXSGyiIxirULUmH1-fzopPS8srwCoX62Snp0QK9bHNBoeNkHh-uTRCennr4cFtOJXcimmF6biH-7bA1GjKe7BLraCeiPD1ZIZgjsEbLfp8mKTaUTze0RDzfbAk7uIT5t9hlav=w200-h283-no?authuser=0)
-
-
-
-Laura
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f6Rf09DupUP6tBJqP7gMlog1_Z-HEwHPMGmM1myxxFGT0sKXN0FkzT-xc75z2HqUvxQnp0706_Sihw-dYLVQsYmDfxIaW7-YCVNc1gLCf6ruowkYYucKUifTDWX1ViWD8iR3TiCy4xJeYiR_oOmJLD=w127-h199-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dAtivUsdHKTPNjGIww_5XI3ctgzBaJ7qfzZ8KgKG7szCkimHejAsDz7zJVC_8A6LgrLqT0WX0hgIyiSj73R_Zs1dYi12y8Sn_qxvgoyjtBJzIXREODwcwDix2Y1aBeFxnyKx-KfaV41rsbrVvmrDld=w414-h362-no?authuser=0)
-
-
-k
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dGFlwPbvhmLa016Dt8vn4hjretvRy2Q8ZJ8npJR_QZgAdLqkp5LiaMQXJHO9YOPpu3NLaAdZ78FVndhByNKHpl0jPPKLs9zjr0830WLhUyEvvAMvdGtaSpHdrE0P_LvkpmRnIJsH_0DZz0FI6oVlTr=w241-h291-no?authuser=0)
-
-
-katie
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dystnKWDi2kjZcthpybkMubPOsYsIRy4zrec-1Pfx4XxJOQZuRHRKeARyLYXINYelmsZfMQWTaZ0dAMkOA6sg-yirDqzmFTf7lg_Dzjrt4u7zmosXscSxCZsIOgOjXduL07s9Yi1JSXrTV_0tFvLvP=w473-h373-no?authuser=0)
-
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dmCcvffgF26dQfxiY20WfSgS6kXZnVnY6Sdn6secy_upChJV3InLOypgTwAJurdAP2rJ6ew_NWN-PAl8DgQNE59OzcSA8qLXgQLcDZCVPK1e5KJqjQSfAx_3PqfTf0Gw5ZYbR-KsolpCbi-9guKCNV=w413-h385-no?authuser=0)
-
-
-cucum
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eIHG7w6uy8Ynuz8BTciSjiL7yRyU4RmrayXacl2AQD2e2m5PjEcDvtwHa8eGGRQNbJPw9YVIqlG-TqYSpMic7VU65McR7W8AWcaBNZaCbgqCcdfJUL0mrszU4-SLS_sMtkhdQ0YI3zKjSWsQ3HHQq9=w488-h461-no?authuser=0)
-
-
-Helen
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f8aV0YLdDl09eIDMBx5oepOGFVfUSs8fxNCnq-BnhoTb74ggsbSxggDctfx7vIY-_1deU00eMbgi-y7qRvqN_Z24YtsiJSxM-AbEzyOsXoEFaGD2Jn3QvO7iXMQHY6RRpt1ZVm8oCRSdaRM77vncMW=w641-h509-no?authuser=0)
 
 
+----
+
+### The auction and raffle
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3c5iJYuXBP70L7wZhVmwPewMUxiCkE1o1vVmRhPyQdHXXqUSsmAmesZ1DFtyaXjKcQfpAdh_zJTBj7EPlnzk06XG6Mfp_77XgmHm8iQ8NC7yS7WZgI7kHqU0q72eV42W6j8GYjhCg69zZcBrLmp_vwZ=w654-h445-no?authuser=0)
-
-hmm
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3e-oLEV6LuiRPenBRajnrdGkXHAw86tn5Km0sGnbD1JgnuxPwqSxXGZC8DS_n8DmyxXsVsbzSDNaXsDuHRcbw5knPVEg1oYLbvL2NTi8qNjTTUmLocGu265DHlNRBlRygIrqmKoqh6fyDMOaggDLZ9n=w303-h319-no?authuser=0)
 
 
