@@ -2,6 +2,11 @@
 title: Horticultural Society Contacts
 ---
 
+
+[Horticultutal Society](/horticultural-society)
+
+----
+
 # Society Contacts
 
 The committee is elected annually and includes:

@@ -3,6 +3,11 @@ title: Hints and Tips for Gardeners
 ---
 
 
+[Horticultutal Society](/horticultural-society)
+
+----
+
+
 # Hints and Tips for Gardeners
 
 This page is intended for sharing ideas and helping fellow gardeners. The content will build up over time.

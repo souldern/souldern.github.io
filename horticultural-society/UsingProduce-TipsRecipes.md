@@ -2,6 +2,11 @@
 title: "Using Your Produce - Tips and Recipes"
 ---
 
+
+[Horticultutal Society](/horticultural-society) > [Hints and Tips](/horticultural-society//HintsandTips)
+
+----
+
 # Using Your Produce - Tips and Recipes:
 
 Use this page to share ideas for using excess produce from your garden, or recipes that you like.

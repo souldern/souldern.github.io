@@ -2,6 +2,11 @@
 title: The Allotments
 ---
 
+
+[Horticultutal Society](/horticultural-society)
+
+----
+
 # The Allotments
 
 

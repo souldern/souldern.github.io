@@ -1,3 +1,13 @@
+---
+title: How to enter
+---
+
+
+[Horticultutal Society](/horticultural-society) > [The Annual Show](/horticultural-society/TheAnnualShow)
+
+----
+
+
 # How to Enter (2020)
 
 ## Entry forms

@@ -2,6 +2,11 @@
 title: "What Does the Society Do?"
 ---
 
+
+[Horticultutal Society](/horticultural-society)
+
+----
+
 # What Does the Society Do?
 
 The Society organises an annual show, arranges trips, invites guest speakers, holds cheese and wine events, and arranges discount prices of horticultural and gardening supplies. 
