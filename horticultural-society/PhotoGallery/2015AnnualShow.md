@@ -12,14 +12,12 @@ title: 2015 Annual Show
 
 ----
 
+### Setting up - Saturday morning
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fuXE2sDkVFRArpa1lS4sEErRQrzXECglrm5VQp3sG6UMAcvtdoDP3qPaCaJhdSyrjUm9802WWCbe9NJntOoUf_QgkI95tURdPWkfW6c_rJ_HIw0P0uzM8rUZC-mXvg3etP7EBj5aqWLZzxLxnUJLLI=w917-h578-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fpGnk2SVBnYi3oe-Pv9v3bg0Q2KiIa96E19YRXaS4Z5vajKku23lnnEILGafldLR3_QJGD0EmTcUTS4ZKCioIeoY-zTdLHtMDMsYB682bdarLGjXggkU3Uv4QAgi6GWzkJaVsFVa0Gv_4Gcd9KKVSQ=w817-h509-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eZq1amG992aaTfFbPAkibjTs9WJKM3DFvbYwFBMJ0jnZg29-FfIi5aiZAeWvN3C_QMZhyIawEa4f53q3Z-VZ0yl_usfxNMVURhWDaUmA089PS3947YuDK0elBrDzBgk_ZwXVYMTYt51iovp-TkBhUN=w909-h608-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fDTBHXR-Q8OWOVo0tCEEPxuBF4EnngpZzuf-ratLhNwlCXBYdvvWK0fmxf2UuKPebk109UwP527nABlMkKoBvHGnRJb4LRlHArKDDbG1DAg29YnxHIop8MqUpy4J9vTt5kpqqI1o1d5yZCJWmNVK0C=w893-h544-no?authuser=0)
-
-phil tea
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eR2x0XguUQXAOKBHSnvQBCF78bdxQtcpdc6qS36MM7qBEEkO2OVCbvK17Iyg5_LkYQnbVkOmruDSiqnBQtopJzddv0yh5hvc8b10CJ_fHP0EbS2jwDgqWfD1E33iM5ezrG5DeXfU7UboyhyeLSLC2u=w847-h618-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eOaXo8e_h0CTpemGD0I5UQzyKz1x-qYTZorWuAt3b4pd37Gky0S5ChpOW1B15pUqFE1zfamTUHvuWpBE0F_5x7yg_e6tlwrgsxI5Q13DkIKA-JhtBCTlu4jEMreKpCjfZobqRKxmCdapINVJYJt9gY=w852-h617-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cQb0CAS1me5RAD42IL3DG9-vDCq3-g0OU7L7mGjYMiVFF_G1gVjPYdt0GdnTiw86I8hcP5HqWrN3Bq1Z_jaS_OoAaZM8xZiNP9krHa1JiXt1K-Ben6nuILTVeVBriMQ8izivCWd0cDsYsxAONAGa5l=w930-h521-no?authuser=0)
@@ -38,7 +36,7 @@ phil tea
 
 ----
 
-children
+### Children's entries
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3f9pAe0dPpmeEf6AoKiaBrUAwnU6ux5u0RF8L2PQeQSkI6kc7SOUy-xmHJlhGwkSYriCbXWH0jNyULmBWuRKO0nScOmsGt8G5IQAUR1A-pwiBhSucd9NoQ_5N7rC6LJ-RUlQH0FcvPvLigW-8UkVhG_=w853-h623-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fI6TeZB_XXGEoIuMkvnDzzzwSA7Qj-0I5X53K1lJgC7TN0LT1bJGXY-MCu7Xj-9NP00ip1Ly_jnaggCQMcQyyZx0rUG_gzUPYVZeIn0uISFompcExYT5G9lcNt9ETMdPIlr5wOBT-upVtdPAaQ2kCi=w752-h542-no?authuser=0)
@@ -54,18 +52,19 @@ children
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dGTK05tj7llgWL28IoetW7TfEGL3Gi6UQeN6gn91xh2GHcVwRBHf-DayytBY5OwcHOwIrQHv4SAR0q7aOuzOdJdoCQhfoe7sJ2PkhIOOQprAev0tXz9WdcHbHHHuI_-_JIz-gLUnxdxsBOOennljgO=w919-h613-no?authuser=0)
 
 ---
-j
+
+### Saturday afternoon
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dX5Uuu1T-BkiAmXnhmaZMtUpH_Ba8hyXI4mFTQebtab_n7SLaaobs1sP4jLTt-xCUGdF5tsdUIYgLg1J50HoJlOiaCS3dhGS0x_kaaCOVQ9me7Rz9fhSWqKwhSlmiTQD6SOIz3k62z55Q_CI3-pFdO=w775-h438-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dXe8Lkoj-ZKtJqrxfMQ1L2XSj-Z_M1S7Ztc4PxsoSQFGg4MwrO4OoPfgNvpDU4SWfd3rNGJamAW3gS9LMvWRZSTMOx1TrgL0WH6Tv6PCfeJYWxGwVdaFBRDcxaFw_H1vdLoWa0HI0lGtk7ahYfaulk=w856-h496-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dGFfdIv9wu3hxI2LC3bV3D33o4RQ58Kqg0aRP5xQIJnrLryA77yiZyiJ_Hc4KJHbbevqvLxCy_A-AVjKT9qJSZS6t4QReKVk6kf1-H6Yl_Q_aPjRGMSOAIxxRCFdwkCfaXDBZJ2cQyVokk7ZRxI5C_=w643-h512-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fvsfAL4wq-213DCToYXy01ZTKkX_k1pUTro_SV7IHyRc1cxwdwqkkAUb5AJJO5xl791qdngHEghTUYB-nPKTvdRMoYh3jeyv9oBKnW30m6cK2sRMCTaIPaTEbuoLlC5PVBRuc7lLObmXdUWqFyeciT=w928-h517-no?authuser=0)
-
-tea
-
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dAIQHeFO95B2gw14hXSjQ8rNzZUtvz7ebYW8_zKSQ8zFBCAKu6bVl7C6Tqdyd6YEM1_x59Bkq6MFCPmcKcGH3frVVqdDPm97RAQmWE7FxvajBS6mnshjO6Vi4lRHAuvyGLQuXCUa_bPVT0dvYAq6kV=w682-h499-no?authuser=0)
 
-trophy
+
+----
+
+### The Trophy Winners
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cU7Ii6iOW_GsYH7xc-8B9rV3PHg-vbbBem-Jc2VLcLm4DWpXYupqDLKJ17ZpmLG5Yi1wctSB6qkNLkynjuybsdXwmdk2dhO1KdGA2gAsAjYXodErXzdaJzXEiCTSMMaZaxnPGL9msjLVnqOrdXP1Si=w744-h550-no?authuser=0)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dZNKPNUqtb3fXRtVznoU_Hmo085GIKVdvIG6oR11SdV5PCz8ONnHaWDOt3CmfIqqOMJTRCS7SKvsF3eH-yIKO1kfb5tlmqSYt2JbirRnFZSsomCyHV0YMkz8k2rmGVe0j7pfNej37-j5BzV5E0Dwd2=w671-h600-no?authuser=0)
