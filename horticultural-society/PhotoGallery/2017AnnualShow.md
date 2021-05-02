@@ -19,8 +19,6 @@ title: 2017 Annual Show
 
 ### Colourful stuff from our younger entrants:
 
-----
-
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dNilULnb94_HwP4kDpg0glwF13E9F-OMTYL60TFYPhMBgpAfbrvDTUcpA5BOu9Fi989424GS38TPmH6lxdhZKzB8Cou9_7iyCFW1ouWfU0XyABEz9YX3xC4YzosZKUeKJ4_EdutCbjn73oP1sww-IE=w850-h524-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3e0DZ1o5DgG5RD-74xXiK0L-6czELdOpy4Fk17FVp6sCTMBkjymU5r1NvQzeNGOWiNOr8gwzT60t3GjBYLBi0svBDsffOVwCU31aOhCeLFXEcq9XcJu3DVXfyAKYj9b4WW8OhhizgEBsSxqjjAGkRbU=w659-h479-no?authuser=1)
@@ -38,7 +36,6 @@ title: 2017 Annual Show
 
 ### Still colourful - but in a different way from the gardeners
 
----
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fYD4CfylyATQ4ig443JyVGgoU8b2OeLMcPTaYm6NZ856Lqoy18zP8Ea8Ud51rgIgZ03c2SZD3w7BjvqbXSBTDda6g5NIu2vwSmiCu5aJdI2iR7lhFDrfZuZBSrJkJ1AqQ73akcs6PI8EU73HJ88yC8=w591-h580-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cWGvH8bWSZpK4CJLNPmgkwdCjTDmPiR27CrNRWCq9MDCXceDibINJW7p_1kEyHj1qJyjONoOsHH6hKZaWw95zzd0hxa3xJWSO4BqY3dH_JT-eT5z_iQXyl172MhcSMCSG6v7S3FfIQXUHE4VMlU4XP=w623-h350-no?authuser=1)
@@ -62,14 +59,11 @@ title: 2017 Annual Show
 ![](https://lh3.googleusercontent.com/pw/ACtC-3d147KbrC0RC-u1CQpUeJJ_THVLQrK30cqg5Dzo-MjejwEi-XqbFuUyV2MsPvtqhQaEFquSxtE6XvHdO6fd9sAjZU7vCUWRhlmVmer_77q5tey7RssTqfcr8nWWB9T6xMyjkBYhoKeNTiKSucJ0cafj=w786-h444-no?authuser=1)
 
 
-
-
 ----
 
 
 ### The best exhibit in show for each of vegetable, floral and domestic exhibits:
 
-----
 
 Vegetable: Bill Wright
 
@@ -90,7 +84,6 @@ Domestic: Carol Gray
 ### Finally the trophies presented by club president John Bailey
 
 
-----
 
 First off Bill Wright with his collection of silverware
 
@@ -101,16 +94,12 @@ First off Bill Wright with his collection of silverware
 ![](https://lh3.googleusercontent.com/pw/ACtC-3di8EsFLvFlUpvRZcMOdt-qirsLcP539DHP-XY2jY35YQ_v15PhyiWX3DzT956EaAjoDR0NZnaJ1kMxyot2drdNm2Yw1juDAVgoFeAnoi5SPt-z4RpmKPsE8FFjAHtqdsESgwXGnhhqIt4bkSTuP79t=w327-h301-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fyCMdiCXIooWhIZFlPaD49WDmBnL21lFfkaO2n0ZShFMvbZbUaEQdYTxH9usvh_I7bqZ6e99yxmymWWE9BVnQSmut8xovf_CPFWnHjfY2cn-1Z6LpeU3j9nS_KeMsxGRyReXFV3-CpRWGBn7AzYIXA=w908-h605-no?authuser=1)
 
-----
 
 Then Romney Summers and Helen Blunt -- A trophy each and a hug from John!
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cXs31x2IbmdmgEPtoc88eUjqb38liExzkEuf3wGkRMSZ7albpNdM1Se1FzuG_wg1G8DGVcPLsbS4I54_u0VmYyBFdDCXdX3FoODULuRYxsaRvKKCqzNNh-rz58TcHJJfSb4Lb87MQu8reOgCd91-nK=w328-h352-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dku5d1TyjFXT9GTtKky_mD2D5xr_F4eeYDZ71tpeXdgCaxdT6Rz_Lvb_ONMf8AwFtekxxJ-K6QcuthNnB5HjDR0W7B8VwX64ZoOPga-3S3LGtjQlY4AvNbKruMcoCfykHTJzAx6HicO6sXEXj_5emX=w381-h363-no?authuser=0)
 
-
-
-----
 
 Finally Carol Gray with her collection of trophies and more hugs from John!
 
