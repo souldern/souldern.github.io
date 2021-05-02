@@ -3,7 +3,7 @@ title: Horticultural Society Contacts
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

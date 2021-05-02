@@ -4,7 +4,7 @@ title: Show Introduction
 
 
 
-[Horticultutal Society](/horticultural-society) > [The Annual Show](/horticultural-society/TheAnnualShow)
+[Horticultural Society](/horticultural-society) > [The Annual Show](/horticultural-society/TheAnnualShow)
 
 ----
 

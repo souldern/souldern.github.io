@@ -3,7 +3,7 @@ title: "SHS News and Events"
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

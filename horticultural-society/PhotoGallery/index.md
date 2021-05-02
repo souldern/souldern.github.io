@@ -4,7 +4,7 @@ title: SHS Photo Gallery
 
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

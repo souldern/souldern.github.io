@@ -3,7 +3,7 @@ title: The Allotments
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

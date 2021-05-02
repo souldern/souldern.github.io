@@ -3,7 +3,7 @@ title: Documents for Downloading
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

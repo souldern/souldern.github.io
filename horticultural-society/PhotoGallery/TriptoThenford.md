@@ -3,7 +3,7 @@ title: Trip to Thenford
 ---
 
 
-[Horticultutal Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
+[Horticultural Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
 
 ----
 

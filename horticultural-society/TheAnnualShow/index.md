@@ -3,7 +3,7 @@ title: "The Annual Show"
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

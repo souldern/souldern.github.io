@@ -4,7 +4,7 @@ title: 2014 Annual Show
 
 
 
-[Horticultutal Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
+[Horticultural Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
 
 ----
 

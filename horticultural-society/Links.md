@@ -3,7 +3,7 @@ title: Links to useful web sites
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

@@ -3,7 +3,7 @@ title: Hints and Tips for Gardeners
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 

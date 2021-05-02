@@ -2,7 +2,7 @@
 title: 2018 Annual Show
 ---
 
-[Horticultutal Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
+[Horticultural Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
 
 ----
 

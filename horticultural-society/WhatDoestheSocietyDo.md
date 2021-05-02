@@ -3,7 +3,7 @@ title: "What Does the Society Do?"
 ---
 
 
-[Horticultutal Society](/horticultural-society)
+[Horticultural Society](/horticultural-society)
 
 ----
 
