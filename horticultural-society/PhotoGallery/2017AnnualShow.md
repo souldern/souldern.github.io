@@ -48,7 +48,9 @@ title: 2017 Annual Show
 ### Now it's getting very yummy!
 
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3fs2uLGsD0cNNK8Y2kbVK6W9UyZPpk4sc4T4Lphqi88RcsFF7AC3ZonI8lFD0M2isyy2c0es5nJbxOiDMSpZtUzrV6gtYPMwxmL-gO--_sdcL4v2Wcs2vbzjahjlaJs98Jesh4cnm7nGXDNGtva5iEp=w700-h457-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3eYCdHF45rl3KkBM2TYHixV4fHytnmbR889MoF41W17IeN7JeyAvsCAT9u6JqZOm4vNJBNmzIErH52ILZ62jjiVDZ0hMWSmeRclZBVe3soE6XP_NC8xcwiQ3ypSsRhtSEGNfcbNmFhsghccDvEDxy9r=w858-h575-no?authuser=1)
+![](https://lh3.googleusercontent.com/pw/ACtC-3d147KbrC0RC-u1CQpUeJJ_THVLQrK30cqg5Dzo-MjejwEi-XqbFuUyV2MsPvtqhQaEFquSxtE6XvHdO6fd9sAjZU7vCUWRhlmVmer_77q5tey7RssTqfcr8nWWB9T6xMyjkBYhoKeNTiKSucJ0cafj=w786-h444-no?authuser=1)
 
 ----
 
@@ -56,7 +58,8 @@ title: 2017 Annual Show
 ![](https://lh3.googleusercontent.com/pw/ACtC-3dL8748Elcxi-KmMJUCesY-4165mGjfvC8PYVgYYqbqdIm-D3_iY31--x_HTOF1YzRQQOr_tyJeFMTfWeOm1uCcqoJwUKoh7MPjSNdeJubKyAGxgCt29vX1bq52b7mGJDUdbkJTexK5F6QDFaVuyIAZ=w230-h385-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cj2yx851oyR8IIvbTqSEv7FZjiluE4iT2G8wIYKY864LgS9SEuWoz5-M9gwqQEzBUpvYFMAKCYn2eDI9lIeacz5nFV8IVt9WZQ6bjMdXiHsrMHw88czJGGEzphkMUe4SoXCZhoKcBMYlEeylKA2yBk=w262-h367-no?authuser=1)
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cj1Zk_yuD1YNASsRn16LgS-EzmY-g3rv7SYCWCMvx6e4029py81eCyThOkdSA2b2uEAEb9a7pMlT1qPcl28s66QaRAzr80Ma4dsEvIqKaye7MmC1ftKftpDAvb6a7cArTXiMhu514tISMXKJ-pSaxh=w627-h414-no?authuser=1)
-![](https://lh3.googleusercontent.com/pw/ACtC-3fs2uLGsD0cNNK8Y2kbVK6W9UyZPpk4sc4T4Lphqi88RcsFF7AC3ZonI8lFD0M2isyy2c0es5nJbxOiDMSpZtUzrV6gtYPMwxmL-gO--_sdcL4v2Wcs2vbzjahjlaJs98Jesh4cnm7nGXDNGtva5iEp=w700-h457-no?authuser=1)
+
+
 
 ----
 
@@ -76,21 +79,12 @@ aaaa
 
 www
 
-![](https://lh3.googleusercontent.com/pw/ACtC-3eLrz-_kt4r8LuYvbfhhlFt7bELNmyYNi6aFWj5d6833ewWFrjfJ_XRs0cyNpeo9yRETecI-Lc3s1JupS1lINWMuc7wEuGuGjlE5d4J1An0SY3AwwqSK8iUOHxLNF_st4t2i0EriCXBlkWO4uRLGfqK=w746-h593-no?authuser=1)
+
 ![](https://lh3.googleusercontent.com/pw/ACtC-3fk9pe3Gtl204l2slhHw4jDsKeCchbGhDofBo3ZqY8kEfea4sO3IMSvpuK1gWwH3ub3LgwaMeWTQXcDZDAjh2NSaTCg3GK7_Iysw9_3k7pRI-sE4OEq0BgnHeFgi4-GNiJpF7v76ergM6ooBCPDjont=w803-h399-no?authuser=1)
 
 
 ----
 
-zzz
-
-
-![](https://lh3.googleusercontent.com/pw/ACtC-3d147KbrC0RC-u1CQpUeJJ_THVLQrK30cqg5Dzo-MjejwEi-XqbFuUyV2MsPvtqhQaEFquSxtE6XvHdO6fd9sAjZU7vCUWRhlmVmer_77q5tey7RssTqfcr8nWWB9T6xMyjkBYhoKeNTiKSucJ0cafj=w786-h444-no?authuser=1)
-![](https://lh3.googleusercontent.com/pw/ACtC-3dxaO7va-Zt87aLrvQsefIKmEA8CFhDfiT6_gnNKS7zYviFVUe8gYPAzZhfp49TM01YAxR1UO1PrBXLYNunazTfdXtYgluuYZ46V2ECcGWt2Odz5dtxUK2rga-5P40toXFnsfD5OICEwYNuYstV1shy=w326-h484-no?authuser=1)
-![](https://lh3.googleusercontent.com/pw/ACtC-3ePidY1g0KF7CCh_qio3mGIRBX_PPbMTUSCv2wgHeVC-lMV5T7RP949czvVyytCpjtNOlQNIhQ6wmTXiQ52GzNqvDEbJ6w8VlBWYpD3BxyiF65kE9TL5az7GLSEBlejgQSGmhJ2KUSMawjuwqFyLdTq=w721-h595-no?authuser=1)
-
-
-----
 
 ### The best exhibit in show for each of vegetable, floral and domestic exhibits:
 
@@ -98,9 +92,16 @@ zzz
 
 Vegetable: Bill Wright
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3ePidY1g0KF7CCh_qio3mGIRBX_PPbMTUSCv2wgHeVC-lMV5T7RP949czvVyytCpjtNOlQNIhQ6wmTXiQ52GzNqvDEbJ6w8VlBWYpD3BxyiF65kE9TL5az7GLSEBlejgQSGmhJ2KUSMawjuwqFyLdTq=w721-h595-no?authuser=1)
+
+
 Floral: Katy Draper
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3dxaO7va-Zt87aLrvQsefIKmEA8CFhDfiT6_gnNKS7zYviFVUe8gYPAzZhfp49TM01YAxR1UO1PrBXLYNunazTfdXtYgluuYZ46V2ECcGWt2Odz5dtxUK2rga-5P40toXFnsfD5OICEwYNuYstV1shy=w326-h484-no?authuser=1)
+
 Domestic: Carol Gray
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3eLrz-_kt4r8LuYvbfhhlFt7bELNmyYNi6aFWj5d6833ewWFrjfJ_XRs0cyNpeo9yRETecI-Lc3s1JupS1lINWMuc7wEuGuGjlE5d4J1An0SY3AwwqSK8iUOHxLNF_st4t2i0EriCXBlkWO4uRLGfqK=w746-h593-no?authuser=1)
 
 ----
 
