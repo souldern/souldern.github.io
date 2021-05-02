@@ -92,6 +92,18 @@ zzz
 
 ----
 
+### The best exhibit in show for each of vegetable, floral and domestic exhibits:
+
+----
+
+Vegetable: Bill Wright
+
+Floral: Katy Draper
+
+Domestic: Carol Gray
+
+----
+
 
 ### Finally the trophies presented by club president John Bailey
 
