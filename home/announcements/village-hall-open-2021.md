@@ -9,7 +9,7 @@ title: Village Hall Re-opening
 
 Village hall bookings are now open.
 
-With affect from **15th April** the following can take place for 15 people
+With effect from **15th April** the following can take place for 15 people
 
 
 * children parties/activities with entertainer parent/child groups,
