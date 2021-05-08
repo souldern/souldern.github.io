@@ -3,7 +3,7 @@ title: "Using Your Produce - Tips and Recipes"
 ---
 
 
-[Horticultural Society](/horticultural-society) > [Hints and Tips](/horticultural-society//HintsandTips)
+[Horticultural Society](/horticultural-society) > [Hints and Tips](/horticultural-society/HintsandTips)
 
 ----
 

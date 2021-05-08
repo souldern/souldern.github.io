@@ -2,6 +2,10 @@
 title: Discounted Seed Orders
 ---
 
+
+[Horticultural Society](/horticultural-society)
+
+----
 # Discounted Seed Orders
 
 Members can obtain discounts on seeds through a Group Discount Scheme organised with Suttons Seeds.
