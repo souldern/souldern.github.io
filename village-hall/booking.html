@@ -31,9 +31,12 @@ extracss: booking
       }
       function showtimes () {
 	  if(document.getElementById('duration').value.indexOf('hour') == -1) {
-	      document.getElementById('times').style.display='none';
+	      document.getElementById('start').disabled=true
+	      document.getElementById('start').selectedIndex=0;
+	      document.getElementById('times').style.color="#AAA";
 	  } else {
-	      document.getElementById('times').style.display='block';
+	      document.getElementById('start').disabled=false;
+	      document.getElementById('times').style.color="black";
 	  }
       }
 </script>
@@ -72,9 +75,9 @@ extracss: booking
       <option>Monthly</option>
 </select></span>
   </p>
-  <p id="times" style="display:none">
+  <p id="times">
     <span style="white-space:nowrap"><label for="start">Start time </label>
-    <select id="start" name="start">
+      <select disabled id="start" name="start">
       <option selected>07:00</option><option>08:00</option><option>09:00</option><option>10:00</option><option>11:00</option><option>12:00</option>
       <option>13:00</option><option>14:00</option><option>15:00</option><option>16:00</option><option>17:00</option><option>18:00</option>
       <option>19:00</option><option>20:00</option>
