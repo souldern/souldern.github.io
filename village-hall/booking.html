@@ -3,7 +3,9 @@ layout: default
 title: "Souldern Village Hall Booking"
 extracss: booking
 ---
-    <script>
+<script>
+  const days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday", "Saturday"];
+  const ords = ['first', 'second', 'third', 'fourth', 'fifth'];
       function generateEmail () {
 	  var body ="\n";
 	  var body = body + "My name: " + document.getElementById('name').value+ "\n(" +
@@ -16,10 +18,16 @@ extracss: booking
 	 if(document.getElementById('duration').value.indexOf('hour') !== -1) {
 	      body=body+" from: " +   document.getElementById('start').value;
 	 }
-         if(document.getElementById('repeat').value != 'No repeat') {
-  	   body=body+"\nRepeat: " + document.getElementById('repeat').value;
+	  const r = document.getElementById('repeat').value;
+          if(r != 'No repeat') {
+  	     body=body+"\nRepeat: " + r;
+	     const d=new Date(document.getElementById('date').value)
+	      if (r == "Monthly") {
+		  body = body + ", " + ords[Math.floor((d.getDate()-1) / 7)] + " " + days[d.getDay()] + " of each month.";
+	      }
 	 }
 	  body=body+"\n\nAny further comments:\n"
+	
 
 	  if(document.getElementById('name').value=="") {
 	      document.getElementById('missing').innerHTML="Please supply your name";
