@@ -23,7 +23,8 @@ extracss: booking
 	     var endtm= parseInt(stm.substring(0, stm.indexOf(":"))) +
 				 parseInt(dur.substring(0, dur.indexOf(" ")));
 					  if(endtm <= 24) {
-					      body = body + " to: " + endtm + ":00";
+					      body = body + " to: " +
+					      (endtm < 10 ?"0" : "") + endtm + ":00";
 					  }
 				 
 		      
