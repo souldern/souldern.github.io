@@ -34,7 +34,8 @@ extracss: booking
 	  } else if(document.getElementById('date').value=="") {
 	      document.getElementById('missing').innerHTML="Please select a date";
 	  } else {	      
-	      document.location.href = "mailto:VillageHall@souldern.org?subject=Souldern%20Village%20Hall%20Booking%20Request&body="+encodeURI(body);
+	      document.location.href = "mailto:souldern.villagehall@gmail.com?subject=Souldern%20Village%20Hall%20Booking%20Request&body="+encodeURI(body);
+//	      document.location.href = "mailto:VillageHall@souldern.org?subject=Souldern%20Village%20Hall%20Booking%20Request&body="+encodeURI(body);
 	  }
       }
       function showtimes () {
