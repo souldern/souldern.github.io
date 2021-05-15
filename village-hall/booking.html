@@ -13,7 +13,8 @@ extracss: booking
               (document.getElementById('org').checked ? document.getElementById('org').value :"") +
               (document.getElementById('ext').checked ? document.getElementById('ext').value :"") +
               ")";
-          body = body + "\nTel: " + document.getElementById('tel').value ;
+          body = body + "\nTelephone: " + (document.getElementById('tel').value == "" ?
+					   "-- none --" : document.getElementById('tel').value) ;
           body = body + "\n\nDate: " + document.getElementById('date').value ;
           body=body+"\nDuration: " +   document.getElementById('duration').value;
           if(document.getElementById('duration').value.indexOf('hour') !== -1) {
