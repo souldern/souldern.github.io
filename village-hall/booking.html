@@ -7,8 +7,9 @@ extracss: booking
   const days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday", "Saturday"];
   const ords = ['first', 'second', 'third', 'fourth', 'fifth'];
       function generateEmail () {
-          var body ="\n";
-          var body = body + "My name: " + document.getElementById('name').value+ "\n(" +
+          var body ="\n\n";
+	  body = body + "Calendar link: https://calendar.google.com/calendar/u/2/r?cid=c291bGRlcm4udmlsbGFnZWhhbGxAZ21haWwuY29t\n\n"
+          body = body + "My name: " + document.getElementById('name').value+ "\n(" +
               (document.getElementById('resid').checked ? document.getElementById('resid').value :"") +
               (document.getElementById('org').checked ? document.getElementById('org').value :"") +
               (document.getElementById('ext').checked ? document.getElementById('ext').value :"") +
