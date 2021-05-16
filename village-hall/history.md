@@ -3,7 +3,7 @@ title: "Village Hall Historical Notes"
 ---
 
 
-[Village Hall](/village-hall")
+[Village Hall](/village-hall)
 
 ----
 
