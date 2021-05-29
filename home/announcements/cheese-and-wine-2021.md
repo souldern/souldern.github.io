@@ -19,7 +19,7 @@ Starts at 7pm
 
 ----
 
-**Tickets £10 **
+**Tickets £10**
 
 ----
 
