@@ -37,8 +37,7 @@ Raffle prizes
 
 ----
 
-Held at 
-**SOULDERN MANOR **
+Held at **SOULDERN MANOR**
 
 Access via High Street
 
