@@ -5,7 +5,7 @@ title: Cheese and Wine Evening (New Date)
 
 # St Mary's Church Cheese and Wine
 
-**SATURDAY 24TH JULy**
+**SATURDAY 24TH JULY**
 
 Sadly, following the government’s announcement yesterday, we have to
 move the Souldern Cheese & Wine event from 26th June to Saturday 24th
