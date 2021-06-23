@@ -15,8 +15,7 @@ The website has since been taken down, but in case similar emails/websites appea
 
 And just to reiterate, your vaccination status is obtained FREE through the NHS App, website or by calling the NHS on 119.
 
-More information can be found on the gov.uk website;  
-https://www.gov.uk/guidance/demonstrating-your-covid-19-vaccination-status-when-travelling-abroad
+More information can be found on the [gov.uk website]](https://www.gov.uk/guidance/demonstrating-your-covid-19-vaccination-status-when-travelling-abroad).
 
 Please note that any Phishing scams can be reported to  SERS (Suspicious Email Reporting Service):  report@phishing.gov.uk
 
