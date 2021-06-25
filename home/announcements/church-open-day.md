@@ -4,9 +4,9 @@ title: Church Open Day
 ---
 
 
-## OPEN DAY
+# OPEN DAY
 
-St Mary’s Church, Souldern
+## St Mary’s Church, Souldern
 
 **Sunday 27th June**
 
