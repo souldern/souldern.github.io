@@ -22,4 +22,4 @@ Annual Meeting at **4pm**
 All Welcome
 
 
-[!church-open-day](church-open-day.png)
+![church-open-day](church-open-day.png)
