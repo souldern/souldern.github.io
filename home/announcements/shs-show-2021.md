@@ -15,4 +15,7 @@ a welcome return to Souldern Village Hall on
 **Saturday 21st August**
 
 For information on entering the competition go to
-[2021 Show Classes and Rules section (PDF)](/horticultural-society/TheAnnualShow/2021_Schedule.pdf)
+
+[How to Enter](/horticultural-society/TheAnnualShow/HowtoEnter)
+
+[2021 Show Classes and Rule (PDF)](/horticultural-society/TheAnnualShow/2021_Schedule.pdf)
