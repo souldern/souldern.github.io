@@ -53,4 +53,4 @@ Any protest about the judging of any class must be made in writing to the Secret
 ## Show rules
 A full copy of the rules governing this Show will be displayed in the hall on the day of the Show and will be available from the Secretary at any other time.
 
-A copy is available for download: [Click Here](Rules for Display.pdf) to open document
+A copy is available for download: [Click Here](Rules for display.pdf) to open document
