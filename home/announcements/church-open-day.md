@@ -10,7 +10,7 @@ title: Church Open Day
 
 **Sunday 27th June**
 
-Tea/Coffee & Cake from **11:30**
+Tea/Coffee & Cake from **11:30am**
 
 Cream Teas from **2–4pm**
 
