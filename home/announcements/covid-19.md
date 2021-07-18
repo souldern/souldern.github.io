@@ -1,5 +1,5 @@
 ---
-date: 2020-12-23
+date: 2021-07-18
 title: Coronavirus &mdash; COVID-19
 ---
 <style>
@@ -36,6 +36,8 @@ li img {width:5em; vertical-align:middle}
 ---
 
 ## Government Advice
+
+[Guidance from 19th July 2021](https://www.gov.uk/government/publications/covid-19-response-summer-2021-roadmap/coronavirus-how-to-stay-safe-and-help-prevent-the-spread)
 
 [Rules for 12th April 2021](https://www.gov.uk/guidance/covid-19-coronavirus-restrictions-what-you-can-and-cannot-do#april-whats-changed)
 
