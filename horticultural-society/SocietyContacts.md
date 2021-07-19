@@ -27,4 +27,4 @@ Please [Click here](mailto:shs@souldern.org) to email the society or use the [We
 
 Seed orders are arranged through [Ian Walton](mailto:shs@souldern.org) (01869 345432)
 
-Allotments can be rented from [Souldern United Charity](/united-charity) throug Sue Medhurst (01869 345033)
+Allotments can be rented from [Souldern United Charity](/united-charity) through Sue Medhurst (01869 345033)
