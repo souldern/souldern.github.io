@@ -43,6 +43,7 @@ Society Chairperson Carol Gray said,
 
 And you're never too young to start...
 
+
 [2021 Show Classes and Rules](2021_Schedule.pdf)
 
 [Photos from previous years](../PhotoGallery)
