@@ -1,7 +1,7 @@
 exclude: ['README.md','tools']
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 google_analytics: UA-68442524-1
 title: Souldern Village
 description: Community Website for Souldern Village
