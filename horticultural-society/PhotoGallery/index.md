@@ -12,7 +12,7 @@ title: SHS Photo Gallery
 
 Linked to this page are photographs of past events of the society. 
 
-
+* [2021 Annual Show](2021AnnualShow)
 * No show in 2020, but see the [village Summer 2020 on-line show](/home/events/summer-2020/)
 * [2019 Annual Show](2019AnnualShow)
 * [2018 Annual Show](2018AnnualShow)

@@ -18,3 +18,12 @@ title: 2019 Annual Show
 
 
 ![](https://lh3.googleusercontent.com/pw/ACtC-3cPVwyQw3jF-IHIYzewjkAZRbvOZSnmZ1qcLMmSFGneCH9h3qqSskWrEfXRmlHD3tzAv_bmT-9z1O3inXy4IdhXQ325Xf7vm8R9EN8M9c-W_3_qIocne0AdFyQbD9ybMvY68fwgvaa3Lnuk1-AX89NE=w378-h504-no?authuser=1)
+
+
+## Fruits of their labours rewarded
+
+Held in the village hall on Saturday 17 August 2019, the Souldern Horticultural Society flower & produce annual show highlighted the skills and dedication of those who toil in the village's gardens, allotments and kitchens. Beautifully proportioned vegetables and fruit, breathtaking flower arrangements together with mouthwatering cakes, pastries, jams and preserves made the Souldern village hall a feast for the senses. Equally impressive were the themed craft items created by local children. Innovation and imagination are alive in Souldern.
+
+The prize winners were (clockwise from left) Helen Blunt, Susan Jones, Bill Wright, Carol Gray, Sophia Large and Ben Pheasant.
+
+![](https://lh3.googleusercontent.com/pw/ACtC-3c2nNg6uHYplzFfXVpfgp7_ZyYvNuOTdg7NSgrwCepCmmuF98J6t3jRCVW4Ry8xL0ir37KGShis3dZCqcnHaoIKWY-V2699MtLbFrzgF0BRE50cUATTyKqsCLuDBbzOGZtig47u43Lu6g5StOBlqQcP=w404-h303-no?authuser=1)
