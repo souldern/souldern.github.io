@@ -8,7 +8,7 @@ title: 2021 Annual Show
 
 # 2021 Annual Show
 
-Thanks to Nick Johnstone for these photos.
+Thanks to Nicholas Johnstone for these photos.
 
 ![](https://lh3.googleusercontent.com/pw/AM-JKLWABun5j0CzMPnDllJRJCGxwu6PC0BZi4UNe4uhMhZZ0bdUAEfjH05mkusQ8MV1Spa2deLSqbl7x6GTtslAOx1FRMWTJLaXn1DwoZnT1v2Z0fEo250zUZBtVQnUKmMULuTxtH48y_nsnuxcpFVutwYi=w794-h1058-no?authuser=2)
 
