@@ -1,6 +1,6 @@
 ---
 date: 2021-09-28
-title: Macmillan Coffee Morning
+title: Macmillan Coffee Morning 6th October
 ---
 
 # Macmillan Coffee Morning
