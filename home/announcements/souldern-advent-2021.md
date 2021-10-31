@@ -23,7 +23,7 @@ Do pass this poster and information on to anyone you think might like to take pa
 
 ---
 
-[PDF poster](Souldern Village Advent Trail 2021.pdf)
+[ View PDF poster](Souldern Village Advent Trail 2021.pdf)
 
 ---
 
@@ -55,7 +55,7 @@ road
  ✴ Some windows may be better viewed by day,
 some by night. It need not matter which.
 
- ✴ People may choose to see each new window on
+✴ People may choose to see each new window on
 the day it appears, or to pick up the trail
 again each weekend.
 
