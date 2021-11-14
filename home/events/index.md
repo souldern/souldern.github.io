@@ -5,6 +5,7 @@ title: Village Events
 
 # Village Events
 
+ * [Souldern Advent Trail 2021](/home/announcements/souldern-advent-2021-2)
  * [Souldern Advent Trail 2020](/home/announcements/souldern-advent-2020-2)
  * [Souldern Spooktacular 2020](spooktacular2020)
  * [Souldern Virtual End of Summer Show 2020](summer-2020)
