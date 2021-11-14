@@ -21,6 +21,8 @@ the trail at a time of day to suit you each day, or pick up it up each weekend!
 As last year, anyone in the village wishing to decorate their windows is
 encouraged to join in the festive fun in a ‘free for all’ during the week before
 Christmas.
+
+
 ---
 
 [Original announcement](souldern-advent-2021)
