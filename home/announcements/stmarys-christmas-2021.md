@@ -5,11 +5,16 @@ title: Christmas Cards
 
 # Local Christmas Cards
 
-     
+----
+
 ![front](stmarys-christmas-2021-0.png)
 
-![back](stmarys-christmas-2021-1.png)
+----
 
+
+![inside](stmarys-christmas-2021-1.png)
+
+----
 
 I’ve designed a Souldern Christmas Card and will be taking orders this
 week with a view to putting the print order in on Sunday and receiving
