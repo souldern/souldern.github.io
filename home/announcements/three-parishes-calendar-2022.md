@@ -1,6 +1,6 @@
 ---
 date: 2021-12-12
-title: Three Parishes Calendar 2021
+title: Three Parishes Calendar 2022
 ---
 
 
