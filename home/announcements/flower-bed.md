@@ -15,5 +15,8 @@ A small plaque could be put in display to acknowledge beneficiary each year.
 
 If there was enough support for this idea, then we could look at creating another display bed elsewhere in Village on the same basis and having a rota of sponsorship. You may have seen some roundabout planting has been adopted in this way. 
 
-Please communicate any ideas or offers of help to Carol Gray (Horticultural Society, Pleasant View, Souldern), or David Blunt (Gibbs Field House, 07850616822 : davidablunt@yahoo.co.uk ). 
+Please communicate any ideas or offers of help to  
+**Carol Gray** (Horticultural Society, Pleasant View, Souldern),  
+or  
+**David Blunt** (Gibbs Field House, 07850616822 : davidablunt@yahoo.co.uk). 
 
