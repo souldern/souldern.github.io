@@ -24,13 +24,15 @@ Christmas.
 
 ---
 
-![1](advent-2021-1.jpg)
+![1-3](advent-2021-1-3.jpg)
 
-![3-7](advent-2021-3-7.jpg)
+![4-7](advent-2021-4-7.jpg)
 
 ![8-12](advent-2021-8-12.jpg)
 
 ![14-17](advent-2021-14-17.jpg)
+
+![18-21](advent-2021-18-21.jpg)
 
 ![22-24](advent-2021-22-24.jpg)
 
