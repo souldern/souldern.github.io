@@ -17,14 +17,15 @@ Alongside speakers from various agencies, PC Liz Johnson, of the Road Safety Tea
 
 These webinars are scheduled for:
 
-    Thursday 10 March at 2pm
+ * Thursday 10 March at 2pm
 	
-    Monday 14 March at 7pm
+ * Monday 14 March at 7pm
 
-To register for a place, please visit the Older Drivers Forum website at https://olderdriversforum.com/webinars/ 
+To register for a place, please visit the Older Drivers Forum website at  
+<https://olderdriversforum.com/webinars/>
 
 
-![tvp-highway-webinar.jpg](tvp-highway-webinar.jpg}
+![tvp-highway-webinar.jpg](tvp-highway-webinar.jpg)
 
 Message Sent By  
 Caitlin Rosetti (Police, Communications Support Assistant, Thames Valley)
