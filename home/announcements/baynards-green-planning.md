@@ -1,9 +1,9 @@
 ---
 date: 2022-02-25
-title: Baynards Green Planning Consulation
+title: Baynards Green Planning Consultation
 ---
 
-# Baynards Green Planning Consulation
+# Baynards Green Planning Consultation
 
 The current proposals for Baynards Green developments are viewable at the CDC site at
 
