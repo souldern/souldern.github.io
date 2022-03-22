@@ -5,6 +5,7 @@ title: Village Events
 
 # Village Events
 
+ * [Queen's Platinum Jubilee 2022](/home/announcements/jubilee-2022)
  * [Easter Egg Hunt 2022](/home/announcements/easter-egg-2022)
  * [Souldern Advent Trail 2021](/home/announcements/souldern-advent-2021-2)
  * [Souldern Advent Trail 2020](/home/announcements/souldern-advent-2020-2)
