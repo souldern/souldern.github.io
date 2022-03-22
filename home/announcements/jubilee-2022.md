@@ -1,4 +1,3 @@
-
 ---
 date: 2022-03-22
 title: Queen's Platinum Jubilee
