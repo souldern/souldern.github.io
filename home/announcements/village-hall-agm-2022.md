@@ -5,7 +5,7 @@ title: Village Hall AGM
 
 # Village Hall AGM
 
-![poster](vh-agm-2022.jpg
+![poster](vh-agm-2022.jpg)
 
 Please join us on Thursday evening to help discuss your Village Hall at our AGM.
 
