@@ -9,6 +9,11 @@ title: "SHS News and Events"
 
 # News and Events
 
+## Sunflowers 2020
+
+[Reminder to plant for the annual sunflower competition](/home/announcements/sunflower2022)
+
+
 ## 2020 Calendar
 
 It is with great regret that the Souldern Horticultural Society announces the cancellation of this year’s annual flower & produce show.
