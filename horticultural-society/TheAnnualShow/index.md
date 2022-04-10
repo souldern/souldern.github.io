@@ -24,6 +24,7 @@ Society Chairperson Carol Gray said,
 
 And you're never too young to start...
 
+[2022 Show Announcement: 20th August] (/home/announcements/show-2022)
 
 [2021 Show Classes and Rules](2021_Schedule.pdf)
 
