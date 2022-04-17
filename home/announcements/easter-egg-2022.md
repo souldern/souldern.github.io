@@ -5,14 +5,17 @@ title: Souldern Village Easter Egg Hunt
 
 # Souldern Village  Easter Egg Hunt
 
-![eggs](easteregg2022.jpg)
+
 
 <div id="easter2022"></div>
 <script src="/home/gallery/easter2022.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 <script>
-  document.getElementById("easter2017").style.height="25em";
+  document.getElementById("easter2017").style.height="30em";
 </script>
+
+
+![eggs](easteregg2022.jpg)
 
 
 **Where;**  The Grounds of Souldern Manor (By kind permission of Rosie Sanders)
