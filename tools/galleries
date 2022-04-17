@@ -1,7 +1,7 @@
 #!/bin/bash
 
-./photojs easter2022 "Easer Egg Hunt 2022" https://photos.app.goo.gl/xoSoSfVDK2QNs5tt8
-mv easter2022.js ../home/gallery
+./photojs easter2022 "Easter Egg Hunt 2022" https://photos.app.goo.gl/xoSoSfVDK2QNs5tt8
+cp easter2022.js ../home/gallery
 
 
 # ./photojs shsalbum "SHS" https://photos.app.goo.gl/vzLREFJpevXQBC14A

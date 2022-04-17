@@ -19,9 +19,10 @@ galleries.$shareID = {
 " >> "${shareID}.js"
 
 wget -O "album${shareID}.html" $shareURL 2> /dev/null
-grep -o ',\[.*\["https://lh3.googleusercontent.com/[^"/]*"' album${shareID}.html | \
+sed -ie 's/\["/\n["/g' "album${shareID}.html"
+grep -o '\["https://lh3.googleusercontent.com/[^"/]*"' album${shareID}.html | \
 sed -e  's/^.*\[//' -e 's/$/,/' >> "${shareID}.js"
 
 echo -e "\n]\n};"  >> "${shareID}.js"
 
-rm album${shareID}.html
+# rm album${shareID}.html
