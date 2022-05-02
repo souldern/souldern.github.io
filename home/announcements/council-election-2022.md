@@ -16,7 +16,7 @@ The following is a statement of the persons nominated for election as a District
 |    Bliss,  Aaron James |(address in Cherwell) |	The Green Party |	Bliss, Terence H |
 |   Hartley,  James Henry Dean | 	Narabo Cottage, Shenington with Alkerton, Banbury, OX15 6NL |	Liberal Democrats |	Davis, Nigel G  |
 |    Murphy,    Annette |    	Orchard Cottage, The Tchure, Deddington, OX15 0UB |	Labour Party | 	Oldfield, Helen M  |
-|     Reeves,  Eddie | (address in Cherwell) | 	The Conservative Party Candidate | 	Williams A 	|
+|     Reeves,  Eddie | (address in Cherwell) | 	The Conservative Party Candidate | 	Williams, A 	|
 
 
 
