@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Souldern Plainum Jubilee Celebrations
+title: Souldern Platinum Jubilee Celebrations
 ---
 
 ![poster](/home/announcements/jubilee-2022-poster.jpg)
