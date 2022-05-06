@@ -22,7 +22,7 @@ The Queen's Platinum Jubilee 2022
 
 Get your tickets at the fox inn from  
 **TUESDAY 10TH-SUNDAY 29TH MAY**  
-(CASH ONLY)
+(Cash only)
 
 BBQ, REAL ALES, LIVE BBC JUBILEE CONCERT
 
