@@ -11,3 +11,4 @@ title: Souldern Platinum Jubilee Celebrations
 
 
  * [Initial Announcement](/home/announcements/jubilee-2022)
+ * [Fox Inn BBQ Details](/home/announcements/fox-jubilee-bbq)
