@@ -26,3 +26,9 @@ title: Queen's Platinum Jubilee
 
 _Further details to follow!_..
 
+
+---
+
+[Souldern Platinum Jubilee Events Page](/home/events/platinum-2022/)
+
+---
