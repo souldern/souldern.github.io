@@ -1,6 +1,6 @@
 ---
 date: 2022-05-21
-title: Souldern Platinum Jubile Events
+title: Souldern Platinum Jubilee Events
 ---
 
 # Souldern Platinum Jubile Events
