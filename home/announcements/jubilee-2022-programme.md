@@ -3,7 +3,7 @@ date: 2022-05-21
 title: Souldern Platinum Jubilee Events
 ---
 
-# Souldern Platinum Jubile Events
+# Souldern Platinum Jubilee Events
 
 * [Programme Flyer PDF](/home/events/platinum-2022/Souldern Platinum Jubilee Events.pdf)
 
