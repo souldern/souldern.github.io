@@ -71,8 +71,11 @@ Everyone is encouraged to come in jubilee fancy dress. Prizes will be awarded fo
 
 Residents are encouraged to adorn the fronts of their houses with suitable decorations. Food and soft
 drinks will be provided, but please feel free to bring additional extras if you wish.
+
 The High Street will be closed between 10:30am and 5pm, between
-Fox Lane and Bates Lane junctions. Please can all residents in this area park their cars outside of the
+Fox Lane and Bates Lane junctions.
+
+Please can all residents in this area park their cars outside of the
 closed area for this event.
 
 ### FOLLOWED BY:
@@ -85,7 +88,7 @@ To assist with numbers, please buy your tickets from the pub in advance.
 
 
 ## Sunday 5th June
-(weather permitting)
+(_Weather permitting_)
 
 
 ### VILLAGE ROUNDERS MATCH
@@ -98,7 +101,7 @@ of fun.
 Dependent on numbers of people wishing to take part, there will either be one big game or a mini
 tournament to take part in. Please let Rob Large know if you are interested in taking part.
 
-Any queries contact Nick Oakhill, Charlie Jones, Alan Smith or Rob Large who will be happy to help -
+Any queries contact Nick Oakhill, Charlie Jones, Alan Smith or Rob Large who will be happy to help —
 or ask on the SSSC WhatsApp group.
 
 
