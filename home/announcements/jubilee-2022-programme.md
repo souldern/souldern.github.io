@@ -12,7 +12,7 @@ title: Souldern Platinum Jubilee Events
 
 <center markdown=1>
 
-<p><b>Souldern Parish Council</b>, <b>Souldern Solstice Committee</b>,
+<p><b>Souldern Parish Council</b>, <b>Souldern Solstice Committee</b>,<br>
 <b>Souldern Sports and Social Club</b> & <b>Souldern Village Hall Committee</b><br>
 would like to welcome all residents of Souldern to come
 together to celebrate the occasion of...</p>
