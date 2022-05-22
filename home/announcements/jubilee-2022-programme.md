@@ -17,7 +17,7 @@ title: Souldern Platinum Jubilee Events
 would like to welcome all residents of Souldern to come
 together to celebrate the occasion of...</p>
 
-<p><b>The Queen’s Platinum Jubilee<b></p>
+<p><b>The Queen’s Platinum Jubilee</b></p>
 
 </center>
 
