@@ -10,15 +10,14 @@ title: Souldern Platinum Jubilee Events
 
 ---
 
-Souldern Parish Council,  
-Souldern Solstice Committee,  
-Souldern Sports and Social Club  
-& Souldern Village Hall Committee
-
+<center>
+**Souldern Parish Council**, **Souldern Solstice Committee**,
+**Souldern Sports and Social Club** & **Souldern Village Hall Committee**  
 would like to welcome all residents of Souldern to come
 together to celebrate the occasion of...
 
 **The Queen’s Platinum Jubilee**
+</center>
 
 ---
 
@@ -101,12 +100,11 @@ of fun.
 Dependent on numbers of people wishing to take part, there will either be one big game or a mini
 tournament to take part in. Please let Rob Large know if you are interested in taking part.
 
+---
+
 Any queries contact  
 Nick Oakhill, Charlie Jones, Alan Smith or Rob Large  
 who will be happy to help — or ask on the SSSC WhatsApp group.
-
-
----
 
 
 ---
