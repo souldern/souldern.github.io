@@ -11,12 +11,14 @@ title: Souldern Platinum Jubilee Events
 ---
 
 <center kramdown=1>
+
 **Souldern Parish Council**, **Souldern Solstice Committee**,
 **Souldern Sports and Social Club** & **Souldern Village Hall Committee**  
 would like to welcome all residents of Souldern to come
 together to celebrate the occasion of...
 
 **The Queen’s Platinum Jubilee**
+
 </center>
 
 ---
