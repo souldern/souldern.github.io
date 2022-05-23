@@ -5,8 +5,8 @@ title: "Parish Council AGM"
 
 # Parish Council AGM 2022
 
-Three related Annual meetings to be held on  
-Thursday 26th May 2022  
+Three related annual meetings to be held on  
+**Thursday 26th May 2022**  
 at **7 pm** in the  **Village Hall**
 
 * [SPC Meeting Agenda](/parish-council/spc-agenda/2022-05-26 Agenda.pdf)
