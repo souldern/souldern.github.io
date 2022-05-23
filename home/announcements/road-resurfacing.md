@@ -1,9 +1,9 @@
 ---
 date: 2022-05-23
-title: "Road Resurfacing: Souldern – Fritwell"
+title: "Road Resurfacing: Souldern – Fritwell – Somerton"
 ---
 
-# Road Resurfacing: Souldern – Fritwell
+# Road Resurfacing: Souldern – Fritwell – Somerton
 
 Hi,
 
