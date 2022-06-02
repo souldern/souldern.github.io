@@ -3,7 +3,7 @@ layout: default
 title: Souldern Platinum Jubilee Celebrations
 ---
 <style>
-#poster img {margin:0 auto;display:block; height:5em;}
+#poster img {margin:0 auto;display:block; height:12em;}
 </style>
 
 
@@ -16,6 +16,20 @@ title: Souldern Platinum Jubilee Celebrations
 </div>
 
 * [Programme](/home/announcements/jubilee-2022-programme)
+
+## Photo Albums
+
+Please contribute to these **Photo Albums** of the Village over the
+four days of Jubilee events. You may upload directly or send pictures to
+[website@souldern.org](mailto:website@souldern.org).
+
+* [Thursday](https://photos.app.goo.gl/3LToL1775qVu2zAZ6)
+
+* [Friday](https://photos.app.goo.gl/gBGb4zYWRspQzmRJ6)
+
+* [Saturday](https://photos.app.goo.gl/QJ8Bp9KEkK9AoaBM9)
+
+* [Sunday](https://photos.app.goo.gl/GCJqf1DMDdrxr93t7)
 
 
 
