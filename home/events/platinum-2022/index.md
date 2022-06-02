@@ -15,6 +15,8 @@ title: Souldern Platinum Jubilee Celebrations
 
 </div>
 
+## Programme of Events
+
 * [Programme](/home/announcements/jubilee-2022-programme)
 
 ## Photo Albums
@@ -32,6 +34,8 @@ four days of Jubilee events. You may upload directly or send pictures to
 * [Sunday](https://photos.app.goo.gl/GCJqf1DMDdrxr93t7)
 
 The albums will be incorporated into this site as slide shows once completed.
+
+## Other Anouncements
 
  * [Initial Announcement](/home/announcements/jubilee-2022)
  * [Programme Flyer PDF](Souldern Platinum Jubilee Events.pdf)
