@@ -1,6 +1,6 @@
 var galleries = galleries || {};
 
-galleries.platinum-thu = {
+galleries.platinumthu = {
     title: "Platinum Jubilee Thursday",
     url: "https://photos.app.goo.gl/3LToL1775qVu2zAZ6",
     album: [

@@ -37,13 +37,13 @@ The albums will be incorporated into this site as slide shows once completed.
 
 ### Thursday
 
-<div id="platinum-thu"></div>
+<div id="platinumthu"></div>
 
-<script src="/home/gallery/platinum-thu.js"></script>
+<script src="/home/gallery/platinumthu.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 
 <script>
-  document.getElementById("platinum-thu").style.height="25em";
+  document.getElementById("platinumthu").style.height="25em";
 </script>
 
 
