@@ -43,7 +43,7 @@ The albums will be incorporated into this site as slide shows once completed.
 <script src="/home/gallery/galleries.js"></script>
 
 <script>
-  document.getElementById("ve75").style.height="25em";
+  document.getElementById("platinum-thu").style.height="25em";
 </script>
 
 
