@@ -37,6 +37,8 @@ The albums will be incorporated into this site as slide shows once completed.
 
 ### Thursday
 
+Sports, BBQ, Beacon and Fireworks.
+
 <div id="platinumthu"></div>
 
 <script src="/home/gallery/platinumthu.js"></script>
