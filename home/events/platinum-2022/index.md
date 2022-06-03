@@ -35,6 +35,18 @@ four days of Jubilee events. You may upload directly or send pictures to
 
 The albums will be incorporated into this site as slide shows once completed.
 
+### Thursday
+
+<div id="platinum-thu"></div>
+
+<script src="/home/gallery/platinum-thu.js"></script>
+<script src="/home/gallery/galleries.js"></script>
+
+<script>
+  document.getElementById("ve75").style.height="25em";
+</script>
+
+
 ## Other Anouncements
 
  * [Initial Announcement](/home/announcements/jubilee-2022)
