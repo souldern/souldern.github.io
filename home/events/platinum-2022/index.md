@@ -53,6 +53,7 @@ Sports, BBQ, Beacon and Fireworks.
 
 <script>
   document.getElementById("platinumthu").style.height="25em";
+  document.getElementById("platinumfri").style.height="25em";
 </script>
 
 
