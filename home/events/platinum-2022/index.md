@@ -41,7 +41,14 @@ Sports, BBQ, Beacon and Fireworks.
 
 <div id="platinumthu"></div>
 
+### Friday
+
+ [Souldern Village Family Treasure Trail](platinum trail.pdf)
+
+<div id="platinumfri"></div>
+
 <script src="/home/gallery/platinumthu.js"></script>
+<script src="/home/gallery/platinumfri.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 
 <script>
@@ -54,3 +61,4 @@ Sports, BBQ, Beacon and Fireworks.
  * [Initial Announcement](/home/announcements/jubilee-2022)
  * [Programme Flyer PDF](Souldern Platinum Jubilee Events.pdf)
  * [Fox Inn BBQ Details](/home/announcements/fox-jubilee-bbq)
+ * [Souldern Village Family Treasure Trail](platinum trail.pdf)
