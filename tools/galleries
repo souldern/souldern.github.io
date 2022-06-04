@@ -3,6 +3,15 @@
 ./photojs platinumthu "Platinum Jubilee Thursday" https://photos.app.goo.gl/3LToL1775qVu2zAZ6
 mv platinumthu.js ../home/gallery
 
+./photojs platinumfri "Platinum Jubilee Friday" https://photos.app.goo.gl/gBGb4zYWRspQzmRJ6
+mv platinumfri.js ../home/gallery
+
+./photojs platinumsat "Platinum Jubilee Saturday" https://photos.app.goo.gl/QJ8Bp9KEkK9AoaBM9
+mv platinumsat.js ../home/gallery
+
+./photojs platinumsun "Platinum Jubilee Sunday" https://photos.app.goo.gl/GCJqf1DMDdrxr93t7
+mv platinumsun.js ../home/gallery
+
 #./photojs easter2022 "Easter Egg Hunt 2022" https://photos.app.goo.gl/xoSoSfVDK2QNs5tt8
 # cp easter2022.js ../home/gallery
 
