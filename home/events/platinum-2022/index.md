@@ -47,13 +47,21 @@ Sports, BBQ, Beacon and Fireworks.
 
 <div id="platinumfri"></div>
 
+### Saturday
+
+Street Party, BBQ at the Fox.
+
+<div id="platinumsat"></div>
+
 <script src="/home/gallery/platinumthu.js"></script>
 <script src="/home/gallery/platinumfri.js"></script>
+<script src="/home/gallery/platinumsat.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 
 <script>
   document.getElementById("platinumthu").style.height="25em";
   document.getElementById("platinumfri").style.height="25em";
+  document.getElementById("platinumsat").style.height="25em";
 </script>
 
 
