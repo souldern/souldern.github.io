@@ -25,15 +25,12 @@ Please contribute to these **Photo Albums** of the Village over the
 four days of Jubilee events. You may upload directly or send pictures to
 [website@souldern.org](mailto:website@souldern.org).
 
-* [Thursday](https://photos.app.goo.gl/3LToL1775qVu2zAZ6)
+If you stop a slideshow by cliking anywhere on the image, a link to
+the google photo album will be shown.  Some of the images from the
+sports day are short video clips and may be viewed as videos in google
+photo album page.
 
-* [Friday](https://photos.app.goo.gl/gBGb4zYWRspQzmRJ6)
-
-* [Saturday](https://photos.app.goo.gl/QJ8Bp9KEkK9AoaBM9)
-
-* [Sunday](https://photos.app.goo.gl/GCJqf1DMDdrxr93t7)
-
-The albums will be incorporated into this site as slide shows once completed.
+**Contributions to these albums are still welcome**
 
 ### Thursday
 
@@ -69,7 +66,7 @@ The field was too wet for rounders so we finish with a "Jubilee Crown Over Sould
 
 <p style="text-align:center">
 
-<a href="https://photos.app.goo.gl/GCJqf1DMDdrxr93t7"><img style="height:25em;max-width:50%" src="https://lh3.googleusercontent.com/pw/AM-JKLWl6eNSsakyxOSapFIQ_58XeW99vimI6pAEc-N0Sl0yVRrUpZw0g6vMp6-fgcRUIh49XY1DkUzlR47OiZCOsUmMrg2EKAU3_ZWtt-kn8c20Hm9dF07iAveGwBtQK_RVfiqlXCUWLByFSTmdhc1bEBY5=w820-h1093-no?authuser=0"></a>
+<a href="https://photos.app.goo.gl/GCJqf1DMDdrxr93t7"><img alt="Karen Gray: Sun/Clouds over Souldern" style="height:25em;max-width:50%" src="https://lh3.googleusercontent.com/pw/AM-JKLWl6eNSsakyxOSapFIQ_58XeW99vimI6pAEc-N0Sl0yVRrUpZw0g6vMp6-fgcRUIh49XY1DkUzlR47OiZCOsUmMrg2EKAU3_ZWtt-kn8c20Hm9dF07iAveGwBtQK_RVfiqlXCUWLByFSTmdhc1bEBY5=w820-h1093-no?authuser=0"></a>
 
 </p>
 
