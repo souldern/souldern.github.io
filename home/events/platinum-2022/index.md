@@ -21,16 +21,15 @@ title: Souldern Platinum Jubilee Celebrations
 
 ## Photo Albums
 
-Please contribute to these **Photo Albums** of the Village over the
-four days of Jubilee events. You may upload directly or send pictures to
-[website@souldern.org](mailto:website@souldern.org).
-
-If you stop a slideshow by cliking anywhere on the image, a link to
+If you stop a slideshow by clicking anywhere on the image, a link to
 the google photo album will be shown.  Some of the images from the
 sports day are short video clips and may be viewed as videos in google
 photo album page.
 
 **Contributions to these albums are still welcome**
+You may upload directly to the Google album, or send pictures to
+[website@souldern.org](mailto:website@souldern.org).
+
 
 ### Thursday
 
