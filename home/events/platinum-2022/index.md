@@ -65,7 +65,7 @@ The field was too wet for rounders so we finish with a "Jubilee Crown Over Sould
 
 <p style="text-align:center">
 
-<a href="https://photos.app.goo.gl/GCJqf1DMDdrxr93t7"><img alt="Karen Gray: Sun/Clouds over Souldern" style="height:25em;max-width:50%" src="https://lh3.googleusercontent.com/pw/AM-JKLWl6eNSsakyxOSapFIQ_58XeW99vimI6pAEc-N0Sl0yVRrUpZw0g6vMp6-fgcRUIh49XY1DkUzlR47OiZCOsUmMrg2EKAU3_ZWtt-kn8c20Hm9dF07iAveGwBtQK_RVfiqlXCUWLByFSTmdhc1bEBY5=w820-h1093-no?authuser=0"></a>
+<a href="https://photos.app.goo.gl/GCJqf1DMDdrxr93t7"><img alt="Karen Gray: Sun/Clouds over Souldern" style="max-height:25em" src="https://lh3.googleusercontent.com/pw/AM-JKLWl6eNSsakyxOSapFIQ_58XeW99vimI6pAEc-N0Sl0yVRrUpZw0g6vMp6-fgcRUIh49XY1DkUzlR47OiZCOsUmMrg2EKAU3_ZWtt-kn8c20Hm9dF07iAveGwBtQK_RVfiqlXCUWLByFSTmdhc1bEBY5=w820-h1093-no?authuser=0"></a>
 
 </p>
 
