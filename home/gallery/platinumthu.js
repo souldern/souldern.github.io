@@ -5,6 +5,8 @@ galleries.platinumthu = {
     url: "https://photos.app.goo.gl/3LToL1775qVu2zAZ6",
     album: [
 
+"https://lh3.googleusercontent.com/xbgeaGCN1uI547EjMnU1JohHVRmaRiUP8IX7PELKpM6zBFl9sh0iBIpICpIA7Lxj4yXJLcV8Zc1WhDXh0PZ_mkbyTvOjdEmzpBc7U7Aird2jxYmW5DTiPDlzmuMIA16uUCgv68Jr0Lw",
+"https://lh3.googleusercontent.com/rDsGfz1pVaUkt5y45489-1E08_1_heJbdKs7vaY_2QKWFQU6nXf_cocatBUqJ4xv4OcQRqkD1Xtx5QEAUx3nKOVNNejw7E5hBCKySKQBiqKJIdT9YkGoCOCFav84lwBko8l8lYsiU8w",
 "https://lh3.googleusercontent.com/0TZsPSSoWiyfhvxD40s-LGpLnCEHDjmyE5Qcn84OYq7H8ZFHXvtRiKsIY8z7i2tGrCaVxYSFPub2rPNN5L9rNaW14Lwq9BrZ0Bocmd9TJpZY8kuBjydLvKYJPq5f_33zTUiTBGaiMA",
 "https://lh3.googleusercontent.com/obnmErMUVbv1OsAi7cqhtoXgGY2TmDEL-Fd9aTyGiUcqMA2nV1ffmeiv7ewUpGVKZy0TaibBtSBNHDkYzAHAETJ2MQ4WRyN2qnSPj2VFuE14ZqGphTRuNZNVbAfIw7Dg4ynduIqfUw",
 "https://lh3.googleusercontent.com/KxE-TM_CA2ehFtFCfjYZZ6BUhRstBRT0k05fVV8UdihCrCETSpVAPaiLa1OSdK0DHZrKrdbpgpl-Ucvn8wnZAjDal2rPW-cjSUisLtBPN5eOTTJCq1s1yUDFT8y9V6BflJv5NcpT0Q",
