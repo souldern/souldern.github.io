@@ -49,7 +49,7 @@ galleries.platinumsat = {
 "https://lh3.googleusercontent.com/ewGnuPRMWIl991onhAlMpD5XCMKNYfoofxRBRufTQwU6koMUyWoOiTDY23U-SNJtXFLWafNwBdI8-hrG-9S-GxVaYctmxl1xSyz9hzhIUELSW6-KCJTeOMHc8swK8zVYqzdUBM-ulg",
 "https://lh3.googleusercontent.com/WsNdjsiFiDNZB2wygnS-fcUUQDRNvrmbHFVd1-saYH9nqvnYxoRo5ZirzkHpVIvosCOEbLYskqmpLaljPndyKrpNvMQa7_rmoRIFqbPF1CExvOWtPoE3goc41dj3ZW0heox4jQDg0A",
 "https://lh3.googleusercontent.com/Oir-xkwplusdydm9gTxCJxvZ0WgHq7PsZ185DXqm3TGQ0eEAXygBDJ3iKC6pLxUQ4DadtupfG2phNTBrOjGEuTcBPiKljoGbXTCcD3F6MxiApNG7qxXMo1oxBXHu0vXi8cwp-vPFkA",
-"https://lh3.googleusercontent.com/6PalK0sLIMnoz_Yh12I-0AFB8vM5Hcdb-J6w5UPyyj0wzcHY3SduWVmXKr4QfUv6iCsdHnmgUVNLPexLcmaW4lCOQeVzNGFMYl1yfFqSsHP1G552STDOVHXA0NIwoEYlLtdSRXcAzQ",
+"https://lh3.googleusercontent.com/PaCAIyUeBJKoiWSHOZmKqH95WMFDF4UiJaKCz-1Qu-WTfFFTOPzKfQga-v5F7aYaqZRr2aEI4J6j5FuRN5mejCtViqeI41d14OO9ICZALiBpb0AaGRO8dSZUMrJcUYulvTFeWKh_zQ",
 
 ]
 };
