@@ -23,7 +23,7 @@ title: Souldern Platinum Jubilee Celebrations
 
 If you stop a slideshow by clicking anywhere on the image, a link to
 the google photo album will be shown.  Some of the images from the
-sports day are short video clips and may be viewed as videos in google
+sports day are short video clips and may be viewed as videos in the
 photo album page.
 
 **Contributions to these albums are still welcome**
