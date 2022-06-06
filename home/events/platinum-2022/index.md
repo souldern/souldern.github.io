@@ -9,15 +9,19 @@ title: Souldern Platinum Jubilee Celebrations
 
 # Souldern Platinum Jubilee Celebrations
 
+## Programme of Events
+
 <div id="poster" markdown="1">
 
 [![poster](/home/announcements/jubilee-2022-poster.jpg)](/home/announcements/jubilee-2022-programme)
 
 </div>
 
-## Programme of Events
+<p style="text-align:center">
 
-* [Programme](/home/announcements/jubilee-2022-programme)
+ [Programme](/home/announcements/jubilee-2022-programme)
+ 
+</p>
 
 ## Photo Albums
 
