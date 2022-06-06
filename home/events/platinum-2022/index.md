@@ -17,7 +17,7 @@ title: Souldern Platinum Jubilee Celebrations
 
 </div>
 
-<p style="text-align:center">
+<p style="text-align:center" markdown="1">
 
  [Programme](/home/announcements/jubilee-2022-programme)
  
