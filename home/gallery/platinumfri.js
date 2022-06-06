@@ -40,7 +40,6 @@ galleries.platinumfri = {
 "https://lh3.googleusercontent.com/erKNfxq6DwmvqW_jyRWSJ1D5ynv_z1ol4D0PjPxYKsVdSySkcysCvFurTQw7HASaHqJDXfPJuxfE-sqO9xKbbQy3CBeHeDO7sn27UNyCvZPk2NaK73EuTwcl_pejRDuG0SsmSyS5aaw",
 "https://lh3.googleusercontent.com/ApTJOs3C6AC0-BajXrh44r9F4VS4WjY5nGxH64taUau6QJvFzjgUEp7C2j89fnUnQgRZ-kxdVoeRStc474UMse3Ab50-I0vJaaxsQFwImduTl17domM4e7JYGo3atHTY7lYhTEpOqmQ",
 "https://lh3.googleusercontent.com/UObEAFM4OK3hog6gvCmnyYVSp-W_FmycxbC2byGcVQS2nliW8NRXcjXQDioOAmFI73_m5s_LfS742qkjr9OykDQMeSaFTLzThFqd31Pqgz8bMcUa59IiRrBDicXVtnuhdPQObqYsYoA",
-"https://lh3.googleusercontent.com/C66kYwnuOI7uRzzrPbfncicAZuNXAONFxtxe5RkAnV2vRI5t6WASK-y5ngRRNE2K_4KVbwzK1469k-NvIuoI6iNiNYUf6qzHKrzXsQj1FbMYwyzwzbrzSc6Hh4lwqr3gNp6oCA0N1IU",
 
 ]
 };
