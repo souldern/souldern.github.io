@@ -1,11 +1,11 @@
 ---
 date: 2022-06-09
-title: "St Mary'S Church Brie & Bordeaux"
+title: "St Mary's Church Brie & Bordeaux"
 ---
 
-# St Mary'S Church Brie & Bordeaux"
+# St Mary's Church Brie & Bordeaux"
 
-[poster](poster-25-june-2022.pdf)
+[![poster](poster-25-june-2022.jpg)](poster-25-june-2022.pdf)
 
 
 **SATURDAY 25TH JUNE**
