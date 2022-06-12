@@ -31,8 +31,7 @@ sports day are short video clips and may be viewed as videos in the
 photo album page.
 
 **Contributions to these albums are still welcome**
-You may upload directly to the Google album, or send pictures to
-[website@souldern.org](mailto:website@souldern.org).
+Contact [website@souldern.org](mailto:website@souldern.org).
 
 
 ### Thursday
