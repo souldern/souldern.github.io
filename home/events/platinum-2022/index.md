@@ -30,7 +30,7 @@ the google photo album will be shown.  Some of the images from the
 sports day are short video clips and may be viewed as videos in the
 photo album page.
 
-**Contributions to these albums are still welcome**
+**Contributions to these albums are still welcome**:
 Contact [website@souldern.org](mailto:website@souldern.org).
 
 
