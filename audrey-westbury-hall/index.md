@@ -16,7 +16,7 @@ In 2022 the former [Souldern Wesleyan Reform Chapel](/chapel/)
 was aquired by a newly registered [CIO](https://en.wikipedia.org/wiki/Charitable_incorporated_organisation) charity,
 the
 [Souldern Sports and Social Club CIO](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5192077)
-with the aim  of providing a second communally available hall for Village use.
+with the aim  of providing a second communally available hall for Village use. It is named after [Audrey Westbury](/home/announcements/audreywestbury) who ran the Sunday School for 70 years.
 
 _Text to be added ..._
 
