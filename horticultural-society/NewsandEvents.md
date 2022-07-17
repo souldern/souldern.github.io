@@ -9,7 +9,7 @@ title: "SHS News and Events"
 
 # News and Events
 
-## Sunflowers 2020
+## Sunflowers 2022
 
 [Reminder to plant for the annual sunflower competition](/home/announcements/sunflower2022)
 
