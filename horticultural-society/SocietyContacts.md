@@ -19,7 +19,7 @@ The committee is elected annually and includes:
 * Secretary &ndash; Diana Stephens (01869 346692)
 
 
-The President of the Society is Sam Allen.
+The President of the Society is John Bailey
 
 
 Please [Click here](mailto:shs@souldern.org) to email the society or use the [Website Contact Form](/home/contact-website).
