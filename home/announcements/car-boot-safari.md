@@ -17,5 +17,8 @@ Wildlife Hospital
 11am – 3pm Collect map of participants from [Ryleens](https://www.souldern.org/home/houses/?h=ryleens)
 
 
+![map](safari-map.jpg)
+
+
      
 
