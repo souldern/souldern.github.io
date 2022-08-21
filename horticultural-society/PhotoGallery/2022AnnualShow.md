@@ -22,6 +22,7 @@ Thanks to Nicholas Johnstone & David Carlisle for these photos.
 
 ![](https://lh3.googleusercontent.com/pw/AL9nZEWxy0coxp74FUz8trFuUndX6HUrThvb2AS9N-zotpaZtyesG-L_BVwSuJwVuUKmB-ROC19nxDVvr_f00kGxCHOP_f-wmz4Q4jrf3Q_TATg-jWdGwpfZUoO4rqCu4joenRNQ0Dju4N_AHi45f-AS86xV=w480-h640-no?authuser=0)
 
+![](https://lh3.googleusercontent.com/pw/AL9nZEV1Tbyy5Yo4iExVeAZP0Jd0X6dVfIJB-Yl6tm9WGV3eySBG3wyEWwqCmpy-DCJEcYa0fFZTMKFCUTTRAh26vVNtffTR6kWRlyJ4BgbsivYbeboWwiEqgn9jrAf-ijgLKSxHVBUsFAbabM7OvZM9kb1m=w480-h640-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AL9nZEW0Tl4u2c4Fg8QvDQ5HugjB8P5r9aP3DigXLUbWPFEqpunOHebgDOMdGZPdezxQKNsByIN5YXGW4hmJavCDS3hQM-pRbVqbvfqCvOnhMhInlkBzmA6F9cU-tUmwl5hZk3FMYhNHKZkVQ3-W07MIfRWn=w480-h640-no?authuser=0)
 
