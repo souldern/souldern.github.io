@@ -23,9 +23,6 @@ Thanks to Nicholas Johnstone & David Carlisle for these photos.
 ![](https://lh3.googleusercontent.com/pw/AL9nZEWxy0coxp74FUz8trFuUndX6HUrThvb2AS9N-zotpaZtyesG-L_BVwSuJwVuUKmB-ROC19nxDVvr_f00kGxCHOP_f-wmz4Q4jrf3Q_TATg-jWdGwpfZUoO4rqCu4joenRNQ0Dju4N_AHi45f-AS86xV=w480-h640-no?authuser=0)
 
 
-![](https://lh3.googleusercontent.com/pw/AL9nZEWxy0coxp74FUz8trFuUndX6HUrThvb2AS9N-zotpaZtyesG-L_BVwSuJwVuUKmB-ROC19nxDVvr_f00kGxCHOP_f-wmz4Q4jrf3Q_TATg-jWdGwpfZUoO4rqCu4joenRNQ0Dju4N_AHi45f-AS86xV=w480-h640-no?authuser=0)
-
-
 ![](https://lh3.googleusercontent.com/pw/AL9nZEW0Tl4u2c4Fg8QvDQ5HugjB8P5r9aP3DigXLUbWPFEqpunOHebgDOMdGZPdezxQKNsByIN5YXGW4hmJavCDS3hQM-pRbVqbvfqCvOnhMhInlkBzmA6F9cU-tUmwl5hZk3FMYhNHKZkVQ3-W07MIfRWn=w480-h640-no?authuser=0)
 
 ![](https://lh3.googleusercontent.com/pw/AL9nZEU_s6KCskDX5hVOienF9UzMp9mTzha6-dLzLt0E3RnlT6ssrojt54aeob3U5mCvwWwynAlwOrUZK0jc3qhTSTaE0qmn_9jRYEqdK4zxP4_PCCHuxGi1i3t9bBsKDwSB1IPDXWBrBqW7CKdYKnxajoyH=w1458-h1093-no?authuser=0)
