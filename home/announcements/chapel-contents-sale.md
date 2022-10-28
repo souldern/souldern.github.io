@@ -1,5 +1,5 @@
 ---
-date: 2022-10-128
+date: 2022-10-28
 title: Souldern Wesleyan Reform Chapel Sale of Contents
 ---
 
