@@ -1,6 +1,6 @@
 ---
 date: 2022-11-12
-title: Sounds Historical: concert, Aynho
+title: Sounds Historical Concert, Aynho
 ---
 
 # Sounds Historical
