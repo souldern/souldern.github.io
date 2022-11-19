@@ -18,6 +18,8 @@ the
 [Souldern Sports and Social Club CIO](https://register-of-charities.charitycommission.gov.uk/charity-search/-/charity-details/5192077)
 with the aim  of providing a second communally available hall for Village use. It is named after [Audrey Westbury](/home/announcements/audreywestbury) who ran the Sunday School for 70 years.
 
+[Just Giving Fundraising page](https://justgiving.com/souldernssc)
+
 _Text to be added ..._
 
 
