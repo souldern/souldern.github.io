@@ -17,20 +17,20 @@ the theme of a festive song, carol or piece of music!
    - Souldern Court
    - Granny’s Cottage 
  * High Street
-  - Deepwell Cottage
-  - Portland Cottage
-  - Nutcracker Cottage
-  - The Old Forge
-  - The Wall House
+   - Deepwell Cottage
+   - Portland Cottage
+   - Nutcracker Cottage
+   - The Old Forge
+   - The Wall House
  * Bates Lane
    - Silverfind Cottage
    - Stable Cottage
    - The Brambles
  * Back Lane
-  - Spring House
-  - 1 Fox Lane
+   - Spring House
+   - 1 Fox Lane
  * Mill Lane
-  - Hackerty’s Way
+   - Hackerty’s Way
  * The Hill
    - The Rock 
    
