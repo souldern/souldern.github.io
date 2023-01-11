@@ -1,11 +1,11 @@
 ---
 date: 2023-01-11
-title: Souldern Playgroud Launch Meeting
+title: Souldern Playground Launch Meeting
 ---
 
 
 
-# Souldern Playgroud Launch Meeting
+# Souldern Playground Launch Meeting
 
 ![poster](playground-launch.png)
 
