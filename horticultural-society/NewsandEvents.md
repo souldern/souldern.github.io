@@ -9,6 +9,17 @@ title: "SHS News and Events"
 
 # News and Events
 
+## Cheese and Wine Evening 2023
+
+**Village Hall on **Friday 27 January**.
+
+Tickets **£12** each
+
+From:
+
+Sue Medhurst at Dovetail and  
+Bill Wright at Manor Bungalow.
+
 ## Sunflowers 2022
 
 [Reminder to plant for the annual sunflower competition](/home/announcements/sunflower2022)
