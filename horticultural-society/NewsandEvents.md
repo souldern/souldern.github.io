@@ -11,14 +11,13 @@ title: "SHS News and Events"
 
 ## Cheese and Wine Evening 2023
 
-**Village Hall on **Friday 27 January**.
+**Souldern Village Hall** on **Friday 27 January**.
 
-Tickets **£12** each
+Tickets: **£12** each
 
-From:
-
-Sue Medhurst at Dovetail and  
-Bill Wright at Manor Bungalow.
+From:  
+Sue Medhurst at Dovetail  
+Bill Wright at Manor Bungalow
 
 ## Sunflowers 2022
 
