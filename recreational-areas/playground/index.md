@@ -21,7 +21,8 @@ additional volunteers and local fundraising initiatives will also help add to th
 which need to be raised.
 
 If you are able to help in ways large or small, with either time
-or expertise, please contact Alan or Heidi.  
+or expertise, please contact  
+Alan or Heidi.  
 ([alans.souldernpc@gmail.com](mailto:alans.souldernpc@gmail.com))  
 ([heidi.souldernpc@gmail.com](mailto:heidi.souldernpc@gmail.com))
 
