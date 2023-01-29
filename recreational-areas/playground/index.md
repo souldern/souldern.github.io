@@ -23,8 +23,8 @@ which need to be raised.
 If you are able to help in ways large or small, with either time
 or expertise, please contact  
 Alan or Heidi.  
-([alans.souldernpc@gmail.com](mailto:alans.souldernpc@gmail.com))  
-([heidi.souldernpc@gmail.com](mailto:heidi.souldernpc@gmail.com))
+[alans.souldernpc@gmail.com](mailto:alans.souldernpc@gmail.com)  
+[heidi.souldernpc@gmail.com](mailto:heidi.souldernpc@gmail.com)
 
 * [Launch Meeting](https://www.souldern.org/home/announcements/playground-launch)
 * [Outline Planning Poster](https://www.souldern.org/home/announcements/playground-plan)
