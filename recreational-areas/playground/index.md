@@ -29,6 +29,8 @@ Alan or Heidi.
 * [Launch Meeting](https://www.souldern.org/home/announcements/playground-launch)
 * [Outline Planning Poster](https://www.souldern.org/home/announcements/playground-plan)
 
+----
+
 ## Renovation Planning 2019 &ndash; 2022
 
 The Playground is in need of Renovation. A consultation took place between 2019 and 2022.
