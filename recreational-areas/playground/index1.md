@@ -10,6 +10,18 @@ title: "Playground"
 
 ## Playground Plans 2023 &ndash;
 
+![impression][playground-impression.png)
+
+The project is now at the stage where fundraising must begin in earnest in order for the
+village to be in a position to realise the plans. It is estimated that the total project will
+cost approximately £150,000. Members of the playground advisory group, other
+stakeholders and additional members of the village community have identified a number
+of possible sources for grants. These need to be explored further with the help of
+additional volunteers and local fundraising initiatives will also help add to the funds
+which need to be raised. If you are able to help in ways large or small, with either time
+or expertise, please contact Alan ([alans.souldernpc@gmail.com](mailto:alans.souldernpc@gmail.com)) or Heidi
+([heidi.souldernpc@gmail.com](mailto:heidi.souldernpc@gmail.com)).
+
 * [launch meeting](https://www.souldern.org/home/announcements/playground-launch)
 * [Outline planning poster](https://www.souldern.org/home/announcements/playground-plan)
 
