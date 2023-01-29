@@ -25,8 +25,8 @@ or expertise, please contact Alan or Heidi.
 ([alans.souldernpc@gmail.com](mailto:alans.souldernpc@gmail.com))  
 ([heidi.souldernpc@gmail.com](mailto:heidi.souldernpc@gmail.com))
 
-* [launch meeting](https://www.souldern.org/home/announcements/playground-launch)
-* [Outline planning poster](https://www.souldern.org/home/announcements/playground-plan)
+* [Launch Meeting](https://www.souldern.org/home/announcements/playground-launch)
+* [Outline Planning Poster](https://www.souldern.org/home/announcements/playground-plan)
 
 ## Renovation Planning 2019 &ndash; 2022
 
