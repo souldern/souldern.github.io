@@ -1,5 +1,5 @@
 
-  //<script>
+  //<!DOCTYPE HTML><script>
 
  
 // http://complete-ly.appspot.com/
@@ -1563,8 +1563,16 @@ rd: 'Fox Lane',
 sv: 'https://goo.gl/maps/6ZH3xupTdpH2',
 }
 ,
+ "1foxlane": {
+kw: ['1', '7jw', 'fox', 'lane', 'lane', 'ox27'],
+nm: '1, Fox lane',
+pc: 'OX27 7JW',
+rd: 'Fox Lane',
+sv: 'https://goo.gl/maps/LbMYBHE4MD52',
+}
+,
  "fairview": {
-kw: ['1', '7jw', 'fairview', 'fox', 'lane', 'lane', 'ox27'],
+kw: ['7jw', 'fairview', 'fox', 'lane', 'ox27'],
 nm: 'Fairview',
 pc: 'OX27 7JW',
 rd: 'Fox Lane',
