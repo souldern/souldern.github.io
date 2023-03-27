@@ -10,4 +10,4 @@ Information regarding Parish Council elections is available
     
 	
 A PDF poster is also available (and will be posted on the village notice boards). 	
-![pdf poster](PARISH NoE 2023 Final.pdf)
+[PDF poster](PARISH NoE 2023 Final.pdf)
