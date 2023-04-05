@@ -14,4 +14,4 @@ are all elected, with term of office starting on the 9th of May.
 
 ---
 
-![PDF Poster](Souldern PC SoPN 2023.pdf)
+[PDF Poster](Souldern PC SoPN 2023.pdf)
