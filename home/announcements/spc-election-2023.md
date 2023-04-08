@@ -10,7 +10,7 @@ are all elected, with term of office starting on the 9th of May.
 
 ---
 
-![spc members](Souldern PC - Notice of Uncontested Election 2023.pdf)
+![spc members](Souldern PC - Notice of Uncontested Election 2023.png)
 
 
 ![spc members](Souldern PC SoPN 2023.png)
