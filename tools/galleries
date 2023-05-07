@@ -1,5 +1,9 @@
 #!/bin/bash
 
+./photojs biglunch2023 "Coronation Big Lunch" https://photos.app.goo.gl/iWBEY2EXn1VfUG2Y7
+
+exit
+
 ./photojs platinumthu "Platinum Jubilee Thursday" https://photos.app.goo.gl/3LToL1775qVu2zAZ6
 mv platinumthu.js ../home/gallery
 

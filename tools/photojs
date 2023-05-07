@@ -22,7 +22,8 @@ wget -O "album${shareID}.html" $shareURL 2> /dev/null
 sed -ie 's/\["/\n["/g' "album${shareID}.html"
 
 declare -A imgs
-for j in $(grep -o '\["https://lh3.googleusercontent.com/[^"/]*"' album${shareID}.html | sed -e  's/^.*\[//' -e 's/$/,/')
+# for j in $(grep -o '\["https://lh3.googleusercontent.com/[^"/]*"' album${shareID}.html | sed -e  's/^.*\[//' -e 's/$/,/')
+for j in $(grep -o '\["https://lh3.googleusercontent.com/pw/[^"/]*"' album${shareID}.html | sed -e  's/^.*\[//' -e 's/$/,/')
 do
     [[ ${imgs[$j]} ]] && continue
     imgs[$j]=x
