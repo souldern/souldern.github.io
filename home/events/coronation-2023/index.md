@@ -19,3 +19,7 @@ title: Coronation Big Lunch
 <script src="/home/gallery/biglunch2023.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 
+
+<script>
+  document.getElementById("biglunch2023").style.height="25em";
+</script>
