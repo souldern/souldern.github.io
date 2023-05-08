@@ -1,6 +1,7 @@
 #!/bin/bash
 
 ./photojs biglunch2023 "Coronation Big Lunch" https://photos.app.goo.gl/iWBEY2EXn1VfUG2Y7
+mv biglunch2023.js ../home/gallery
 
 exit
 
