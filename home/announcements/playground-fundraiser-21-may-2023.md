@@ -28,7 +28,8 @@ Every penny goes to the playground!
 
 Can’t make that date? Don’t worry – 
 
-our **£5 no-show donation ticket** includes your entry in a prize draw for a £50 food voucher at The Fox
+our **£5 no-show donation ticket** includes your entry in a prize draw  
+for a £50 food voucher at The Fox
 
 
 Tickets from Karen Gray 07887 953939 & Sue Boulton 07774 841318
