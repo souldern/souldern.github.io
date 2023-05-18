@@ -4,6 +4,8 @@ layout: default
 title: "Parish Council Meetings on the 24th May"
 ---
 
+# Annual Parish Meeting
+
 Reminder of the Annual Parish Meeting (followed by a regular Parish Council meeting)  
 on the **24th May**.
 
