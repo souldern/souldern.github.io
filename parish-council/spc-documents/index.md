@@ -1,6 +1,6 @@
 ---
 title: SPC Documents
-layout:default
+layout: default
 ---
 
 # SPC Documents

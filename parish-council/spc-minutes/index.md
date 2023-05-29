@@ -1,6 +1,6 @@
 ---
 title: SPC minutes
-layout:default
+layout: default
 ---
 
 # SPC minutes

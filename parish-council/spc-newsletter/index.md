@@ -1,6 +1,6 @@
 ---
 title: SPC Newsletter
-layout:default
+layout: default
 ---
 
 

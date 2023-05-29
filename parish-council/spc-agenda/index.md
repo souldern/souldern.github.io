@@ -1,6 +1,6 @@
 ---
 title: SPC Agenda
-layout:default
+layout: default
 ---
 
 # SPC Agenda
