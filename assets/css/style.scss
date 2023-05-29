@@ -1,6 +1,9 @@
 ---
 ---
 
+
+@import 'jekyll-theme-cayman';
+
 .main-content h1,
 .main-content h2,
 .main-content h3,
@@ -9,9 +12,6 @@
 .main-content h6 {
     font-weight: bold;
   }
-
-@import 'jekyll-theme-cayman';
-
 
 header.page-header {
     padding-top: 0pt;
