@@ -1,5 +1,10 @@
 #!/bin/bash
 
+./photojs vh2023 "Village Hall 2023" https://photos.app.goo.gl/Nc9w8PWFXjZFtAgp6
+mv vh2023.js ../home/gallery
+
+exit
+
 ./photojs biglunch2023 "Coronation Big Lunch" https://photos.app.goo.gl/iWBEY2EXn1VfUG2Y7
 mv biglunch2023.js ../home/gallery
 
