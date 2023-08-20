@@ -16,7 +16,7 @@ Thanks to Nicholas Johnstone for these photos.
 <script src="/home/gallery/galleries.js"></script>
 <script>
   if (window.innerWidth > 1000) {
-  var d=document.getElementById("document.getElementById("vh2023");
-  d.style.height="30em";
+  var d=document.getElementById("vh2023");
+  d.style.height="40em";
   }
 </script>
