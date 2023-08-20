@@ -1,4 +1,8 @@
 #!/bin/bash
+./photojs shsshow2023 "SHS Show 2023" https://photos.app.goo.gl/jW8RDwZUuxvUWwtx5
+mv shsshow2023.js ../home/gallery
+
+exit
 
 ./photojs vh2023 "Village Hall 2023" https://photos.app.goo.gl/Nc9w8PWFXjZFtAgp6
 mv vh2023.js ../home/gallery
