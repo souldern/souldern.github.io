@@ -17,6 +17,6 @@ Thanks to Nicholas Johnstone for these photos.
 <script>
   if (window.innerWidth > 1000) {
   var d=document.getElementById("document.getElementById("vh2023");
-  d.style.height="22em";
+  d.style.height="30em";
   }
 </script>
