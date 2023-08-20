@@ -1,5 +1,5 @@
 ---
-title: 2022 Annual Show
+title: 2023 Annual Show
 ---
 
 [Horticultural Society](/horticultural-society) > [Photo Gallery](/horticultural-society/PhotoGallery)
@@ -18,7 +18,7 @@ Click on the slideshow to pause or link to google photos album.
 <script src="/home/gallery/galleries.js"></script>
 <script>
   if (window.innerWidth > 1000) {
-  var d=document.getElementById("vh2023");
+  var d=document.getElementById("shsshow2023");
   d.style.height="40em";
   }
 </script>
