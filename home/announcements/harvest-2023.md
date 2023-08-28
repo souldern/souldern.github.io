@@ -25,4 +25,6 @@ Activities for the children from 10:30am followed by a Family
 Harvest Service at 11. (Please bring any tinned or dry foods
 along for the foodbank)
 
-[poster](harvest-2023.pdf)
+-----
+
+[PDF Poster](harvest-2023.pdf)
