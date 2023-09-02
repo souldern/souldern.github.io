@@ -507,7 +507,12 @@
  </house>
  <house sv="https://goo.gl/maps/U5cXcaqq9HN2">
   <name>Deep Well Cottage</name>
-  <othername>Post Office Cottage, Deepwell Cottage</othername>
+  <othername>Deepwell Cottage</othername>
+  <pc>OX27 7JP</pc>
+  <rd>High Street</rd>
+ </house>
+ <house sv="https://goo.gl/maps/UD5h5AHt2iPufL167">
+  <name>Post Office Cottage</name>
   <pc>OX27 7JP</pc>
   <rd>High Street</rd>
  </house>

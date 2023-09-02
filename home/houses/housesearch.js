@@ -267,6 +267,7 @@ var availableTags = [
 "portland",
 "portlandcottage",
 "post",
+"postofficecottage",
 "potting",
 "prentice",
 "pye",
@@ -1188,11 +1189,19 @@ sv: 'https://goo.gl/maps/onRN8hkbSvm',
 }
 ,
  "deepwellcottage": {
-kw: ['7jp', 'cottage', 'deep', 'deepwell', 'deepwellcottage', 'high', 'office', 'ox27', 'post', 'street', 'well'],
+kw: ['7jp', 'cottage', 'deep', 'deepwell', 'deepwellcottage', 'high', 'ox27', 'street', 'well'],
 nm: 'Deep Well Cottage',
 pc: 'OX27 7JP',
 rd: 'High Street',
 sv: 'https://goo.gl/maps/U5cXcaqq9HN2',
+}
+,
+ "postofficecottage": {
+kw: ['7jp', 'cottage', 'high', 'office', 'ox27', 'post', 'postofficecottage', 'street'],
+nm: 'Post Office Cottage',
+pc: 'OX27 7JP',
+rd: 'High Street',
+sv: 'https://goo.gl/maps/UD5h5AHt2iPufL167',
 }
 ,
  "kenchscottage": {
