@@ -23,5 +23,5 @@ Raffle, mince pies, mulled wine, hot drinks
 
 ---
 
-souldern village hall situated at the entrance of the
+`Souldern village hall situated at the entrance of the
 village, OX27 7JB
