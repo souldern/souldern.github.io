@@ -5,11 +5,12 @@ title: "Playground: Indoor table top sale"
 
 # INDOOR TABLE TOP SALE
 
-## Fundraising For Souldern'S New Playground
+## Fundraising For Souldern's New Playground
 
 ![poster](playground-table-top.jpg)
 
-**Souldern Village Hall Saturday 14th October**
+**Souldern Village Hall  
+  Saturday 14th October**
 
 Open 10am–1pm (set up from 9am)
 
@@ -20,4 +21,4 @@ Contact Alex on 07890 370991 to book your table
 
 ~ Just £10 per table plus raffle donation ~
 
-A great chance to sell all your Preloved items!
+A great chance to sell all your preloved items!
