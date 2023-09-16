@@ -4,7 +4,7 @@ title: Wine and Dine for Souldern’s Playground
 ---
 
 #   🍇🍷*Wine and Dine*🍷🍇
-## for Souldern’s Playground 🛝 
+## For Souldern’s Playground 🛝 
 
 Wine-tasting evening with local wine merchant Trelawney Wines 
 
