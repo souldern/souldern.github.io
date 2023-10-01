@@ -7,6 +7,14 @@ title: "Playground"
 
 ----
 
+## Playground Work 2023 &ndash;
+
+### Initial Groundwork, September 2023
+
+<div id="playground-start2023"></div>
+
+<script src="playground-start2023.js"></script>
+<script src="/home/gallery/galleries.js"></script>
 
 ## Playground Plans 2023 &ndash;
 
