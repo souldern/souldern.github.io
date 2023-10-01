@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./photojs playground-start2023 "Playground Groundwork" https://photos.app.goo.gl/rEtGjw719NuSSNWy9
+./photojs playgroundstart2023 "Playground Groundwork" https://photos.app.goo.gl/rEtGjw719NuSSNWy9
 
 exit
 

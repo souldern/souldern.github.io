@@ -1,6 +1,6 @@
 var galleries = galleries || {};
 
-galleries.playground-start2023 = {
+galleries.playgroundstart2023 = {
     title: "Playground Groundwork",
     url: "https://photos.app.goo.gl/rEtGjw719NuSSNWy9",
     album: [
