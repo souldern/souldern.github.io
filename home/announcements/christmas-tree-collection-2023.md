@@ -20,7 +20,7 @@ raised will enable the charity to fund more research about the
 condition and help diagnose more people. 
 
 If you would like to know
-more about the charity please visit https://alfiesworld.co.uk
+more about the charity please visit <https://alfiesworld.co.uk>
 
 
 You can also use this form to book your collection.
