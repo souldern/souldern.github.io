@@ -15,7 +15,9 @@ with other complications such as difficulty breathing, and delayed
 mental development. Some of our members have a special connection to a
 little boy named Alfie who has this condition. Therefore the money
 raised will enable the charity to fund more research about the
-condition and help diagnose more people. If you would like to know
+condition and help diagnose more people. 
+
+If you would like to know
 more about the charity please visit https://alfiesworld.co.uk
 
 
