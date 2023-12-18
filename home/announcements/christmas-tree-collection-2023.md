@@ -3,6 +3,8 @@ date: 2023-12-18
 title: Christmas Tree Collection
 ---
 
+# Charity Christmas Tree Collection
+
 ![poster](yfc-xmastree-2023.png)
 
 On the 6th and 7th of January, members of Enstone Young Farmers will
@@ -24,7 +26,7 @@ more about the charity please visit https://alfiesworld.co.uk
 You can also use this form to book your collection.
 
 
-https://forms.gle/4Qd4s3LEZy7cFaEB6
+<https://forms.gle/4Qd4s3LEZy7cFaEB6>
 
 
 ---
