@@ -6,7 +6,7 @@ title: Souldern Playground Reopened
 # Souldern Playground Reopened
 
 
-![playground](https://photos.google.com/share/AF1QipNmbnP6f-HzoeRETxXjXpXmQ4-Jrw8ZdB2BMSjE0H_6eSQ3l57sccg0vozthxNyaw/photo/AF1QipNp4kmv4Ys-b3o1nJFBJfhwBs9dIJa5QPu5t_kc?key=QVl1R2J4Z1k3bWgzYmNmVEcwMFZVemVaWXRDU0NR)
+![playground](https://lh3.googleusercontent.com/pw/ABLVV86thqaPKHe8wfafynDaeAENf_ZGvjBQR4L57hJJSqgugmdYa7WIG0aiOmy6NCXUiwCa8ekhfbWpyCfBpOZL0ZDbwe-HNnBkB7n0fiSboVXUN9dTJxLOPvMWNZcQfYYCId9HUDXIMs9Pg0EnL4r6yOxP=w1189-h669-s-no?authuser=0)
 
 **THE PLAYGROUND IS OPEN.**
 
