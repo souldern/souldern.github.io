@@ -5,9 +5,9 @@ title: "Playground"
 
 # Playground
 
-<center>
+<center kramdown=1>
 
-[playground](newplayground_files/image001.jpg)
+![playground](newplayground_files/image001.jpg)
 
 </center>
 
@@ -19,9 +19,9 @@ The New Playground opened in January 2024.
 * [Story of the planning and building of the playground](newplayground)
 * [Drone footage (Youtube) of the development.](https://youtu.be/cbQoS2KtE6E)
 
-<center>
+<center  kramdown=1>
 
-[playground](newplayground_files/image012.jpg)
+![playground](newplayground_files/image012.jpg)
 
 </center>
 
