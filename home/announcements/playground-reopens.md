@@ -10,4 +10,6 @@ title: Souldern Playground Reopened
 
 **THE PLAYGROUND IS OPEN.**
 
-Thanks to everyone who made this happen
+Thanks to everyone who made this happen.
+
+**[See The main playground page for more details](/recreational-areas/playground/)**
