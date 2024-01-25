@@ -12,4 +12,4 @@ title: Souldern Playground Reopened
 
 Thanks to everyone who made this happen.
 
-**[See The main playground page for more details](/recreational-areas/playground/)**
+**[See the main playground page for more details.](/recreational-areas/playground/)**
