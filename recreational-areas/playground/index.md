@@ -27,5 +27,5 @@ The New Playground opened in January 2024.
 
 ----
 
-* [Record or the planning and fundraising](playgroundplanning)
-* [original page describing the playground  1973 &ndash; 2021](originalplayground)
+* [Record of the planning and fundraising](playgroundplanning)
+* [Original page describing the playground  1973 &ndash; 2021](originalplayground)
