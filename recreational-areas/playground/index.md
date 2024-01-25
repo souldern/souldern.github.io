@@ -5,8 +5,9 @@ title: "Playground"
 
 # Playground
 
-
+{:refdef: style="text-align: center;"}
 ![playground](newplayground_files/image001.jpg)
+{: refdef}
 
 
 
@@ -19,7 +20,9 @@ The New Playground opened in January 2024.
 
 
 
+{:refdef: style="text-align: center;"}
 ![playground](newplayground_files/image012.jpg)
+{: refdef}
 
 
 
