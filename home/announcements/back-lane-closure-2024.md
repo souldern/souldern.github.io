@@ -41,18 +41,16 @@ T 13419 / RAG
 
   
 
-Robert Graham
-
-Officer (TTRO Team)
-
-Network Co-ordination
-
+Robert Graham  
+Officer (TTRO Team)  
+Network Co-ordination  
 07741 607617
 
-Oxfordshire County Council,
-Ron Groves House,
-Oxford Road,
-Kidlington,
-Oxfordshire,
+Oxfordshire County Council,  
+Ron Groves House,  
+Oxford Road,  
+Kidlington,  
+Oxfordshire,  
 OX5 2BP
 
+    
