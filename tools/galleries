@@ -1,5 +1,10 @@
 #!/bin/bash
 
+./photojs playgroundequip2024 "Playground Equipment" https://photos.app.goo.gl/cJ6LrEaXxrXfVvrG9
+
+exit
+
+
 ./photojs playgroundstart2023 "Playground Groundwork" https://photos.app.goo.gl/rEtGjw719NuSSNWy9
 
 exit
