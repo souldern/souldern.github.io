@@ -5,7 +5,6 @@ layout: default
 
 # SPC Agenda
 
-reverse
 <ul class="flist">
 {% assign files = site.static_files | reverse %}
 {% for  sf in files %}
