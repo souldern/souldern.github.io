@@ -8,9 +8,9 @@ title: Souldern Village Easter Egg Hunt
 
 **Souldern Solstice Group proudly present**
 
-the
 
-**Souldern Village Easter Egg Hunt**
+
+**The Souldern Village Easter Egg Hunt**
 
 
 **Where:**  The Grounds of Hollies Farm (By
