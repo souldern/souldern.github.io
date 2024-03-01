@@ -7,13 +7,13 @@ title: Souldern Village Easter Egg Hunt
 
 
 # Souldern Easter Egg Hunt
-# AND
+# and
 # Playground Opening!
 
 
 **SUNDAY 31st MARCH**
 
-**10.30am**
+**10.30am
 
 TEA \| COFFEE \| CAKES In the Village Hall
 
