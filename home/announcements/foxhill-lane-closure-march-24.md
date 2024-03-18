@@ -9,7 +9,7 @@ title: Foxhill Lane Road Closure
 ## Temporary Traffic Regulation Notice – S14 Road Traffic Regulation Act 1984
 
 
-![map](foxhill-march-24 .png)
+![map](foxhill-march-24.png)
 
 
 Oxfordshire County Council has been informed of a temporary emergency
