@@ -3,12 +3,13 @@ date: 2024-03-18
 title: Foxhill Lane Road Closure
 ---
 
-## Temporary Traffic Regulation Notice – S14 Road Traffic Regulation Act 1984
 
 # Temporary Emergency Road Closure at Souldern, Foxhill Lane
 
+## Temporary Traffic Regulation Notice – S14 Road Traffic Regulation Act 1984
 
-![map](foxhill-march.png)
+
+![map](foxhill-march-24 .png)
 
 
 Oxfordshire County Council has been informed of a temporary emergency
