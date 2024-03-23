@@ -1,4 +1,10 @@
 #!/bin/bash
+./photojs vh2024in "Village Hall Interior" https://photos.app.goo.gl/L2iTANcqXbFpqCZX8
+
+./photojs vh2024out "Village Hall Exterior" https://photos.app.goo.gl/NaVpcY6JgRNd3vty6
+
+exit
+
 
 ./photojs playgroundequip2024 "Playground Equipment" https://photos.app.goo.gl/cJ6LrEaXxrXfVvrG9
 

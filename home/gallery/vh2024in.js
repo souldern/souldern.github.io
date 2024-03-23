@@ -1,0 +1,33 @@
+var galleries = galleries || {};
+
+galleries.vh2024in = {
+    title: "Village Hall Interior",
+    url: "https://photos.app.goo.gl/L2iTANcqXbFpqCZX8",
+    album: [
+
+"https://lh3.googleusercontent.com/pw/AP1GczNZnlgMYIcrsSzW5M7vY5Fa1bpKK-zjkypCGemLHHzHYeZ-dyS1Aux9HzHSYZ1xNVjDZQuRiGy_DYF63JxhsO2daRi1DThsILRopSgHRIo6cs88VCk",
+"https://lh3.googleusercontent.com/pw/AP1GczNgsw-mPpLqhdf-CZF__opA5pqCDx_t5RFK75tcnv0UWy0TRF7cYjOVvOB1vKe9OLWa7xNokMHCkOy1MXft9XoBjTatfT0Q3XxpBI4YEV3OH6PkjiI",
+"https://lh3.googleusercontent.com/pw/AP1GczOb9zJPHRTJtNxOJbCS3BscRcjEI36YDqRCXCGIKPMhSRqWBaIqgtmkSocixfh7vPPb-wWkd4N4yHJ7nxgCNoK4CmaiXnAMur1gJKzy7WzQPFodln0",
+"https://lh3.googleusercontent.com/pw/AP1GczPU-brKVoKGOx0ebR8xnvBMmHEjAgCZ1A_DS0ZnZjMUegLcN2xp5Kh4G8eVvHHkkYFCJdFXii_v1-awghEgneBnynwRQVhLTMq0bdFQFFrORBn_PXI",
+"https://lh3.googleusercontent.com/pw/AP1GczNZkg8LvZjouDrjj0SFdZg1jxYEaS9gsYFLYjKIIFLDcAszH6jXkFXsvY3-cAH_kASjNOrje3dmfblcbCkmGEZKNlbX-UDsZuV_hFzXzd5Kknfc0hw",
+"https://lh3.googleusercontent.com/pw/AP1GczN7wZihIGYQ7L7T6_NMQRUoK2Sg9VQktxcG0Ri539X7AoHlgZnbKlKBCNYfLdt0-RKaOqfqjn908WBpWrvh6Ery5v0PQAOiabJz5BbqhzknfijtonQ",
+"https://lh3.googleusercontent.com/pw/AP1GczOkIZxGwtPwoMTwDJjymHks1_xnIybWqB_bJlQkqTV9Hn354GK5oN3STBBjaQsT0oU7aAmKNfhhZAmohRiPLQxvFa_B1pkswq6agYL7mBMEC6Gks7M",
+"https://lh3.googleusercontent.com/pw/AP1GczOB7r7Ptn65uIgnwN2NbOVYhFUh_lfzqg0q_SE_Mvv9xLBaGR0u1lzaShHiH2gQqpONiIFfJ3c_J1njJ5OWzIl9vSaRy4rtlwDHPg7UahjNURaiV1g",
+"https://lh3.googleusercontent.com/pw/AP1GczN77k1DZMWarHmi47jgW-rO7jYB6M83aJ3RTbnq1VZv-JfiJWspYPRP1NBHnBIpE1oMgql7_SKHbz7O2G6LAaVvZMOPHnU4oyNJpyZpse3FS_hGnLI",
+"https://lh3.googleusercontent.com/pw/AP1GczMe25s7lKAKSbvwVvwpG0Ceu-Z1O7Um2dAiVKoIHoCmUqR3ktg9tyVOhrO-HN_xREulBb_c78-L_eSJtMlyESA98li9xgA2Pe_cl2iafJJERHxCCFQ",
+"https://lh3.googleusercontent.com/pw/AP1GczPgR33SV_GhQnyUADDttjDou6-EBwCzq4WalKE88FM5Tbk9veM8GoUUxHmlsn3osHQoo38I9Cq1zqCm4KdAfxsgltBMKmpt9sRMDI5_Gqa212pgwi8",
+"https://lh3.googleusercontent.com/pw/AP1GczNas0IfQp63Gi9BSn3oQUcVCFLZcKTX51u1sRm8_TjI9LDxf2EQz8LgpD701D3-Ua6-wLg5yLpggLnXQYPE5hgFk_fOuJpRQJBNzrr-gCQ48ImzyzI",
+"https://lh3.googleusercontent.com/pw/AP1GczNWpfNHxSqRaVYDZ4PQpXPF8yCf9HPU2eyBRciL8vCjGnG-UFWEo8X9bZDKHYCa3QtHesUJSwrMq569lKPokG8m2m7xFow7eKzLiWC4UOx4tK91Gsc",
+"https://lh3.googleusercontent.com/pw/AP1GczPCJ4ZTnpgi-hTfuMo4MlDOL-aU6xtJNGHcQur96VqIWkMDqbXLBZJl7a01jUo8m9wx5UWFztl7AlVIx87Zb9xfj8-paDmU50Sj7UDkI0h81Ekz2r4",
+"https://lh3.googleusercontent.com/pw/AP1GczO7VOu8Wfcu5ktkuiHd7DixVjMQZO4iWaV3ZdrNczx6S_rPksS7EszcG5fLBDIfIc3UoGlfPpkBsRxQoUHKfY4vyjtvBD8o70zo-Tdt24hjD2azNCk",
+"https://lh3.googleusercontent.com/pw/AP1GczPs8QjUwmo1d5tgqV_4JbfpTINMHhyEaGuQkCg1IvHj9NRXUw6QhRWFufbiNhfSA8wM_6oXq06XxCcCaGt2NCYG_MZ0pk5jwcuqShBuc5xE-4_0Eus",
+"https://lh3.googleusercontent.com/pw/AP1GczP9mlQ5d1ylV68jzMnrQWWnmDUbh8fMqSo9RFaXJ7I6Alxt1JWr42gf2rbskcW95BzaFuy-xpaUHmdMFzcf63GZ1apP7zQnkRAi1ZPGecow4bAXCt8",
+"https://lh3.googleusercontent.com/pw/AP1GczMs0C1QmQ0tPEY2EaGoOOHvKy_K8NlbMvHOVXRlyFQL-MVNk6-w2eHdwuD1t6qOG5qGS0ATlVWrs71Te8RTZZzFp2FWUVoVuJXCBf2NrKBilCt4qlw",
+"https://lh3.googleusercontent.com/pw/AP1GczNlCrxEPLgGRQtpnda8A8QXEMRg1NqrjHenICvPioiwCg5hA4e7v_ej_tLAUE6BvDcySaFXBiczypp7ZNURz9sOd3LsGO7gPxcP_T5OA3y1UJkCn_w",
+"https://lh3.googleusercontent.com/pw/AP1GczM_Yuv-0DSBZWnargBWSi09OYIBSHKx4UzxzfXL9CggqNYXgyki4fCOxT1PbhJLpcznteEg_bo_LcFIFrQQ1Bc9SUvonXsH6upFprikuT1Lk6cRaBc",
+"https://lh3.googleusercontent.com/pw/AP1GczPZ1Tc7aRovLuAx7g2VYAa4Y6rB_eS5rvSdjh81LjRgRjBfdSjKcmXLhVDM5h4HlRubQnFFDx82TaEASPhq4tWA1h1jiuhKm4h_m_zPVqXjvTpQtpk",
+"https://lh3.googleusercontent.com/pw/AP1GczOkS1Q1G9aGPRk4VVcvtyu9P50UGr5XBDtSbsjCKgUre6bBHJQIf2gFPRj6yfr011AymtqtyjV15Qu8DCH-lZM48IoB5a37c2LN6sPEkx3PFLuciNg",
+"https://lh3.googleusercontent.com/pw/AP1GczO2SciWFozGDm5lan44eDEneF8rO3ULgZVdbLEQjZLVdsULnMcymBfTl2F0w945EU5854Q05heRM8npybtj7Bipe7Hl6K1xTrX095Emj38ZDaqMNyI",
+
+]
+};
