@@ -1,7 +1,12 @@
 #!/bin/bash
-./photojs vh2024in "Village Hall Interior" https://photos.app.goo.gl/L2iTANcqXbFpqCZX8
 
 ./photojs vh2024out "Village Hall Exterior" https://photos.app.goo.gl/NaVpcY6JgRNd3vty6
+mv vh2024out.js ../home/gallery
+
+exit
+./photojs vh2024in "Village Hall Interior" https://photos.app.goo.gl/L2iTANcqXbFpqCZX8
+
+
 
 exit
 
