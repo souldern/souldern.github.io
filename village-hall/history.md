@@ -10,7 +10,7 @@ title: "Village Hall Historical Notes"
 # Village Hall Historical Notes
 
 
-<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="https://picasaweb.google.com/111338960776702858271/SouldernWebsite#6199686989379184258" imageanchor="1"><img border="0" src="https://lh3.googleusercontent.com/-4js3sqRyBTU/Vgm2eDCOpoI/AAAAAAAABjc/xiodQrsyZwI/s400/1114.JPG" /></a></div>
+<div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><img width="320" border="0" src="https://lh3.googleusercontent.com/pw/AP1GczNxUmYo2mhh7ZxqqUo21oq5zgixSyQ5UQrGgehO5u2zL_zBKENWmAZ09MkCVWrUNqeH9m3vWHLatwso3GEgICwE5JimzasxX07lPN7OtWeEwbvCS1RtOfkm7coQD3dMKWzUgwIkKSMKAaYrZoxjb82A=w1244-h829-s-no?authuser=1" /></div>
 
 
 Built in 1974 the Village hall replaced the Parish Reading room which
