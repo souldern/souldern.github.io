@@ -7,7 +7,7 @@ title: "Original Playground: 1973 - 2021"
 # Original Playground: 1973 &ndash; 2021
 
 <div style="display:inline;margin:5px 10px;float:right"></div>
-<div style="display:inline;float:left;margin:5px 10px 0px 0px"><a href="https://picasaweb.google.com/111338960776702858271/DavidCarlisleSouldernVillage#6197856637034419842" imageanchor="1"><img border="0" src="https://lh3.googleusercontent.com/-zoWyrkeXbgw/VgM1xhM71oI/AAAAAAAABRc/pNULeQ08lY0/s400/playground-open.png" /></a></div>
+<div style="display:inline;float:left;margin:5px 10px 0px 0px"><img width="320" border="0" src="https://lh3.googleusercontent.com/pw/AP1GczMYB2Ebp0x5p46DzjVLthdYI3tLKYpZqw6cjSAC4rNuxACvjBOizGlPnqBSFIo0ToIq1rQRL3LaFAKW_Mck_EpzzSiOv2NrfYAnA9pPOUGPRRGmWCS6eGzamjCjdVAm3XJ2OvZ2Sfv9-ESj9iByqkDu=w891-h589-s-no?authuser=1"/></div>
 
 The playground was originally developed in 1973, it is sited on the edge of the playing field, behind the Village Hall. It was renovated and officially opened on 2nd May 1993 (picture on the left), and is maintained by a committee of volunteers under the supervision of the Parish council.
 
