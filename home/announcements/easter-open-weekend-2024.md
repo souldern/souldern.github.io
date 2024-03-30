@@ -3,7 +3,7 @@ date: 2024-03-30
 title: St Mary’s Church Reordering Project
 ---
 
-# ST MARY’S CHURCH REORDERING PROJECT UPDATE
+# ST MARY’S CHURCH REORDERING PROJECT
 
 As many of you know the PCC has a project to bring the church into the 21st century by adding a WC and various other facilities.
 
