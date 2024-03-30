@@ -11,10 +11,12 @@ Added to this we need to carry out essential repairs including to the roof which
 
 Come along to our **Easter Extravaganza Open Weekend** and see our plans.
 
-Over the weekend and Easter Monday there will be
-Floral Displays, Children’s Activities and Arts & Crafts to see and for sale —  and if you can make it we’ll be serving
+Over the weekend and Easter Monday there will be  
+Floral Displays, Children’s Activities and Arts & Crafts to see and for sale —  and if you can make it we’ll be serving  
 **Cream Teas** on **Monday** from 2–4pm!
 
-All profits will be going towards the church — we need to fundraise about £400k for the work — please help!
+All profits will be going towards the church
+
+We need to fundraise about £400k for the work — please help!
 
 ![poster](easter-2024.jpg)
