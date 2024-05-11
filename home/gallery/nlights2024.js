@@ -15,6 +15,7 @@ galleries.nlights2024 = {
 "https://lh3.googleusercontent.com/pw/AP1GczPlkF5exypd7DyGnMQRiTlzja-2SBlUTdPJ7YPLMZCtg6WSXFZCPFzLnRTkz5-Mmx2P-ZGJ_K1B5uP4-9tBf2M2VEpu-5DgIc8itEI_KIa2V3mymQs",
 "https://lh3.googleusercontent.com/pw/AP1GczPoUmoFWzmxbHqAUW5qp-bfB2cSANasvTDjpUly5yBL9FzmoMKAvUT31HUHTiX7vOoQZIAOrGatNh9ECBmaDCylyPT4tpk_yefv8IYe7ytul-TJqP0",
 "https://lh3.googleusercontent.com/pw/AP1GczPY_zVVPJhCed5FEh7hnfhv9E8r45I2bxkwm4jYbBilfd7fNZApIYHxqOWuEAyWbYoaAf8TBq0TVygzyIrphYYGmNNj3RpTG41k0vkn321OGvQskd4",
+"https://lh3.googleusercontent.com/pw/AP1GczOkKE2CZjwkA2-YQUkgPKcHgAo-68zk_L-cIMgDIKnDSk6zVNqnuQfTw2b1o3dV_SMkSwRP2ZRC1GAOguvGlfOsei0RHZ402jhg7G5mzUIGyl6O-mU",
 
 ]
 };

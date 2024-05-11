@@ -1,5 +1,10 @@
 #!/bin/bash
 
+./photojs nlights2024 "Northern Lights May 2024" https://photos.app.goo.gl/XsbwvNqZkVRRMHD39
+mv nlights2024.js ../home/gallery
+
+exit
+
 ./photojs vh2024out "Village Hall Exterior" https://photos.app.goo.gl/NaVpcY6JgRNd3vty6
 mv vh2024out.js ../home/gallery
 
