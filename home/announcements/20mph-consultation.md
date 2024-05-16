@@ -5,7 +5,7 @@ title: 20mph Consultation
 
 # CONSULTATION – Souldern proposed 20mph Speed Limits
 
- 
+![map](20mph/20mph.png)
 
 Oxfordshire County Council wants to make our built environments safer
 and more attractive places to walk and cycle. To enable this, 20mph
@@ -26,10 +26,10 @@ the following consultation documents attached:
 
  
 
- * [Public Notice](Souldern 20mph Speed Limit - PUBLIC NOTICE.pdf)
- * [Statement of Reasons](Souldern 20mph Speed Limit - STATEMENT OF REASONS.pdf)
- * [Consultation Plan(s)](Souldern 20mph Speed Limit - CONSULTATION PLAN.pdf)
- * [Draft Traffic Regulation Order(s)](Souldern Speed Limits - DRAFT ORDER 2024.pdf)
+ * [Public Notice](20mph/Souldern 20mph Speed Limit - PUBLIC NOTICE.pdf)
+ * [Statement of Reasons](20mph/Souldern 20mph Speed Limit - STATEMENT OF REASONS.pdf)
+ * [Consultation Plan(s)](20mph/Souldern 20mph Speed Limit - CONSULTATION PLAN.pdf)
+ * [Draft Traffic Regulation Order(s)](20mph/Souldern Speed Limits - DRAFT ORDER 2024.pdf)
 
  
 
