@@ -12,7 +12,7 @@ and more attractive places to walk and cycle. To enable this, 20mph
 speed restrictions are being used to help promote alternative modes of
 transport for local travel. Further details on how the council is
 considering making 20mph the new 30mph for Oxfordshire communities can
-be found here.
+be found [here](https://www.oxfordshire.gov.uk/residents/roads-and-transport/traffic/20mph-scheme/20mph-transformation-programme).
 
  
 
