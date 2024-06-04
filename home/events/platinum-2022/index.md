@@ -4,6 +4,7 @@ title: Souldern Platinum Jubilee Celebrations
 ---
 <style>
 #poster img {margin:0 auto;display:block; height:12em;}
+h2, h3 {tex-align:center}
 </style>
 
 
