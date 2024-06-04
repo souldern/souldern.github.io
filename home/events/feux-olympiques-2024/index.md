@@ -4,6 +4,7 @@ title: Souldern Feux Olympiques 2024
 ---
 <style>
 div.c img {margin:0 auto;display:block;}
+h1, h2, h3 {text-align:center}
 </style>
 
 <div class="c" markdown="1">
