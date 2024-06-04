@@ -2,12 +2,15 @@
 layout: default
 title: Souldern Feux Olympiques 2024
 ---
+<style>
+#poster img {margin:0 auto;display:block;}
+</style>
 
-<center>
+<div id="poster" markdown="1">
 
 ![banner](banner.png)
 
-</center>
+</div>
 
 ## The SSSC presents
 
@@ -51,8 +54,8 @@ after 7pm.
 Finally, an Olympic biscuit bake off will be held for the
 children. All entries to be delivered to The Fox by 4pm on the day.
 
-<center>
+<div id="poster" markdown="1">
 
 ![olympic rings](rings.png)
 
-</center>
+</div>
