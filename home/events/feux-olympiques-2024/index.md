@@ -14,7 +14,7 @@ title: Souldern Feux Olympiques 2024
 
 ## The SSSC presents
 
-# SOULDERN 2024 Faux Olympiques
+# SOULDERN 2024 Feux Olympiques
 
 ## 22nd June
 
