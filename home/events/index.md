@@ -5,6 +5,7 @@ title: Village Events
 
 # Village Events
 
+ * [Souldern Feux Olympiques 2024](feux-olympiques-2024)
  * [Coronation Big Lunch 2023](coronation-2023)
  * [Queen's Platinum Jubilee 2022](platinum-2022)
  * [Easter Egg Hunt 2022](/home/announcements/easter-egg-2022)
