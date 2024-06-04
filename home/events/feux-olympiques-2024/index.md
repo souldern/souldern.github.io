@@ -3,10 +3,10 @@ layout: default
 title: Souldern Feux Olympiques 2024
 ---
 <style>
-#poster img {margin:0 auto;display:block;}
+div.c img {margin:0 auto;display:block;}
 </style>
 
-<div id="poster" markdown="1">
+<div class="c" markdown="1">
 
 ![banner](banner.png)
 
@@ -54,7 +54,7 @@ after 7pm.
 Finally, an Olympic biscuit bake off will be held for the
 children. All entries to be delivered to The Fox by 4pm on the day.
 
-<div id="poster" markdown="1">
+<div class="c" markdown="1">
 
 ![olympic rings](rings.png)
 
