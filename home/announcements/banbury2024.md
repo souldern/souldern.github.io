@@ -3,7 +3,7 @@ date: 2004-06-07
 title: Local Candidates For the General Election 2024
 ---
 <style>
-table img {height: 2.5em}
+table img {height: 2em}
 </style>
 
 # Local Candidates For the General Election 2024
@@ -14,7 +14,7 @@ table img {height: 2.5em}
 Nominations have now closed and the list of candidates is as below.
 
 Note: the Banbury constituency has new boundaries and we are (just)
-still in Banbury consutituency, which has lost Bicester and gained Chipping
+still in the Banbury constituency, which has lost Bicester and gained Chipping
 Norton.
 
 ![map](banbury2024.gif)
