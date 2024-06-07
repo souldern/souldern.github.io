@@ -58,7 +58,7 @@ follow from Linda Maws and Amanda Sharman. Live music will be provided
 after **7pm**.
 
 Finally, an Olympic biscuit bake off will be held for the
-children. All entries to be delivered to The Fox by 4pm on the day.
+children. All entries to be delivered to The Fox by **4pm** on the day.
 
 <div class="c" markdown="1">
 
