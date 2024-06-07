@@ -17,6 +17,11 @@ Note: the Banbury constituency has new boundaries and we are (just) still in Ban
 
 ![map](banbury2024.gif)
 
+## Voting
+
+Voting due to take place on **Thursday 4 July** in the Village Hall.
+
+
 ## Candidates
 
 
