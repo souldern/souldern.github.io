@@ -1,18 +1,19 @@
 ---
-date: 2010-10-13
-title: Yin and Yang meeting
+date: 2024-06-02
+title: Souldern Feux Olympiques 2024
 ---
 
-# New Meeting
+# Souldern Feux Olympiques 2024
 
-Please come to our meeting on **Wednesday**!
+![poster](/home/events/feux-olympiques-2024/feux-olypiques-poster.png)
+
+Please see the [Events page](/home/events/feux-olympiques-2024/) on
+this site, and announcements on WhatsApp ,for the Souldern Event taking place on:
+
+**22nd June**
+
+**Field events**:  between 2pm and 5pm.
+
+**Closing ceremony**: with food and live music at The Fox between 5pm and 11pm.
 
 
-## Agenda
-
-
-1. First item
-2. Second item
-3. AOB
-     
-![yin and yang](yinyang.png)

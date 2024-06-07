@@ -46,8 +46,13 @@ find Olympic themed objects. Further details to follow from Alan
 Smith.
 
 The Fox will be providing the BBQ between 5pm and 7pm and will be
-selling tickets from the bar leading up to the ovent. Further details
-will be posted by The Fox. We encourage villagers to bring desserts
+selling tickets from the bar leading up to the ovent.
+
+**[Please see the menu for the evening meal](Summer Solstice Menu - June 2024.pdf)**
+
+Tickets should be purchased in advance, and are available at the Fox Inn.
+
+We encourage villagers to bring desserts
 for sharing based on Olympic or French themes. Further details to
 follow from Linda Maws and Amanda Sharman. Live music will be provided
 after 7pm.
