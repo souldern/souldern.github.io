@@ -11,9 +11,11 @@ table img {height: 2.5em}
 
 ## Banbury Constituency
 
-Nominations havenow closed and the list of candidates is a s below.
+Nominations have now closed and the list of candidates is as below.
 
-Note: the Banbury constituency has new boundaries and we are (just) still in Banbury, which has lost Kidlingtopn and gained Chipping Norton.
+Note: the Banbury constituency has new boundaries and we are (just)
+still in Banbury consutituency, which has lost Bicester and gained Chipping
+Norton.
 
 ![map](banbury2024.gif)
 
