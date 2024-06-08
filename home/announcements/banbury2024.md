@@ -26,11 +26,13 @@ Voting due to take place on **Thursday 4 July** in the Village Hall.
 
 ## Candidates
 
+The [final list of nominations](https://www.cherwell.gov.uk/download/downloads/id/14240/election-of-a-member-of-parliament-for-banbury-constituency.pdf) For Banbury is as follows:
 
-| ![Con](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/conservative.svg) |    Conservative | Victoria Prentis |
-| ![Lab](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/labour.svg) |    Labour | Sean Woodcock |
-| ![LibDem](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/liberal_democrat.svg) |     Liberal Democrat | Liz Adams |
-| ![Green](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/green.svg) |    Green | Arron Baker |
-| ![Reform](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/reformuk.svg) |    Reform UK | Richard Farmer |
-| ![SDP](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/sdp.svg) |    Social Democratic Party | Declan Soper |
-
+| ![Con](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/conservative.svg) | Conservative | Victoria Prentis |
+| ![Lab](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/labour.svg)       |    Labour | Sean Lee Woodcock |
+| ![LibDem](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/liberal_democrat.svg) | Liberal Democrat | Liz Adams |
+| ![Green](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/green.svg)      |    Green | Arron Baker |
+| ![Reform](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/reformuk.svg)  | Reform UK | Paul Nicholas Topley |
+| ![SDP](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/sdp.svg)          |    Social Democratic Party | Declan Sam Soper |
+| ![Ind](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/independent.svg)  |   Independent | Cassi Bellingham |
+| ![Climate](https://images.squarespace-cdn.com/content/v1/62fa69a855a0095afb53e3f2/9b403e05-4862-43e0-81c4-5743a4f41c77/favicon.ico) | Climate Party | Chris Nevile |
