@@ -3,7 +3,7 @@ date: 2024-06-08
 title: Local Candidates For the General Election 2024
 ---
 <style>
-table img {height: 2em}
+table img {height: 2em;max-width:2em;width:2em}
 </style>
 
 # Local Candidates For the General Election 2024
