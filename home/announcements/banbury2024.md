@@ -1,5 +1,5 @@
 ---
-date: 2004-06-07
+date: 2024-06-08
 title: Local Candidates For the General Election 2024
 ---
 <style>
