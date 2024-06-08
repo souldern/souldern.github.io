@@ -26,7 +26,7 @@ Voting due to take place on **Thursday 4 July** in the Village Hall.
 
 ## Candidates
 
-The [final list of nominations](https://www.cherwell.gov.uk/download/downloads/id/14240/election-of-a-member-of-parliament-for-banbury-constituency.pdf) For Banbury is as follows:
+The [final list of nominations](https://www.cherwell.gov.uk/download/downloads/id/14240/election-of-a-member-of-parliament-for-banbury-constituency.pdf) for Banbury is as follows:
 
 | ![Con](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/conservative.svg) | Conservative | Victoria Prentis |
 | ![Lab](https://static.files.bbci.co.uk/elections/images/uk2024general/logos/labour.svg)       |    Labour | Sean Lee Woodcock |
