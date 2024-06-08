@@ -1,13 +1,13 @@
 ---
 date: 2024-06-08
-title: Local Candidates For the General Election 2024
+title: Local Candidates for the General Election 2024
 ---
 <style>
 table img {height: 2em;max-width:2em;width:2em}
 .main-content table img {height: 2em;max-width:2em;width:2em}
 </style>
 
-# Local Candidates For the General Election 2024
+# Local Candidates for the General Election 2024
 
 
 ## Banbury Constituency
