@@ -4,6 +4,7 @@ title: Local Candidates For the General Election 2024
 ---
 <style>
 table img {height: 2em;max-width:2em;width:2em}
+.main-content img {height: 2em;max-width:2em;width:2em}
 </style>
 
 # Local Candidates For the General Election 2024
