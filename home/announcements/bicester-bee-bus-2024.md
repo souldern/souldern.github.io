@@ -4,11 +4,11 @@ title: New Bicester Bee Bus service
 ---
 
 
-# BICESTER BEE
+# Bicester Bee Bus Service
 
 More buses for rural areas.
 
-ABILITY to commence three new 
+[ABILITY](https://www.abilitycic.org.uk) are to commence three new 
 timetabled services in the Bicester area.
 
 
