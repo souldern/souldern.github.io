@@ -23,7 +23,9 @@ giving access to local services.
 Fares will be introduced at **£2 per journey**.
 
 
-Operating on a timetable 6 days a week, Monday to Saturday. Regular
+Operating on a timetable 6 days a week, **Monday** to **Saturday**.
+
+Regular
 services into Bicester Town and Langford Medical Centre. Fares are
 payable by, Cash, Contactless, or by Concessionary Bus Passes. The bus
 service is open to all.
@@ -32,14 +34,14 @@ service is open to all.
 
 Timetables are on the [ability website](https://abilitycic.org.uk/) and visible at each bus stop.
 
-A copy is available [On this site](bicester-bee-timetable-2024.pdf)
+A copy of the **timetable** is available [On this site](bicester-bee-timetable-2024.pdf)
 
 
-82: Finmere, Mixbury, Cottisford, Hethe, Fringford, Stratton Audley, Caversfield
+ * 82: Finmere, Mixbury, Cottisford, Hethe, Fringford, Stratton Audley, Caversfield
 
-**81**: Caversfield, Stoke Lyne, **Souldern**, Somerton, Fritwell, Fewcott, Ardley, Bucknell
+ * **81**: Caversfield, Stoke Lyne, **Souldern**, Somerton, Fritwell, Fewcott, Ardley, Bucknell
 
-108: Bicester, Langford Medical Centre
+ * 108: Bicester, Langford Medical Centre
 
 [admin@abilitycic.org.uk](mailto:admin@abilitycic.org.uk)  
 [www.abilitycic.org.uk](https://www.abilitycic.org.uk)
