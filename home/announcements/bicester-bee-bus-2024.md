@@ -34,9 +34,9 @@ Timetables are on the [ability website](https://abilitycic.org.uk/) and visible 
 A copy of the [**timetable** is available on this site](bicester-bee-timetable-2024.pdf)
 
 
- * 82: Finmere, Mixbury, Cottisford, Hethe, Fringford, Stratton Audley, Caversfield
-
  * **81**: Caversfield, Stoke Lyne, **Souldern**, Somerton, Fritwell, Fewcott, Ardley, Bucknell
+
+ * 82: Finmere, Mixbury, Cottisford, Hethe, Fringford, Stratton Audley, Caversfield
 
  * 108: Bicester, Langford Medical Centre
 
