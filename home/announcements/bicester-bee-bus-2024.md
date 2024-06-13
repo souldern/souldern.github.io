@@ -31,7 +31,7 @@ service is open to all.
 
 Timetables are on the [ability website](https://abilitycic.org.uk/) and visible at each bus stop.
 
-A copy of the **timetable** is available [On this site](bicester-bee-timetable-2024.pdf)
+A copy of the [**timetable** is available on this site](bicester-bee-timetable-2024.pdf)
 
 
  * 82: Finmere, Mixbury, Cottisford, Hethe, Fringford, Stratton Audley, Caversfield
