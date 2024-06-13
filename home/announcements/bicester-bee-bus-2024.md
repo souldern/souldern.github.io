@@ -6,8 +6,9 @@ title: New Bicester Bee Bus service
 
 # BICESTER BEE
 
-More buses for rural areas — buzzing around 
-Bicester. ABILITY to commence three new 
+More buses for rural areas.
+
+ABILITY to commence three new 
 timetabled services in the Bicester area.
 
 
@@ -15,10 +16,6 @@ The new Bicester Bee service will commence at
 07:22 from Finmere on **1st July 2024**, financially 
 supported by Oxfordshire County Council.
 
-
-ABILITY – “Your local bus service” will begin operating around
-parishes in the rural areas of Oxfordshire connecting into Bicester,
-giving access to local services.
 
 Fares will be introduced at **£2 per journey**.
 
