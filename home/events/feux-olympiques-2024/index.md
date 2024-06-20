@@ -63,7 +63,7 @@ children. All entries to be delivered to The Fox by **4pm** on the day.
 
 ## Treasure Hunt
 
-![treasure]{treasure-hunt.jpg)
+![treasure](treasure-hunt.jpg)
 
 
 <div class="c" markdown="1">
