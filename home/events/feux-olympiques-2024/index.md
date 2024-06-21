@@ -5,6 +5,7 @@ title: Souldern Feux Olympiques 2024
 <style>
 div.c img {margin:0 auto;display:block;}
 h1, h2, h3 {text-align:center}
+div.eventposters img {max-width:45%;}
 </style>
 
 <div class="c" markdown="1">
@@ -62,13 +63,16 @@ children. All entries to be delivered to The Fox by **4pm** on the day.
 
 ## Events
 
-![map]{map.jpg)
+![map](map.jpg)
 
+
+<div id="eventposters">
 
 ![](beret.jpg)  ![](candb.jpg)
 
 ![](row.jpg)  ![](table.jpg)
 
+</div>
 
 ## Treasure Hunt
 
