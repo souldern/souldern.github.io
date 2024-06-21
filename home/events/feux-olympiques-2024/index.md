@@ -63,10 +63,14 @@ children. All entries to be delivered to The Fox by **4pm** on the day.
 
 ## Events
 
+<div class="c" markdown="1">
+
 ![map](map.jpg)
 
+</div>
 
-<div id="eventposters">
+<div id="eventposters" class="c" markdown="1">
+
 
 ![](beret.jpg)  ![](candb.jpg)
 
