@@ -60,6 +60,15 @@ after **7pm**.
 Finally, an Olympic biscuit bake off will be held for the
 children. All entries to be delivered to The Fox by **4pm** on the day.
 
+## Events
+
+![map]{map.jpg)
+
+
+![](beret.jpg)  ![](candb.jpg)
+
+![](row.jpg)  ![](table.jpg)
+
 
 ## Treasure Hunt
 
