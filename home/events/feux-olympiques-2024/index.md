@@ -92,5 +92,5 @@ children. All entries to be delivered to The Fox by **4pm** on the day.
 </div>
 
 
-<script src="../../gallery/olymiques2024.js"></script>
+<script src="../../gallery/olympiques2024.js"></script>
 <script src="../../gallery/galleries.js"></script>
