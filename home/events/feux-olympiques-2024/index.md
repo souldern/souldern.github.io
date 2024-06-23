@@ -20,6 +20,8 @@ h1, h2, h3 {text-align:center}
 
 ## 22nd June
 
+<div id="olympiques2024"></div>
+
 ## Timings On The Day
 
 Teams of 5 people (all ages) are invited to enter six Olympic themed
@@ -88,3 +90,7 @@ children. All entries to be delivered to The Fox by **4pm** on the day.
 ![olympic rings](rings.png)
 
 </div>
+
+
+<script src="../../gallery/olymiques2024.js"></script>
+<script src="../../gallery/galleries.js"></script>

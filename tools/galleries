@@ -1,5 +1,10 @@
 #!/bin/bash
 
+./photojs olymiques2024 "Feux Olympiques 2024" https://photos.app.goo.gl/z7VC3KWs93gLouf76
+mv olymiques2024.js  ../home/gallery
+
+exit
+
 ./photojs nlights2024 "Northern Lights May 2024" https://photos.app.goo.gl/XsbwvNqZkVRRMHD39
 mv nlights2024.js ../home/gallery
 

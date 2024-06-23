@@ -1,0 +1,33 @@
+var galleries = galleries || {};
+
+galleries.olymiques2024 = {
+    title: "Feux Olympiques 2024",
+    url: "https://photos.app.goo.gl/z7VC3KWs93gLouf76",
+    album: [
+
+"https://lh3.googleusercontent.com/pw/AP1GczNBwUPUdwRaK_OI8BFUk3FjCP5zUX9c8zXo3DPEnVvLvGZPL5ikB3QJNcG0vViK7lbG9wwmK0PWt8hADX5TpeV8TdaolGiWvGF97KGp4su1_c1UomQ",
+"https://lh3.googleusercontent.com/pw/AP1GczOF9R26sVd9IXrGWcRntnOofLwv50ecismbp0rPUAyb_lez6sDxEyxSuWDrKrUij7t0P0-_Y8foBbeQ-C6S7Krb_fEfUajhnvhSbZtLt4tvYHuKcvw",
+"https://lh3.googleusercontent.com/pw/AP1GczPezp-xPN30qNKZik7-GmOEl-hNN-ZtYhhztPTsQuFjMvtdApHNK5zJLGmJqeQfB0l33httJh2Nedr8eDGvC6Rv7-imZD4tZkt2whinbbPbH7CrGUQ",
+"https://lh3.googleusercontent.com/pw/AP1GczOLp3WAqDfYDcxkD8G7k6-9coWopRcs7eN9ajLADQ60mHDeo6NvWoT8u9vipo6O4TeFqUzf-9dt55gXyup5Jo6YUaHMuXDjwF63fWtFhOU2q0kcxKk",
+"https://lh3.googleusercontent.com/pw/AP1GczO0ykIuoaJ6yd0zhgyfmeTwgcbe1k9o32hXoQj1LDgzetGHBGR3rI6qIh3NxhPPaIdEA-cVobXCJDBRpG4SuclsTBqmqUYRMiKnCKCujoerptHZRVI",
+"https://lh3.googleusercontent.com/pw/AP1GczP2Wi7o3Sg8amF6g0jP8evw_1lS3LE5IukQRJ5tEi43WqhvacOuidYsw-uObdCpqge0kmKEd7e7wi8fHArWjGvgXhT9EKX0uhwt1EXf0E_nFjkGZA8",
+"https://lh3.googleusercontent.com/pw/AP1GczPF57GDU0NSIk_3kfYHlgiXcI1Bd4upmUSv6Cbj6uUDL3ufPjRu4zefavxvNqZVomSrC-LYHR3k5PGa_nI712cpYtwEFSX18omW6mTzWzb1y_iT8_k",
+"https://lh3.googleusercontent.com/pw/AP1GczP6pErfJ-MYhKkB4w3Wi4jqQD-40IyqCWoQOFJTnHZmlRbN1InkJDS92ScvnvKFwgnm_C55e5GO2yLsW5PnuQvNXPQtyBbpowc0kZZLffJAvoa6bAE",
+"https://lh3.googleusercontent.com/pw/AP1GczMRNgNLml0nrsxPTubPI4lZuDa0XyH8E3Hhh43VAuEe8kN8t_Br1K4OtaQhnxV6ZNSZanGfO7xDAayRGz8d_NN29DLuJARu49a4Nbo6yaxSKyWgNaY",
+"https://lh3.googleusercontent.com/pw/AP1GczPY9CeH6pum0aThno-1KHIIbDup0PZin3xx8I32jLYafAKJmqLt4hSbEsVftHIJoijlCdTavsWadusgpACkqo8no8Nxr8x-Zcfn2-a89gHd0e2I5zQ",
+"https://lh3.googleusercontent.com/pw/AP1GczPNgSXBu3yhwhbq8BSWdhdiKqQV9fI6MvWqgJjX3Lix3A13FVQMDEa2jA0bpHwcpW6N8q5ZYIsd7ohYv6Vevypd4tr3GRlftm9C3OPra0X4puJc5fU",
+"https://lh3.googleusercontent.com/pw/AP1GczPsNbjGI5O-2-TftMjNsiUOPnvuAhdNN6k4Tj0FtXWVcUF-lKSZHl14mRRVKZQs-sDc30K3nxymckFOlcK0Xut-cFb1-l0Jtp9ZAeZkjHKj0O2t8qU",
+"https://lh3.googleusercontent.com/pw/AP1GczNpqetchOdXWLoJIhnSn36Jz7O1pQb9O9BDEGNLGfq_I5u0eS2dTDVVx9ZxxdTbvTSK1gsIrPT50gydFmFTQSvD0OZZc7ebxiDKgLM7UcbUtH9pgbc",
+"https://lh3.googleusercontent.com/pw/AP1GczOgFjWMnRPX9TYCCzO-xXvOPQJw9Ic1dA3-R6V5Ysan21at0HoxCkQiFIQKOUJZl8K3iFX-tNZUIgc1K6OHs-0F0DIbhf6eel34A4PZDmzeMW8-Cic",
+"https://lh3.googleusercontent.com/pw/AP1GczPObn_J9tBgIBI3cPz2cyFVnai_NWuQqTsa2hPmA8YaufE4VDIvZRF-P3ktHyl5Z8sYL1oOK73t0OEFdQvBjttTLg4J-q5g3qkQE2NxFpAY1JY35b8",
+"https://lh3.googleusercontent.com/pw/AP1GczOUHse49iMrRirGMWQplBPu3DTISnBzrjsrm4lhGl5gpwwIwbmH8l-w_PsDF7_fQDWbrCYQOQcTL9hST_ypVs-T8G-cBTDfT0bjPwDesTdT98vOIvM",
+"https://lh3.googleusercontent.com/pw/AP1GczOx__G2_cCEka48p8NxDch-NGHUyPcUPMkDd0J3WHEJYaIHcyWTQdwmEh0X5TI0EAOJzx1R4TRSt1FFJ4V4fG0bOjIawzLCavKzXJ5HGWpCDYMTvoo",
+"https://lh3.googleusercontent.com/pw/AP1GczOpKWIwZNFEJbPVTd63vZgWi7jwuUcxylF77GQwHsQ2m5SEqeBVUaHYADjwvNxuMWO0bff4GNGkr22KVW8nw4uoXxMmHM7TQH_ft87Ff0BloESW8iE",
+"https://lh3.googleusercontent.com/pw/AP1GczMUQ5tasNRHfNRg_pNE1-Hy2UBqn-ZEmkdu3XVo5Oe78_is_eCLPwkJe1vMB0FK52HkxqfduUSjzzfqIFtw6QP-gHt1ri3o-S0sNzaNu1OsLaLiSl4",
+"https://lh3.googleusercontent.com/pw/AP1GczMU2yu3lCnxMx2obCmW0P8q784IZNzcAfUn0tvHgv-FUPTVrZ8q1dr1N7zTcLKFHhDD3629a-yiUZHysX5LQs6UXzzi7V9CTMrsdkpfg-BWBeNz-go",
+"https://lh3.googleusercontent.com/pw/AP1GczN7SoVSkauSsS4a2Jhsf6TpJyQFN8vx7ILWT_PKubZWUd0PTOEEl7IX0Q_HPeS87CuiuCSLntgw_JzniV3z8vEXv7UzzTnQeEIeTe2ZLN5IAx3tVP4",
+"https://lh3.googleusercontent.com/pw/AP1GczN82lphEb5YZovmyTdHVG0qMbRYX1YkI0l6gK7rgt3mloedBw1Xl2LzZuOQhyN0bDYki636Tt-J5spGaaZMNOzNF3ZFcNJSV1JZSUWKck3yS9HNvKI",
+"https://lh3.googleusercontent.com/pw/AP1GczNZvKYBCYdQ3GESnLaIuqkk6wDNVNNxwu41QB9kvnYnfY2ZOlHmMZPOAGPXjafPz6xCXIq-TojN7fG3KCuM6n8-OH6sRFVp0v5Q70wqQdgBeEcyJxE",
+
+]
+};
