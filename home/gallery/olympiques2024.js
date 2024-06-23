@@ -1,6 +1,6 @@
 var galleries = galleries || {};
 
-galleries.olymiques2024 = {
+galleries.olympiques2024 = {
     title: "Feux Olympiques 2024",
     url: "https://photos.app.goo.gl/z7VC3KWs93gLouf76",
     album: [
