@@ -20,4 +20,4 @@ Tickets: **£12.00** (children under 15 free)
 Cash bar and raffle
 
 
-![church-garden-2024](church-garden-2024.png)
+![church-garden-2024](church-garden-2024.jpg)
