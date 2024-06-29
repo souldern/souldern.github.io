@@ -12,7 +12,7 @@ title: Summer Garden Party
 
 **6:30 pm**
 
-The Barn House, High Street
+The Barn House, High Street  
 Nick and Jo Oakhill
 
 Tickets: **£12.00** (children under 15 free)
