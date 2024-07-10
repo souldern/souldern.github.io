@@ -3,7 +3,7 @@ date: 2024-06-25
 title: "Photographic Evening: Audrey Westbury Hall"
 ---
 
-# Photographic Evening: Audrey Westbury Hall"
+# Photographic Evening: Audrey Westbury Hall
 
 **Thursday 11th July.**
 
