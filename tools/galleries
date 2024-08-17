@@ -1,5 +1,11 @@
 #!/bin/bash
 
+
+./photojs shsshow2024 "SHS Show 2024" ./photojs https://photos.app.goo.gl/pHVqfQxZYQwm8xGz5
+mv shsshow2024.js ../home/gallery
+
+exit
+
 ./photojs olympiques2024 "Feux Olympiques 2024" https://photos.app.goo.gl/z7VC3KWs93gLouf76
 mv olympiques2024.js  ../home/gallery
 
