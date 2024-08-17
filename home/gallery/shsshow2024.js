@@ -11,6 +11,7 @@ galleries.shsshow2024 = {
 "https://lh3.googleusercontent.com/pw/AP1GczMONJUewMThkPPCFS9Dxpo4H5QnXjH2eKOsguaHBaAp9wtYOCCXzZVU6rheI-_WGGW8mQvvOvuHEmzKibRi5b4ArdxcAn7OG-LWPM5lipw9cNaFDEY",
 "https://lh3.googleusercontent.com/pw/AP1GczPoNUbCLUK4kYIsuoXD0HvYlPENkwIo6e-xBT2PnrB5jRnyv44hG7TlhYkd529wqrJJ0Xjv-JrzcWrchXrrufoMPinyRHa-yCYO3JVt5aCaKK2Y2uo",
 "https://lh3.googleusercontent.com/pw/AP1GczM28x1k7udW9wJionTLUra0N7VDNH8oeKT_dcvWDaDn7QlIOeSwFK3sK-WNBttdFjgyN0uycvB96l1xbTdkXnHrZI_zsAU6sxBsM1chBiJld38szhc",
+"https://lh3.googleusercontent.com/pw/AP1GczMVeMUyS0DZvlUGKFSlwCpk6zsdgxpeJi5w9fPIhIXEg1MhRwsN2EnWOuFlVVuen77wlxFPxZqYcOWJxlJdFd_zdPTeFKnwF1AarF9MPzXstH7dFJs",
 
 ]
 };
