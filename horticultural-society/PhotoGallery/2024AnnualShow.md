@@ -13,7 +13,7 @@ Thanks to Nicholas Johnstone for these photos.
 Click on the slideshow to pause or link to google photos album.
 
 
-<div id="shsshow2023"></div>
+<div id="shsshow2024"></div>
 <script src="/home/gallery/shsshow2024.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 <script>
