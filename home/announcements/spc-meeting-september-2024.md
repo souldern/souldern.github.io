@@ -8,4 +8,4 @@ title: "Cancelled Parish Council Meeting"
 The SPC meeting
 scheduled for 29th August has been cancelled.
 
-The next meeting will be on **26th September**
+The next meeting will be on **26th September**.
