@@ -39,4 +39,4 @@ We will not close the road during any major events in the area and will ensure t
 
 ## More Details
 
-More details on Oxfordshire County Council website](https://www.oxfordshire.gov.uk/residents/roads-and-transport/roadworks/future-transport-projects/m40-junction-10)
+More details on [Oxfordshire County Council website](https://www.oxfordshire.gov.uk/residents/roads-and-transport/roadworks/future-transport-projects/m40-junction-10)
