@@ -20,7 +20,7 @@ the area.
  *  and changing the junction to have all approaches controlled by smart traffic signals.
 
 
-##Timescales
+## Timescales
 
 We expect to start construction in August 2024 and finish in Spring 2025.
 
