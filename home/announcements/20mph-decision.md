@@ -3,7 +3,7 @@ date: 2024-09-06
 title: Souldern 20mph area approved
 ---
 
-# Souldern 20mph Speed Limit
+# Souldern 20mph Speed Limit Approved
 
 At the Oxfordshire County Council meeting on 5th September the decision was to recommend approval of the Souldern 20mph zone.
 
