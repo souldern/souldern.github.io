@@ -3,7 +3,7 @@ date: 2024-09-06
 title: Souldern 20mph area approved
 ---
 
-At the Oxfordshire County Council meeting on 5th September the decision was to recommend approval of the Souldern 20pmh zone.
+At the Oxfordshire County Council meeting on 5th September the decision was to recommend approval of the Souldern 20mph zone.
 
 The full list of decisions is available [on the OCC website](https://mycouncil.oxfordshire.gov.uk/ieListDocuments.aspx?CId=1219&MId=7552&Ver=4)  with the relevant section shown below.
 
