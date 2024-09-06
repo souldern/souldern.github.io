@@ -18,17 +18,18 @@ Cabinet Member: Transport Management
 
 Forward Plan Ref: 2024/083
 
-Contact: Anthony Kirkwood, Vision Zero Team Leader (Anthony.Kirkwood@oxfordshire.gov.uk)
+Contact: Anthony Kirkwood, Vision Zero Team Leader ([Anthony.Kirkwood@oxfordshire.gov.uk](mailto:Anthony.Kirkwood@oxfordshire.gov.uk))
 
  
 
-Report by Director of Environment and Highways (CMDTMT38).
+Report by Director of Environment and Highways (**CMDTMT38**).
 
  
 
-The Cabinet Member is RECOMMENDED to:
+The Cabinet Member is **RECOMMENDED** to:
 
  
 
-a)    Approve the proposed introduction of 20mph speed limits in Souldern, as advertised.
+a)  **Approve the proposed introduction of 20mph speed limits in Souldern, as advertised.**
+
 
