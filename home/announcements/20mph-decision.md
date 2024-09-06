@@ -12,7 +12,7 @@ The full list of decisions is available [on the OCC website](https://mycouncil.o
 
 **38. Souldern:** Proposed 20 Mph Speed Limits [PDF of proposal](https://mycouncil.oxfordshire.gov.uk/documents/s72231/CMDTMT05092024%20-%2038.%20Souldern%20Proposed%2020mph%20Speed%20Limits.pdf)
 
-View the background to item 38.
+[View the background to item 38.](https://mycouncil.oxfordshire.gov.uk/mgIssueHistoryHome.aspx?IId=35574)
 
 Cabinet Member: Transport Management
 
