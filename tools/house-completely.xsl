@@ -15,8 +15,10 @@
   //</script>
  </xsl:result-document>
 
-<xsl:result-document indent="no" href="../home/houses/index.html">
- <xsl:text>---&#10;layout: default&#10;title: Souldern House Search&#10;extracss: search&#10;---&#10;&#10;</xsl:text>
+
+ <!--
+ <xsl:result-document indent="no" href="../home/houses/index.html">
+ <xsl:text>- - -&#10;layout: default&#10;title: Souldern House Search&#10;extracss: search&#10;- - -&#10;&#10;</xsl:text>
  <script src="housesearch.js"><xsl:text> </xsl:text></script>
   <xsl:text>&#10;</xsl:text>
   <xsl:text>&#10;</xsl:text>
@@ -53,7 +55,8 @@
    use</a>, or photographs by David Carlisle for this site, or in some
    cases from freely available images.</li>
   </ul>
-</xsl:result-document>
+ </xsl:result-document>
+-->
 </xsl:template>
 
 
