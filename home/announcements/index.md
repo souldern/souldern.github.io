@@ -9,7 +9,9 @@ layout: default
 
 
 <ul class="category-list">
-  {%- assign sorted = site.pages | sort: 'date'  | reverse -%}
+  {%- assign pdate = site.pages | group_by: 'date'  | reverse -%}
+  {%- for pday in pdates -%
+  {%- assign sorted = pday| sort: 'time' | reverse -%}
   {%- for page in sorted -%}
   {%- if page.path contains "home/announcements/" and page.path != "home/announcements/index.md" %}
   <li><a href="/{{page.path | replace: '.html', ''| replace: '.md', ''}}">{{page.title}}</a> [{{page.date}}]
@@ -29,6 +31,7 @@ layout: default
 
   </li>
   {%- endif -%}
+  {%- endfor %}
   {%- endfor %}
 </ul>
 
