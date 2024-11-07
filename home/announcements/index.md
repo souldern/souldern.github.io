@@ -10,7 +10,7 @@ layout: default
 
 <ul class="category-list">
   {%- assign pdates= site.pages | group_by: 'date'  | sort: 'name' | reverse -%}
-  {%- for pday in pdates -%
+  {%- for pday in pdates -%}
   {%- assign sorted = pday.items | sort: 'time' | reverse -%}
   {%- for page in sorted -%}
   {%- if page.path contains "home/announcements/" and page.path != "home/announcements/index.md" %}
