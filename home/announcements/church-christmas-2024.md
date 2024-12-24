@@ -6,7 +6,7 @@ title: Christmas at St Mary's Souldern
 # Christmas at St Mary's SOULDERN
 
 
-![poster](carols.jpg)
+![poster](carols2024.jpg)
 
 
 ## CHRISTMAS EVE
