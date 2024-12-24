@@ -12,7 +12,7 @@ title: Christmas at St Mary's Souldern
 ## CHRISTMAS EVE
 
 
-3.30pm CAROLS IN THE CHURCHYARD &
+3.30pm CAROLS IN THE CHURCHYARD 
 
 For everyone especially families & young children
 
