@@ -3,15 +3,19 @@ date: 2025-01-25
 title: New Bridge Key
 ---
 
+
+# Locking Mechanism on Lifting Bridge
+
 ![Bridge](20250125_112451.jpg)
 
-# New Locking Mechanism on Chisnell Lifting Bridge
 
-![locking mechanism](20250125_112708.jpg)
 
 The Canal Authorities have installed a locking mechanism so that now you need
 a key as well as the standard lock key in order to operate the bridge, and the key
 is not removable unless the bridge is lowered.
+
+![locking mechanism](20250125_112708.jpg)
+
 
 Instructions on the use of the key have been attached to the mechanism for some time:
 
