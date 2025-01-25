@@ -143,6 +143,7 @@ https://souldern.org/history/souldern-vision-2016/useful-information
 https://souldern.org/history/transport
 https://souldern.org/history/wordsworth
 https://souldern.org/home/about
+https://souldern.org/home/accessibility-statement
 https://souldern.org/home/announcements/100clubaugustwinners
 https://souldern.org/home/announcements/100clubdecemberwinners
 https://souldern.org/home/announcements/100clubjanuaryandfebuarywinners
@@ -157,6 +158,7 @@ https://souldern.org/home/announcements/20mph/Souldern 20mph Speed Limit - PUBLI
 https://souldern.org/home/announcements/20mph/Souldern 20mph Speed Limit - STATEMENT OF REASONS.pdf
 https://souldern.org/home/announcements/20mph/Souldern Speed Limits - DRAFT ORDER 2024.pdf
 https://souldern.org/home/announcements/20mph-consultation
+https://souldern.org/home/announcements/20mph-decision
 https://souldern.org/home/announcements/A5_Leaflet_Insecurity_Regional_Burglary_Campaign.pdf
 https://souldern.org/home/announcements/ability-bus
 https://souldern.org/home/announcements/annual-parish-meeting-2023
@@ -183,6 +185,7 @@ https://souldern.org/home/announcements/bicester-hospital-vehicle-new
 https://souldern.org/home/announcements/bicester-hospital-vehicle
 https://souldern.org/home/announcements/bicestercommunityhospitalbazaar
 https://souldern.org/home/announcements/biscuits-and-houses
+https://souldern.org/home/announcements/bridge-key/
 https://souldern.org/home/announcements/bringandbuysale10thmarchsouldernvillagedefibrilator
 https://souldern.org/home/announcements/broadbandmeeting
 https://souldern.org/home/announcements/campatnancybowleswood
@@ -221,6 +224,7 @@ https://souldern.org/home/announcements/christmasparty
 https://souldern.org/home/announcements/Christmas_Gifts_for_Burglars.pdf
 https://souldern.org/home/announcements/church-brie-bordeaux
 https://souldern.org/home/announcements/church-christmas-2020
+https://souldern.org/home/announcements/church-christmas-2024
 https://souldern.org/home/announcements/church-garden-party-2024
 https://souldern.org/home/announcements/church-open-day
 https://souldern.org/home/announcements/church-xmas-2018
@@ -281,6 +285,7 @@ https://souldern.org/home/announcements/hillandhighstreetresurfacing
 https://souldern.org/home/announcements/house-search
 https://souldern.org/home/announcements/
 https://souldern.org/home/announcements/itsaknockout
+https://souldern.org/home/announcements/j10-improvements
 https://souldern.org/home/announcements/january-lockdown
 https://souldern.org/home/announcements/jubilee-2022-programme
 https://souldern.org/home/announcements/jubilee-2022
@@ -360,6 +365,7 @@ https://souldern.org/home/announcements/sandy-gray-1924-2020
 https://souldern.org/home/announcements/show-2020
 https://souldern.org/home/announcements/show-2022-2
 https://souldern.org/home/announcements/show-2022
+https://souldern.org/home/announcements/show-2024
 https://souldern.org/home/announcements/show-results-2020
 https://souldern.org/home/announcements/shs-cheese-and-wine-2023
 https://souldern.org/home/announcements/shs-show-2021
@@ -403,6 +409,7 @@ https://souldern.org/home/announcements/spc-2018-2019
 https://souldern.org/home/announcements/spc-accounts-202021
 https://souldern.org/home/announcements/spc-agm-2022
 https://souldern.org/home/announcements/spc-election-2023
+https://souldern.org/home/announcements/spc-meeting-september-2024
 https://souldern.org/home/announcements/spc-meetings2020
 https://souldern.org/home/announcements/spc-nominations-2019
 https://souldern.org/home/announcements/spc-papers-2019-20
@@ -457,7 +464,6 @@ https://souldern.org/home/announcements/wackyracesitinerary23rdjune
 https://souldern.org/home/announcements/wackyraceslaunchevent
 https://souldern.org/home/announcements/wharf-lane-closure
 https://souldern.org/home/announcements/winner
-https://souldern.org/home/announcements/Yin and Yang
 https://souldern.org/home/calendar
 https://souldern.org/home/contact-website
 https://souldern.org/home/defibrillator
@@ -526,6 +532,7 @@ https://souldern.org/horticultural-society/PhotoGallery/2019AnnualShow
 https://souldern.org/horticultural-society/PhotoGallery/2021AnnualShow
 https://souldern.org/horticultural-society/PhotoGallery/2022AnnualShow
 https://souldern.org/horticultural-society/PhotoGallery/2023AnnualShow
+https://souldern.org/horticultural-society/PhotoGallery/2024AnnualShow
 https://souldern.org/horticultural-society/PhotoGallery/AllotmentPictures
 https://souldern.org/horticultural-society/PhotoGallery/
 https://souldern.org/horticultural-society/PhotoGallery/SecretGardenBBQMay2015
@@ -644,7 +651,11 @@ https://souldern.org/parish-council/spc-agenda/2024-05-23 Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-05-23 Annual Meeting Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-05-23 Annual Parish Meeting Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-06-27 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2024-09-26 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2024-10-31 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2024-12-05 Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/
+https://souldern.org/parish-council/spc-documents/expenditure-2023-2024.pdf
 https://souldern.org/parish-council/spc-documents/
 https://souldern.org/parish-council/spc-documents/Notice of Public Rights 2023-2024.pdf
 https://souldern.org/parish-council/spc-documents/ROSPA Report November 2019.pdf
@@ -777,7 +788,10 @@ https://souldern.org/parish-council/spc-minutes/2024-04-25 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-05-23 Annual Meeting minutes DRAFT.pdf
 https://souldern.org/parish-council/spc-minutes/2024-05-23 Annual Parish Meeting minutes DRAFT.pdf
 https://souldern.org/parish-council/spc-minutes/2024-05-23 SPC minutes.pdf
-https://souldern.org/parish-council/spc-minutes/2024-06-27 SPC minutes DRAFT.pdf
+https://souldern.org/parish-council/spc-minutes/2024-06-27 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2024-07-25 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2024-09-26 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2024-10-31 SPC minutes DRAFT.pdf
 https://souldern.org/parish-council/spc-minutes/
 https://souldern.org/parish-council/spc-newsletter/
 https://souldern.org/parish-council/spc-newsletter/NEWSLETTER-2014-12.pdf
