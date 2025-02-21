@@ -7,11 +7,14 @@ title:
 # Cherwell Local Plan Review 2042
 
 
-## Link to Consultaion Page
+## Link to Consultation Page
 
-**[Cherwell LocalPlan Review 2042](https://cherwell.citizenspace.com/planning-policy/cherwell-local-plan-review-2042/)**
+**[Cherwell Local Plan Review 2042](https://cherwell.citizenspace.com/planning-policy/cherwell-local-plan-review-2042/)**
 
-##Overview
+
+----
+
+## Overview
 
 We have prepared a new Local Plan for Cherwell District and would like
 your views before we submit it to the Secretary of State for
