@@ -5,7 +5,7 @@ title: Souldern Events 2025
 
 # Souldern Events 2025
 
-| Souldern Events Calendar 2025 |  |
+| Date |  |
 | :---: | :---: |
 | | **APRIL**   |
 | 7th | Horticultural Society AGM – Village Hall : 7pm |
