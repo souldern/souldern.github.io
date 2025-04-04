@@ -6,7 +6,7 @@ title: Souldern Events 2025
 # Souldern Events 2025
 
 | Date |  |
-| :---: | :---: |
+| :--- | :--- |
 | | **APRIL**   |
 | 7th | Horticultural Society AGM – Village Hall : 7pm |
 | 12th | St Mary's Churchyard Spring Clean with BBQ : 10am – 2pm |
