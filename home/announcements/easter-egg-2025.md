@@ -5,6 +5,14 @@ title: Souldern Village Easter Egg Hunt
 
 ![poster](easter-2025.gif)
 
+![picture](easter-egg-2025-files/WhatsApp Image 2025-04-20 at 13.08.35 (1).jpeg)
+
+![picture](easter-egg-2025-files/WhatsApp Image 2025-04-20 at 13.08.35.jpeg)
+
+![picture](easter-egg-2025-files/WhatsApp Image 2025-04-20 at 13.08.36 (1).jpeg)
+
+![picture](easter-egg-2025-files/WhatsApp Image 2025-04-20 at 13.08.36.jpeg)
+
 
 Souldern Solstice Group proudly present the
 
