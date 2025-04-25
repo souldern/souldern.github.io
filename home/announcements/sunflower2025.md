@@ -21,4 +21,6 @@ Sunflower seeds can be collected from outside the front door at The
 Barn house, on the High Street.
 
 Please help yourself to a packet and
-get involved in the tallest sunflower competition 🌻🌻🌻🌻🥳🥳
+get involved in the tallest sunflower competition
+
+🌻🌻🌻🌻🥳🥳
