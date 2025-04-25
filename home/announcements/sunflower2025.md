@@ -9,7 +9,7 @@ title: Souldern Sunflowers 2025
 
 ![poster](sunflower2025.jpg)
 
-The children in souldern are challenged to grow the tallest sunflower this summer!
+The children in Souldern are challenged to grow the tallest sunflower this summer!
 
 Sunflowers will be measured in August in time for the village show.
 
