@@ -1,9 +1,9 @@
 ---
 date: 2025-05-02
-title: Local Elelection Results 2025
+title: Local Election Results 2025
 ---
 
-# Local Elelection Results 2025
+# Local Election Results 2025
 
 ## Cherwell District Council (Deddington)
 
