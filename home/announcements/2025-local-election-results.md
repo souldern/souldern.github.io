@@ -42,7 +42,7 @@ The number of votes recorded for each candidate at the election is as follows:
 |    Candidate (Surname first) |	Description/Political Party |	Votes | % |	Elected? |
 | -------                      | ----------                         | -----:| ----: | ----- |
 |    Bliss, Aaron James        | Green Party                   |249       | 8.1 |       |	 
-|    **Epps, Gareth Daniel**       | **Liberal Democrats**     | **1050** | 34.1 |**Elected** |	 
+|    **Epps, Gareth Daniel**       | **Liberal Democrats**     | **1050** | **34.1** |**Elected** |	 
 |    Fatemian, Arash 	       | Conservatives 	               | 870      | 28.3 | |
 |    Tohill-Martin, Sian       | Labour Party                  | 273      | 8.9 | |
 |    Yoward, Paul James        | Reform UK                     | 637      | 20.7 | |
