@@ -17,7 +17,7 @@ title: Local Elelection Results 2025
 
 |    Candidate (Surname first) |	Description/Political Party |	Votes |	Elected? |
 | -------                      | ----------                         | -----| ----- |
-|    Bliss,Aaron James         | Green Party                   |  370 | |	 
+|    Bliss, Aaron James         | Green Party                   |  370 | |	 
 |    McLernon, Zoe 	       | Conservatives 	               | 1560 |	**Elected** |
 |    Mylne, Nick 	       | Liberal Democrats 	       |  916 | |	 
 |    Oldfield, Helen Margaret  | Labour Party                  |  478 | |
@@ -35,7 +35,7 @@ _results not yet in_
 
 |    Candidate (Surname first) |	Description/Political Party |	Votes |	Elected? |
 | -------                      | ----------                         | -----| ----- |
-|    Bliss,Aaron James         | Green Party                   |  | |	 
+|    Bliss, Aaron James         | Green Party                   |  | |	 
 |    Epps, Gareth Daniel       | Liberal Democrats 	       |  | |	 
 |    Fatemian, Arash 	       | Conservatives 	               |  | |
 |    Tohill-Martin, Sian       | Labour Party                  |  | |
