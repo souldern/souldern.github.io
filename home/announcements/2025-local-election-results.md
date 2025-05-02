@@ -30,20 +30,28 @@ The number of votes recorded for each candidate at the election is as follows:
 
 7673 
 
-#### Turnout (per cent)
+#### Turnout 
 
-44.34
+44.34%
 
 ## Oxfordshire County Council (Deddington)
 
-_results not yet in_
 
 
-|    Candidate (Surname first) |	Description/Political Party |	Votes |	Elected? |
-| -------                      | ----------                         | -----:| ----- |
-|    Bliss, Aaron James        | Green Party                   |  | |	 
-|    Epps, Gareth Daniel       | Liberal Democrats 	       |  | |	 
-|    Fatemian, Arash 	       | Conservatives 	               |  | |
-|    Tohill-Martin, Sian       | Labour Party                  |  | |
-|    Yoward, Paul James        | Reform UK                     |  | |
 
+|    Candidate (Surname first) |	Description/Political Party |	Votes | % |	Elected? |
+| -------                      | ----------                         | -----:| ----: | ----- |
+|    Bliss, Aaron James        | Green Party                   |249       | 8.1 |       |	 
+|    **Epps, Gareth Daniel**       | **Liberal Democrats**     | **1050** | 34.1 |**Elected** |	 
+|    Fatemian, Arash 	       | Conservatives 	               | 870      | 28.3 | |
+|    Tohill-Martin, Sian       | Labour Party                  | 273      | 8.9 | |
+|    Yoward, Paul James        | Reform UK                     | 637      | 20.7 | |
+
+
+#### Electorate
+
+7765
+
+#### Turnout
+
+39.8%
