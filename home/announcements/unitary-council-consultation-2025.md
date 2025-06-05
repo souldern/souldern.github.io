@@ -2,6 +2,10 @@
 date: 2025-06-05
 title: Local Government Reorganisation
 ---
+Letter to the Parish Council from Cherwell District Council re public consultation on local government re-organisation
+
+---
+
 # Local Government Reorganisation
 
 Dear town and parish council clerks,
@@ -16,7 +20,7 @@ We are inviting people to submit their views on a proposal for two unitary autho
 
 This proposal aims to create strong, financially stable councils that provide high-quality, cost-effective, and locally driven services.
 
-*  ** Oxford and Shires Council* would comprise the existing district areas of Cherwell, Oxford City and West Oxfordshire.
+*  **Oxford and Shires Council** would comprise the existing district areas of Cherwell, Oxford City and West Oxfordshire.
 * **Ridgeway Council** would be made up of the area of West Berkshire Council and the existing district areas of South Oxfordshire and the Vale of White Horse.
 
  
@@ -49,10 +53,9 @@ Gordon.
 
  
 
- 
+----- 
 
-Gordon Stewart
-
+Gordon Stewart  
 Chief Executive  
 Cherwell District Council  
 DD: 01295 221844  
