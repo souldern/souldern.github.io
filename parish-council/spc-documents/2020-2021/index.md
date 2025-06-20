@@ -3,7 +3,7 @@ title: SPC Documents 2020-2021
 layout: default
 ---
 
-[Parish Council](../..) | [SPC Documents](..)
+[Parish Council](../..) > [SPC Documents](..)
 
 -----
 

@@ -3,7 +3,7 @@ title: SPC Documents 2023-2024
 layout: default
 ---
 
-[Parish Council](../..) | [SPC Documents](..)
+[Parish Council](../..) > [SPC Documents](..)
 
 -----
 
