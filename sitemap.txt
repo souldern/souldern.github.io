@@ -1,3 +1,4 @@
+https://souldern.org/abc.pdf
 https://souldern.org/audrey-westbury-hall/
 https://souldern.org/audrey-westbury-hall/next-chapter/FAQ
 https://souldern.org/audrey-westbury-hall/next-chapter/
@@ -153,6 +154,7 @@ https://souldern.org/home/announcements/100cluboctoberwinners
 https://souldern.org/home/announcements/100clubseptemberwinners
 https://souldern.org/home/announcements/2017christmasparty
 https://souldern.org/home/announcements/2020-tier-4
+https://souldern.org/home/announcements/2025-local-election-results
 https://souldern.org/home/announcements/20mph/Souldern 20mph Speed Limit - CONSULTATION PLAN.pdf
 https://souldern.org/home/announcements/20mph/Souldern 20mph Speed Limit - PUBLIC NOTICE.pdf
 https://souldern.org/home/announcements/20mph/Souldern 20mph Speed Limit - STATEMENT OF REASONS.pdf
@@ -163,6 +165,7 @@ https://souldern.org/home/announcements/A5_Leaflet_Insecurity_Regional_Burglary_
 https://souldern.org/home/announcements/ability-bus
 https://souldern.org/home/announcements/annual-parish-meeting-2023
 https://souldern.org/home/announcements/annual-parish-meeting-2024
+https://souldern.org/home/announcements/annual-parish-meeting-2025
 https://souldern.org/home/announcements/annualparishmeeting2017
 https://souldern.org/home/announcements/annualparishmeetingandspcmeeting7pm730pm24thmay
 https://souldern.org/home/announcements/audreywestbury
@@ -208,6 +211,7 @@ https://souldern.org/home/announcements/chapelsundayschoolchristmasservice
 https://souldern.org/home/announcements/cheese-and-wine-2021
 https://souldern.org/home/announcements/cheese-and-wine2-2021
 https://souldern.org/home/announcements/cherwell-cat-protection-feb21
+https://souldern.org/home/announcements/cherwell-local-plan-review-2042
 https://souldern.org/home/announcements/cherwell-planning-consultation-2023
 https://souldern.org/home/announcements/cherwelldistrictcouncilmobilephonesignalsurvey
 https://souldern.org/home/announcements/cherwellvalleybeneficetrailofexhibitions-files/7 BENEFICE TRAIL POSTER SOULDERN.pdf
@@ -252,6 +256,7 @@ https://souldern.org/home/announcements/easter-egg-2019
 https://souldern.org/home/announcements/easter-egg-2022
 https://souldern.org/home/announcements/easter-egg-2023
 https://souldern.org/home/announcements/easter-egg-2024
+https://souldern.org/home/announcements/easter-egg-2025
 https://souldern.org/home/announcements/easter-open-weekend-2024
 https://souldern.org/home/announcements/easterbonnet2020
 https://souldern.org/home/announcements/easteregg2017
@@ -259,6 +264,7 @@ https://souldern.org/home/announcements/easteregghuntphotographs
 https://souldern.org/home/announcements/election-2021
 https://souldern.org/home/announcements/electionresultsdeddingtonward
 https://souldern.org/home/announcements/escapedpheasants
+https://souldern.org/home/announcements/events-2025
 https://souldern.org/home/announcements/festive-windows-2022
 https://souldern.org/home/announcements/FINAL Public Notice September 2023.pdf
 https://souldern.org/home/announcements/flower-bed
@@ -409,6 +415,7 @@ https://souldern.org/home/announcements/spc-2018-2019
 https://souldern.org/home/announcements/spc-accounts-202021
 https://souldern.org/home/announcements/spc-agm-2022
 https://souldern.org/home/announcements/spc-election-2023
+https://souldern.org/home/announcements/spc-meeting-january-2025
 https://souldern.org/home/announcements/spc-meeting-september-2024
 https://souldern.org/home/announcements/spc-meetings2020
 https://souldern.org/home/announcements/spc-nominations-2019
@@ -429,8 +436,10 @@ https://souldern.org/home/announcements/statementfromcllrhugobrownontheoxfordshi
 https://souldern.org/home/announcements/steepleastonchoralsociety
 https://souldern.org/home/announcements/stevenmeadwithbrackleydistrictband22septemberstoweschool
 https://souldern.org/home/announcements/stmarys-christmas-2021
+https://souldern.org/home/announcements/summer-solstice
 https://souldern.org/home/announcements/summerevent2017
 https://souldern.org/home/announcements/sunflower2022
+https://souldern.org/home/announcements/sunflower2025
 https://souldern.org/home/announcements/surveyonanincreaseincounciltax
 https://souldern.org/home/announcements/temporaryclosureoffootpath11
 https://souldern.org/home/announcements/temporaryroadclosuresouldernwharflane-files/Wharf Lane TRAFFIC REGULATION NOTICE.pdf
@@ -448,6 +457,7 @@ https://souldern.org/home/announcements/tvp-lockdown
 https://souldern.org/home/announcements/tvp-trees
 https://souldern.org/home/announcements/tvp-winter2020
 https://souldern.org/home/announcements/twonewsoulderndirectories1924and1939
+https://souldern.org/home/announcements/unitary-council-consultation-2025
 https://souldern.org/home/announcements/updatedfootpathdescriptions
 https://souldern.org/home/announcements/updatedfootpathpages
 https://souldern.org/home/announcements/updatedinformationforsouldernwackyracesevent
@@ -654,40 +664,64 @@ https://souldern.org/parish-council/spc-agenda/2024-06-27 Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-09-26 Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-10-31 Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/2024-12-05 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2025-02-27 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2025-04-24 Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2025-05-20 Annual Meeting Agenda.pdf
+https://souldern.org/parish-council/spc-agenda/2025-05-20 Annual Parish Meeting Agenda.pdf
 https://souldern.org/parish-council/spc-agenda/
-https://souldern.org/parish-council/spc-documents/expenditure-2023-2024.pdf
+https://souldern.org/parish-council/spc-documents/2012-2013/
+https://souldern.org/parish-council/spc-documents/2012-2013/Souldern Parish Council standing orders.pdf
+https://souldern.org/parish-council/spc-documents/2013-2014/
+https://souldern.org/parish-council/spc-documents/2014-2015/
+https://souldern.org/parish-council/spc-documents/2014-2015/SPC 201415 accounting statements .pdf
+https://souldern.org/parish-council/spc-documents/2014-2015/SPC 201415 Annual governance statement.pdf
+https://souldern.org/parish-council/spc-documents/2014-2015/SPC 201415 end of year accounts.pdf
+https://souldern.org/parish-council/spc-documents/2014-2015/SPC 201415 expenditure over £100.pdf
+https://souldern.org/parish-council/spc-documents/2014-2015/SPC 201415 external auditor report.pdf
+https://souldern.org/parish-council/spc-documents/2015-2016/
+https://souldern.org/parish-council/spc-documents/2015-2016/SPC 201516 accounting statements.pdf
+https://souldern.org/parish-council/spc-documents/2015-2016/SPC 201516 Annual governance statement.pdf
+https://souldern.org/parish-council/spc-documents/2015-2016/SPC 201516 external auditor certificate.pdf
+https://souldern.org/parish-council/spc-documents/2015-2016/SPC 201516 notice of conclusion of audit.pdf
+https://souldern.org/parish-council/spc-documents/2015-2016/SPC 201516 TRANSACTIONS OVER £100.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/
+https://souldern.org/parish-council/spc-documents/2016-2017/Souldern Parish Council - Employers Liability Certificate 2017.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 account with budget.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 accounting statements.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 annual governance statement.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 Annual Return.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 Bank reconciliation.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 internal audit.pdf
+https://souldern.org/parish-council/spc-documents/2016-2017/SPC 201617 TRANSACTIONS OVER £100.pdf
+https://souldern.org/parish-council/spc-documents/2017-2018/
+https://souldern.org/parish-council/spc-documents/2017-2018/Souldern PC Governance Statement 2018.pdf
+https://souldern.org/parish-council/spc-documents/2017-2018/SPC EXPENDITURE OVER £100 2017-18.pdf
+https://souldern.org/parish-council/spc-documents/2018-2019/
+https://souldern.org/parish-council/spc-documents/2018-2019/SPC 201819 Accounting Statement.pdf
+https://souldern.org/parish-council/spc-documents/2018-2019/SPC 201819 Audit Report.pdf
+https://souldern.org/parish-council/spc-documents/2018-2019/SPC 201819 Expenditure.pdf
+https://souldern.org/parish-council/spc-documents/2018-2019/SPC 201819 Governance Statement.pdf
+https://souldern.org/parish-council/spc-documents/2019-2020/
+https://souldern.org/parish-council/spc-documents/2019-2020/ROSPA Report November 2019.pdf
+https://souldern.org/parish-council/spc-documents/2020-2021/
+https://souldern.org/parish-council/spc-documents/2021-2022/
+https://souldern.org/parish-council/spc-documents/2021-2022/Souldern Parish Council Accounts 2021_31Mar22_FINAL.pdf
+https://souldern.org/parish-council/spc-documents/2022-2023/
+https://souldern.org/parish-council/spc-documents/2023-2024/expenditure-2023-2024.pdf
+https://souldern.org/parish-council/spc-documents/2023-2024/
+https://souldern.org/parish-council/spc-documents/2023-2024/Notice of Public Rights 2023-2024.pdf
+https://souldern.org/parish-council/spc-documents/2023-2024/Section 1 and 2 23-24.pdf
+https://souldern.org/parish-council/spc-documents/2023-2024/spc-risk-2023.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/
+https://souldern.org/parish-council/spc-documents/2024-2025/Kate Green RoI March 2025.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/Notice of Public Rights 2024-25.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/Rob Large RoI March 2025.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/Souldern Parish Council Financial Regulations adopted June 2024.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/SPC Accounting Statements 2024-25.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/SPC Annual Governance Statement 2024-25.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/SPC Annual Internal Audit Report 2024-25.pdf
+https://souldern.org/parish-council/spc-documents/2024-2025/SPC Certificate of Exemption 2024-25.pdf
 https://souldern.org/parish-council/spc-documents/
-https://souldern.org/parish-council/spc-documents/Notice of Public Rights 2023-2024.pdf
-https://souldern.org/parish-council/spc-documents/ROSPA Report November 2019.pdf
-https://souldern.org/parish-council/spc-documents/Section 1 and 2 23-24.pdf
-https://souldern.org/parish-council/spc-documents/Souldern Parish Council - Employers Liability Certificate 2017.pdf
-https://souldern.org/parish-council/spc-documents/Souldern Parish Council Accounts 2021_31Mar22_FINAL.pdf
-https://souldern.org/parish-council/spc-documents/Souldern Parish Council Financial Regulations adopted June 2024.pdf
-https://souldern.org/parish-council/spc-documents/Souldern Parish Council standing orders.pdf
-https://souldern.org/parish-council/spc-documents/Souldern PC Governance Statement 2018.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201415 accounting statements .pdf
-https://souldern.org/parish-council/spc-documents/SPC 201415 Annual governance statement.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201415 end of year accounts.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201415 expenditure over £100.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201415 external auditor report.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201516 accounting statements.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201516 Annual governance statement.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201516 external auditor certificate.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201516 notice of conclusion of audit.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201516 TRANSACTIONS OVER £100.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 account with budget.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 accounting statements.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 annual governance statement.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 Annual Return.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 Bank reconciliation.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 internal audit.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201617 TRANSACTIONS OVER £100.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201819 Accounting Statement.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201819 Audit Report.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201819 Expenditure.pdf
-https://souldern.org/parish-council/spc-documents/SPC 201819 Governance Statement.pdf
-https://souldern.org/parish-council/spc-documents/SPC EXPENDITURE OVER £100 2017-18.pdf
-https://souldern.org/parish-council/spc-documents/spc-risk-2023.pdf
 https://souldern.org/parish-council/spc-members
 https://souldern.org/parish-council/spc-minutes/2012-05-09 Annual Parish Meeting minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2012-06-28 SPC minutes.pdf
@@ -786,12 +820,18 @@ https://souldern.org/parish-council/spc-minutes/2024-02-29 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-04-10 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-04-25 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-05-23 Annual Meeting minutes DRAFT.pdf
-https://souldern.org/parish-council/spc-minutes/2024-05-23 Annual Parish Meeting minutes DRAFT.pdf
+https://souldern.org/parish-council/spc-minutes/2024-05-23 Annual Parish Meeting minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-05-23 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-06-27 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-07-25 SPC minutes.pdf
 https://souldern.org/parish-council/spc-minutes/2024-09-26 SPC minutes.pdf
-https://souldern.org/parish-council/spc-minutes/2024-10-31 SPC minutes DRAFT.pdf
+https://souldern.org/parish-council/spc-minutes/2024-10-31 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2024-12-05 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2025-02-27 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2025-03-27 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2025-04-24 SPC minutes.pdf
+https://souldern.org/parish-council/spc-minutes/2025-05-20 Annual Meeting minutes DRAFT.pdf
+https://souldern.org/parish-council/spc-minutes/2025-05-20 Annual Parish Meeting minutes DRAFT.pdf
 https://souldern.org/parish-council/spc-minutes/
 https://souldern.org/parish-council/spc-newsletter/
 https://souldern.org/parish-council/spc-newsletter/NEWSLETTER-2014-12.pdf
@@ -811,16 +851,6 @@ https://souldern.org/parish-council/spc-newsletter/NEWSLETTER-2018-07.pdf
 https://souldern.org/parish-council/spc-newsletter/Souldern Shout Out Apr20.pdf
 https://souldern.org/parish-council/spc-newsletter/Souldern Shout Out Jan21.pdf
 https://souldern.org/parish-council/spc-newsletter/Souldern Shout Out May20.pdf
-https://souldern.org/parish-council/transparency-2014-15
-https://souldern.org/parish-council/transparency-2015-16
-https://souldern.org/parish-council/transparency-2016-17
-https://souldern.org/parish-council/transparency-2017-18
-https://souldern.org/parish-council/transparency-2018-19
-https://souldern.org/parish-council/transparency-2019-20
-https://souldern.org/parish-council/transparency-2020-21
-https://souldern.org/parish-council/transparency-2021-22
-https://souldern.org/parish-council/transparency-2022-23
-https://souldern.org/parish-council/transparency-2023-24
 https://souldern.org/parish-council/transparency
 https://souldern.org/parish-council/vision-for-souldern/
 https://souldern.org/parish-council/vision-for-souldern/Souldern Vison & Conservation Event.pdf
@@ -828,6 +858,7 @@ https://souldern.org/parish-council/welcome-packs
 https://souldern.org/recreational-areas/footpaths/219-2
 https://souldern.org/recreational-areas/footpaths/219-3
 https://souldern.org/recreational-areas/footpaths/219-4
+https://souldern.org/recreational-areas/footpaths/349-15
 https://souldern.org/recreational-areas/footpaths/351-1
 https://souldern.org/recreational-areas/footpaths/351-10
 https://souldern.org/recreational-areas/footpaths/351-11
@@ -850,10 +881,14 @@ https://souldern.org/recreational-areas/footpaths/351-5
 https://souldern.org/recreational-areas/footpaths/351-6
 https://souldern.org/recreational-areas/footpaths/351-7
 https://souldern.org/recreational-areas/footpaths/351-8
+https://souldern.org/recreational-areas/footpaths/367-23
+https://souldern.org/recreational-areas/footpaths/ab12
 https://souldern.org/recreational-areas/footpaths/ab9
-https://souldern.org/recreational-areas/footpaths/abx
+https://souldern.org/recreational-areas/footpaths/fr-1
 https://souldern.org/recreational-areas/footpaths/
 https://souldern.org/recreational-areas/footpaths/nbw-1
+https://souldern.org/recreational-areas/footpaths/sm-1
+https://souldern.org/recreational-areas/footpaths/ts-1
 https://souldern.org/recreational-areas/footpaths/whl-1
 https://souldern.org/recreational-areas/
 https://souldern.org/recreational-areas/nancy-bowles-wood
