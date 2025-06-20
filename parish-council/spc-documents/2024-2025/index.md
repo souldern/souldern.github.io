@@ -1,9 +1,14 @@
 ---
-title: SPC Documents
+title: SPC Documents 2024-2025
 layout: default
 ---
 
-# SPC Documents
+[Parish Council](../..) | [SPC Documents](..)
+
+-----
+
+
+# SPC Documents 2024-2025
 
 <ul class="flist">
 {% for  sf in site.static_files |reverse %}
