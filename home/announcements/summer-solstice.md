@@ -17,4 +17,6 @@ title: "Summer Solstice 2025"
 **Live Music at the Fox** From 8pm
 
 
+<script src="/home/gallery/sssummer.js"></script>
+<script src="/home/gallery/galleries.js"></script>
 

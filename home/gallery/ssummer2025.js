@@ -1,0 +1,23 @@
+var galleries = galleries || {};
+
+galleries.ssummer2025 = {
+    title: "Summer Solstice 2025",
+    url: "https://photos.app.goo.gl/knxQBsRzuTUDKvoeA",
+    album: [
+
+"https://lh3.googleusercontent.com/pw/AP1GczN_9zUDyIeGtApgEV5bs7fXl9kqzTMkuDSgqoIBGisEYPwi3g1PV3QPvItv22_G73Xx51U71wn7UkkZrV4IrwEfBdLeAA7lQHIoMGPJLxd6ci07F5o",
+"https://lh3.googleusercontent.com/pw/AP1GczMKwcctfkAd5GFZLZfGeecbjH44Uc3z18100Gjs56mM-kHlnejPvRivt9OsS1pbJJ8-iKXKxsIQzsyWhKP2c_BhGZtjwikHwgTkt86CbbjvTBau0xA",
+"https://lh3.googleusercontent.com/pw/AP1GczNaQz2SJ2Rw_Pd8PHRYMy0p6SKqapQteWgWgBuXjSMC4jv4ZXMlQpYUnWWltTkpPQLj3leYUdxGl_c2ODObEbFSpWfGO5Kxnul3UZDW60jVEZZttac",
+"https://lh3.googleusercontent.com/pw/AP1GczMOBbzAKA69YWcqz6mzHGnlPxeKTXmciu0d9oE7Fs6TBc2Z6PE4CAe3V5Kb4ELXdPr4CaQswwyXVntdwmbeKARm2r1rRNb76gZGHqYdARP4yj_zwlA",
+"https://lh3.googleusercontent.com/pw/AP1GczPDl2NQg-MXNqhic577aIc0QVWt4WtFZypEoUR_bhTfmSTb5v2FOzqkLmC_khO9t1txqaMPdqnrVMIVTeV9gc6BAYYmt4E7L8NHMHFNlUfzXBvahEU",
+"https://lh3.googleusercontent.com/pw/AP1GczORS6jsF3TC8SNLQzhMsWawtKXGVzDOqNPxinRGxgCxfS2ek477xVXERXQ-LKMIXF1DU5rpOBRf-K7h6KgXyPPtkh_75KG4fyyl3EzKZxkkOMqt5qE",
+"https://lh3.googleusercontent.com/pw/AP1GczPa9wZNOujexyft7tTLPnic5llflomVZkrvqnqb6ysshaNk8uoI4Rz6aZkn4E_EdVyjR7suyRayEkxHsefcpiYf_DZpEIgI5H0zi9Km89QSQvyRNq8",
+"https://lh3.googleusercontent.com/pw/AP1GczME27gN3f0Ehu42YK31sTpHFEYljce6SPuTPbUIHTEZqk5ru8CZAMgMJU6N0iwBM7jnQf33URry5_86pL_0iPxqhqDTkBl5NC5N3LdqTseVaQXBf2A",
+"https://lh3.googleusercontent.com/pw/AP1GczNXnS4qTKsq6x1-_bM8YgzDhR6bQs5HhBweyygYYCO-WO-z78_rA11CeDew0SE5FrPqIyEX80ryQkzEIgzfYNdF2EXiRmQFXEaNyBbpAGr-8uD9D7s",
+"https://lh3.googleusercontent.com/pw/AP1GczNdHnFd4QMI30PqdGa4enVvKEklKuG0nHtqU8Z7_kz-aTG_Itophhq_sWV2RGAtMVBdDm-42bTruixTjFzfdZ2ZXgSfEUsfvbRlk1YHOGHab8mZ3KM",
+"https://lh3.googleusercontent.com/pw/AP1GczOvaDq6EngMAfB35rKqidp1lpHs5qf_2xuxh1VPlUmDiJhhjFTJrwMrJ9QgT98JbU_GDwpIeI9_MgN7QiTem68uEF6yvmfpX-cTt8qVjZi7rWtfKcI",
+"https://lh3.googleusercontent.com/pw/AP1GczORSGEEyNW2kh9NtBjUMbZ_mM7mj0Kq_NXZy8JfvOYrDF9pOPN8CKz7Nj0jwTIpUfUJomyp2AbqwLwKQUd6BWPI1BwQbTfJ6-Bx7S9iRK6ThMSNuGg",
+"https://lh3.googleusercontent.com/pw/AP1GczPgZWiDsCR8G0hVQ0F1m_Rz_vnWY8oVYEp3-YO1uN_8fvsvCei9db6iWlUvfd7gRT8x7heuoBXbrW3iyBzkpTjwE-KzRBJAu9TnsSKv2ADqBQ5kLfk",
+
+]
+};
