@@ -20,6 +20,6 @@ title: "Summer Solstice 2025"
 
 <div id="ssummer2025"></div>
 
-<script src="/home/gallery/sssummer.js"></script>
+<script src="/home/gallery/ssummer2025.js"></script>
 <script src="/home/gallery/galleries.js"></script>
 
