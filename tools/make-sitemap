@@ -1,3 +1,3 @@
 
-find .  -name \*.pdf -o -name \*.md -o -name \*.html  | grep -v '^[.]/tools' | grep -v '^[.]/404' | grep -v '^[.]/README' | grep -v '^./_' | sed -e 's/[.]md$//' -e 's/[.]html$//' -e 's/\/index$/\//' -e  's/^[.]/https:\/\/souldern.org/' > sitemap.txt
+find .  -name \*.pdf -o -name \*.md -o -name \*.html  | grep -v '^[.]/tools' | grep -v '^[.]/404' | grep -v '^[.]/README' | grep -v '^./_' | sed -e 's/[.]md$//' -e 's/[.]html$//' -e 's/\/index$/\//' -e  's/^[.]/https:\/\/www.souldern.org/' > sitemap.txt
 
