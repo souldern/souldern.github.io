@@ -1,6 +1,7 @@
 ---
 date: 2025-07-25
 title: July Parish Council Meeting Cancelled
+---
 
 # July Parish Council Meeting Cancelled
 
