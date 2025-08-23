@@ -5,8 +5,8 @@ galleries.shsshow2025 = {
     url: "https://photos.app.goo.gl/GfxUYVF5JNFoKtMSA",
     album: [
 
-"https://lh3.googleusercontent.com/pw/AP1GczNbNel57zhdtntWnv6LQC-wKblq-SM7dzFvi1dgd74YdbaUmRtal444TdfhE661ARvHn3pWKdTQXLU80WKLxeJx4Py45DIJL_ZTUcaYT_oLTxVSsgg",
 "https://lh3.googleusercontent.com/pw/AP1GczODYPfU0BJAFuy3GRjD1pJy4iKAYq0lh2EGnks0E4_ZeWnjbs6Tfbl98y6qhNP9Qc-8dMXBxnraKSQj7VlUdQ-D5AmaacF8GIFRvsht6Ak36rMIN4Q",
+"https://lh3.googleusercontent.com/pw/AP1GczNbNel57zhdtntWnv6LQC-wKblq-SM7dzFvi1dgd74YdbaUmRtal444TdfhE661ARvHn3pWKdTQXLU80WKLxeJx4Py45DIJL_ZTUcaYT_oLTxVSsgg",
 "https://lh3.googleusercontent.com/pw/AP1GczN2gA2jjC_QW7xDxrmf96JSrTvJeENT6mOdbxwqWZHEWLPseaI15a3up2dQ2FLaC6ZwdgRlZ-8YGR_6Pk4jz8gDfOZYTZ3VZEC1ru_LzX_NGy-pWrA",
 "https://lh3.googleusercontent.com/pw/AP1GczN6bWPzP-zxzfINiZf_0NZqAUQkf14-62gvN6FpQKU4qtgBvEKh-NDT0pGrYMM5VfxB2rNSr0Glibo0Rsr-JW8T6kxdod_l-x4nEjepFqF_XVCGBrU",
 "https://lh3.googleusercontent.com/pw/AP1GczPVwTSIgo0fIbONI1WVqc7qyofwE0xuuaTnzxx0tpiEfX7GT42Y4dzj4AEnHfmFZwqiipCyGm4QXzg3F6vBQZHagFp_4tD7ClmZhs0-tUfeEk5ojZE",
@@ -22,6 +22,10 @@ galleries.shsshow2025 = {
 "https://lh3.googleusercontent.com/pw/AP1GczOUSDpwX9AeWMIyjGZqanYPCvd7yEJZ_xS6OkBEun9aOZeN8ijqMyBqoqfS8nvVno5lBWsSXxmITr2pWlCz9HBG6Sg3gp-EpjH_tdEzIZMjp_0YGl8",
 "https://lh3.googleusercontent.com/pw/AP1GczMJZTCwcdfCrN76JG3vA3h7xqP5SYrwm3OnZPERRJl03vaJ80NNjsZQjtIWEDnTwueTgMQT2zf7qR1IXB3K6120MMczNdpZ7hUq-Ntbwjn1I_8pTVw",
 "https://lh3.googleusercontent.com/pw/AP1GczP40acLa8xl9ToMHNLwWB-9m0lR0aWfYIfnVjkkT4zhP8lhI-56NhIti6LK0unJoq-fCjYB6i6vf0GwqJoMGXneP_uvChND5ZiIKRrQtKPcGZN1luE",
+"https://lh3.googleusercontent.com/pw/AP1GczN_OC3F0gw1wnCjJkwtaT2AO4QSe71izQBwOers0nc2LcpO7oQgLW6JLu8x7qtRRe8mt6kRgBk5C4e7RnrvPUgOV03xQkYF7gd5H5adTbCpSevC6Gs",
+"https://lh3.googleusercontent.com/pw/AP1GczMW7uFv2WYeQdUhNp_ywd5C0d4dBtDoULfyg3OIjQ5LWhXOtw6DVdIpICO63nl9b0KAGUjBW-aI0-YcAuism-PX8FloZkejOTNjPDd0FIJOsOv2p1s",
+"https://lh3.googleusercontent.com/pw/AP1GczNdSrUw5zV89ZVAOep9rjg663yj5W-l4YdptyBJJHB4RH3DWch5zqGDP-wyw60i7iGkRYIQqTyv-cvK9515evoP7BhSSHTQVTkrc1ILLej7JKjDGGA",
+"https://lh3.googleusercontent.com/pw/AP1GczMdH5v3TaSyRkC3Veqxx5M3zc33uoPR9NI_ZXKpqte7vBJy-ZVH7MvCsiLv4fDeGN9N6XASXHeXdSczMy7Pa11n9gx5nVkx1XzquuGcXOdLOmH6NLk",
 
 ]
 };
