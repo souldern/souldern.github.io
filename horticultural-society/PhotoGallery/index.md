@@ -12,6 +12,7 @@ title: SHS Photo Gallery
 
 Linked to this page are photographs of past events of the society. 
 
+* [2025 Annual Show](2025AnnualShow)
 * [2024 Annual Show](2024AnnualShow)
 * [2023 Annual Show](2023AnnualShow)
 * [2022 Annual Show](2022AnnualShow)

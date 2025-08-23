@@ -1,0 +1,27 @@
+var galleries = galleries || {};
+
+galleries.shsshow2025 = {
+    title: "SHS Show 2025",
+    url: "https://photos.app.goo.gl/GfxUYVF5JNFoKtMSA",
+    album: [
+
+"https://lh3.googleusercontent.com/pw/AP1GczNbNel57zhdtntWnv6LQC-wKblq-SM7dzFvi1dgd74YdbaUmRtal444TdfhE661ARvHn3pWKdTQXLU80WKLxeJx4Py45DIJL_ZTUcaYT_oLTxVSsgg",
+"https://lh3.googleusercontent.com/pw/AP1GczODYPfU0BJAFuy3GRjD1pJy4iKAYq0lh2EGnks0E4_ZeWnjbs6Tfbl98y6qhNP9Qc-8dMXBxnraKSQj7VlUdQ-D5AmaacF8GIFRvsht6Ak36rMIN4Q",
+"https://lh3.googleusercontent.com/pw/AP1GczN2gA2jjC_QW7xDxrmf96JSrTvJeENT6mOdbxwqWZHEWLPseaI15a3up2dQ2FLaC6ZwdgRlZ-8YGR_6Pk4jz8gDfOZYTZ3VZEC1ru_LzX_NGy-pWrA",
+"https://lh3.googleusercontent.com/pw/AP1GczN6bWPzP-zxzfINiZf_0NZqAUQkf14-62gvN6FpQKU4qtgBvEKh-NDT0pGrYMM5VfxB2rNSr0Glibo0Rsr-JW8T6kxdod_l-x4nEjepFqF_XVCGBrU",
+"https://lh3.googleusercontent.com/pw/AP1GczPVwTSIgo0fIbONI1WVqc7qyofwE0xuuaTnzxx0tpiEfX7GT42Y4dzj4AEnHfmFZwqiipCyGm4QXzg3F6vBQZHagFp_4tD7ClmZhs0-tUfeEk5ojZE",
+"https://lh3.googleusercontent.com/pw/AP1GczPQ8N8T5RoBV2X4buPP9bGS_jJrWQRQAEhfFTOxLEbnTx3nB35JDyvz3byQq8uqu0p1S_JM741ftFoJUI-fsZyVuega3dSe8oA0nXLdxsWIYz6Kt6c",
+"https://lh3.googleusercontent.com/pw/AP1GczNErfLSciARCh34F4QcmWbJ-oK3u2HFeO2uDTcfyjFE5Ug6HiZ086J0Cxn2qeJ_Fik9_hRzv3VkpwSrWfUGMSKSiqQtxj4CbfPEzj20bDQzmGekrn0",
+"https://lh3.googleusercontent.com/pw/AP1GczNuQ1TNcZhPuUAJjvQ8CXVPOVTDm_vKwSZxHuxU_kPK26aJMQUGI-qgZEFHCqgcC0zTRfc3QQzYJj02QSs6BQlCL9-1GxJfbjQYvm-aWhpD5CQPGPM",
+"https://lh3.googleusercontent.com/pw/AP1GczOR9zj_IZ2g-DcwZdBWDe8OFFPaac9dyEonslWMSwkPgxVZ-r_AheM1hI0OQ5jJsz8QjTzNk5vIs_ccujI9eXT755T8Kqzp64Bu4iKD7E_G5OHE6fY",
+"https://lh3.googleusercontent.com/pw/AP1GczPHuthlGsE3CraQrcaxq7bk2f1AK8cueAj01GC_gtc4WxdngxxMXPL6_uHGdeWsHbHhGTzD4ajEpLx7IriXpTKFokMeVNtwYzMjDAZ1N36nE681Uvo",
+"https://lh3.googleusercontent.com/pw/AP1GczNNkRv5VZOuCQziiKLXGDCdCu32YJ8JPFF4bx61-_DLqO_aR_G_Wprj0cCyV9Ld6OXxkK-GKQeWbnxm-5McFIsR3mCtM4ye3gLBHdGZSp8s3AKbLBI",
+"https://lh3.googleusercontent.com/pw/AP1GczMjqa9T9_kOqF-6T788sR5XiZBweMWBIYO0FaLIQASZhXgA7tsHfrati7GjRkiVBnq2B49GJiB9evIyAmoTu6XMI8yF3BOE3b_hWLy6Lf4PD6O5gPA",
+"https://lh3.googleusercontent.com/pw/AP1GczPiobA4v4C8F2EppVPg7r8SDpqH8Uw_QchDiQ0_7e87P5chVPTlR8yEiuiP4xTr75nQz2u8cMy5K3h0SYY99eoYRpNuqFJHV9M5gHq_vq2_laMEang",
+"https://lh3.googleusercontent.com/pw/AP1GczOhyos-MgonW4lHIG8nNOlDGXAkRBvBz-H2HOMmINtXN08bD2SCQ7AbeCmasqLwY9Dz_1qrwqTLJ9mZsxfC25mnc1jEUE1sbIl2FloOvo8_nZIVcQ4",
+"https://lh3.googleusercontent.com/pw/AP1GczOUSDpwX9AeWMIyjGZqanYPCvd7yEJZ_xS6OkBEun9aOZeN8ijqMyBqoqfS8nvVno5lBWsSXxmITr2pWlCz9HBG6Sg3gp-EpjH_tdEzIZMjp_0YGl8",
+"https://lh3.googleusercontent.com/pw/AP1GczMJZTCwcdfCrN76JG3vA3h7xqP5SYrwm3OnZPERRJl03vaJ80NNjsZQjtIWEDnTwueTgMQT2zf7qR1IXB3K6120MMczNdpZ7hUq-Ntbwjn1I_8pTVw",
+"https://lh3.googleusercontent.com/pw/AP1GczP40acLa8xl9ToMHNLwWB-9m0lR0aWfYIfnVjkkT4zhP8lhI-56NhIti6LK0unJoq-fCjYB6i6vf0GwqJoMGXneP_uvChND5ZiIKRrQtKPcGZN1luE",
+
+]
+};

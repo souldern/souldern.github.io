@@ -1,5 +1,9 @@
 #!/bin/bash
 
+./photojs shsshow2025 "SHS Show 2025" https://photos.app.goo.gl/GfxUYVF5JNFoKtMSA
+mv shsshow2025.js ../home/gallery
+
+exit
 
 ./photojs ssummer2025 "Summer Solstice 2025" https://photos.app.goo.gl/knxQBsRzuTUDKvoeA
 mv ssummer2025.js ../home/gallery
