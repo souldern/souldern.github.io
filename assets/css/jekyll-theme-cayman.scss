@@ -3,6 +3,9 @@
 @import "variables";
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+$body-text-color: #444444
+
+		      
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
     @content;
