@@ -1651,7 +1651,7 @@ kw: ['7jz', 'daleview', 'foxhill', 'lane', 'ox27'],
 nm: 'Daleview',
 pc: 'OX27 7JZ',
 rd: 'Foxhill Lane',
-sv: 'https://goo.gl/maps/pHApH5XGN162',
+sv: 'https://maps.app.goo.gl/EWg9h749QmNJjzTx5',
 }
 ,
  "dovetail": {
