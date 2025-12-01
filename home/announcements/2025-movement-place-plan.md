@@ -1,13 +1,13 @@
 ---
 date: 2025-12-01
-title: Movement and Place Plan: Bicester and Mid Cherwell
+title: "Movement and Place Plan: Bicester and Mid Cherwell"
 ---
 
 # CONSULTATION – Movement and Place Plan: Bicester and Mid Cherwell
 
 ## Full Details and link to Survey
 
-https://letstalk.oxfordshire.gov.uk/bicester-and-mid-cherwell-map
+[https://letstalk.oxfordshire.gov.uk/bicester-and-mid-cherwell-map](https://letstalk.oxfordshire.gov.uk/45469/widgets/137139/documents/94539)
 
 -----
 
