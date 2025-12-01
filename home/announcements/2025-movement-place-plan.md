@@ -9,6 +9,8 @@ title: "Movement and Place Plan: Bicester and Mid Cherwell"
 
 [https://letstalk.oxfordshire.gov.uk/bicester-and-mid-cherwell-map](https://letstalk.oxfordshire.gov.uk/bicester-and-mid-cherwell-map)
 
+**Note:* The survey officially closes on the 1st December, but the County Council has indicated that responses will be accepted for a few days beyond this.
+
 -----
 
 ## Summary
