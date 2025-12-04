@@ -14,4 +14,4 @@ The summary text:
 > the proposals being put forward by Puy du Fou to build a visitor
 > attraction in Bucknel
 
-[Puy du Fou – Coalition of Local Parish Councils – Objection](Puy du Fou – Coalition of Local Parish Councils – Objection.pdf)
+[Puy du Fou – Coalition of Local Parish Councils – Objection](Coaltion of Parishes - PdF Objection.pdf)
