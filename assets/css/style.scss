@@ -26,6 +26,8 @@ header.page-header {
     display: table;
 }
 
+.main-content blockquote {color: #777;}
+
 html {background-color:#F7FFF0; overflow-y:scroll;}
 
 body {max-width:95em;margin-left:auto;margin-right:auto;background-color:white;min-height:100vh;color:#444444;}
@@ -107,4 +109,4 @@ h1.project-name a:hover { text-decoration:none;}
 
 }
 
-blockquote {color: #777;}
+
