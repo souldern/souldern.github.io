@@ -22,6 +22,7 @@ galleries.souldern2026 = {
 "https://lh3.googleusercontent.com/pw/AP1GczPygsHX-8yedFlWseutPSoObq3e2Ld-vmqyvg_fvkwqv-MG9EDAE1GZCy5XEpXGJ6zneHI0p_3Qfq_qsQK1W6L4xWnrO14hj4_hL_vVEmPDjnGxSrw",
 "https://lh3.googleusercontent.com/pw/AP1GczPDVYg_fW8lNhkD227Dx0mKvwu2kHBKhH0doyqDefEz9fPyrD8FCGcpFaVO6v_9jqG60jDcCTQQBcywHqtK4gKHmSBEvcNrSdfKYr-pNeuSjNpJiEw",
 "https://lh3.googleusercontent.com/pw/AP1GczNCES3TEovExa8C4NcP6C6cxzODxptlyP2JBG2ZlTJ3uLew2WGf4owOZe3UYRyC__oBYPDyK4klYCkyP258ndCfeeygC3hxB9NPlBkVWtjpdaHnYKE",
+"https://lh3.googleusercontent.com/pw/AP1GczPsozTpz-SsjDL5cY_c1KXWd5gF04Mp_H5ULZMij7L4oeI651glf-neffR0PdaQonj6n0GRL7_m_9M7Y6lZjQxthTOiXT-shx48SRdw5OZWdd2omEk",
 
 ]
 };
