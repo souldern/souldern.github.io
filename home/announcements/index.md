@@ -21,7 +21,9 @@ layout: default
       {{ page.content | markdownify| strip_html | truncatewords: 40 }}
       {% else %}
 {% if page.content contains '<!--excerpt.start-->' and page.content contains '<!--excerpt.end-->' %}
-	{{ ((page.content | split:'<!--excerpt.start-->' | last) | split: '<!--excerpt.end-->' | first) | strip_html | truncatewords: 40 }}
+     {%- assign pc = page.content | split:'<!--excerpt.start-->' | last -%}
+     {%- assign pcc = pc| split:'<!--excerpt.end-->' | first -%}
+	{{ pcc | strip_html | truncatewords: 40 }}
 {% else %}
 	{{ page.content | strip_html | truncatewords: 40 }}
 {% endif %}
