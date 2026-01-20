@@ -7,7 +7,8 @@ layout: default
 # SPC Newsletter
 
 <ul class="flist">
-{% for  sf in site.static_files |reverse %}
+{%- assign sfr = site.static_files | reverse -%}
+{% for  sf in sfr %}
  {% if sf.path contains "/spc-newsletter/" %}
   <li>
    <a href="{{sf.path}}">{{ sf.basename }}</a>
