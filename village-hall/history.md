@@ -23,4 +23,5 @@ solar panels for heating and provision of disabled amenities.  One
 boundary of the recreation field was enhanced by beech trees being
 planted by all Souldern children for the Silver Jubilee.
 
-Refurbished in 2011, and more recently in 2015, the Village hall provides a warm, clean, light and versatile venue for a range of community events.
+Refurbished in 2011, and 2015 and more recently in [2024](/home/gallery/vh24.md),
+the Village hall provides a warm, clean, light and versatile venue for a range of community events.
