@@ -31,7 +31,8 @@ Beginning Sunday 24th April 2016<br />
 
 {% if page.content contains '<img ' and page.content contains '/>' %}
 <div style="float: left; padding: .5em;">
-  <img {{ ((page.content | split:'<img ' | last) | split: '/>' | first) }} style="height: 5em;width: auto;"/>
+       {%- assign ima = page.content | split:'<img ' | last -%}
+  <img {{ ima | split: '/>' | first }} style="height: 5em;width: auto;"/>
   </div>
 {% endif %}
 
