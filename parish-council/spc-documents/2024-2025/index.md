@@ -11,7 +11,8 @@ layout: default
 # SPC Documents 2024-2025
 
 <ul class="flist">
-{% for  sf in site.static_files | reverse %}
+{%- assign sfr = site.static_files | reverse -%}
+{% for  sf in sfr %}
  {% if sf.path contains "/spc-documents/2024-2025/" %}
   <li>
    <a href="{{sf.path}}">{{ sf.basename }}</a>
