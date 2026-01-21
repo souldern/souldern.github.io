@@ -46,6 +46,4 @@ Charlotte
 
 ![Charlotte Ball](cb.png)
 
-![shop1](Village shop with bow window.png)
 
-![shop2](House that was village shop.png)
