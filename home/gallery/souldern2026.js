@@ -23,6 +23,12 @@ galleries.souldern2026 = {
 "https://lh3.googleusercontent.com/pw/AP1GczPDVYg_fW8lNhkD227Dx0mKvwu2kHBKhH0doyqDefEz9fPyrD8FCGcpFaVO6v_9jqG60jDcCTQQBcywHqtK4gKHmSBEvcNrSdfKYr-pNeuSjNpJiEw",
 "https://lh3.googleusercontent.com/pw/AP1GczNCES3TEovExa8C4NcP6C6cxzODxptlyP2JBG2ZlTJ3uLew2WGf4owOZe3UYRyC__oBYPDyK4klYCkyP258ndCfeeygC3hxB9NPlBkVWtjpdaHnYKE",
 "https://lh3.googleusercontent.com/pw/AP1GczPsozTpz-SsjDL5cY_c1KXWd5gF04Mp_H5ULZMij7L4oeI651glf-neffR0PdaQonj6n0GRL7_m_9M7Y6lZjQxthTOiXT-shx48SRdw5OZWdd2omEk",
+"https://lh3.googleusercontent.com/pw/AP1GczMVVeM41bZX3QZV5NDg-nWoTsewx5IPLSnC0e3glgmiB-KwOfnhSMJO_4jjm4QDZeJn5xm6-Uys9MhKB0cpha7RT-eVwzHU4OCMTslLfQmsYBEcJs0",
+"https://lh3.googleusercontent.com/pw/AP1GczOdiAqVHVkFbdlDujcuKEJG1KIChvqiFFycKQxmX8MsJ0_oa9drpJZkeMhSQoqmbb7pUyZGl_WjOv8bsP5Ppw-sLS-UjhKW2msGFrTUKpAwQtl1pY8",
+"https://lh3.googleusercontent.com/pw/AP1GczMzyZfBGo8dFsOvHlKF7AVBjnVbYQk9ukITfGJpXw9BcG40nfTCWSW_S3u2kc5qBXGqhowg7OSZmN7EqL7SqgSej6InnlktzQtZafDmIPczJmo5nZU",
+"https://lh3.googleusercontent.com/pw/AP1GczNBPagfIZhbT0ptMNjLZc8jc90nVKxj6y6XMboxpTS_XtAzCmnurLMFxBwR5-oVEQgF8F53NU9TfMpDL06HhAxrYDwE4vBOCLMvtmnwaUjzQ6czp44",
+"https://lh3.googleusercontent.com/pw/AP1GczOnr9DL5F1qiK-dy-p3Z9dOA2CxOh6AiVIo4gV5KywSGAlpOmzD3Ay2cFj1m5A4sapOT1s91dfbLpBHYi0SFmn3VN96YadHrHZ5MCL05Oi7dE8_SEA",
+"https://lh3.googleusercontent.com/pw/AP1GczMMOodeh_Ve3pFNtyUBj5RdICvZxFnl3-RA8nz5DFULjQXA1Si1r7yI4yZNhbawnO_rDl3-7qP9thz-Yben6FVrEpAKfvGp35-1nLkZouDlzM4KjhM",
 
 ]
 };
