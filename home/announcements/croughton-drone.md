@@ -3,7 +3,8 @@ date: 2026-02-04
 title: "Drone Use - RAF Croughton"
 ---
 
-# Drone Use - RAF Croughton"
+# Drone Use — RAF Croughton"
+
 
 ![drone map](croughton-drone-1.png)
 
