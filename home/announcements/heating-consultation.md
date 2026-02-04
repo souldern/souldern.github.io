@@ -1,5 +1,5 @@
 ---
-date: 2025-02-04
+date: 2026-02-04
 title: "Exploring the role of alternative clean heating solutions"
 ---
 
