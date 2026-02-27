@@ -29,9 +29,11 @@ https://www.souldern.org/home/site-notes/file-upload
 https://www.souldern.org/home/site-notes/
 https://www.souldern.org/home/site-notes/simple-posting
 https://www.souldern.org/home/about
+https://www.souldern.org/home/gallery/vh2024
 https://www.souldern.org/home/gallery/souldern2020
 https://www.souldern.org/home/gallery/
 https://www.souldern.org/home/gallery/queen-s-90th-birthday
+https://www.souldern.org/home/gallery/souldern2026
 https://www.souldern.org/home/map
 https://www.souldern.org/home/playground2020/
 https://www.souldern.org/home/
@@ -194,9 +196,11 @@ https://www.souldern.org/home/announcements/20mph-consultation
 https://www.souldern.org/home/announcements/annual-parish-meeting-2024
 https://www.souldern.org/home/announcements/souldern-advent-2020
 https://www.souldern.org/home/announcements/bcereview
+https://www.souldern.org/home/announcements/RAF Croughton Drone Operation form ver 2.4.pdf
 https://www.souldern.org/home/announcements/church-garden-party-2024
 https://www.souldern.org/home/announcements/spruce-up-2024
 https://www.souldern.org/home/announcements/village-hall-committee
+https://www.souldern.org/home/announcements/heating-consultation
 https://www.souldern.org/home/announcements/audreywestbury
 https://www.souldern.org/home/announcements/easter-egg-2025
 https://www.souldern.org/home/announcements/chapel-closure-warning.pdf
@@ -329,6 +333,7 @@ https://www.souldern.org/home/announcements/gigaclearfibrebroadbandbuildstarted
 https://www.souldern.org/home/announcements/spc-meetings2020
 https://www.souldern.org/home/announcements/playground-launch
 https://www.souldern.org/home/announcements/footpathstofritwell
+https://www.souldern.org/home/announcements/croughton-drone
 https://www.souldern.org/home/announcements/shs-show-2021
 https://www.souldern.org/home/announcements/bicester-hospital-vehicle
 https://www.souldern.org/home/announcements/easter-open-weekend-2024
@@ -647,6 +652,7 @@ https://www.souldern.org/parish-council/spc-agenda/2020-09-24 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2018-05-24 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2018-10-09 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2025-06-26 Agenda.pdf
+https://www.souldern.org/parish-council/spc-agenda/2026-01-29 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2018-11-22 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2018-04-19 Agenda.pdf
 https://www.souldern.org/parish-council/spc-agenda/2021-05-27 Annual Meeting Agenda.pdf
@@ -735,6 +741,7 @@ https://www.souldern.org/parish-council/spc-minutes/2024-12-05 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2018-03-22 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2022-12-29 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2020-07-30 SPC minutes.pdf
+https://www.souldern.org/parish-council/spc-minutes/2025-11-27 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2020-01-30 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2024-06-27 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2024-10-31 SPC minutes.pdf
@@ -759,7 +766,6 @@ https://www.souldern.org/parish-council/spc-minutes/2023-08-31 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2025-06-26 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2015-05-14 Annual Parish Meeting minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2020-03-02 SPC minutes.pdf
-https://www.souldern.org/parish-council/spc-minutes/2025-11-27 SPC DRAFT minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2021-03-25 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2019-11-28 SPC minutes.pdf
 https://www.souldern.org/parish-council/spc-minutes/2022-07-28 SPC minutes.pdf
