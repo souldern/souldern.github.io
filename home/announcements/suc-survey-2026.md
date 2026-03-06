@@ -15,8 +15,8 @@ We will call round to collect any completed questionnaires over the
 next 1–2 weeks or you can return to Alan Smith at Westend
 House.
 
-Please could all questionnaires be completed by March 9th. 
+Please could all questionnaires be completed by **March 9th**. 
 
-A Copy of the questionnaire is available to download from this site:
+A copy of the questionnaire is available to download from this site:
 
 [SUC Quesionnaire (PDF)](/united-charity/SUC Questionnaire Nov25.pdf)
