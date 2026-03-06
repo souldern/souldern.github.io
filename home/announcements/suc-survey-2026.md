@@ -3,7 +3,8 @@ date: 2026-03-06
 title: "Souldern United Charity Village Consultation, 2026"
 ---
 
-# Souldern United Charity Village Consultation, 2026
+# Souldern United Charity
+## Village Consultation, 2026
 
 
 Residents should have recently received a SUC newsletter explaining
