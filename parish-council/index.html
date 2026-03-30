@@ -47,7 +47,7 @@ following meeting.</p>
 <h2 id="TOC-Recent-Minutes">Recent Minutes</h2>
 	  <p>
 	    {% assign thesefiles = site.static_files | where_exp:"item","item.path contains '/spc-minutes/'" | reverse %}
-  {% for  sf in  thesefiles  limit: 2%}
+  {% for  sf in  thesefiles  limit: 6%}
    <a href="{{sf.path}}">{{ sf.basename }}</a><br>
 {% endfor %}
 	  </p>
