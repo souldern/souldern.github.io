@@ -13,6 +13,6 @@ title: Local Elections 2026
 | Eddie Fraser Reeves | Conservative and Unionist Party  |
 
 
-## Poling Station
+## Polling Station
 
 Souldern Village Hall, 7am – 10pm
