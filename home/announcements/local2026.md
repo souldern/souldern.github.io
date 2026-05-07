@@ -4,7 +4,7 @@ title: Local Elections 2026
 
 # Local Elections 2026
 
-## Cherwell District Council, Deddingtoon Ward Candidates
+## Cherwell District Council, Deddington Ward Candidates
 
 | Aaron Bliss | Green Party |
 | Gail Ann Collingwood-Turner | Reform UK |
@@ -12,3 +12,7 @@ title: Local Elections 2026
 | Annette Murphy | Labour Party |
 | Eddie Fraser Reeves | Conservative and Unionist Party  |
 
+
+## Poling Station
+
+Souldern Village Hall, 7am – 10pm
