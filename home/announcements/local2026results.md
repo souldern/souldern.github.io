@@ -9,9 +9,10 @@ title: Local Election Results 2026
 
 | Aaron Bliss | Green Party | 333 |
 | Gail Ann Collingwood-Turner | Reform UK | 885 |
-| James Henry Dean Hartley | Liberal Democrats | 1294 | **Elected**
-| Annette Murphy | Labour Party | 1173 |
-| Eddie Fraser Reeves | Conservative and Unionist Party  | 300 |
+| James Henry Dean Hartley | Liberal Democrats | 1173 |
+| Annette Murphy | Labour Party | 300 |
+| Eddie Fraser Reeves | Conservative and Unionist Party  | 1294 | **Elected**
+
 
 
 ##  Cherwell Total
