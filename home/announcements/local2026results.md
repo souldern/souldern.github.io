@@ -24,6 +24,6 @@ Labour   | 1 | 8 |
 Reform UK | 6 | 6 |
 Green | 1 | 4 |
 Independents and others | 0 | 1
-| | 48 
+| | | 48 
 
 
