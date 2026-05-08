@@ -1,5 +1,5 @@
 ---
-date: 2026-05-07
+date: 2026-05-08
 title: Local Election Results 2026
 ---
 
