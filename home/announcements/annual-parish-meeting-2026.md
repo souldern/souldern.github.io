@@ -7,7 +7,7 @@ title: "Parish Council Meetings on the 1st June"
 # Annual Parish Meeting
 
 Reminder of the Annual Parish Meeting (followed by the Annual Meeting of the Parish Council)  
-on the **20th May** at **8pm** in the **Village Hall**
+on the **1st June** at **8pm** in the **Village Hall**
 
 **Note:** These meetings were rescheduled from May.
 
