@@ -9,6 +9,6 @@ title: "Parish Council Meetings on the 1st June"
 Reminder of the Annual Parish Meeting (followed by the Annual Meeting of the Parish Council)  
 on the **20th May** at **8pm** in the **Village Hall**
 
-**Note:** These meetings were rescheduled from may.
+**Note:** These meetings were rescheduled from May.
 
 Agenda have been posted and are linked from the [SPC page on this site](/parish-council/#TOC-Meeting-Agenda) 
