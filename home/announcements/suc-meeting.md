@@ -6,7 +6,7 @@ title: SUC Public Meeting
 
 # Souldern United Charity Public Meeting
 
-**7pm Wednesday 3rd June** at the ****Village Hall
+**7pm Wednesday 3rd June** at the **Village Hall**
 
 Find out about the recent SUC Village Consultation at a
 meeting to feedback the results and encourage an open discussion on
