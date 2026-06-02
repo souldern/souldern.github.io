@@ -7,4 +7,4 @@ title: Souldern Parish Council Accounts 2025-26
 
 The accounts have been published at
 
-https://www.souldern.org/parish-council/spc-documents/2025-2026/
+[/parish-council/spc-documents/2025-2026/](/parish-council/spc-documents/2025-2026/)
