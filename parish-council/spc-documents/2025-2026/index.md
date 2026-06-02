@@ -16,7 +16,7 @@ layout: default
  {% if sf.path contains "/spc-documents/2025-2026/" %}
   <li>
    <a href="{{sf.path}}">{{ sf.basename }}</a>
-   {% if sf.extname == "xlsx" %} (Download Excel spreadsheet) {% end if %}
+   {% if sf.extname == "xlsx" %} (Download Excel spreadsheet) {% endif %}
   </li>
   {% endif %}
 {% endfor %}
