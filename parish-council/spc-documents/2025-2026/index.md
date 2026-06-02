@@ -8,7 +8,7 @@ layout: default
 -----
 
 
-# SPC Documents 2024-2025
+# SPC Documents 2025-2026
 
 <ul class="flist">
 {%- assign sfr = site.static_files | reverse -%}
