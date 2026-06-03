@@ -10,21 +10,21 @@ title: Using souldern.org emails
 
 ## Receiving Email
 
-To receive emails as someone@souldern.org the account needs to be
+To receive emails as **someone@souldern.org** the account needs to be
 listed (By Nick Oakhill) at godaddy (that manages the souldern.org
 domain) we have 100 free adddresses that can be used.
 
 This account does not store any mail it is simply a forwarding address
 to a "real" email account. Either your normal email or a custom
 account set up just for the purpose such as
-**someone@souldernpc@gmail.com**
+**someone.souldernpc@gmail.com**
 
 
 If you just set up the email at godaddy there is nothing more that
 needs to be done: email arrives to the associated email in the normal
-way the "from" field lets you know the original person addressed it to
+way: The "From" field lets you know the original person addressed it to
 souldern.org, but you reply from your normal email program using your
-normal email address (eg **someone@souldernpc@gmail.com**)
+normal email address (eg **someone.souldernpc@gmail.com**)
 
 ## Sending Email
 
@@ -41,8 +41,8 @@ up (although it is easy to use once setup).
 
 ### Advantages
 
-The advantage of sending as souldern.org is that it keeps things more pbviously related to
-the Souldern Domain.
+The advantage of sending as **souldern.org* is that it keeps things
+more obviously related to the Souldern Domain.
 
 ### Disadvantages
 
@@ -52,7 +52,7 @@ souldern.org. This is recorded in the email headers so the email
 system of the person receiving the email "knows" this.
 
 As the forwarding site is gmail and it only does this when explicitly
-authorised this is classed as relatively safe but some more paranoid
+authorised, this is classed as relatively safe but some more paranoid
 email systems may flag this as a potential "spoof" email or even
 potentially ban it or mark it as spam. However there are many reasons
 for emails being marked as spam, this forwarding mechansim may make it
@@ -62,10 +62,11 @@ to buisnesses than home email systems.
 ## Setup Steps
 
 * 2FA
+
   If you want to try this then you must have two-factor authentication
-  set up on your google account (this means that if you log in to google
+  set up on your google account. This means that if you log in to google
   on a new device it will require more than just password, typically
-  finger print or a text messag eto your phone, or whatever you set
+  finger print or a text message to your phone, or whatever you set
   up.
 
   You can check this at
@@ -85,21 +86,21 @@ to buisnesses than home email systems.
   Log on to
   [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
 
-  and generate a new password, you can give any name for the app
-  I used "mailtest"
+  and generate a new password. You can give any name for the app,
+  I used "mailtest".
 
   ![app password](apppwd.png)
 
   This will generate a password of four groups of 4 letters separated
   by spaces. Save this as you will need it in the next step, but then
-  it should be deleted you will not need it again, these passwords are
+  it should be deleted you will not need it again. These passwords are
   intended for one-off use, but they give access to your google
   account so should not be written down or left in unsafe places.
 
 * Adding New Email to your Gmail accounts
 
   Now go to the cog menu in gmail and select **Settings** then
-  **Accounts andImports**
+  **Accounts and Imports**
 
   ![sendas](sendas.png)
 
@@ -114,6 +115,8 @@ to buisnesses than home email systems.
 
 * Adding a new email server.
 
+  Use the **Add another email address** link at the end of the list.
+
   Initially you are taken to a form where you should fill in the
   desired email address **someone@souldern.org** leave the **Treat as
   an Alias** option checked.
@@ -121,7 +124,7 @@ to buisnesses than home email systems.
   ![email1](email1.png)
 
   You will then be taken to a second form to fill in the details of
-  the mail server tou use. It guesses one based on the souldern.org
+  the mail server to use. It guesses one based on the souldern.org
   domain but as we have not paid for mail services this will not work
   and instead you need to configure it to use gmail's own server.
 
@@ -131,14 +134,14 @@ to buisnesses than home email systems.
   
   SMTP Server **smtp.gmail.com**  
   Port  **587**  
-  User Name **someonesouldernpc@gmail.org** (the real gmail account to
+  User Name **someone.souldernpc@gmail.org** (The real gmail account to
   use)  
   Password **AAAA BBBB CCCC DDDD** (The App password saved earlier for this account)
 
 # Sending Emails
 
   Google will send one test email to which you must click on a link to
-  verify the email then you can use the new address to send emails.
+  verify the email, then you can use the new address to send emails.
 
   ![sendemail](sendemail.png)
 
