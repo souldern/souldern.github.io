@@ -3,7 +3,7 @@ layout: default
 title: Using souldern.org emails
 ---
 
-<style>img {border: solid thin black; border-radius:.5em<.style>
+<style>img {border: solid thin black; border-radius:.5em;}</style>
 
 
 # Using souldern.org emails
