@@ -70,11 +70,11 @@ to buisnesses than home email systems.
 
   You can check this at
   
-   https://myaccount.google.com/security
+  [https://myaccount.google.com/security](https://myaccount.google.com/security)
 
   It should show
 
-    ![2fa status]{2fa.png)
+    ![2fa status](2fa.png)
 
 * Password
 
@@ -83,7 +83,6 @@ to buisnesses than home email systems.
   account.
 
   Log on to
-
   [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
 
   and generate a new password, you can give any name for the app
