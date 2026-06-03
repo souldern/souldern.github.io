@@ -84,7 +84,7 @@ to buisnesses than home email systems.
   and generate a new password, you can give any name for the app
   I used "mailtest"
 
-  ![app password]{apppwd.png)
+  ![app password](apppwd.png)
 
   This will generate a password of four groups of 4 letters separated
   by spaces. Save this as you will need it in the next step, but then
@@ -108,13 +108,13 @@ to buisnesses than home email systems.
 
 * Adding a new email account
 
-  ![email1][email1.png)
+  ![email1](email1.png)
 
-  ![email2][email2.png)
+  ![email2](email2.png)
 
 # sending emails 
 
-  ![sendemail][sendemail.png)
+  ![sendemail](sendemail.png)
 
 
 
