@@ -3,6 +3,9 @@ layout: default
 title: Using souldern.org emails
 ---
 
+<style>img {border: solid thin black; border-radius:.5em<.style>
+
+
 # Using souldern.org emails
 
 ## Receiving Email
@@ -114,7 +117,7 @@ to buisnesses than home email systems.
 
   Initially you are taken to a form where you should fill in the
   desired email address **someone@souldern.org** leave the **Treat as
-  Alias* option checked.
+  an Alias** option checked.
 
   ![email1](email1.png)
 
@@ -127,11 +130,11 @@ to buisnesses than home email systems.
 
   Use:
   
-  SMTP Server **smtp.gmail.com**
-  Port  **587**
-  User Name **someonesouldernpc@gmail.org"" (the real gmail account to use)
-  Password **AAAA BBBB CCCC DDDD** The App password saved earlier for
-  this account.
+  SMTP Server **smtp.gmail.com**  
+  Port  **587**  
+  User Name **someonesouldernpc@gmail.org** (the real gmail account to
+  use)  
+  Password **AAAA BBBB CCCC DDDD** (The App password saved earlier for this account)
 
 # Sending Emails
 
