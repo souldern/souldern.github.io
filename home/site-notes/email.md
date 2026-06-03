@@ -143,7 +143,7 @@ to buisnesses than home email systems.
 
   ![sendemail](sendemail.png)
 
-  Whenever sending email there is a dropdown box next to your **From*
+  Whenever sending email there is a dropdown box next to your **From**
   address that lets you choose the address to use in the **From** field.
 
 
