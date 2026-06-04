@@ -12,9 +12,9 @@ title: Using souldern.org emails
 
 To receive emails as **someone@souldern.org** the account needs to be
 listed (By Nick Oakhill) at godaddy (that manages the souldern.org
-domain) we have 100 free adddresses that can be used.
+domain) we have 100 free addresses that can be used.
 
-This account does not store any mail it is simply a forwarding address
+This account does not store any mail, it is simply a forwarding address
 to a "real" email account. Either your normal email or a custom
 account set up just for the purpose such as
 **someone.souldernpc@gmail.com**
@@ -55,9 +55,9 @@ As the forwarding site is gmail and it only does this when explicitly
 authorised, this is classed as relatively safe but some more paranoid
 email systems may flag this as a potential "spoof" email or even
 potentially ban it or mark it as spam. However there are many reasons
-for emails being marked as spam, this forwarding mechansim may make it
+for emails being marked as spam, this forwarding mechanism may make it
 slightly more likely but this is more likely to affect sending emails
-to buisnesses than home email systems.
+to businesses than home email systems.
 
 ## Setup Steps
 
@@ -65,8 +65,8 @@ to buisnesses than home email systems.
 
   If you want to try this then you must have two-factor authentication
   set up on your google account. This means that if you log in to google
-  on a new device it will require more than just password, typically
-  finger print or a text message to your phone, or whatever you set
+  on a new device it will require more than just a password, typically
+  fingerprint or a text message to your phone, or whatever you set
   up.
 
   You can check this at
@@ -79,7 +79,7 @@ to buisnesses than home email systems.
 
 * Password
 
-  You will then need a so called "App Password" that lets specific
+  You will then need a so-called "App Password" that lets specific
   programs (in this case gmail's own server) access based on your
   account.
 
@@ -93,9 +93,9 @@ to buisnesses than home email systems.
 
   This will generate a password of four groups of 4 letters separated
   by spaces. Save this as you will need it in the next step, but then
-  it should be deleted you will not need it again. These passwords are
+  it should be deleted. You will not need it again. These passwords are
   intended for one-off use, but they give access to your google
-  account so should not be written down or left in unsafe places.
+  account, so should not be written down or left in unsafe places.
 
 * Adding New Email to your Gmail accounts
 
@@ -145,7 +145,7 @@ to buisnesses than home email systems.
 
   ![sendemail](sendemail.png)
 
-  Whenever sending email there is a dropdown box next to your **From**
+  Whenever sending email, there is a dropdown box next to your **From**
   address that lets you choose the address to use in the **From** field.
 
 
