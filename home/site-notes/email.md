@@ -6,7 +6,7 @@ title: Using souldern.org emails
 <style>img {border: solid thin black; border-radius:.5em;}</style>
 
 
-[Home](/home)/[site-notes)(/home/site-notes)
+[Home](/home)/[site-notes](/home/site-notes)
 
 ----
 
