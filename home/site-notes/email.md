@@ -6,6 +6,11 @@ title: Using souldern.org emails
 <style>img {border: solid thin black; border-radius:.5em;}</style>
 
 
+[Home](/home)/[site-notes)(/home/site-notes)
+
+----
+
+
 # Using souldern.org emails
 
 ## Receiving Email
@@ -35,13 +40,13 @@ address)
 
 This mechanism is still supported by google/gmail although they don't
 particularly recommend it, and don't make it particularly easy to set
-up (although it is easy to use once setup).
+up (although it is easy to use once it is set up).
 
 [Google help page](https://support.google.com/mail/answer/185833?hl=en-GB)
 
 ### Advantages
 
-The advantage of sending as **souldern.org* is that it keeps things
+The advantage of sending as **souldern.org** is that it keeps things
 more obviously related to the Souldern Domain.
 
 ### Disadvantages
