@@ -69,14 +69,14 @@ relief when in need from this local charity through contacting the
 trustees. The current trustees and their contact details are:
 
 
-| Name         | Phone        | Role |
-| ----         | ----         | ---- |
-| Katy Draper  | 07753 376163 | Chair & Allotments |
-| Susan Jones  | 07802 668434 | &nbsp; |
-| Sue Medhurst | 07979 435961 | &nbsp; | 
-| Norma Jones  | 07858 367616 | &nbsp; |
-| John Hoodless | 07785 391591 | &nbsp; | 	 
+| Name            | Phone        | Role |
+| ----            | ----         | ---- |
+| Katy Draper     | 07753 376163 | Chair & Allotments |
+| Susan Jones     | 07802 668434 | &nbsp; |
+| James Maw       | &nbsp;       | &nbsp; |
+| John Hoodless   | 07785 391591 | &nbsp; | 	 
 | Richard Sharman | 07710 700843 | Treasurer |
+| Revd Dr Robert Gilpert (ex officio) | &nbsp;       | &nbsp; |
 | Alan Smith (non-Trustee) | 07400 464401 | Secretary|
 
 
