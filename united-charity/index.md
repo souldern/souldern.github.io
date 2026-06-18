@@ -61,7 +61,7 @@ assessment of need, but in broad terms, the charity provides:
 ## Trustees
 
 SUC is run by seven trustees from Souldern, including three appointed
-by the Parish Council and the Benefice Team Recto. The trustees meet most months to agree on matters
+by the Parish Council and the Benefice Team Rector. The trustees meet most months to agree on matters
 relating to the charity’s houses and allotments, and to approve
 grants. Souldern residents should request financial help, support and
 relief when in need from this local charity through contacting the
