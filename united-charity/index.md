@@ -61,22 +61,21 @@ assessment of need, but in broad terms, the charity provides:
 ## Trustees
 
 SUC is run by seven trustees from Souldern, including three appointed
-by the Parish Council and the village’s vicar (currently pending
-appointment). The trustees meet most months to agree on matters
+by the Parish Council and the Benefice Team Recto. The trustees meet most months to agree on matters
 relating to the charity’s houses and allotments, and to approve
 grants. Souldern residents should request financial help, support and
 relief when in need from this local charity through contacting the
 trustees. The current trustees and their contact details are:
 
 
-| Name            | Phone        | Role |
-| ----            | ----         | ---- |
-| Katy Draper     | 07753 376163 | Chair & Allotments |
-| Susan Jones     | 07802 668434 | &nbsp; |
-| James Maw       | &nbsp;       | &nbsp; |
-| John Hoodless   | 07785 391591 | &nbsp; | 	 
-| Richard Sharman | 07710 700843 | Treasurer |
-| Revd Dr Robert Gilpert (ex officio) | &nbsp;       | &nbsp; |
-| Alan Smith (non-Trustee) | 07400 464401 | Secretary|
+| Name            | Phone        | Email | Role |
+| ----            | ----         | ---- | ---- |
+| Katy Draper     | 07753 376163 |  |Chair & Allotments |
+| Susan Jones     | 07802 668434 |&nbsp; | &nbsp; |
+| James Maw       | &nbsp;       | &nbsp;| &nbsp; |
+| John Hoodless   | 07785 391591 | &nbsp;| &nbsp; | 	 
+| Richard Sharman | 07710 700843 | &nbsp; | Treasurer |
+| Revd Dr Robert Gilpert (ex officio) | &nbsp; | [rob.gilbert@cherwellvalleychurch.org.uk](mailto: rob.gilbert@cherwellvalleychurch.org.uk)| &nbsp;       | &nbsp; |
+| Alan Smith | 07400 464401 | [SUC@Souldern.org](mailto:SUC@Souldern.org )| Secretary|
 
 
