@@ -1,5 +1,11 @@
 #!/bin/bash
 
+./photojs shsshow2026 "SHS Show 2026" https://photos.app.goo.gl/tmxJo6tJMpthgaWBA
+mv shsshow2026.js ../home/gallery
+
+
+exit
+
 ./photojs souldern2026 "Souldern 2026" https://photos.app.goo.gl/f1UMoR72T3JRjJU39
 mv souldern2026.js ../home/gallery
 
