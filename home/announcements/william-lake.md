@@ -1,11 +1,11 @@
 ---
 date: 2026-09-25
 layout: default
-title: "William LAKE 'Bill"
+title: "William LAKE 'Bill'"
 ---
 # William LAKE 'Bill' of Souldern.
 
-![[poster]william-lake.jpg)
+![poster](william-lake.jpg)
 
 Bill passed away unexpectedly on 12th September 2026, aged 81 years.
 
@@ -13,7 +13,7 @@ He was the loving husband of the late Di, and Dad to Paul, Adam, Lea, Lucy and T
 
 A much loved grandad to all of his grandchildren and great grandchildren and will be sadly missed by his family and friends.
 
-Bill’s funeral service has been arranged to take place at North Oxford Crematorium, (Tackley) on Friday 9th October at 3.00pm.
+Bill’s funeral service has been arranged to take place at North Oxford Crematorium, (Tackley) on **Friday 9th October at 3.00pm**.
 
 Dress code, as you would feel comfortable.
 
