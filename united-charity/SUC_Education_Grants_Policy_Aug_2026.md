@@ -9,7 +9,7 @@ title: Souldern United Charity Education Grants Policy
 
 ---
 
-A [PDF version of this policy is also available](SUC_Education_Grants_Policy_Aug_2026.pdf).
+[**A PDF version of this policy is also available**](SUC_Education_Grants_Policy_Aug_2026.pdf).
 
 ---
 
