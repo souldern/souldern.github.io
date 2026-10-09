@@ -82,7 +82,7 @@ are not otherwise covered by these arrangements.
 Applicants should provide sufficient information to enable the Board of Trustees to understand the proposed
 course or training and the purpose of the grant. It would be helpful if applications include:
 
- 1. **Course or training details**
+1. **Course or training details**
 
   - Name and description of the course, training scheme or skills development programme.
   - Duration of the course or training.
@@ -90,7 +90,7 @@ course or training and the purpose of the grant. It would be helpful if applicat
   - Name of the educational or training provider, where applicable.
 
 
- 2. **Reason for undertaking the course or training**
+2. **Reason for undertaking the course or training**
   - An outline of the applicant’s reasons for undertaking the course or training.
 
 
