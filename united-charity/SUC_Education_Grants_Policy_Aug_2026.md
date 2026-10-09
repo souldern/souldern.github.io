@@ -84,10 +84,10 @@ course or training and the purpose of the grant. It would be helpful if applicat
 
 1. **Course or training details**
 
-  - Name and description of the course, training scheme or skills development programme.
-  - Duration of the course or training.
-  - Whether it is full-time or part-time.
-  - Name of the educational or training provider, where applicable.
+    - Name and description of the course, training scheme or skills development programme.
+    - Duration of the course or training.
+    - Whether it is full-time or part-time.
+    - Name of the educational or training provider, where applicable.
 
 
 2. **Reason for undertaking the course or training**
