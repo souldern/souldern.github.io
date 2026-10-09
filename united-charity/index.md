@@ -37,9 +37,9 @@ SUC has three main activities:
   
   One action that was identified during the Village Consultation
   process was to have clearer criteria and guidelines for people
-  applying for grants. We are pleased to issue <a href="SUC_Education_Grants_Policy_Aug_2026">the policy for
-  Educational grants</a> hopefully making the process clearer and the
-  criteria more transparent.
+  applying for grants. We are pleased to issue
+  [**The Policy for Educational Grants**](SUC_Education_Grants_Policy_Aug_2026)
+  hopefully making the process clearer and the criteria more transparent.
 
 ## Charitable donations
 
