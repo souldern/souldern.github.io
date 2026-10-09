@@ -34,6 +34,12 @@ SUC has three main activities:
    village recreation.
 * Grants – SUC makes various charitable donations to qualifying
   individuals and causes in Souldern.
+  
+  One action that was identified during the Village Consultation
+  process was to have clearer criteria and guidelines for people
+  applying for grants. We are pleased to issue <a href="SUC_Education_Grants_Policy_Aug_2026">the policy for
+  Educational grants</a> hopefully making the process clearer and the
+  criteria more transparent.
 
 ## Charitable donations
 
