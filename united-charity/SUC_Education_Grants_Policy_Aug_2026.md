@@ -83,7 +83,6 @@ Applicants should provide sufficient information to enable the Board of Trustees
 course or training and the purpose of the grant. It would be helpful if applications include:
 
 1. **Course or training details**
-
     - Name and description of the course, training scheme or skills development programme.
     - Duration of the course or training.
     - Whether it is full-time or part-time.
