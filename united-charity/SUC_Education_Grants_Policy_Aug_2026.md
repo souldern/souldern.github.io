@@ -124,12 +124,12 @@ The Trustees may request further information or evidence before making a decisio
 
 ## 7. Level of Grant
 
-The maximum grant available under either category is £250.
+The maximum grant available under either category is **£250**.
 
 The Trustees may award an amount below the maximum depending on the circumstances of the application,
 the costs involved and the funds available.
 
-Applying for a grant does not guarantee that a grant will be awarded, or that the full amount requested will be
+Applying for a grant does **not guarantee that a grant will be awarded**, or that the full amount requested will be
 approved.
 
 ## 8. Availability of Funds
