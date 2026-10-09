@@ -78,7 +78,7 @@ are not otherwise covered by these arrangements.
 Applicants should provide sufficient information to enable the Board of Trustees to understand the proposed
 course or training and the purpose of the grant. It would be helpful if applications include:
 
-## 1. Course or training details
+ 1. **Course or training details**
 
   - Name and description of the course, training scheme or skills development programme.
   - Duration of the course or training.
@@ -86,25 +86,26 @@ course or training and the purpose of the grant. It would be helpful if applicat
   - Name of the educational or training provider, where applicable.
 
 
-## 2. Reason for undertaking the course or training
+ 2. **Reason for undertaking the course or training**
   - An outline of the applicant’s reasons for undertaking the course or training.
 
 
-## 3. Intended outcome
+3. **Intended outcome**
   - A description of what the applicant hopes to achieve through completing the course or training,
 such as gaining qualifications, developing skills, improving employment prospects or pursuing
 a particular career or activity.
 
 
-## 4. Connection to Souldern
+4. **Connection to Souldern**
   - An explanation of the applicant’s link to Souldern and confirmation that they are a Souldern
 resident.
 
 
-## 5. Details of the costs
+5. **Details of the costs**
   - The amount requested.
   - A description of what the grant will be used for.
   - For specialist equipment, details of the equipment required and its cost.
+
 Where possible, applicants should provide supporting information such as course documentation, quotations
 or details of the equipment required.
 
