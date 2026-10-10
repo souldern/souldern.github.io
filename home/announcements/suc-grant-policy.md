@@ -1,6 +1,6 @@
 ---
 date: 2026-10-09
-title: SUC) Education Grants Policy
+title: SUC Education Grants Policy
 ---
 
 # Souldern United Charity (SUC) Education Grants Policy
