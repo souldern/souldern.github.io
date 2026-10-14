@@ -1,6 +1,6 @@
 ---
 date: 2026-10-14
-title: SUC Vacancy
+title: Souldern Parish Council Vacancy
 ---
 # Souldern Parish Council
 
@@ -10,7 +10,7 @@ title: SUC Vacancy
 
 ----
 
-# Notice of Vacancy in Office of Parish Councillor
+# Notice of Vacancy<br> in Office of Parish Councillor
 
 ## Parish of Souldern
 
@@ -34,7 +34,7 @@ vacancy will be filled by co-option.
 
 **Dated: 14 October 2026**
 
-<p style="font-size:75%">
+<p style="font-size:75%" markdown=1>
 
 **Note:** In computing the fourteen days Saturdays, Sundays, day of Christmas break, of the Easter break or of a bank holiday or day appointed for public thanksgiving or mourning are disregarded.
 
