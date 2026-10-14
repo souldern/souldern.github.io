@@ -22,7 +22,7 @@ knitted poppies, wrist bands which come in the form of attractive
 ribbons and ones that snap open to form a useful ruler, pens, wooden
 crosses and of course the traditional paper poppies.  Cash is cool but
 donations can also be made by scanning the QR code on the collecting
-tin with your smartphone, or on this page.
+tin, or on this page, with your smartphone.
 
 There's something for all the family and the funds raised go to the
 Royal British Legion which does such great work supporting men and
