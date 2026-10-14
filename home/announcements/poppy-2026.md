@@ -5,7 +5,7 @@ title: Poppy Appeal 2026
 
 # Poppy Appeal 2026
 
-<div stle="margin-left:2em;margin-right:2em" markdown=1>
+<div style="margin-left:5em;margin-right:5em" markdown=1>
 
 ![poster](poppy2026.jpg)
 
