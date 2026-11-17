@@ -10,13 +10,15 @@ title: "Temporary Road Closure January 2027"
 
 ![map](road-closure-jan-2027.png)
 
+
+
+----
+
 Notice is hereby given that Oxfordshire County Council, in exercise of
 its powers under Section 14(1) of the Road Traffic Regulation Act
-1984, intends to make a Temporary Traffic Regulation Order as detailed
+1984, intends to make a Temporary Traffic Regulation Order as detailed below:
 
-below:
-
-### Nature of Restriction: Road Closure
+Nature of Restriction: Road Closure
 
 Location: Somerton Road, Souldern, Oxfordshire
 
